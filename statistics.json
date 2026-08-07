@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "total_papers": 0,
+    "generated_date": "",
+    "taxonomy": {
+      "categories": 1,
+      "subcategories": 1,
+      "total_cells": 1,
+      "filled_cells": 0,
+      "saturation": 0.0,
+      "empty_cells": 1
+    },
+    "analysis_window": {
+      "last_12m_start": "2025-08"
+    }
+  },
+  "by_category": {
+    "unknown": 0
+  },
+  "by_subcategory": {
+    "unknown": 0
+  },
+  "by_year": {},
+  "by_cell": {},
+  "emerging_themes_12m": [],
+  "momentum": [
+    {
+      "id": "unknown",
+      "name": "Unknown",
+      "total": 0,
+      "recent": 0,
+      "prior": 0,
+      "growth_pct": null,
+      "recent_share": 0,
+      "papers_per_month": 0.0,
+      "score": 0
+    }
+  ],
+  "category_trajectory": {
+    "unknown": {}
+  },
+  "keyword_bursts": [],
+  "source_breakdown": {
+    "arxiv": 0,
+    "doi": 0,
+    "other": 0
+  },
+  "venues": [],
+  "gaps": {
+    "thinnest_cells": [],
+    "white_space": []
+  },
+  "top_authors": []
+}

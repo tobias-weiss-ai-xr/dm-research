@@ -1,0 +1,25 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: pip install -r requirements.txt
+      - name: Compile pipeline
+        run: python3 -m py_compile scripts/standard_stats.py scripts/analysis/generate_reports.py tools/*.py
+      - name: Regenerate and check outputs
+        run: |
+          python3 scripts/standard_stats.py
+          test -f papers.json && test -f statistics.json
+          python3 scripts/analysis/generate_reports.py
