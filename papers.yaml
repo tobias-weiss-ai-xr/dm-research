@@ -19928,3 +19928,24 @@ papers:
   - Dong‐Ming Shen
   abstract: Autonomous systems often have logical constraints arising, for example, from safety, operational, or regulatory requirements. Such constraints can be expressed using temporal logic specifications. The
   venue: IEEE Transactions on Automatic Control
+- title: 'Correction: Planning under uncertainty for safe robot exploration using gaussian process prediction'
+  date: 2024-10
+  url: https://doi.org/10.1007/s10514-024-10181-5
+  category: planning
+  subcategory: theory
+  authors:
+  - A. S. Stephens
+  - Matthew Budd
+  - Michal Staniaszek
+  abstract: papers
+  venue: Autonomous Robots
+- title: Three-dimensional cooperative guidance with impact angle constraints via value-policy decomposed multi-agent reinforcement learning
+  date: 2024-09
+  url: https://doi.org/10.1016/j.ast.2024.109616
+  category: multi-agent-decision
+  subcategory: theory
+  authors:
+  - Xiaoqi Qiu
+  - Changsheng Gao
+  abstract: papers
+  venue: Aerospace Science and Technology
