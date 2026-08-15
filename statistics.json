@@ -1,54 +1,618 @@
 {
   "metadata": {
-    "total_papers": 0,
-    "generated_date": "",
+    "total_papers": 1924,
+    "generated_date": "2026-08",
     "taxonomy": {
-      "categories": 1,
-      "subcategories": 1,
-      "total_cells": 1,
-      "filled_cells": 0,
-      "saturation": 0.0,
-      "empty_cells": 1
+      "categories": 10,
+      "subcategories": 6,
+      "total_cells": 60,
+      "filled_cells": 56,
+      "saturation": 93.3,
+      "empty_cells": 4
     },
     "analysis_window": {
       "last_12m_start": "2025-08"
     }
   },
   "by_category": {
-    "unknown": 0
+    "bayesian-optimization": 195,
+    "decision-theory": 192,
+    "human-ai-decision": 188,
+    "mdp": 181,
+    "multi-agent-decision": 186,
+    "optimization": 178,
+    "planning": 185,
+    "risk-decision": 180,
+    "rl": 259,
+    "sequential-decision": 180
   },
   "by_subcategory": {
-    "unknown": 0
+    "": 197,
+    "application": 149,
+    "evaluation": 23,
+    "method": 652,
+    "review": 25,
+    "theory": 878
   },
-  "by_year": {},
-  "by_cell": {},
-  "emerging_themes_12m": [],
+  "by_year": {
+    "2021": 180,
+    "2022": 579,
+    "2023": 462,
+    "2024": 396,
+    "2025": 273,
+    "2026": 34
+  },
+  "by_cell": {
+    "decision-theory/theory": 164,
+    "rl/theory": 114,
+    "rl/method": 112,
+    "multi-agent-decision/theory": 99,
+    "mdp/method": 86,
+    "planning/method": 81,
+    "risk-decision/theory": 81,
+    "human-ai-decision/theory": 80,
+    "bayesian-optimization/method": 80,
+    "bayesian-optimization/theory": 76,
+    "optimization/theory": 70,
+    "mdp/theory": 69,
+    "optimization/method": 64,
+    "sequential-decision/theory": 64,
+    "sequential-decision/method": 63,
+    "planning/theory": 61,
+    "multi-agent-decision/method": 58,
+    "risk-decision/method": 54,
+    "human-ai-decision/method": 48,
+    "human-ai-decision/application": 42,
+    "bayesian-optimization/": 30,
+    "optimization/": 27,
+    "planning/": 25,
+    "sequential-decision/": 25,
+    "risk-decision/": 19,
+    "multi-agent-decision/application": 17,
+    "sequential-decision/application": 17,
+    "decision-theory/": 17,
+    "mdp/": 17,
+    "planning/application": 15,
+    "risk-decision/application": 15,
+    "rl/": 14,
+    "optimization/application": 14,
+    "rl/application": 12,
+    "human-ai-decision/": 12,
+    "multi-agent-decision/": 11,
+    "bayesian-optimization/application": 7,
+    "sequential-decision/evaluation": 7,
+    "risk-decision/evaluation": 7,
+    "mdp/application": 7,
+    "rl/review": 6,
+    "decision-theory/method": 6,
+    "human-ai-decision/review": 4,
+    "sequential-decision/review": 4,
+    "risk-decision/review": 4,
+    "planning/review": 3,
+    "decision-theory/application": 3,
+    "optimization/review": 2,
+    "human-ai-decision/evaluation": 2,
+    "decision-theory/evaluation": 2,
+    "mdp/evaluation": 2,
+    "bayesian-optimization/review": 1,
+    "rl/evaluation": 1,
+    "optimization/evaluation": 1,
+    "multi-agent-decision/review": 1,
+    "bayesian-optimization/evaluation": 1
+  },
+  "emerging_themes_12m": [
+    {
+      "keyword": "agentic",
+      "papers": 7
+    },
+    {
+      "keyword": "language model",
+      "papers": 7
+    },
+    {
+      "keyword": "dataset",
+      "papers": 2
+    },
+    {
+      "keyword": "multi-agent",
+      "papers": 31
+    },
+    {
+      "keyword": "causal",
+      "papers": 1
+    },
+    {
+      "keyword": "agent",
+      "papers": 36
+    },
+    {
+      "keyword": "human",
+      "papers": 29
+    },
+    {
+      "keyword": "teaming",
+      "papers": 1
+    },
+    {
+      "keyword": "scalable",
+      "papers": 1
+    },
+    {
+      "keyword": "hierarchical",
+      "papers": 2
+    }
+  ],
   "momentum": [
     {
-      "id": "unknown",
-      "name": "Unknown",
-      "total": 0,
-      "recent": 0,
-      "prior": 0,
-      "growth_pct": null,
-      "recent_share": 0,
-      "papers_per_month": 0.0,
-      "score": 0
+      "id": "multi-agent-decision",
+      "name": "Multi Agent Decision",
+      "total": 186,
+      "recent": 30,
+      "prior": 55,
+      "growth_pct": -45.5,
+      "recent_share": 0.161,
+      "papers_per_month": 2.5,
+      "score": -29.4
+    },
+    {
+      "id": "human-ai-decision",
+      "name": "Human Ai Decision",
+      "total": 188,
+      "recent": 30,
+      "prior": 60,
+      "growth_pct": -50.0,
+      "recent_share": 0.16,
+      "papers_per_month": 2.5,
+      "score": -34.0
+    },
+    {
+      "id": "optimization",
+      "name": "Optimization",
+      "total": 178,
+      "recent": 6,
+      "prior": 15,
+      "growth_pct": -60.0,
+      "recent_share": 0.034,
+      "papers_per_month": 0.5,
+      "score": -56.6
+    },
+    {
+      "id": "risk-decision",
+      "name": "Risk Decision",
+      "total": 180,
+      "recent": 7,
+      "prior": 19,
+      "growth_pct": -63.2,
+      "recent_share": 0.039,
+      "papers_per_month": 0.6,
+      "score": -59.3
+    },
+    {
+      "id": "decision-theory",
+      "name": "Decision Theory",
+      "total": 192,
+      "recent": 7,
+      "prior": 27,
+      "growth_pct": -74.1,
+      "recent_share": 0.036,
+      "papers_per_month": 0.6,
+      "score": -70.5
+    },
+    {
+      "id": "planning",
+      "name": "Planning",
+      "total": 185,
+      "recent": 8,
+      "prior": 34,
+      "growth_pct": -76.5,
+      "recent_share": 0.043,
+      "papers_per_month": 0.7,
+      "score": -72.2
+    },
+    {
+      "id": "rl",
+      "name": "Rl",
+      "total": 259,
+      "recent": 14,
+      "prior": 84,
+      "growth_pct": -83.3,
+      "recent_share": 0.054,
+      "papers_per_month": 1.2,
+      "score": -77.9
+    },
+    {
+      "id": "sequential-decision",
+      "name": "Sequential Decision",
+      "total": 180,
+      "recent": 2,
+      "prior": 12,
+      "growth_pct": -83.3,
+      "recent_share": 0.011,
+      "papers_per_month": 0.2,
+      "score": -82.2
+    },
+    {
+      "id": "mdp",
+      "name": "Mdp",
+      "total": 181,
+      "recent": 1,
+      "prior": 11,
+      "growth_pct": -90.9,
+      "recent_share": 0.006,
+      "papers_per_month": 0.1,
+      "score": -90.3
+    },
+    {
+      "id": "bayesian-optimization",
+      "name": "Bayesian Optimization",
+      "total": 195,
+      "recent": 1,
+      "prior": 14,
+      "growth_pct": -92.9,
+      "recent_share": 0.005,
+      "papers_per_month": 0.1,
+      "score": -92.4
     }
   ],
   "category_trajectory": {
-    "unknown": {}
+    "bayesian-optimization": {
+      "2021": 33,
+      "2022": 64,
+      "2023": 58,
+      "2024": 33,
+      "2025": 7
+    },
+    "decision-theory": {
+      "2021": 20,
+      "2022": 64,
+      "2023": 44,
+      "2024": 41,
+      "2025": 20,
+      "2026": 3
+    },
+    "human-ai-decision": {
+      "2021": 2,
+      "2022": 22,
+      "2023": 34,
+      "2024": 59,
+      "2025": 61,
+      "2026": 10
+    },
+    "mdp": {
+      "2021": 18,
+      "2022": 74,
+      "2023": 52,
+      "2024": 30,
+      "2025": 6,
+      "2026": 1
+    },
+    "multi-agent-decision": {
+      "2021": 7,
+      "2022": 36,
+      "2023": 34,
+      "2024": 37,
+      "2025": 61,
+      "2026": 11
+    },
+    "optimization": {
+      "2021": 16,
+      "2022": 77,
+      "2023": 47,
+      "2024": 25,
+      "2025": 12,
+      "2026": 1
+    },
+    "planning": {
+      "2021": 26,
+      "2022": 47,
+      "2023": 43,
+      "2024": 45,
+      "2025": 21,
+      "2026": 3
+    },
+    "risk-decision": {
+      "2021": 14,
+      "2022": 72,
+      "2023": 46,
+      "2024": 26,
+      "2025": 19,
+      "2026": 3
+    },
+    "rl": {
+      "2021": 11,
+      "2022": 59,
+      "2023": 59,
+      "2024": 67,
+      "2025": 61,
+      "2026": 2
+    },
+    "sequential-decision": {
+      "2021": 33,
+      "2022": 64,
+      "2023": 45,
+      "2024": 33,
+      "2025": 5
+    }
   },
-  "keyword_bursts": [],
+  "keyword_bursts": [
+    {
+      "keyword": "agentic",
+      "recent": 7,
+      "total": 11,
+      "burst_score": 11.55,
+      "recent_share": 0.066
+    },
+    {
+      "keyword": "language model",
+      "recent": 7,
+      "total": 27,
+      "burst_score": 4.71,
+      "recent_share": 0.066
+    },
+    {
+      "keyword": "dataset",
+      "recent": 2,
+      "total": 8,
+      "burst_score": 4.54,
+      "recent_share": 0.0189
+    },
+    {
+      "keyword": "multi-agent",
+      "recent": 31,
+      "total": 193,
+      "burst_score": 2.92,
+      "recent_share": 0.2925
+    },
+    {
+      "keyword": "causal",
+      "recent": 1,
+      "total": 7,
+      "burst_score": 2.59,
+      "recent_share": 0.0094
+    },
+    {
+      "keyword": "agent",
+      "recent": 36,
+      "total": 261,
+      "burst_score": 2.5,
+      "recent_share": 0.3396
+    },
+    {
+      "keyword": "human",
+      "recent": 29,
+      "total": 230,
+      "burst_score": 2.29,
+      "recent_share": 0.2736
+    },
+    {
+      "keyword": "teaming",
+      "recent": 1,
+      "total": 8,
+      "burst_score": 2.27,
+      "recent_share": 0.0094
+    },
+    {
+      "keyword": "scalable",
+      "recent": 1,
+      "total": 8,
+      "burst_score": 2.27,
+      "recent_share": 0.0094
+    },
+    {
+      "keyword": "hierarchical",
+      "recent": 2,
+      "total": 22,
+      "burst_score": 1.65,
+      "recent_share": 0.0189
+    },
+    {
+      "keyword": "imitation",
+      "recent": 1,
+      "total": 12,
+      "burst_score": 1.51,
+      "recent_share": 0.0094
+    },
+    {
+      "keyword": "policy",
+      "recent": 4,
+      "total": 49,
+      "burst_score": 1.48,
+      "recent_share": 0.0377
+    },
+    {
+      "keyword": "autonomous",
+      "recent": 10,
+      "total": 146,
+      "burst_score": 1.24,
+      "recent_share": 0.0943
+    },
+    {
+      "keyword": "reinforcement",
+      "recent": 27,
+      "total": 410,
+      "burst_score": 1.2,
+      "recent_share": 0.2547
+    },
+    {
+      "keyword": "decision",
+      "recent": 62,
+      "total": 1015,
+      "burst_score": 1.11,
+      "recent_share": 0.5849
+    }
+  ],
   "source_breakdown": {
-    "arxiv": 0,
-    "doi": 0,
-    "other": 0
+    "arxiv": 82,
+    "doi": 1832,
+    "other": 10
   },
-  "venues": [],
+  "venues": [
+    {
+      "name": "arXiv (Cornell University)",
+      "papers": 38
+    },
+    {
+      "name": "Applied Energy",
+      "papers": 34
+    },
+    {
+      "name": "IEEE Transactions on Intelligent Transportation Systems",
+      "papers": 30
+    },
+    {
+      "name": "Expert Systems with Applications",
+      "papers": 27
+    },
+    {
+      "name": "IEEE Access",
+      "papers": 23
+    },
+    {
+      "name": "Computers & Industrial Engineering",
+      "papers": 21
+    },
+    {
+      "name": "European Journal of Operational Research",
+      "papers": 20
+    },
+    {
+      "name": "Applied Sciences",
+      "papers": 18
+    },
+    {
+      "name": "Scientific Reports",
+      "papers": 17
+    },
+    {
+      "name": "Energy",
+      "papers": 17
+    },
+    {
+      "name": "IEEE Transactions on Vehicular Technology",
+      "papers": 15
+    },
+    {
+      "name": "Electronics",
+      "papers": 14
+    },
+    {
+      "name": "Reliability Engineering & System Safety",
+      "papers": 14
+    },
+    {
+      "name": "Engineering Applications of Artificial Intelligence",
+      "papers": 13
+    },
+    {
+      "name": "Computers & Chemical Engineering",
+      "papers": 13
+    }
+  ],
   "gaps": {
-    "thinnest_cells": [],
+    "thinnest_cells": [
+      {
+        "cell": "bayesian-optimization/review",
+        "papers": 1
+      },
+      {
+        "cell": "rl/evaluation",
+        "papers": 1
+      },
+      {
+        "cell": "optimization/evaluation",
+        "papers": 1
+      },
+      {
+        "cell": "multi-agent-decision/review",
+        "papers": 1
+      },
+      {
+        "cell": "bayesian-optimization/evaluation",
+        "papers": 1
+      },
+      {
+        "cell": "optimization/review",
+        "papers": 2
+      },
+      {
+        "cell": "human-ai-decision/evaluation",
+        "papers": 2
+      },
+      {
+        "cell": "decision-theory/evaluation",
+        "papers": 2
+      },
+      {
+        "cell": "mdp/evaluation",
+        "papers": 2
+      },
+      {
+        "cell": "planning/review",
+        "papers": 3
+      }
+    ],
     "white_space": []
   },
-  "top_authors": []
+  "top_authors": [
+    {
+      "name": "Xiangkun He",
+      "papers": 6
+    },
+    {
+      "name": "Min Hun Lee",
+      "papers": 6
+    },
+    {
+      "name": "Jianming Zhan",
+      "papers": 6
+    },
+    {
+      "name": "Chen Lv",
+      "papers": 5
+    },
+    {
+      "name": "Liang Zhao",
+      "papers": 5
+    },
+    {
+      "name": "Stefan Borozan",
+      "papers": 5
+    },
+    {
+      "name": "Zeshui Xu",
+      "papers": 5
+    },
+    {
+      "name": "Setiawansyah Setiawansyah",
+      "papers": 5
+    },
+    {
+      "name": "Wei Guan",
+      "papers": 4
+    },
+    {
+      "name": "Peng Chen",
+      "papers": 4
+    },
+    {
+      "name": "Spyros Giannelos",
+      "papers": 4
+    },
+    {
+      "name": "Bin Zhang",
+      "papers": 4
+    },
+    {
+      "name": "Shuai Wang",
+      "papers": 4
+    },
+    {
+      "name": "Lucas Borges Leal da Silva",
+      "papers": 4
+    },
+    {
+      "name": "Haohan Yang",
+      "papers": 3
+    }
+  ]
 }
