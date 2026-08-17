@@ -1,19 +1,25 @@
 <h1 align="center">
-  <strong>Decision-Making Research</strong>
+  <strong>Decision-Making Research Corpus</strong>
 </h1>
-<h3 align="center">A data-driven survey corpus for Decision-Making — reinforcement learning, planning, optimization under uncertainty, and human–AI decision processes</h3>
+<h3 align="center">Reinforcement learning, planning, optimization under uncertainty, and human–AI decision processes</h3>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-tobias--weiss--ai--xr/dm--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/dm-research)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/dm-research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/dm-research/actions/workflows/validate.yml)
-[![Agent Memory Survey](https://img.shields.io/badge/Agent_Memory_Survey-b31b1b.svg?logo=arxiv)](https://github.com/tobias-weiss-ai-xr/agent-memory-research)
-[![Agentic VR Survey](https://img.shields.io/badge/Agentic_VR_Survey-004D40.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/agentic-vr-research)
-[![Skill Survey](https://img.shields.io/badge/Skill_Survey-004D40.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/agent-skill-research)
-[![Learning Survey](https://img.shields.io/badge/Learning_Survey-004D40.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/agent-learning-research)
-
+  [![GitHub](https://img.shields.io/badge/GitHub-tobias-weiss-ai-xr/dm--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/dm-research)
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+  [![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/dm--research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/dm-research/actions/workflows/validate.yml)
+  [![Bayesian Stats](https://img.shields.io/badge/Bayesian Stats-bayesian--statistics--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/bayesian-statistics-research) [![Robotics](https://img.shields.io/badge/Robotics-robotics--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/robotics-research) [![C2-AI](https://img.shields.io/badge/C2-AI-c2--ai--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/c2-ai-research)
 </div>
+
+> 🎲 **Decision-making research corpus:** reinforcement learning, sequential
+> decision processes, planning under uncertainty, multi-agent coordination,
+> Bayesian optimization, and human–AI collaborative decision-making — part of
+> the family of `*-research` corpora.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tobias-weiss-ai-xr/dm-research/main/assets/visualizations/category_distribution.png" alt="Teaser" width="600" />
+</p>
+
+---
 
 ## 📋 Table of Contents
 
@@ -138,15 +144,89 @@ The [validate workflow](.github/workflows/validate.yml) runs on every push and P
 
 ---
 
-## Paper List
+## 📊 Corpus Statistics
 
-<!-- PAPER_LIST_START -->
+**1,924 papers** across **10 categories**.  
+Sources: **arXiv** 82 (4%) · **DOI** 1,832 (95%) · **Other** 10 (0%).  
+Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/dm-research).
 
-> The corpus is empty. Add papers to `papers.yaml` and re-run the pipeline to populate this section.
+### Top categories
 
-<!-- PAPER_LIST_END -->
+| Category | Papers | Recent | |
+|----------|--------|--------|-|
+| rl | **259** | 0 | ████████████ |
+| bayesian-optimization | **195** | 0 | █████████░░░ |
+| decision-theory | **192** | 0 | ████████░░░░ |
+| human-ai-decision | **188** | 0 | ████████░░░░ |
+| multi-agent-decision | **186** | 0 | ████████░░░░ |
+| planning | **185** | 0 | ████████░░░░ |
+| mdp | **181** | 0 | ████████░░░░ |
+| risk-decision | **180** | 0 | ████████░░░░ |
+| sequential-decision | **180** | 0 | ████████░░░░ |
+| optimization | **178** | 0 | ████████░░░░ |
 
----
+
+### By year
+
+| Year | Papers | |
+|------|--------|-|
+| 2024 | 396 | ████████░░░░ |
+| 2025 | 273 | █████░░░░░░░ |
+| 2026 | 34 | ░░░░░░░░░░░░ |
+
+
+### Momentum (hottest categories)
+
+| Category | Total | Rate | Recent | Score |
+|----------|-------|------|--------|-------|
+| Multi Agent Decision | 186 | 2.5/mo | 16% | -29 |
+| Human Ai Decision | 188 | 2.5/mo | 16% | -34 |
+| Optimization | 178 | 0.5/mo | 3% | -57 |
+| Risk Decision | 180 | 0.6/mo | 4% | -59 |
+| Decision Theory | 192 | 0.6/mo | 4% | -70 |
+
+
+### Trending keywords
+
+| Keyword | Papers | Burst |
+|---------|--------|-------|
+| agentic | 11 | 11.55 |
+| language model | 27 | 4.71 |
+| dataset | 8 | 4.54 |
+| multi-agent | 193 | 2.92 |
+| causal | 7 | 2.59 |
+| agent | 261 | 2.50 |
+| human | 230 | 2.29 |
+| teaming | 8 | 2.27 |
+
+
+### Top venues
+
+| Venue | Papers |
+|-------|--------|
+| arXiv (Cornell University) | 38 |
+| Applied Energy | 34 |
+| IEEE Transactions on Intelligent Transportation Systems | 30 |
+| Expert Systems with Applications | 27 |
+| IEEE Access | 23 |
+| Computers & Industrial Engineering | 21 |
+| European Journal of Operational Research | 20 |
+| Applied Sciences | 18 |
+
+
+### Research gaps (thinnest cells)
+
+| Cell | Papers |
+|------|--------|
+| `bayesian-optimization/review` | 1 |
+| `rl/evaluation` | 1 |
+| `optimization/evaluation` | 1 |
+| `multi-agent-decision/review` | 1 |
+| `bayesian-optimization/evaluation` | 1 |
+
+
+
+*Generated 2026-08 by `scripts/standard_stats.py`.*
 
 ## Related Projects
 
