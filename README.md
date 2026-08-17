@@ -3,12 +3,15 @@
 </h1>
 <h3 align="center">Reinforcement learning, planning, optimization under uncertainty, and human–AI decision processes</h3>
 
-<div align="center">
-  [**GitHub**](https://github.com/tobias-weiss-ai-xr/dm-research)
-  [**License**](LICENSE)
-  [**CI**](https://github.com/tobias-weiss-ai-xr/dm-research/actions/workflows/validate.yml)
-  [**Bayesian Stats**](https://github.com/tobias-weiss-ai-xr/bayesian-statistics-research) [**Robotics**](https://github.com/tobias-weiss-ai-xr/robotics-research) [**C2-AI**](https://github.com/tobias-weiss-ai-xr/c2-ai-research)
-</div>
+### 🔗 Links
+
+- **GitHub**: https://github.com/tobias-weiss-ai-xr/dm-research
+- **License**: https://github.com/tobias-weiss-ai-xr/dm-research/blob/main/LICENSE
+- **CI**: https://github.com/tobias-weiss-ai-xr/dm-research/actions/workflows/validate.yml
+- **Bayesian Stats**: https://github.com/tobias-weiss-ai-xr/bayesian-statistics-research
+- **Robotics**: https://github.com/tobias-weiss-ai-xr/robotics-research
+- **C2-AI**: https://github.com/tobias-weiss-ai-xr/c2-ai-research
+
 
 > 🎲 **Decision-making research corpus:** reinforcement learning, sequential
 > decision processes, planning under uncertainty, multi-agent coordination,
