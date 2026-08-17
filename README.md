@@ -4,10 +4,10 @@
 <h3 align="center">Reinforcement learning, planning, optimization under uncertainty, and human–AI decision processes</h3>
 
 <div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-tobias-weiss-ai-xr/dm--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/dm-research)
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/dm--research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/dm-research/actions/workflows/validate.yml)
-  [![Bayesian Stats](https://img.shields.io/badge/Bayesian Stats-bayesian--statistics--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/bayesian-statistics-research) [![Robotics](https://img.shields.io/badge/Robotics-robotics--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/robotics-research) [![C2-AI](https://img.shields.io/badge/C2-AI-c2--ai--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/c2-ai-research)
+  [**GitHub**](https://github.com/tobias-weiss-ai-xr/dm-research)
+  [**License**](LICENSE)
+  [**CI**](https://github.com/tobias-weiss-ai-xr/dm-research/actions/workflows/validate.yml)
+  [**Bayesian Stats**](https://github.com/tobias-weiss-ai-xr/bayesian-statistics-research) [**Robotics**](https://github.com/tobias-weiss-ai-xr/robotics-research) [**C2-AI**](https://github.com/tobias-weiss-ai-xr/c2-ai-research)
 </div>
 
 > 🎲 **Decision-making research corpus:** reinforcement learning, sequential
