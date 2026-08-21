@@ -3,239 +3,241 @@
   {
    "id": "bayesian-optimization",
    "name": "Bayesian Optimization",
-   "count": 195,
+   "count": 288,
    "trajectory": {
     "2021": 33,
     "2022": 64,
     "2023": 58,
     "2024": 33,
-    "2025": 7
+    "2025": 7,
+    "2026": 93
    },
    "momentum": {
     "id": "bayesian-optimization",
     "name": "Bayesian Optimization",
-    "total": 195,
-    "recent": 1,
+    "total": 288,
+    "recent": 94,
     "prior": 14,
-    "growth_pct": -92.9,
-    "recent_share": 0.005,
-    "papers_per_month": 0.1,
-    "score": -92.4
+    "growth_pct": 571.4,
+    "recent_share": 0.326,
+    "papers_per_month": 7.8,
+    "score": 604.0
    }
   },
   {
    "id": "decision-theory",
    "name": "Decision Theory",
-   "count": 192,
+   "count": 271,
    "trajectory": {
     "2021": 20,
     "2022": 64,
     "2023": 44,
     "2024": 41,
     "2025": 20,
-    "2026": 3
+    "2026": 82
    },
    "momentum": {
     "id": "decision-theory",
     "name": "Decision Theory",
-    "total": 192,
-    "recent": 7,
+    "total": 271,
+    "recent": 86,
     "prior": 27,
-    "growth_pct": -74.1,
-    "recent_share": 0.036,
-    "papers_per_month": 0.6,
-    "score": -70.5
+    "growth_pct": 218.5,
+    "recent_share": 0.317,
+    "papers_per_month": 7.2,
+    "score": 250.2
    }
   },
   {
    "id": "human-ai-decision",
    "name": "Human Ai Decision",
-   "count": 188,
+   "count": 272,
    "trajectory": {
     "2021": 2,
     "2022": 22,
     "2023": 34,
     "2024": 59,
     "2025": 61,
-    "2026": 10
+    "2026": 94
    },
    "momentum": {
     "id": "human-ai-decision",
     "name": "Human Ai Decision",
-    "total": 188,
-    "recent": 30,
+    "total": 272,
+    "recent": 114,
     "prior": 60,
-    "growth_pct": -50.0,
-    "recent_share": 0.16,
-    "papers_per_month": 2.5,
-    "score": -34.0
+    "growth_pct": 90.0,
+    "recent_share": 0.419,
+    "papers_per_month": 9.5,
+    "score": 131.9
    }
   },
   {
    "id": "mdp",
    "name": "Mdp",
-   "count": 181,
+   "count": 247,
    "trajectory": {
     "2021": 18,
     "2022": 74,
     "2023": 52,
     "2024": 30,
     "2025": 6,
-    "2026": 1
+    "2026": 67
    },
    "momentum": {
     "id": "mdp",
     "name": "Mdp",
-    "total": 181,
-    "recent": 1,
+    "total": 247,
+    "recent": 67,
     "prior": 11,
-    "growth_pct": -90.9,
-    "recent_share": 0.006,
-    "papers_per_month": 0.1,
-    "score": -90.3
+    "growth_pct": 509.1,
+    "recent_share": 0.271,
+    "papers_per_month": 5.6,
+    "score": 536.2
    }
   },
   {
    "id": "multi-agent-decision",
    "name": "Multi Agent Decision",
-   "count": 186,
+   "count": 262,
    "trajectory": {
     "2021": 7,
     "2022": 36,
     "2023": 34,
     "2024": 37,
     "2025": 61,
-    "2026": 11
+    "2026": 87
    },
    "momentum": {
     "id": "multi-agent-decision",
     "name": "Multi Agent Decision",
-    "total": 186,
-    "recent": 30,
+    "total": 262,
+    "recent": 106,
     "prior": 55,
-    "growth_pct": -45.5,
-    "recent_share": 0.161,
-    "papers_per_month": 2.5,
-    "score": -29.4
+    "growth_pct": 92.7,
+    "recent_share": 0.405,
+    "papers_per_month": 8.8,
+    "score": 133.2
    }
   },
   {
    "id": "optimization",
    "name": "Optimization",
-   "count": 178,
+   "count": 248,
    "trajectory": {
     "2021": 16,
     "2022": 77,
     "2023": 47,
     "2024": 25,
     "2025": 12,
-    "2026": 1
+    "2026": 71
    },
    "momentum": {
     "id": "optimization",
     "name": "Optimization",
-    "total": 178,
-    "recent": 6,
+    "total": 248,
+    "recent": 76,
     "prior": 15,
-    "growth_pct": -60.0,
-    "recent_share": 0.034,
-    "papers_per_month": 0.5,
-    "score": -56.6
+    "growth_pct": 406.7,
+    "recent_share": 0.306,
+    "papers_per_month": 6.3,
+    "score": 437.3
    }
   },
   {
    "id": "planning",
    "name": "Planning",
-   "count": 185,
+   "count": 271,
    "trajectory": {
     "2021": 26,
     "2022": 47,
     "2023": 43,
     "2024": 45,
     "2025": 21,
-    "2026": 3
+    "2026": 89
    },
    "momentum": {
     "id": "planning",
     "name": "Planning",
-    "total": 185,
-    "recent": 8,
+    "total": 271,
+    "recent": 94,
     "prior": 34,
-    "growth_pct": -76.5,
-    "recent_share": 0.043,
-    "papers_per_month": 0.7,
-    "score": -72.2
+    "growth_pct": 176.5,
+    "recent_share": 0.347,
+    "papers_per_month": 7.8,
+    "score": 211.2
    }
   },
   {
    "id": "risk-decision",
    "name": "Risk Decision",
-   "count": 180,
+   "count": 210,
    "trajectory": {
     "2021": 14,
     "2022": 72,
     "2023": 46,
     "2024": 26,
     "2025": 19,
-    "2026": 3
+    "2026": 33
    },
    "momentum": {
     "id": "risk-decision",
     "name": "Risk Decision",
-    "total": 180,
-    "recent": 7,
+    "total": 210,
+    "recent": 37,
     "prior": 19,
-    "growth_pct": -63.2,
-    "recent_share": 0.039,
-    "papers_per_month": 0.6,
-    "score": -59.3
+    "growth_pct": 94.7,
+    "recent_share": 0.176,
+    "papers_per_month": 3.1,
+    "score": 112.3
    }
   },
   {
    "id": "rl",
    "name": "Rl",
-   "count": 259,
+   "count": 354,
    "trajectory": {
     "2021": 11,
     "2022": 59,
     "2023": 59,
     "2024": 67,
     "2025": 61,
-    "2026": 2
+    "2026": 97
    },
    "momentum": {
     "id": "rl",
     "name": "Rl",
-    "total": 259,
-    "recent": 14,
+    "total": 354,
+    "recent": 109,
     "prior": 84,
-    "growth_pct": -83.3,
-    "recent_share": 0.054,
-    "papers_per_month": 1.2,
-    "score": -77.9
+    "growth_pct": 29.8,
+    "recent_share": 0.308,
+    "papers_per_month": 9.1,
+    "score": 60.6
    }
   },
   {
    "id": "sequential-decision",
    "name": "Sequential Decision",
-   "count": 180,
+   "count": 257,
    "trajectory": {
     "2021": 33,
     "2022": 64,
     "2023": 45,
     "2024": 33,
-    "2025": 5
+    "2025": 5,
+    "2026": 77
    },
    "momentum": {
     "id": "sequential-decision",
     "name": "Sequential Decision",
-    "total": 180,
-    "recent": 2,
+    "total": 257,
+    "recent": 79,
     "prior": 12,
-    "growth_pct": -83.3,
-    "recent_share": 0.011,
-    "papers_per_month": 0.2,
-    "score": -82.2
+    "growth_pct": 558.3,
+    "recent_share": 0.307,
+    "papers_per_month": 6.6,
+    "score": 589.0
    }
   }
  ],
@@ -248,27 +250,27 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 149
+   "count": 203
   },
   {
    "id": "evaluation",
    "name": "Evaluation",
-   "count": 23
+   "count": 27
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 652
+   "count": 811
   },
   {
    "id": "review",
    "name": "Review",
-   "count": 25
+   "count": 27
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 878
+   "count": 1415
   }
  ],
  "timeline": [
@@ -9779,11 +9781,161 @@
   ],
   [
    "2026-02",
+   "bayesian-optimization",
+   "application"
+  ],
+  [
+   "2026-02",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-02",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-02",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-02",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "decision-theory",
+   "method"
+  ],
+  [
+   "2026-02",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "human-ai-decision",
+   "application"
+  ],
+  [
+   "2026-02",
+   "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-02",
+   "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-02",
    "human-ai-decision",
    "theory"
   ],
   [
    "2026-02",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-02",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "multi-agent-decision",
+   "application"
+  ],
+  [
+   "2026-02",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-02",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-02",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
    "multi-agent-decision",
    "theory"
   ],
@@ -9795,6 +9947,51 @@
   [
    "2026-02",
    "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "optimization",
+   "application"
+  ],
+  [
+   "2026-02",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-02",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "planning",
+   "application"
+  ],
+  [
+   "2026-02",
+   "planning",
+   "application"
+  ],
+  [
+   "2026-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "planning",
    "theory"
   ],
   [
@@ -9805,12 +10002,427 @@
   [
    "2026-02",
    "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-02",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-02",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-02",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-02",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-02",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "application"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "application"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "application"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "decision-theory",
+   "method"
+  ],
+  [
+   "2026-03",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "decision-theory",
    "theory"
   ],
   [
    "2026-03",
    "human-ai-decision",
    ""
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "method"
   ],
   [
    "2026-03",
@@ -9824,7 +10436,522 @@
   ],
   [
    "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "application"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "application"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "application"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "application"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-03",
    "planning",
+   "application"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "application"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "application"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "risk-decision",
+   "evaluation"
+  ],
+  [
+   "2026-03",
+   "risk-decision",
+   "method"
+  ],
+  [
+   "2026-03",
+   "risk-decision",
+   "method"
+  ],
+  [
+   "2026-03",
+   "risk-decision",
    "theory"
   ],
   [
@@ -9833,8 +10960,528 @@
    "theory"
   ],
   [
+   "2026-03",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "application"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "application"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "application"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "bayesian-optimization",
+   "application"
+  ],
+  [
+   "2026-04",
+   "bayesian-optimization",
+   "application"
+  ],
+  [
+   "2026-04",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-04",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
    "2026-04",
    "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "application"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "application"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "application"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "evaluation"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "review"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "human-ai-decision",
    "theory"
   ],
   [
@@ -9850,6 +11497,96 @@
   [
    "2026-04",
    "mdp",
+   "application"
+  ],
+  [
+   "2026-04",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-04",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-04",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "application"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "application"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "application"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "application"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
    "method"
   ],
   [
@@ -9865,6 +11602,291 @@
   [
    "2026-04",
    "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "application"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "application"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "application"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "application"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "application"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "risk-decision",
    "theory"
   ],
   [
@@ -9874,11 +11896,1401 @@
   ],
   [
    "2026-04",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-05",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-05",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "application"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "application"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "application"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "application"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "optimization",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-05",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "risk-decision",
+   "method"
+  ],
+  [
+   "2026-05",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "application"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "sequential-decision",
+   "application"
+  ],
+  [
+   "2026-05",
+   "sequential-decision",
+   "application"
+  ],
+  [
+   "2026-05",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-05",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-06",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-06",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-06",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "review"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent-decision",
+   "application"
+  ],
+  [
+   "2026-06",
+   "multi-agent-decision",
+   "application"
+  ],
+  [
+   "2026-06",
+   "multi-agent-decision",
+   "method"
+  ],
+  [
+   "2026-06",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "application"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-06",
    "rl",
    "theory"
   ],
   [
    "2026-06",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "bayesian-optimization",
+   "method"
+  ],
+  [
+   "2026-07",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "bayesian-optimization",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "decision-theory",
+   "application"
+  ],
+  [
+   "2026-07",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "human-ai-decision",
+   "application"
+  ],
+  [
+   "2026-07",
+   "human-ai-decision",
+   "application"
+  ],
+  [
+   "2026-07",
+   "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-07",
    "human-ai-decision",
    "theory"
   ],
@@ -9888,27 +13300,413 @@
    "theory"
   ],
   [
+   "2026-07",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-07",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-07",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-07",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-07",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "multi-agent-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optimization",
+   "method"
+  ],
+  [
+   "2026-07",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "application"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "rl",
+   "application"
+  ],
+  [
+   "2026-07",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-07",
+   "rl",
+   "method"
+  ],
+  [
+   "2026-07",
+   "sequential-decision",
+   "application"
+  ],
+  [
+   "2026-07",
+   "sequential-decision",
+   "method"
+  ],
+  [
+   "2026-07",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "decision-theory",
+   "theory"
+  ],
+  [
    "2026-08",
    "human-ai-decision",
+   "method"
+  ],
+  [
+   "2026-08",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "human-ai-decision",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "mdp",
+   "method"
+  ],
+  [
+   "2026-08",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "mdp",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "optimization",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "risk-decision",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "rl",
+   "application"
+  ],
+  [
+   "2026-08",
+   "rl",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "sequential-decision",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "sequential-decision",
    "theory"
   ]
  ],
  "venues": [
   {
    "name": "arXiv (Cornell University)",
-   "papers": 38
+   "papers": 96
   },
   {
    "name": "Applied Energy",
-   "papers": 34
+   "papers": 47
   },
   {
-   "name": "IEEE Transactions on Intelligent Transportation Systems",
-   "papers": 30
+   "name": "Zenodo (CERN European Organization for Nuclear Research)",
+   "papers": 41
   },
   {
    "name": "Expert Systems with Applications",
-   "papers": 27
+   "papers": 38
+  },
+  {
+   "name": "IEEE Transactions on Intelligent Transportation Systems",
+   "papers": 31
+  },
+  {
+   "name": "Scientific Reports",
+   "papers": 30
+  },
+  {
+   "name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "papers": 26
+  },
+  {
+   "name": "Applied Sciences",
+   "papers": 23
   },
   {
    "name": "IEEE Access",
@@ -9916,150 +13714,134 @@
   },
   {
    "name": "Computers & Industrial Engineering",
-   "papers": 21
+   "papers": 23
   },
   {
    "name": "European Journal of Operational Research",
-   "papers": 20
-  },
-  {
-   "name": "Applied Sciences",
-   "papers": 18
-  },
-  {
-   "name": "Scientific Reports",
-   "papers": 17
-  },
-  {
-   "name": "Energy",
-   "papers": 17
-  },
-  {
-   "name": "IEEE Transactions on Vehicular Technology",
-   "papers": 15
-  },
-  {
-   "name": "Electronics",
-   "papers": 14
+   "papers": 21
   },
   {
    "name": "Reliability Engineering & System Safety",
-   "papers": 14
+   "papers": 20
   },
   {
-   "name": "Engineering Applications of Artificial Intelligence",
-   "papers": 13
+   "name": "Energy",
+   "papers": 20
   },
   {
-   "name": "Computers & Chemical Engineering",
-   "papers": 13
+   "name": "Electronics",
+   "papers": 18
+  },
+  {
+   "name": "Mathematics",
+   "papers": 18
   }
  ],
  "keyword_bursts": [
   {
    "keyword": "agentic",
-   "recent": 7,
-   "total": 11,
-   "burst_score": 11.55,
-   "recent_share": 0.066
+   "recent": 21,
+   "total": 25,
+   "burst_score": 2.61,
+   "recent_share": 0.0244
+  },
+  {
+   "keyword": "embodied",
+   "recent": 5,
+   "total": 6,
+   "burst_score": 2.59,
+   "recent_share": 0.0058
+  },
+  {
+   "keyword": "benchmark",
+   "recent": 5,
+   "total": 7,
+   "burst_score": 2.22,
+   "recent_share": 0.0058
   },
   {
    "keyword": "language model",
-   "recent": 7,
-   "total": 27,
-   "burst_score": 4.71,
-   "recent_share": 0.066
+   "recent": 35,
+   "total": 55,
+   "burst_score": 1.98,
+   "recent_share": 0.0406
+  },
+  {
+   "keyword": "offline",
+   "recent": 6,
+   "total": 10,
+   "burst_score": 1.87,
+   "recent_share": 0.007
   },
   {
    "keyword": "dataset",
-   "recent": 2,
-   "total": 8,
-   "burst_score": 4.54,
-   "recent_share": 0.0189
-  },
-  {
-   "keyword": "multi-agent",
-   "recent": 31,
-   "total": 193,
-   "burst_score": 2.92,
-   "recent_share": 0.2925
+   "recent": 7,
+   "total": 13,
+   "burst_score": 1.67,
+   "recent_share": 0.0081
   },
   {
    "keyword": "causal",
-   "recent": 1,
-   "total": 7,
-   "burst_score": 2.59,
-   "recent_share": 0.0094
-  },
-  {
-   "keyword": "agent",
-   "recent": 36,
-   "total": 261,
-   "burst_score": 2.5,
-   "recent_share": 0.3396
-  },
-  {
-   "keyword": "human",
-   "recent": 29,
-   "total": 230,
-   "burst_score": 2.29,
-   "recent_share": 0.2736
-  },
-  {
-   "keyword": "teaming",
-   "recent": 1,
-   "total": 8,
-   "burst_score": 2.27,
-   "recent_share": 0.0094
-  },
-  {
-   "keyword": "scalable",
-   "recent": 1,
-   "total": 8,
-   "burst_score": 2.27,
-   "recent_share": 0.0094
+   "recent": 7,
+   "total": 13,
+   "burst_score": 1.67,
+   "recent_share": 0.0081
   },
   {
    "keyword": "hierarchical",
-   "recent": 2,
-   "total": 22,
-   "burst_score": 1.65,
-   "recent_share": 0.0189
+   "recent": 20,
+   "total": 40,
+   "burst_score": 1.55,
+   "recent_share": 0.0232
   },
   {
-   "keyword": "imitation",
-   "recent": 1,
-   "total": 12,
-   "burst_score": 1.51,
-   "recent_share": 0.0094
+   "keyword": "scalable",
+   "recent": 6,
+   "total": 13,
+   "burst_score": 1.43,
+   "recent_share": 0.007
+  },
+  {
+   "keyword": "explainab",
+   "recent": 11,
+   "total": 25,
+   "burst_score": 1.37,
+   "recent_share": 0.0128
+  },
+  {
+   "keyword": "retrieval",
+   "recent": 3,
+   "total": 7,
+   "burst_score": 1.33,
+   "recent_share": 0.0035
+  },
+  {
+   "keyword": "agent",
+   "recent": 153,
+   "total": 378,
+   "burst_score": 1.26,
+   "recent_share": 0.1775
+  },
+  {
+   "keyword": "simulation",
+   "recent": 18,
+   "total": 45,
+   "burst_score": 1.24,
+   "recent_share": 0.0209
+  },
+  {
+   "keyword": "multi-agent",
+   "recent": 104,
+   "total": 266,
+   "burst_score": 1.22,
+   "recent_share": 0.1206
   },
   {
    "keyword": "policy",
-   "recent": 4,
-   "total": 49,
-   "burst_score": 1.48,
-   "recent_share": 0.0377
-  },
-  {
-   "keyword": "autonomous",
-   "recent": 10,
-   "total": 146,
-   "burst_score": 1.24,
-   "recent_share": 0.0943
-  },
-  {
-   "keyword": "reinforcement",
-   "recent": 27,
-   "total": 410,
-   "burst_score": 1.2,
-   "recent_share": 0.2547
-  },
-  {
-   "keyword": "decision",
-   "recent": 62,
-   "total": 1015,
-   "burst_score": 1.11,
-   "recent_share": 0.5849
+   "recent": 29,
+   "total": 74,
+   "burst_score": 1.22,
+   "recent_share": 0.0336
   }
  ]
 }
