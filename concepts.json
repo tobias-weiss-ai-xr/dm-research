@@ -1475,25 +1475,6 @@
       ]
     },
     {
-      "term": "digital twin",
-      "kind": "emergent",
-      "seed": false,
-      "df": 13,
-      "match": {
-        "type": "text",
-        "forms": [
-          "digital twin"
-        ]
-      },
-      "papers": 13,
-      "top_cells": [
-        "optimization/theory",
-        "bayesian-optimization/theory",
-        "rl/theory",
-        "multi-agent-decision/application"
-      ]
-    },
-    {
       "term": "clinical decision-making",
       "kind": "emergent",
       "seed": false,
@@ -1510,6 +1491,25 @@
         "sequential-decision/theory",
         "optimization/theory",
         "rl/application"
+      ]
+    },
+    {
+      "term": "digital twin",
+      "kind": "emergent",
+      "seed": false,
+      "df": 13,
+      "match": {
+        "type": "text",
+        "forms": [
+          "digital twin"
+        ]
+      },
+      "papers": 13,
+      "top_cells": [
+        "optimization/theory",
+        "bayesian-optimization/theory",
+        "rl/theory",
+        "multi-agent-decision/application"
       ]
     },
     {
