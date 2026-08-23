@@ -1,30 +1,30 @@
 # Concept Graph Analysis
 
-**Generated:** 80 nodes, 249 edges, 1 components, 8 communities (modularity -16.734). Edges = co-occurrence.
+**Generated:** 80 nodes, 250 edges, 1 components, 8 communities (modularity -16.599). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **Planning Under Uncertainty** — PR 0.0752, degree 32, df 271
-- **markov decision** — PR 0.0738, degree 21, df 269
-- **Markov Decision Processes** — PR 0.0646, degree 18, df 247
-- **decision making** — PR 0.0548, degree 34, df 219
-- **decision processes** — PR 0.0488, degree 15, df 171
-- **Decision Theory** — PR 0.0385, degree 20, df 271
-- **Bayesian Optimization** — PR 0.0374, degree 9, df 288
+- **Planning Under Uncertainty** — PR 0.0754, degree 32, df 271
+- **markov decision** — PR 0.0742, degree 21, df 269
+- **Markov Decision Processes** — PR 0.0650, degree 18, df 247
+- **decision making** — PR 0.0565, degree 35, df 219
+- **decision processes** — PR 0.0491, degree 15, df 171
+- **Decision Theory** — PR 0.0388, degree 20, df 271
+- **Bayesian Optimization** — PR 0.0375, degree 9, df 288
 - **bayesian optimization** — PR 0.0343, degree 6, df 235
-- **decision process** — PR 0.0324, degree 12, df 127
+- **decision process** — PR 0.0326, degree 12, df 127
 - **uncertainty papers** — PR 0.0196, degree 10, df 66
-- **multi-agent reinforcement** — PR 0.0190, degree 16, df 92
 - **robust optimization** — PR 0.0181, degree 8, df 45
+- **multi-agent reinforcement** — PR 0.0177, degree 15, df 92
 
 ## Bridge nodes (high betweenness — connect clusters)
 
 - decision making
 - Planning Under Uncertainty
 - Decision Theory
-- multi-agent reinforcement
 - markov decision
 - energy storage
+- multi-agent reinforcement
 - Markov Decision Processes
 - autonomous driving
 - supply chain
@@ -32,16 +32,16 @@
 
 ## Bridge edges (high edge-betweenness)
 
-- Planning Under Uncertainty ↔ decision making (weight 4, EB 144.3609)
+- Planning Under Uncertainty ↔ decision making (weight 4, EB 155.8344)
 - decision making ↔ three-way decision (weight 2, EB 88.9159)
 - Planning Under Uncertainty ↔ uncertainty abstract (weight 4, EB 69.0487)
 - three-way decision ↔ sequential three-way (weight 9, EB 68.0)
 - Planning Under Uncertainty ↔ electric vehicle (weight 2, EB 68.0)
 - Planning Under Uncertainty ↔ expansion planning (weight 21, EB 68.0)
-- Planning Under Uncertainty ↔ gaussian process (weight 2, EB 67.35)
-- Planning Under Uncertainty ↔ motion planning (weight 14, EB 65.2691)
-- decision making ↔ unmanned aerial (weight 2, EB 63.7049)
-- decision making ↔ human-ai collaboration (weight 3, EB 60.9333)
+- Planning Under Uncertainty ↔ gaussian process (weight 2, EB 67.7913)
+- Planning Under Uncertainty ↔ motion planning (weight 14, EB 64.2358)
+- decision making ↔ autonomous decision-making (weight 2, EB 61.8825)
+- decision making ↔ collaborative decision-making (weight 4, EB 61.1058)
 
 ## Communities (clusters of related concepts)
 
@@ -59,7 +59,7 @@ Markov Decision Processes, decision process, decision processes, decision-making
 
 ### Cluster 4 (6 concepts)
 
-aerial vehicle, aerial vehicles, air combat, multi-agent reinforcement, significant challenges, unmanned aerial
+aerial vehicles, air combat, autonomous decision-making, multi-agent reinforcement, significant challenges, unmanned aerial
 
 ### Cluster 5 (4 concepts)
 

@@ -476,7 +476,7 @@
     },
     {
       "id": 79,
-      "term": "aerial vehicle",
+      "term": "autonomous decision-making",
       "kind": "emergent",
       "df": 14
     }
@@ -1323,11 +1323,6 @@
       "weight": 4
     },
     {
-      "source": 41,
-      "target": 79,
-      "weight": 11
-    },
-    {
       "source": 3,
       "target": 48,
       "weight": 2
@@ -1461,6 +1456,21 @@
       "source": 17,
       "target": 70,
       "weight": 3
+    },
+    {
+      "source": 17,
+      "target": 79,
+      "weight": 2
+    },
+    {
+      "source": 41,
+      "target": 79,
+      "weight": 2
+    },
+    {
+      "source": 68,
+      "target": 79,
+      "weight": 2
     },
     {
       "source": 17,
@@ -1608,11 +1618,6 @@
       "weight": 3
     },
     {
-      "source": 20,
-      "target": 79,
-      "weight": 4
-    },
-    {
       "source": 21,
       "target": 44,
       "weight": 2
@@ -1730,7 +1735,7 @@
   ],
   "stats": {
     "concepts": 80,
-    "edges": 249,
+    "edges": 250,
     "papers": 2680
   }
 }

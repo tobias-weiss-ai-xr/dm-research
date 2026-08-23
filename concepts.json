@@ -1287,6 +1287,24 @@
       ]
     },
     {
+      "term": "autonomous decision-making",
+      "kind": "emergent",
+      "seed": false,
+      "df": 14,
+      "match": {
+        "type": "text",
+        "forms": [
+          "autonomous decision-making"
+        ]
+      },
+      "papers": 14,
+      "top_cells": [
+        "rl/theory",
+        "rl/method",
+        "multi-agent-decision/theory"
+      ]
+    },
+    {
       "term": "aerial vehicle",
       "kind": "emergent",
       "seed": false,
@@ -1302,24 +1320,6 @@
         "rl/method",
         "rl/theory",
         "optimization/theory",
-        "multi-agent-decision/theory"
-      ]
-    },
-    {
-      "term": "autonomous decision-making",
-      "kind": "emergent",
-      "seed": false,
-      "df": 14,
-      "match": {
-        "type": "text",
-        "forms": [
-          "autonomous decision-making"
-        ]
-      },
-      "papers": 14,
-      "top_cells": [
-        "rl/theory",
-        "rl/method",
         "multi-agent-decision/theory"
       ]
     },
@@ -1475,25 +1475,6 @@
       ]
     },
     {
-      "term": "clinical decision-making",
-      "kind": "emergent",
-      "seed": false,
-      "df": 13,
-      "match": {
-        "type": "text",
-        "forms": [
-          "clinical decision-making"
-        ]
-      },
-      "papers": 13,
-      "top_cells": [
-        "human-ai-decision/method",
-        "sequential-decision/theory",
-        "optimization/theory",
-        "rl/application"
-      ]
-    },
-    {
       "term": "digital twin",
       "kind": "emergent",
       "seed": false,
@@ -1510,6 +1491,25 @@
         "bayesian-optimization/theory",
         "rl/theory",
         "multi-agent-decision/application"
+      ]
+    },
+    {
+      "term": "clinical decision-making",
+      "kind": "emergent",
+      "seed": false,
+      "df": 13,
+      "match": {
+        "type": "text",
+        "forms": [
+          "clinical decision-making"
+        ]
+      },
+      "papers": 13,
+      "top_cells": [
+        "human-ai-decision/method",
+        "sequential-decision/theory",
+        "optimization/theory",
+        "rl/application"
       ]
     },
     {

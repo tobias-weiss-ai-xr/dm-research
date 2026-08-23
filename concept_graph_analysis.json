@@ -1,10 +1,10 @@
 {
   "stats": {
     "nodes": 80,
-    "edges": 249,
+    "edges": 250,
     "components": 1,
     "communities": 8,
-    "modularity": -16.7345
+    "modularity": -16.5988
   },
   "nodes": [
     {
@@ -15,8 +15,8 @@
       "degree": 32,
       "weighted_degree": 233,
       "degree_centrality": 0.4051,
-      "pagerank": 0.075158,
-      "betweenness": 693.105,
+      "pagerank": 0.07541,
+      "betweenness": 698.3785,
       "clustering": 0.123
     },
     {
@@ -27,8 +27,8 @@
       "degree": 21,
       "weighted_degree": 680,
       "degree_centrality": 0.2658,
-      "pagerank": 0.073792,
-      "betweenness": 158.8995,
+      "pagerank": 0.074233,
+      "betweenness": 153.2586,
       "clustering": 0.3619
     },
     {
@@ -39,8 +39,8 @@
       "degree": 18,
       "weighted_degree": 611,
       "degree_centrality": 0.2278,
-      "pagerank": 0.064616,
-      "betweenness": 87.9268,
+      "pagerank": 0.064988,
+      "betweenness": 90.1943,
       "clustering": 0.3529
     },
     {
@@ -48,12 +48,12 @@
       "term": "decision making",
       "kind": "emergent",
       "df": 219,
-      "degree": 34,
-      "weighted_degree": 203,
-      "degree_centrality": 0.4304,
-      "pagerank": 0.054819,
-      "betweenness": 700.0912,
-      "clustering": 0.1586
+      "degree": 35,
+      "weighted_degree": 205,
+      "degree_centrality": 0.443,
+      "pagerank": 0.056459,
+      "betweenness": 740.7459,
+      "clustering": 0.1529
     },
     {
       "id": 18,
@@ -63,8 +63,8 @@
       "degree": 15,
       "weighted_degree": 449,
       "degree_centrality": 0.1899,
-      "pagerank": 0.048777,
-      "betweenness": 52.2917,
+      "pagerank": 0.049079,
+      "betweenness": 53.075,
       "clustering": 0.5429
     },
     {
@@ -75,8 +75,8 @@
       "degree": 20,
       "weighted_degree": 118,
       "degree_centrality": 0.2532,
-      "pagerank": 0.038516,
-      "betweenness": 237.7823,
+      "pagerank": 0.038794,
+      "betweenness": 240.1945,
       "clustering": 0.1053
     },
     {
@@ -87,8 +87,8 @@
       "degree": 9,
       "weighted_degree": 283,
       "degree_centrality": 0.1139,
-      "pagerank": 0.037421,
-      "betweenness": 33.0813,
+      "pagerank": 0.037463,
+      "betweenness": 32.1146,
       "clustering": 0.25
     },
     {
@@ -99,8 +99,8 @@
       "degree": 6,
       "weighted_degree": 268,
       "degree_centrality": 0.0759,
-      "pagerank": 0.034279,
-      "betweenness": 9.0771,
+      "pagerank": 0.034315,
+      "betweenness": 8.5105,
       "clustering": 0.4667
     },
     {
@@ -111,8 +111,8 @@
       "degree": 12,
       "weighted_degree": 299,
       "degree_centrality": 0.1519,
-      "pagerank": 0.032399,
-      "betweenness": 15.3079,
+      "pagerank": 0.032591,
+      "betweenness": 14.4591,
       "clustering": 0.6667
     },
     {
@@ -123,21 +123,9 @@
       "degree": 10,
       "weighted_degree": 59,
       "degree_centrality": 0.1266,
-      "pagerank": 0.019574,
-      "betweenness": 33.8461,
+      "pagerank": 0.019622,
+      "betweenness": 33.3906,
       "clustering": 0.3333
-    },
-    {
-      "id": 20,
-      "term": "multi-agent reinforcement",
-      "kind": "emergent",
-      "df": 92,
-      "degree": 16,
-      "weighted_degree": 56,
-      "degree_centrality": 0.2025,
-      "pagerank": 0.019049,
-      "betweenness": 161.2779,
-      "clustering": 0.2333
     },
     {
       "id": 27,
@@ -147,21 +135,21 @@
       "degree": 8,
       "weighted_degree": 55,
       "degree_centrality": 0.1013,
-      "pagerank": 0.018068,
+      "pagerank": 0.018111,
       "betweenness": 16.2956,
       "clustering": 0.5
     },
     {
-      "id": 33,
-      "term": "partially observable",
+      "id": 20,
+      "term": "multi-agent reinforcement",
       "kind": "emergent",
-      "df": 35,
-      "degree": 12,
-      "weighted_degree": 137,
-      "degree_centrality": 0.1519,
-      "pagerank": 0.017523,
-      "betweenness": 22.9874,
-      "clustering": 0.7121
+      "df": 92,
+      "degree": 15,
+      "weighted_degree": 52,
+      "degree_centrality": 0.1899,
+      "pagerank": 0.017747,
+      "betweenness": 111.1015,
+      "clustering": 0.2571
     },
     {
       "id": 22,
@@ -171,21 +159,21 @@
       "degree": 11,
       "weighted_degree": 102,
       "degree_centrality": 0.1392,
-      "pagerank": 0.017461,
-      "betweenness": 14.9888,
+      "pagerank": 0.017642,
+      "betweenness": 15.2634,
       "clustering": 0.7091
     },
     {
-      "id": 41,
-      "term": "unmanned aerial",
+      "id": 33,
+      "term": "partially observable",
       "kind": "emergent",
-      "df": 24,
-      "degree": 6,
-      "weighted_degree": 39,
-      "degree_centrality": 0.0759,
-      "pagerank": 0.016168,
-      "betweenness": 25.1287,
-      "clustering": 0.4667
+      "df": 35,
+      "degree": 12,
+      "weighted_degree": 137,
+      "degree_centrality": 0.1519,
+      "pagerank": 0.01763,
+      "betweenness": 21.1124,
+      "clustering": 0.7121
     },
     {
       "id": 26,
@@ -195,8 +183,8 @@
       "degree": 14,
       "weighted_degree": 51,
       "degree_centrality": 0.1772,
-      "pagerank": 0.016005,
-      "betweenness": 79.5256,
+      "pagerank": 0.016116,
+      "betweenness": 77.159,
       "clustering": 0.3626
     },
     {
@@ -207,8 +195,8 @@
       "degree": 10,
       "weighted_degree": 122,
       "degree_centrality": 0.1266,
-      "pagerank": 0.01512,
-      "betweenness": 14.7606,
+      "pagerank": 0.015211,
+      "betweenness": 14.9606,
       "clustering": 0.8
     },
     {
@@ -219,8 +207,8 @@
       "degree": 8,
       "weighted_degree": 57,
       "degree_centrality": 0.1013,
-      "pagerank": 0.015095,
-      "betweenness": 40.5212,
+      "pagerank": 0.015136,
+      "betweenness": 38.1383,
       "clustering": 0.2857
     },
     {
@@ -231,8 +219,8 @@
       "degree": 7,
       "weighted_degree": 55,
       "degree_centrality": 0.0886,
-      "pagerank": 0.014712,
-      "betweenness": 30.1995,
+      "pagerank": 0.01475,
+      "betweenness": 27.8337,
       "clustering": 0.381
     },
     {
@@ -243,8 +231,8 @@
       "degree": 11,
       "weighted_degree": 45,
       "degree_centrality": 0.1392,
-      "pagerank": 0.014381,
-      "betweenness": 74.6251,
+      "pagerank": 0.014435,
+      "betweenness": 70.2205,
       "clustering": 0.3455
     },
     {
@@ -255,9 +243,21 @@
       "degree": 12,
       "weighted_degree": 42,
       "degree_centrality": 0.1519,
-      "pagerank": 0.013271,
-      "betweenness": 62.2503,
+      "pagerank": 0.013304,
+      "betweenness": 62.0003,
       "clustering": 0.3636
+    },
+    {
+      "id": 41,
+      "term": "unmanned aerial",
+      "kind": "emergent",
+      "df": 24,
+      "degree": 6,
+      "weighted_degree": 30,
+      "degree_centrality": 0.0759,
+      "pagerank": 0.013116,
+      "betweenness": 14.0402,
+      "clustering": 0.5333
     },
     {
       "id": 30,
@@ -267,8 +267,8 @@
       "degree": 6,
       "weighted_degree": 34,
       "degree_centrality": 0.0759,
-      "pagerank": 0.012541,
-      "betweenness": 23.9096,
+      "pagerank": 0.012621,
+      "betweenness": 24.4922,
       "clustering": 0.2667
     },
     {
@@ -279,8 +279,8 @@
       "degree": 12,
       "weighted_degree": 70,
       "degree_centrality": 0.1519,
-      "pagerank": 0.012434,
-      "betweenness": 8.8463,
+      "pagerank": 0.012516,
+      "betweenness": 7.8546,
       "clustering": 0.697
     },
     {
@@ -291,8 +291,8 @@
       "degree": 10,
       "weighted_degree": 36,
       "degree_centrality": 0.1266,
-      "pagerank": 0.01226,
-      "betweenness": 26.0962,
+      "pagerank": 0.012288,
+      "betweenness": 26.0483,
       "clustering": 0.3556
     },
     {
@@ -303,21 +303,9 @@
       "degree": 4,
       "weighted_degree": 31,
       "degree_centrality": 0.0506,
-      "pagerank": 0.011398,
+      "pagerank": 0.011479,
       "betweenness": 0.3333,
       "clustering": 0.8333
-    },
-    {
-      "id": 57,
-      "term": "demand uncertainty",
-      "kind": "emergent",
-      "df": 19,
-      "degree": 5,
-      "weighted_degree": 30,
-      "degree_centrality": 0.0633,
-      "pagerank": 0.010612,
-      "betweenness": 1.5611,
-      "clustering": 0.7
     },
     {
       "id": 65,
@@ -327,9 +315,21 @@
       "degree": 4,
       "weighted_degree": 24,
       "degree_centrality": 0.0506,
-      "pagerank": 0.010421,
+      "pagerank": 0.010745,
       "betweenness": 1.5167,
       "clustering": 0.6667
+    },
+    {
+      "id": 57,
+      "term": "demand uncertainty",
+      "kind": "emergent",
+      "df": 19,
+      "degree": 5,
+      "weighted_degree": 30,
+      "degree_centrality": 0.0633,
+      "pagerank": 0.010636,
+      "betweenness": 1.4055,
+      "clustering": 0.7
     },
     {
       "id": 29,
@@ -339,8 +339,8 @@
       "degree": 5,
       "weighted_degree": 30,
       "degree_centrality": 0.0633,
-      "pagerank": 0.010173,
-      "betweenness": 9.5781,
+      "pagerank": 0.010256,
+      "betweenness": 9.7781,
       "clustering": 0.6
     },
     {
@@ -351,8 +351,8 @@
       "degree": 12,
       "weighted_degree": 33,
       "degree_centrality": 0.1519,
-      "pagerank": 0.010103,
-      "betweenness": 125.6002,
+      "pagerank": 0.010126,
+      "betweenness": 126.6487,
       "clustering": 0.2879
     },
     {
@@ -363,7 +363,7 @@
       "degree": 3,
       "weighted_degree": 17,
       "degree_centrality": 0.038,
-      "pagerank": 0.009952,
+      "pagerank": 0.009986,
       "betweenness": 67.0,
       "clustering": 0.3333
     },
@@ -375,7 +375,7 @@
       "degree": 4,
       "weighted_degree": 27,
       "degree_centrality": 0.0506,
-      "pagerank": 0.009829,
+      "pagerank": 0.00991,
       "betweenness": 0.3333,
       "clustering": 0.8333
     },
@@ -387,7 +387,7 @@
       "degree": 2,
       "weighted_degree": 25,
       "degree_centrality": 0.0253,
-      "pagerank": 0.00887,
+      "pagerank": 0.008933,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -399,7 +399,7 @@
       "degree": 4,
       "weighted_degree": 23,
       "degree_centrality": 0.0506,
-      "pagerank": 0.00881,
+      "pagerank": 0.008826,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -411,8 +411,8 @@
       "degree": 6,
       "weighted_degree": 19,
       "degree_centrality": 0.0759,
-      "pagerank": 0.00855,
-      "betweenness": 16.1558,
+      "pagerank": 0.008592,
+      "betweenness": 16.5225,
       "clustering": 0.4
     },
     {
@@ -423,7 +423,7 @@
       "degree": 7,
       "weighted_degree": 21,
       "degree_centrality": 0.0886,
-      "pagerank": 0.008313,
+      "pagerank": 0.008328,
       "betweenness": 3.154,
       "clustering": 0.6667
     },
@@ -435,21 +435,9 @@
       "degree": 8,
       "weighted_degree": 22,
       "degree_centrality": 0.1013,
-      "pagerank": 0.008112,
-      "betweenness": 18.3117,
+      "pagerank": 0.008131,
+      "betweenness": 18.3647,
       "clustering": 0.3929
-    },
-    {
-      "id": 59,
-      "term": "production planning",
-      "kind": "emergent",
-      "df": 18,
-      "degree": 3,
-      "weighted_degree": 21,
-      "degree_centrality": 0.038,
-      "pagerank": 0.008035,
-      "betweenness": 0.0,
-      "clustering": 1.0
     },
     {
       "id": 61,
@@ -459,9 +447,21 @@
       "degree": 4,
       "weighted_degree": 20,
       "degree_centrality": 0.0506,
-      "pagerank": 0.007989,
-      "betweenness": 26.0092,
+      "pagerank": 0.008067,
+      "betweenness": 24.9759,
       "clustering": 0.3333
+    },
+    {
+      "id": 59,
+      "term": "production planning",
+      "kind": "emergent",
+      "df": 18,
+      "degree": 3,
+      "weighted_degree": 21,
+      "degree_centrality": 0.038,
+      "pagerank": 0.008053,
+      "betweenness": 0.0,
+      "clustering": 1.0
     },
     {
       "id": 52,
@@ -471,7 +471,7 @@
       "degree": 1,
       "weighted_degree": 21,
       "degree_centrality": 0.0127,
-      "pagerank": 0.007932,
+      "pagerank": 0.007951,
       "betweenness": 0.0,
       "clustering": 0.0
     },
@@ -483,7 +483,7 @@
       "degree": 8,
       "weighted_degree": 39,
       "degree_centrality": 0.1013,
-      "pagerank": 0.007505,
+      "pagerank": 0.007548,
       "betweenness": 4.51,
       "clustering": 0.7857
     },
@@ -495,8 +495,8 @@
       "degree": 4,
       "weighted_degree": 20,
       "degree_centrality": 0.0506,
-      "pagerank": 0.007471,
-      "betweenness": 5.934,
+      "pagerank": 0.00751,
+      "betweenness": 6.4795,
       "clustering": 0.5
     },
     {
@@ -507,21 +507,21 @@
       "degree": 5,
       "weighted_degree": 19,
       "degree_centrality": 0.0633,
-      "pagerank": 0.007423,
+      "pagerank": 0.007466,
       "betweenness": 19.0918,
       "clustering": 0.5
     },
     {
-      "id": 79,
-      "term": "aerial vehicle",
+      "id": 68,
+      "term": "air combat",
       "kind": "emergent",
-      "df": 14,
-      "degree": 2,
-      "weighted_degree": 15,
-      "degree_centrality": 0.0253,
-      "pagerank": 0.007207,
-      "betweenness": 0.0,
-      "clustering": 1.0
+      "df": 16,
+      "degree": 5,
+      "weighted_degree": 14,
+      "degree_centrality": 0.0633,
+      "pagerank": 0.00721,
+      "betweenness": 7.687,
+      "clustering": 0.7
     },
     {
       "id": 76,
@@ -531,7 +531,7 @@
       "degree": 3,
       "weighted_degree": 18,
       "degree_centrality": 0.038,
-      "pagerank": 0.007148,
+      "pagerank": 0.007201,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -543,7 +543,7 @@
       "degree": 5,
       "weighted_degree": 19,
       "degree_centrality": 0.0633,
-      "pagerank": 0.007114,
+      "pagerank": 0.007135,
       "betweenness": 4.5522,
       "clustering": 0.4
     },
@@ -555,7 +555,7 @@
       "degree": 4,
       "weighted_degree": 46,
       "degree_centrality": 0.0506,
-      "pagerank": 0.006736,
+      "pagerank": 0.006761,
       "betweenness": 0.25,
       "clustering": 0.8333
     },
@@ -567,8 +567,8 @@
       "degree": 3,
       "weighted_degree": 38,
       "degree_centrality": 0.038,
-      "pagerank": 0.00671,
-      "betweenness": 10.7109,
+      "pagerank": 0.006716,
+      "betweenness": 10.8189,
       "clustering": 0.3333
     },
     {
@@ -579,7 +579,7 @@
       "degree": 3,
       "weighted_degree": 38,
       "degree_centrality": 0.038,
-      "pagerank": 0.006678,
+      "pagerank": 0.006684,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -591,21 +591,9 @@
       "degree": 1,
       "weighted_degree": 9,
       "degree_centrality": 0.0127,
-      "pagerank": 0.006652,
+      "pagerank": 0.006668,
       "betweenness": 0.0,
       "clustering": 0.0
-    },
-    {
-      "id": 77,
-      "term": "processes papers",
-      "kind": "emergent",
-      "df": 14,
-      "degree": 5,
-      "weighted_degree": 45,
-      "degree_centrality": 0.0633,
-      "pagerank": 0.006355,
-      "betweenness": 0.0,
-      "clustering": 1.0
     },
     {
       "id": 78,
@@ -615,7 +603,19 @@
       "degree": 3,
       "weighted_degree": 16,
       "degree_centrality": 0.038,
-      "pagerank": 0.006342,
+      "pagerank": 0.006387,
+      "betweenness": 0.0,
+      "clustering": 1.0
+    },
+    {
+      "id": 77,
+      "term": "processes papers",
+      "kind": "emergent",
+      "df": 14,
+      "degree": 5,
+      "weighted_degree": 45,
+      "degree_centrality": 0.0633,
+      "pagerank": 0.00638,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -627,7 +627,7 @@
       "degree": 6,
       "weighted_degree": 15,
       "degree_centrality": 0.0759,
-      "pagerank": 0.006217,
+      "pagerank": 0.006233,
       "betweenness": 19.1992,
       "clustering": 0.4667
     },
@@ -639,21 +639,9 @@
       "degree": 4,
       "weighted_degree": 10,
       "degree_centrality": 0.0506,
-      "pagerank": 0.006085,
-      "betweenness": 30.9657,
+      "pagerank": 0.006116,
+      "betweenness": 31.6112,
       "clustering": 0.3333
-    },
-    {
-      "id": 68,
-      "term": "air combat",
-      "kind": "emergent",
-      "df": 16,
-      "degree": 4,
-      "weighted_degree": 12,
-      "degree_centrality": 0.0506,
-      "pagerank": 0.005894,
-      "betweenness": 6.1282,
-      "clustering": 0.8333
     },
     {
       "id": 55,
@@ -663,7 +651,7 @@
       "degree": 2,
       "weighted_degree": 13,
       "degree_centrality": 0.0253,
-      "pagerank": 0.005718,
+      "pagerank": 0.005731,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -675,7 +663,7 @@
       "degree": 3,
       "weighted_degree": 12,
       "degree_centrality": 0.038,
-      "pagerank": 0.005375,
+      "pagerank": 0.005401,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -687,8 +675,8 @@
       "degree": 4,
       "weighted_degree": 8,
       "degree_centrality": 0.0506,
-      "pagerank": 0.005239,
-      "betweenness": 11.7935,
+      "pagerank": 0.005248,
+      "betweenness": 11.8389,
       "clustering": 0.0
     },
     {
@@ -699,8 +687,8 @@
       "degree": 6,
       "weighted_degree": 14,
       "degree_centrality": 0.0759,
-      "pagerank": 0.005013,
-      "betweenness": 11.7547,
+      "pagerank": 0.005025,
+      "betweenness": 10.1853,
       "clustering": 0.3333
     },
     {
@@ -711,7 +699,7 @@
       "degree": 3,
       "weighted_degree": 9,
       "degree_centrality": 0.038,
-      "pagerank": 0.004788,
+      "pagerank": 0.004814,
       "betweenness": 3.188,
       "clustering": 0.6667
     },
@@ -723,7 +711,7 @@
       "degree": 3,
       "weighted_degree": 9,
       "degree_centrality": 0.038,
-      "pagerank": 0.004629,
+      "pagerank": 0.004636,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -735,8 +723,8 @@
       "degree": 3,
       "weighted_degree": 9,
       "degree_centrality": 0.038,
-      "pagerank": 0.004612,
-      "betweenness": 2.3595,
+      "pagerank": 0.004628,
+      "betweenness": 1.3262,
       "clustering": 0.6667
     },
     {
@@ -747,7 +735,7 @@
       "degree": 3,
       "weighted_degree": 7,
       "degree_centrality": 0.038,
-      "pagerank": 0.004398,
+      "pagerank": 0.004412,
       "betweenness": 1.4631,
       "clustering": 0.3333
     },
@@ -759,7 +747,7 @@
       "degree": 2,
       "weighted_degree": 6,
       "degree_centrality": 0.0253,
-      "pagerank": 0.004384,
+      "pagerank": 0.004389,
       "betweenness": 7.0534,
       "clustering": 0.0
     },
@@ -771,9 +759,21 @@
       "degree": 4,
       "weighted_degree": 9,
       "degree_centrality": 0.0506,
-      "pagerank": 0.004301,
+      "pagerank": 0.004322,
       "betweenness": 1.7792,
       "clustering": 0.6667
+    },
+    {
+      "id": 79,
+      "term": "autonomous decision-making",
+      "kind": "emergent",
+      "df": 14,
+      "degree": 3,
+      "weighted_degree": 6,
+      "degree_centrality": 0.038,
+      "pagerank": 0.004261,
+      "betweenness": 0.0,
+      "clustering": 1.0
     },
     {
       "id": 70,
@@ -783,8 +783,8 @@
       "degree": 3,
       "weighted_degree": 7,
       "degree_centrality": 0.038,
-      "pagerank": 0.004047,
-      "betweenness": 2.6896,
+      "pagerank": 0.004065,
+      "betweenness": 2.8896,
       "clustering": 0.6667
     },
     {
@@ -795,7 +795,7 @@
       "degree": 2,
       "weighted_degree": 5,
       "degree_centrality": 0.0253,
-      "pagerank": 0.003897,
+      "pagerank": 0.003916,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -807,7 +807,7 @@
       "degree": 4,
       "weighted_degree": 17,
       "degree_centrality": 0.0506,
-      "pagerank": 0.00373,
+      "pagerank": 0.003739,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -819,7 +819,7 @@
       "degree": 3,
       "weighted_degree": 6,
       "degree_centrality": 0.038,
-      "pagerank": 0.003072,
+      "pagerank": 0.003078,
       "betweenness": 0.2017,
       "clustering": 0.6667
     },
@@ -831,7 +831,7 @@
       "degree": 1,
       "weighted_degree": 2,
       "degree_centrality": 0.0127,
-      "pagerank": 0.002722,
+      "pagerank": 0.002724,
       "betweenness": 0.0,
       "clustering": 0.0
     },
@@ -1039,9 +1039,9 @@
     {
       "size": 6,
       "members": [
-        "aerial vehicle",
         "aerial vehicles",
         "air combat",
+        "autonomous decision-making",
         "multi-agent reinforcement",
         "significant challenges",
         "unmanned aerial"
@@ -1095,9 +1095,9 @@
     "decision making",
     "Planning Under Uncertainty",
     "Decision Theory",
-    "multi-agent reinforcement",
     "markov decision",
     "energy storage",
+    "multi-agent reinforcement",
     "Markov Decision Processes",
     "autonomous driving",
     "supply chain",
@@ -1108,7 +1108,7 @@
       "source": "Planning Under Uncertainty",
       "target": "decision making",
       "weight": 4,
-      "edge_betweenness": 144.3609
+      "edge_betweenness": 155.8344
     },
     {
       "source": "decision making",
@@ -1144,19 +1144,25 @@
       "source": "Planning Under Uncertainty",
       "target": "gaussian process",
       "weight": 2,
-      "edge_betweenness": 67.35
+      "edge_betweenness": 67.7913
     },
     {
       "source": "Planning Under Uncertainty",
       "target": "motion planning",
       "weight": 14,
-      "edge_betweenness": 65.2691
+      "edge_betweenness": 64.2358
     },
     {
       "source": "decision making",
-      "target": "unmanned aerial",
+      "target": "autonomous decision-making",
       "weight": 2,
-      "edge_betweenness": 63.7049
+      "edge_betweenness": 61.8825
+    },
+    {
+      "source": "decision making",
+      "target": "collaborative decision-making",
+      "weight": 4,
+      "edge_betweenness": 61.1058
     },
     {
       "source": "decision making",
@@ -1166,21 +1172,15 @@
     },
     {
       "source": "decision making",
-      "target": "collaborative decision-making",
-      "weight": 4,
-      "edge_betweenness": 59.8566
-    },
-    {
-      "source": "decision making",
       "target": "become increasingly",
       "weight": 4,
-      "edge_betweenness": 59.2026
+      "edge_betweenness": 59.8481
     },
     {
       "source": "Planning Under Uncertainty",
       "target": "production planning",
       "weight": 15,
-      "edge_betweenness": 57.8286
+      "edge_betweenness": 58.0286
     },
     {
       "source": "decision making",
@@ -1189,10 +1189,10 @@
       "edge_betweenness": 55.6869
     },
     {
-      "source": "multi-agent reinforcement",
-      "target": "aerial vehicle",
-      "weight": 4,
-      "edge_betweenness": 53.3528
+      "source": "decision making",
+      "target": "unmanned aerial",
+      "weight": 2,
+      "edge_betweenness": 53.091
     }
   ]
 }

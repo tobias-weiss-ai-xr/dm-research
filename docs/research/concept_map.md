@@ -1,6 +1,6 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 80 concepts, 249 relationships from 2680 papers. Edges = co-occurrence (shared papers).
+**Generated:** 80 concepts, 250 relationships from 2680 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
@@ -152,10 +152,10 @@
 - aerial vehicles — 6 shared paper(s)
 - reinforcement learning-based — 5 shared paper(s)
 - significant challenges — 4 shared paper(s)
-- aerial vehicle — 4 shared paper(s)
 - decision making — 3 shared paper(s)
 - autonomous driving — 3 shared paper(s)
 - air combat — 3 shared paper(s)
+- large language — 3 shared paper(s)
 
 ### uncertainty papers
 
