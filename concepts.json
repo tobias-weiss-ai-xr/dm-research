@@ -5,43 +5,25 @@
       "term": "Bayesian Optimization",
       "kind": "taxonomy",
       "seed": true,
-      "df": 288,
+      "df": 526,
       "match": {
         "type": "field",
         "field": "category",
         "value": "bayesian-optimization"
       },
       "top_cells": [
-        "bayesian-optimization/theory",
         "bayesian-optimization/method",
+        "bayesian-optimization/theory",
         "bayesian-optimization/",
         "bayesian-optimization/application"
       ],
-      "papers": 288
-    },
-    {
-      "term": "Planning Under Uncertainty",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 271,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "planning"
-      },
-      "top_cells": [
-        "planning/theory",
-        "planning/method",
-        "planning/",
-        "planning/application"
-      ],
-      "papers": 271
+      "papers": 526
     },
     {
       "term": "Decision Theory",
       "kind": "taxonomy",
       "seed": true,
-      "df": 271,
+      "df": 427,
       "match": {
         "type": "field",
         "field": "category",
@@ -53,168 +35,240 @@
         "decision-theory/method",
         "decision-theory/application"
       ],
-      "papers": 271
+      "papers": 427
     },
     {
       "term": "Markov Decision Processes",
       "kind": "taxonomy",
       "seed": true,
-      "df": 247,
+      "df": 399,
       "match": {
         "type": "field",
         "field": "category",
         "value": "mdp"
       },
       "top_cells": [
-        "mdp/method",
         "mdp/theory",
+        "mdp/method",
         "mdp/",
         "mdp/application"
       ],
-      "papers": 247
+      "papers": 399
+    },
+    {
+      "term": "Planning Under Uncertainty",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 364,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "planning"
+      },
+      "top_cells": [
+        "planning/method",
+        "planning/theory",
+        "planning/",
+        "planning/application"
+      ],
+      "papers": 364
     },
     {
       "term": "Decision Making",
       "kind": "taxonomy",
       "seed": true,
-      "df": 0,
+      "df": 253,
       "match": {
         "type": "field",
         "field": "category",
         "value": "decision-making"
       },
-      "top_cells": [],
-      "papers": 0
+      "top_cells": [
+        "decision-making/method",
+        "decision-making/theory",
+        "decision-making/application",
+        "decision-making/systems"
+      ],
+      "papers": 253
     },
     {
       "term": "Reinforcement Learning",
       "kind": "taxonomy",
       "seed": true,
-      "df": 0,
+      "df": 244,
       "match": {
         "type": "field",
         "field": "category",
         "value": "reinforcement-learning"
       },
-      "top_cells": [],
-      "papers": 0
-    },
-    {
-      "term": "Multi-Agent & Coordination",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 0,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "multi-agent"
-      },
-      "top_cells": [],
-      "papers": 0
-    },
-    {
-      "term": "Human-AI Collaboration",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 0,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "human-ai"
-      },
-      "top_cells": [],
-      "papers": 0
-    },
-    {
-      "term": "Sequential Decision Making",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 0,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "sequential"
-      },
-      "top_cells": [],
-      "papers": 0
-    },
-    {
-      "term": "Optimization Under Uncertainty",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 0,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "optimization-uncertainty"
-      },
-      "top_cells": [],
-      "papers": 0
-    },
-    {
-      "term": "Game Theory",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 0,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "game-theory"
-      },
-      "top_cells": [],
-      "papers": 0
-    },
-    {
-      "term": "Autonomous Decision Making",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 0,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "autonomous"
-      },
-      "top_cells": [],
-      "papers": 0
-    },
-    {
-      "term": "Reward & Policy Learning",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 0,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "reward"
-      },
-      "top_cells": [],
-      "papers": 0
-    },
-    {
-      "term": "Bandits & Exploration",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 0,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "bandits"
-      },
-      "top_cells": [],
-      "papers": 0
+      "top_cells": [
+        "reinforcement-learning/method",
+        "reinforcement-learning/theory",
+        "reinforcement-learning/systems",
+        "reinforcement-learning/survey"
+      ],
+      "papers": 244
     },
     {
       "term": "Surveys & Reviews",
       "kind": "taxonomy",
       "seed": true,
-      "df": 0,
+      "df": 240,
       "match": {
         "type": "field",
         "field": "category",
         "value": "survey"
       },
-      "top_cells": [],
-      "papers": 0
+      "top_cells": [
+        "survey/method",
+        "survey/survey",
+        "survey/theory",
+        "survey/application"
+      ],
+      "papers": 240
+    },
+    {
+      "term": "Reward & Policy Learning",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 210,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "reward"
+      },
+      "top_cells": [
+        "reward/method",
+        "reward/theory",
+        "reward/systems",
+        "reward/evaluation"
+      ],
+      "papers": 210
+    },
+    {
+      "term": "Multi-Agent & Coordination",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 193,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "multi-agent"
+      },
+      "top_cells": [
+        "multi-agent/method",
+        "multi-agent/theory",
+        "multi-agent/systems",
+        "multi-agent/evaluation"
+      ],
+      "papers": 193
+    },
+    {
+      "term": "Autonomous Decision Making",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 190,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "autonomous"
+      },
+      "top_cells": [
+        "autonomous/method",
+        "autonomous/application",
+        "autonomous/theory",
+        "autonomous/systems"
+      ],
+      "papers": 190
+    },
+    {
+      "term": "Sequential Decision Making",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 181,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "sequential"
+      },
+      "top_cells": [
+        "sequential/method",
+        "sequential/theory",
+        "sequential/survey",
+        "sequential/systems"
+      ],
+      "papers": 181
+    },
+    {
+      "term": "Game Theory",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 179,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "game-theory"
+      },
+      "top_cells": [
+        "game-theory/theory",
+        "game-theory/method",
+        "game-theory/experiment"
+      ],
+      "papers": 179
+    },
+    {
+      "term": "Bandits & Exploration",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 179,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "bandits"
+      },
+      "top_cells": [
+        "bandits/method",
+        "bandits/theory",
+        "bandits/systems",
+        "bandits/application"
+      ],
+      "papers": 179
+    },
+    {
+      "term": "Human-AI Collaboration",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 158,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "human-ai"
+      },
+      "top_cells": [
+        "human-ai/application",
+        "human-ai/method",
+        "human-ai/theory",
+        "human-ai/systems"
+      ],
+      "papers": 158
+    },
+    {
+      "term": "Optimization Under Uncertainty",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 92,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "optimization-uncertainty"
+      },
+      "top_cells": [
+        "optimization-uncertainty/method",
+        "optimization-uncertainty/theory",
+        "optimization-uncertainty/systems",
+        "optimization-uncertainty/experiment"
+      ],
+      "papers": 92
     }
   ]
 }
