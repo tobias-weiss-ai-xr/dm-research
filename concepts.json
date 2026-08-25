@@ -1,5 +1,5 @@
 {
-  "count": 15,
+  "count": 120,
   "concepts": [
     {
       "term": "Reinforcement Learning",
@@ -20,6 +20,25 @@
       "papers": 1187
     },
     {
+      "term": "decision making",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1172,
+      "match": {
+        "type": "text",
+        "forms": [
+          "decision making"
+        ]
+      },
+      "papers": 1172,
+      "top_cells": [
+        "decision-making/method",
+        "sequential/method",
+        "decision-theory/theory",
+        "decision-making/theory"
+      ]
+    },
+    {
       "term": "Bayesian Optimization",
       "kind": "taxonomy",
       "seed": true,
@@ -36,6 +55,25 @@
         "bayesian-optimization/systems"
       ],
       "papers": 1113
+    },
+    {
+      "term": "markov decision",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1107,
+      "match": {
+        "type": "text",
+        "forms": [
+          "markov decision"
+        ]
+      },
+      "papers": 1107,
+      "top_cells": [
+        "mdp/theory",
+        "mdp/method",
+        "reward/method",
+        "reinforcement-learning/method"
+      ]
     },
     {
       "term": "Decision Making",
@@ -128,6 +166,25 @@
       "papers": 851
     },
     {
+      "term": "large language",
+      "kind": "emergent",
+      "seed": false,
+      "df": 843,
+      "match": {
+        "type": "text",
+        "forms": [
+          "large language"
+        ]
+      },
+      "papers": 843,
+      "top_cells": [
+        "multi-agent/method",
+        "reward/method",
+        "decision-making/method",
+        "sequential/method"
+      ]
+    },
+    {
       "term": "Sequential Decision Making",
       "kind": "taxonomy",
       "seed": true,
@@ -218,6 +275,44 @@
       "papers": 747
     },
     {
+      "term": "bayesian optimization",
+      "kind": "emergent",
+      "seed": false,
+      "df": 744,
+      "match": {
+        "type": "text",
+        "forms": [
+          "bayesian optimization"
+        ]
+      },
+      "papers": 744,
+      "top_cells": [
+        "bayesian-optimization/method",
+        "bayesian-optimization/theory",
+        "bayesian-optimization/application",
+        "optimization-uncertainty/method"
+      ]
+    },
+    {
+      "term": "language models",
+      "kind": "emergent",
+      "seed": false,
+      "df": 738,
+      "match": {
+        "type": "text",
+        "forms": [
+          "language models"
+        ]
+      },
+      "papers": 738,
+      "top_cells": [
+        "reward/method",
+        "multi-agent/method",
+        "decision-making/method",
+        "human-ai/application"
+      ]
+    },
+    {
       "term": "Reward & Policy Learning",
       "kind": "taxonomy",
       "seed": true,
@@ -234,6 +329,25 @@
         "reward/experiment"
       ],
       "papers": 727
+    },
+    {
+      "term": "decision process",
+      "kind": "emergent",
+      "seed": false,
+      "df": 705,
+      "match": {
+        "type": "text",
+        "forms": [
+          "decision process"
+        ]
+      },
+      "papers": 705,
+      "top_cells": [
+        "mdp/theory",
+        "mdp/method",
+        "reinforcement-learning/method",
+        "reward/method"
+      ]
     },
     {
       "term": "Autonomous Decision Making",
@@ -270,6 +384,1868 @@
         "bandits/systems"
       ],
       "papers": 660
+    },
+    {
+      "term": "decision processes",
+      "kind": "emergent",
+      "seed": false,
+      "df": 616,
+      "match": {
+        "type": "text",
+        "forms": [
+          "decision processes"
+        ]
+      },
+      "papers": 616,
+      "top_cells": [
+        "mdp/theory",
+        "mdp/method",
+        "sequential/method",
+        "sequential/theory"
+      ]
+    },
+    {
+      "term": "policy optimization",
+      "kind": "emergent",
+      "seed": false,
+      "df": 610,
+      "match": {
+        "type": "text",
+        "forms": [
+          "policy optimization"
+        ]
+      },
+      "papers": 610,
+      "top_cells": [
+        "reward/method",
+        "reward/theory",
+        "reinforcement-learning/method",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "multi-armed bandit",
+      "kind": "emergent",
+      "seed": false,
+      "df": 512,
+      "match": {
+        "type": "text",
+        "forms": [
+          "multi-armed bandit"
+        ]
+      },
+      "papers": 512,
+      "top_cells": [
+        "bandits/method",
+        "bandits/theory",
+        "bandits/application",
+        "sequential/method"
+      ]
+    },
+    {
+      "term": "sequential decision-making",
+      "kind": "emergent",
+      "seed": false,
+      "df": 442,
+      "match": {
+        "type": "text",
+        "forms": [
+          "sequential decision-making"
+        ]
+      },
+      "papers": 442,
+      "top_cells": [
+        "sequential/method",
+        "sequential/theory",
+        "bandits/theory",
+        "mdp/theory"
+      ]
+    },
+    {
+      "term": "multi-agent reinforcement",
+      "kind": "emergent",
+      "seed": false,
+      "df": 372,
+      "match": {
+        "type": "text",
+        "forms": [
+          "multi-agent reinforcement"
+        ]
+      },
+      "papers": 372,
+      "top_cells": [
+        "multi-agent/method",
+        "multi-agent/theory",
+        "reinforcement-learning/method",
+        "reinforcement-learning/theory"
+      ]
+    },
+    {
+      "term": "sequential decision",
+      "kind": "emergent",
+      "seed": false,
+      "df": 371,
+      "match": {
+        "type": "text",
+        "forms": [
+          "sequential decision"
+        ]
+      },
+      "papers": 371,
+      "top_cells": [
+        "sequential/method",
+        "sequential/theory",
+        "mdp/theory",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "decision-making processes",
+      "kind": "emergent",
+      "seed": false,
+      "df": 358,
+      "match": {
+        "type": "text",
+        "forms": [
+          "decision-making processes"
+        ]
+      },
+      "papers": 358,
+      "top_cells": [
+        "decision-making/method",
+        "game-theory/theory",
+        "survey/method",
+        "human-ai/method"
+      ]
+    },
+    {
+      "term": "proximal policy",
+      "kind": "emergent",
+      "seed": false,
+      "df": 336,
+      "match": {
+        "type": "text",
+        "forms": [
+          "proximal policy"
+        ]
+      },
+      "papers": 336,
+      "top_cells": [
+        "reward/method",
+        "reward/theory",
+        "reinforcement-learning/method",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "autonomous vehicles",
+      "kind": "emergent",
+      "seed": false,
+      "df": 329,
+      "match": {
+        "type": "text",
+        "forms": [
+          "autonomous vehicles"
+        ]
+      },
+      "papers": 329,
+      "top_cells": [
+        "autonomous/method",
+        "autonomous/theory",
+        "reinforcement-learning/method",
+        "game-theory/theory"
+      ]
+    },
+    {
+      "term": "decision support",
+      "kind": "emergent",
+      "seed": false,
+      "df": 317,
+      "match": {
+        "type": "text",
+        "forms": [
+          "decision support"
+        ]
+      },
+      "papers": 317,
+      "top_cells": [
+        "decision-theory/theory",
+        "multi-agent/method",
+        "bayesian-optimization/method",
+        "survey/method"
+      ]
+    },
+    {
+      "term": "supply chain",
+      "kind": "emergent",
+      "seed": false,
+      "df": 294,
+      "match": {
+        "type": "text",
+        "forms": [
+          "supply chain"
+        ]
+      },
+      "papers": 294,
+      "top_cells": [
+        "game-theory/theory",
+        "optimization-uncertainty/method",
+        "optimization-uncertainty/theory",
+        "planning/method"
+      ]
+    },
+    {
+      "term": "autonomous driving",
+      "kind": "emergent",
+      "seed": false,
+      "df": 289,
+      "match": {
+        "type": "text",
+        "forms": [
+          "autonomous driving"
+        ]
+      },
+      "papers": 289,
+      "top_cells": [
+        "autonomous/method",
+        "autonomous/theory",
+        "reinforcement-learning/method",
+        "reinforcement-learning/theory"
+      ]
+    },
+    {
+      "term": "resource allocation",
+      "kind": "emergent",
+      "seed": false,
+      "df": 288,
+      "match": {
+        "type": "text",
+        "forms": [
+          "resource allocation"
+        ]
+      },
+      "papers": 288,
+      "top_cells": [
+        "game-theory/theory",
+        "multi-agent/method",
+        "reinforcement-learning/method",
+        "reward/method"
+      ]
+    },
+    {
+      "term": "autonomous decision-making",
+      "kind": "emergent",
+      "seed": false,
+      "df": 287,
+      "match": {
+        "type": "text",
+        "forms": [
+          "autonomous decision-making"
+        ]
+      },
+      "papers": 287,
+      "top_cells": [
+        "autonomous/application",
+        "autonomous/method",
+        "autonomous/theory",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "decision-making process",
+      "kind": "emergent",
+      "seed": false,
+      "df": 283,
+      "match": {
+        "type": "text",
+        "forms": [
+          "decision-making process"
+        ]
+      },
+      "papers": 283,
+      "top_cells": [
+        "decision-making/method",
+        "decision-theory/theory",
+        "game-theory/theory",
+        "autonomous/method"
+      ]
+    },
+    {
+      "term": "reward function",
+      "kind": "emergent",
+      "seed": false,
+      "df": 281,
+      "match": {
+        "type": "text",
+        "forms": [
+          "reward function"
+        ]
+      },
+      "papers": 281,
+      "top_cells": [
+        "reward/method",
+        "reward/theory",
+        "reinforcement-learning/method",
+        "reinforcement-learning/theory"
+      ]
+    },
+    {
+      "term": "optimization problem",
+      "kind": "emergent",
+      "seed": false,
+      "df": 244,
+      "match": {
+        "type": "text",
+        "forms": [
+          "optimization problem"
+        ]
+      },
+      "papers": 244,
+      "top_cells": [
+        "bayesian-optimization/method",
+        "reward/method",
+        "planning/method",
+        "reinforcement-learning/method"
+      ]
+    },
+    {
+      "term": "while maintaining",
+      "kind": "emergent",
+      "seed": false,
+      "df": 239,
+      "match": {
+        "type": "text",
+        "forms": [
+          "while maintaining"
+        ]
+      },
+      "papers": 239,
+      "top_cells": [
+        "reward/method",
+        "reinforcement-learning/method",
+        "multi-agent/method",
+        "bayesian-optimization/method"
+      ]
+    },
+    {
+      "term": "case studies",
+      "kind": "emergent",
+      "seed": false,
+      "df": 227,
+      "match": {
+        "type": "text",
+        "forms": [
+          "case studies"
+        ]
+      },
+      "papers": 227,
+      "top_cells": [
+        "decision-making/method",
+        "game-theory/theory",
+        "human-ai/method",
+        "decision-theory/theory"
+      ]
+    },
+    {
+      "term": "renewable energy",
+      "kind": "emergent",
+      "seed": false,
+      "df": 225,
+      "match": {
+        "type": "text",
+        "forms": [
+          "renewable energy"
+        ]
+      },
+      "papers": 225,
+      "top_cells": [
+        "planning/method",
+        "optimization-uncertainty/method",
+        "game-theory/theory",
+        "reinforcement-learning/method"
+      ]
+    },
+    {
+      "term": "reinforcement learning-based",
+      "kind": "emergent",
+      "seed": false,
+      "df": 220,
+      "match": {
+        "type": "text",
+        "forms": [
+          "reinforcement learning-based"
+        ]
+      },
+      "papers": 220,
+      "top_cells": [
+        "reinforcement-learning/method",
+        "reinforcement-learning/theory",
+        "reward/method",
+        "reward/theory"
+      ]
+    },
+    {
+      "term": "multi-armed bandits",
+      "kind": "emergent",
+      "seed": false,
+      "df": 214,
+      "match": {
+        "type": "text",
+        "forms": [
+          "multi-armed bandits"
+        ]
+      },
+      "papers": 214,
+      "top_cells": [
+        "bandits/method",
+        "bandits/theory",
+        "sequential/method",
+        "sequential/theory"
+      ]
+    },
+    {
+      "term": "partially observable",
+      "kind": "emergent",
+      "seed": false,
+      "df": 205,
+      "match": {
+        "type": "text",
+        "forms": [
+          "partially observable"
+        ]
+      },
+      "papers": 205,
+      "top_cells": [
+        "mdp/theory",
+        "mdp/method",
+        "multi-agent/method",
+        "planning/method"
+      ]
+    },
+    {
+      "term": "existing methods",
+      "kind": "emergent",
+      "seed": false,
+      "df": 204,
+      "match": {
+        "type": "text",
+        "forms": [
+          "existing methods"
+        ]
+      },
+      "papers": 204,
+      "top_cells": [
+        "reward/method",
+        "reinforcement-learning/method",
+        "multi-agent/method",
+        "bayesian-optimization/method"
+      ]
+    },
+    {
+      "term": "robust optimization",
+      "kind": "emergent",
+      "seed": false,
+      "df": 202,
+      "match": {
+        "type": "text",
+        "forms": [
+          "robust optimization"
+        ]
+      },
+      "papers": 202,
+      "top_cells": [
+        "optimization-uncertainty/method",
+        "optimization-uncertainty/theory",
+        "planning/method",
+        "planning/theory"
+      ]
+    },
+    {
+      "term": "energy consumption",
+      "kind": "emergent",
+      "seed": false,
+      "df": 201,
+      "match": {
+        "type": "text",
+        "forms": [
+          "energy consumption"
+        ]
+      },
+      "papers": 201,
+      "top_cells": [
+        "reinforcement-learning/method",
+        "game-theory/theory",
+        "reward/method",
+        "bayesian-optimization/method"
+      ]
+    },
+    {
+      "term": "policy gradient",
+      "kind": "emergent",
+      "seed": false,
+      "df": 196,
+      "match": {
+        "type": "text",
+        "forms": [
+          "policy gradient"
+        ]
+      },
+      "papers": 196,
+      "top_cells": [
+        "reward/method",
+        "reward/theory",
+        "reinforcement-learning/method",
+        "mdp/theory"
+      ]
+    },
+    {
+      "term": "extensive experiments",
+      "kind": "emergent",
+      "seed": false,
+      "df": 195,
+      "match": {
+        "type": "text",
+        "forms": [
+          "extensive experiments"
+        ]
+      },
+      "papers": 195,
+      "top_cells": [
+        "reward/method",
+        "reinforcement-learning/method",
+        "multi-agent/method",
+        "bandits/method"
+      ]
+    },
+    {
+      "term": "dynamic environments",
+      "kind": "emergent",
+      "seed": false,
+      "df": 177,
+      "match": {
+        "type": "text",
+        "forms": [
+          "dynamic environments"
+        ]
+      },
+      "papers": 177,
+      "top_cells": [
+        "multi-agent/method",
+        "autonomous/method",
+        "bandits/theory",
+        "multi-agent/theory"
+      ]
+    },
+    {
+      "term": "superior performance",
+      "kind": "emergent",
+      "seed": false,
+      "df": 173,
+      "match": {
+        "type": "text",
+        "forms": [
+          "superior performance"
+        ]
+      },
+      "papers": 173,
+      "top_cells": [
+        "bayesian-optimization/method",
+        "reward/method",
+        "reinforcement-learning/method",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "unmanned aerial",
+      "kind": "emergent",
+      "seed": false,
+      "df": 169,
+      "match": {
+        "type": "text",
+        "forms": [
+          "unmanned aerial"
+        ]
+      },
+      "papers": 169,
+      "top_cells": [
+        "reinforcement-learning/method",
+        "multi-agent/method",
+        "reinforcement-learning/theory",
+        "multi-agent/theory"
+      ]
+    },
+    {
+      "term": "evolutionary game",
+      "kind": "emergent",
+      "seed": false,
+      "df": 166,
+      "match": {
+        "type": "text",
+        "forms": [
+          "evolutionary game"
+        ]
+      },
+      "papers": 166,
+      "top_cells": [
+        "game-theory/theory",
+        "game-theory/systems",
+        "multi-agent/theory",
+        "decision-theory/theory"
+      ]
+    },
+    {
+      "term": "monte carlo",
+      "kind": "emergent",
+      "seed": false,
+      "df": 164,
+      "match": {
+        "type": "text",
+        "forms": [
+          "monte carlo"
+        ]
+      },
+      "papers": 164,
+      "top_cells": [
+        "bayesian-optimization/method",
+        "optimization-uncertainty/method",
+        "planning/method",
+        "decision-theory/theory"
+      ]
+    },
+    {
+      "term": "human-ai collaboration",
+      "kind": "emergent",
+      "seed": false,
+      "df": 164,
+      "match": {
+        "type": "text",
+        "forms": [
+          "human-ai collaboration"
+        ]
+      },
+      "papers": 164,
+      "top_cells": [
+        "human-ai/application",
+        "human-ai/method",
+        "human-ai/theory",
+        "decision-making/method"
+      ]
+    },
+    {
+      "term": "significant challenges",
+      "kind": "emergent",
+      "seed": false,
+      "df": 161,
+      "match": {
+        "type": "text",
+        "forms": [
+          "significant challenges"
+        ]
+      },
+      "papers": 161,
+      "top_cells": [
+        "multi-agent/method",
+        "reward/method",
+        "survey/method",
+        "reinforcement-learning/theory"
+      ]
+    },
+    {
+      "term": "clinical decision-making",
+      "kind": "emergent",
+      "seed": false,
+      "df": 158,
+      "match": {
+        "type": "text",
+        "forms": [
+          "clinical decision-making"
+        ]
+      },
+      "papers": 158,
+      "top_cells": [
+        "decision-making/method",
+        "survey/method",
+        "human-ai/method",
+        "decision-theory/theory"
+      ]
+    },
+    {
+      "term": "path planning",
+      "kind": "emergent",
+      "seed": false,
+      "df": 155,
+      "match": {
+        "type": "text",
+        "forms": [
+          "path planning"
+        ]
+      },
+      "papers": 155,
+      "top_cells": [
+        "planning/method",
+        "planning/theory",
+        "autonomous/method",
+        "reward/method"
+      ]
+    },
+    {
+      "term": "multi-objective optimization",
+      "kind": "emergent",
+      "seed": false,
+      "df": 152,
+      "match": {
+        "type": "text",
+        "forms": [
+          "multi-objective optimization"
+        ]
+      },
+      "papers": 152,
+      "top_cells": [
+        "bayesian-optimization/method",
+        "optimization-uncertainty/method",
+        "optimization-uncertainty/theory",
+        "reward/method"
+      ]
+    },
+    {
+      "term": "observable markov",
+      "kind": "emergent",
+      "seed": false,
+      "df": 151,
+      "match": {
+        "type": "text",
+        "forms": [
+          "observable markov"
+        ]
+      },
+      "papers": 151,
+      "top_cells": [
+        "mdp/theory",
+        "mdp/method",
+        "multi-agent/method",
+        "planning/method"
+      ]
+    },
+    {
+      "term": "natural language",
+      "kind": "emergent",
+      "seed": false,
+      "df": 149,
+      "match": {
+        "type": "text",
+        "forms": [
+          "natural language"
+        ]
+      },
+      "papers": 149,
+      "top_cells": [
+        "multi-agent/method",
+        "survey/method",
+        "autonomous/application",
+        "human-ai/method"
+      ]
+    },
+    {
+      "term": "optimization problems",
+      "kind": "emergent",
+      "seed": false,
+      "df": 146,
+      "match": {
+        "type": "text",
+        "forms": [
+          "optimization problems"
+        ]
+      },
+      "papers": 146,
+      "top_cells": [
+        "bayesian-optimization/method",
+        "optimization-uncertainty/method",
+        "optimization-uncertainty/theory",
+        "mdp/theory"
+      ]
+    },
+    {
+      "term": "energy management",
+      "kind": "emergent",
+      "seed": false,
+      "df": 143,
+      "match": {
+        "type": "text",
+        "forms": [
+          "energy management"
+        ]
+      },
+      "papers": 143,
+      "top_cells": [
+        "reinforcement-learning/method",
+        "reward/method",
+        "reinforcement-learning/theory",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "optimization algorithm",
+      "kind": "emergent",
+      "seed": false,
+      "df": 142,
+      "match": {
+        "type": "text",
+        "forms": [
+          "optimization algorithm"
+        ]
+      },
+      "papers": 142,
+      "top_cells": [
+        "bayesian-optimization/method",
+        "reward/method",
+        "optimization-uncertainty/method",
+        "reinforcement-learning/method"
+      ]
+    },
+    {
+      "term": "future directions",
+      "kind": "emergent",
+      "seed": false,
+      "df": 141,
+      "match": {
+        "type": "text",
+        "forms": [
+          "future directions"
+        ]
+      },
+      "papers": 141,
+      "top_cells": [
+        "survey/method",
+        "reinforcement-learning/method",
+        "multi-agent/method",
+        "decision-making/method"
+      ]
+    },
+    {
+      "term": "multi-criteria decision-making",
+      "kind": "emergent",
+      "seed": false,
+      "df": 140,
+      "match": {
+        "type": "text",
+        "forms": [
+          "multi-criteria decision-making"
+        ]
+      },
+      "papers": 140,
+      "top_cells": [
+        "decision-making/method",
+        "decision-making/theory",
+        "game-theory/theory",
+        "decision-theory/theory"
+      ]
+    },
+    {
+      "term": "edge computing",
+      "kind": "emergent",
+      "seed": false,
+      "df": 140,
+      "match": {
+        "type": "text",
+        "forms": [
+          "edge computing"
+        ]
+      },
+      "papers": 140,
+      "top_cells": [
+        "reinforcement-learning/method",
+        "reinforcement-learning/theory",
+        "multi-agent/method",
+        "multi-agent/theory"
+      ]
+    },
+    {
+      "term": "upper confidence",
+      "kind": "emergent",
+      "seed": false,
+      "df": 139,
+      "match": {
+        "type": "text",
+        "forms": [
+          "upper confidence"
+        ]
+      },
+      "papers": 139,
+      "top_cells": [
+        "bandits/theory",
+        "bandits/method",
+        "bayesian-optimization/method",
+        "bayesian-optimization/theory"
+      ]
+    },
+    {
+      "term": "valuable insights",
+      "kind": "emergent",
+      "seed": false,
+      "df": 138,
+      "match": {
+        "type": "text",
+        "forms": [
+          "valuable insights"
+        ]
+      },
+      "papers": 138,
+      "top_cells": [
+        "decision-making/method",
+        "survey/method",
+        "game-theory/theory",
+        "decision-theory/theory"
+      ]
+    },
+    {
+      "term": "make decisions",
+      "kind": "emergent",
+      "seed": false,
+      "df": 136,
+      "match": {
+        "type": "text",
+        "forms": [
+          "make decisions"
+        ]
+      },
+      "papers": 136,
+      "top_cells": [
+        "game-theory/theory",
+        "decision-making/method",
+        "decision-theory/theory",
+        "sequential/method"
+      ]
+    },
+    {
+      "term": "deterministic policy",
+      "kind": "emergent",
+      "seed": false,
+      "df": 136,
+      "match": {
+        "type": "text",
+        "forms": [
+          "deterministic policy"
+        ]
+      },
+      "papers": 136,
+      "top_cells": [
+        "reward/method",
+        "reinforcement-learning/method",
+        "reward/theory",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "confidence bound",
+      "kind": "emergent",
+      "seed": false,
+      "df": 136,
+      "match": {
+        "type": "text",
+        "forms": [
+          "confidence bound"
+        ]
+      },
+      "papers": 136,
+      "top_cells": [
+        "bandits/theory",
+        "bandits/method",
+        "bayesian-optimization/method",
+        "bayesian-optimization/theory"
+      ]
+    },
+    {
+      "term": "thompson sampling",
+      "kind": "emergent",
+      "seed": false,
+      "df": 136,
+      "match": {
+        "type": "text",
+        "forms": [
+          "thompson sampling"
+        ]
+      },
+      "papers": 136,
+      "top_cells": [
+        "bandits/theory",
+        "bandits/method",
+        "bayesian-optimization/method",
+        "sequential/method"
+      ]
+    },
+    {
+      "term": "energy storage",
+      "kind": "emergent",
+      "seed": false,
+      "df": 132,
+      "match": {
+        "type": "text",
+        "forms": [
+          "energy storage"
+        ]
+      },
+      "papers": 132,
+      "top_cells": [
+        "optimization-uncertainty/method",
+        "planning/method",
+        "planning/theory",
+        "reward/method"
+      ]
+    },
+    {
+      "term": "existing approaches",
+      "kind": "emergent",
+      "seed": false,
+      "df": 129,
+      "match": {
+        "type": "text",
+        "forms": [
+          "existing approaches"
+        ]
+      },
+      "papers": 129,
+      "top_cells": [
+        "multi-agent/method",
+        "bayesian-optimization/method",
+        "reward/method",
+        "bandits/method"
+      ]
+    },
+    {
+      "term": "wide range",
+      "kind": "emergent",
+      "seed": false,
+      "df": 128,
+      "match": {
+        "type": "text",
+        "forms": [
+          "wide range"
+        ]
+      },
+      "papers": 128,
+      "top_cells": [
+        "bayesian-optimization/method",
+        "decision-theory/theory",
+        "survey/method",
+        "reward/method"
+      ]
+    },
+    {
+      "term": "optimal policy",
+      "kind": "emergent",
+      "seed": false,
+      "df": 126,
+      "match": {
+        "type": "text",
+        "forms": [
+          "optimal policy"
+        ]
+      },
+      "papers": 126,
+      "top_cells": [
+        "mdp/theory",
+        "reward/method",
+        "mdp/method",
+        "reinforcement-learning/method"
+      ]
+    },
+    {
+      "term": "real-world applications",
+      "kind": "emergent",
+      "seed": false,
+      "df": 125,
+      "match": {
+        "type": "text",
+        "forms": [
+          "real-world applications"
+        ]
+      },
+      "papers": 125,
+      "top_cells": [
+        "bandits/theory",
+        "sequential/method",
+        "multi-agent/method",
+        "survey/method"
+      ]
+    },
+    {
+      "term": "risk assessment",
+      "kind": "emergent",
+      "seed": false,
+      "df": 125,
+      "match": {
+        "type": "text",
+        "forms": [
+          "risk assessment"
+        ]
+      },
+      "papers": 125,
+      "top_cells": [
+        "decision-making/method",
+        "game-theory/theory",
+        "human-ai/method",
+        "decision-making/theory"
+      ]
+    },
+    {
+      "term": "gaussian process",
+      "kind": "emergent",
+      "seed": false,
+      "df": 124,
+      "match": {
+        "type": "text",
+        "forms": [
+          "gaussian process"
+        ]
+      },
+      "papers": 124,
+      "top_cells": [
+        "bayesian-optimization/method",
+        "bayesian-optimization/theory",
+        "optimization-uncertainty/method",
+        "planning/theory"
+      ]
+    },
+    {
+      "term": "strategic decision-making",
+      "kind": "emergent",
+      "seed": false,
+      "df": 122,
+      "match": {
+        "type": "text",
+        "forms": [
+          "strategic decision-making"
+        ]
+      },
+      "papers": 122,
+      "top_cells": [
+        "game-theory/theory",
+        "decision-making/theory",
+        "decision-making/method",
+        "decision-theory/theory"
+      ]
+    },
+    {
+      "term": "collaborative decision-making",
+      "kind": "emergent",
+      "seed": false,
+      "df": 121,
+      "match": {
+        "type": "text",
+        "forms": [
+          "collaborative decision-making"
+        ]
+      },
+      "papers": 121,
+      "top_cells": [
+        "human-ai/theory",
+        "human-ai/method",
+        "human-ai/application",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "computational efficiency",
+      "kind": "emergent",
+      "seed": false,
+      "df": 121,
+      "match": {
+        "type": "text",
+        "forms": [
+          "computational efficiency"
+        ]
+      },
+      "papers": 121,
+      "top_cells": [
+        "planning/method",
+        "reinforcement-learning/method",
+        "bayesian-optimization/method",
+        "bandits/theory"
+      ]
+    },
+    {
+      "term": "findings suggest",
+      "kind": "emergent",
+      "seed": false,
+      "df": 118,
+      "match": {
+        "type": "text",
+        "forms": [
+          "findings suggest"
+        ]
+      },
+      "papers": 118,
+      "top_cells": [
+        "decision-making/method",
+        "human-ai/application",
+        "decision-theory/theory",
+        "bayesian-optimization/method"
+      ]
+    },
+    {
+      "term": "action space",
+      "kind": "emergent",
+      "seed": false,
+      "df": 118,
+      "match": {
+        "type": "text",
+        "forms": [
+          "action space"
+        ]
+      },
+      "papers": 118,
+      "top_cells": [
+        "reward/method",
+        "reinforcement-learning/method",
+        "mdp/method",
+        "mdp/theory"
+      ]
+    },
+    {
+      "term": "multi-agent coordination",
+      "kind": "emergent",
+      "seed": false,
+      "df": 117,
+      "match": {
+        "type": "text",
+        "forms": [
+          "multi-agent coordination"
+        ]
+      },
+      "papers": 117,
+      "top_cells": [
+        "multi-agent/method",
+        "multi-agent/theory",
+        "reinforcement-learning/method",
+        "multi-agent/systems"
+      ]
+    },
+    {
+      "term": "success rate",
+      "kind": "emergent",
+      "seed": false,
+      "df": 117,
+      "match": {
+        "type": "text",
+        "forms": [
+          "success rate"
+        ]
+      },
+      "papers": 117,
+      "top_cells": [
+        "multi-agent/method",
+        "reward/method",
+        "reinforcement-learning/method",
+        "multi-agent/theory"
+      ]
+    },
+    {
+      "term": "findings indicate",
+      "kind": "emergent",
+      "seed": false,
+      "df": 116,
+      "match": {
+        "type": "text",
+        "forms": [
+          "findings indicate"
+        ]
+      },
+      "papers": 116,
+      "top_cells": [
+        "game-theory/theory",
+        "decision-making/method",
+        "bayesian-optimization/method",
+        "human-ai/method"
+      ]
+    },
+    {
+      "term": "findings highlight",
+      "kind": "emergent",
+      "seed": false,
+      "df": 116,
+      "match": {
+        "type": "text",
+        "forms": [
+          "findings highlight"
+        ]
+      },
+      "papers": 116,
+      "top_cells": [
+        "decision-making/method",
+        "game-theory/theory",
+        "decision-theory/theory",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "decision-making problems",
+      "kind": "emergent",
+      "seed": false,
+      "df": 116,
+      "match": {
+        "type": "text",
+        "forms": [
+          "decision-making problems"
+        ]
+      },
+      "papers": 116,
+      "top_cells": [
+        "sequential/theory",
+        "sequential/method",
+        "decision-making/method",
+        "decision-theory/theory"
+      ]
+    },
+    {
+      "term": "supply chains",
+      "kind": "emergent",
+      "seed": false,
+      "df": 116,
+      "match": {
+        "type": "text",
+        "forms": [
+          "supply chains"
+        ]
+      },
+      "papers": 116,
+      "top_cells": [
+        "game-theory/theory",
+        "multi-agent/method",
+        "planning/method",
+        "optimization-uncertainty/method"
+      ]
+    },
+    {
+      "term": "complex environments",
+      "kind": "emergent",
+      "seed": false,
+      "df": 115,
+      "match": {
+        "type": "text",
+        "forms": [
+          "complex environments"
+        ]
+      },
+      "papers": 115,
+      "top_cells": [
+        "autonomous/method",
+        "multi-agent/method",
+        "reinforcement-learning/method",
+        "multi-agent/theory"
+      ]
+    },
+    {
+      "term": "aerial vehicles",
+      "kind": "emergent",
+      "seed": false,
+      "df": 115,
+      "match": {
+        "type": "text",
+        "forms": [
+          "aerial vehicles"
+        ]
+      },
+      "papers": 115,
+      "top_cells": [
+        "reinforcement-learning/method",
+        "multi-agent/method",
+        "multi-agent/theory",
+        "reward/method"
+      ]
+    },
+    {
+      "term": "reward functions",
+      "kind": "emergent",
+      "seed": false,
+      "df": 114,
+      "match": {
+        "type": "text",
+        "forms": [
+          "reward functions"
+        ]
+      },
+      "papers": 114,
+      "top_cells": [
+        "reward/method",
+        "reward/theory",
+        "reinforcement-learning/method",
+        "mdp/theory"
+      ]
+    },
+    {
+      "term": "autonomous vehicle",
+      "kind": "emergent",
+      "seed": false,
+      "df": 113,
+      "match": {
+        "type": "text",
+        "forms": [
+          "autonomous vehicle"
+        ]
+      },
+      "papers": 113,
+      "top_cells": [
+        "autonomous/method",
+        "autonomous/theory",
+        "reinforcement-learning/method",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "optimization methods",
+      "kind": "emergent",
+      "seed": false,
+      "df": 112,
+      "match": {
+        "type": "text",
+        "forms": [
+          "optimization methods"
+        ]
+      },
+      "papers": 112,
+      "top_cells": [
+        "reward/method",
+        "bayesian-optimization/method",
+        "optimization-uncertainty/method",
+        "bayesian-optimization/theory"
+      ]
+    },
+    {
+      "term": "energy efficiency",
+      "kind": "emergent",
+      "seed": false,
+      "df": 112,
+      "match": {
+        "type": "text",
+        "forms": [
+          "energy efficiency"
+        ]
+      },
+      "papers": 112,
+      "top_cells": [
+        "reinforcement-learning/method",
+        "multi-agent/method",
+        "game-theory/theory",
+        "reward/method"
+      ]
+    },
+    {
+      "term": "experiments demonstrate",
+      "kind": "emergent",
+      "seed": false,
+      "df": 110,
+      "match": {
+        "type": "text",
+        "forms": [
+          "experiments demonstrate"
+        ]
+      },
+      "papers": 110,
+      "top_cells": [
+        "reward/method",
+        "reinforcement-learning/method",
+        "sequential/method",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "traditional methods",
+      "kind": "emergent",
+      "seed": false,
+      "df": 110,
+      "match": {
+        "type": "text",
+        "forms": [
+          "traditional methods"
+        ]
+      },
+      "papers": 110,
+      "top_cells": [
+        "bayesian-optimization/method",
+        "game-theory/theory",
+        "reinforcement-learning/method",
+        "human-ai/theory"
+      ]
+    },
+    {
+      "term": "practical applications",
+      "kind": "emergent",
+      "seed": false,
+      "df": 110,
+      "match": {
+        "type": "text",
+        "forms": [
+          "practical applications"
+        ]
+      },
+      "papers": 110,
+      "top_cells": [
+        "game-theory/theory",
+        "bandits/theory",
+        "survey/method",
+        "bayesian-optimization/method"
+      ]
+    },
+    {
+      "term": "climate change",
+      "kind": "emergent",
+      "seed": false,
+      "df": 109,
+      "match": {
+        "type": "text",
+        "forms": [
+          "climate change"
+        ]
+      },
+      "papers": 109,
+      "top_cells": [
+        "planning/method",
+        "decision-making/method",
+        "game-theory/theory",
+        "planning/theory"
+      ]
+    },
+    {
+      "term": "numerical experiments",
+      "kind": "emergent",
+      "seed": false,
+      "df": 107,
+      "match": {
+        "type": "text",
+        "forms": [
+          "numerical experiments"
+        ]
+      },
+      "papers": 107,
+      "top_cells": [
+        "mdp/theory",
+        "bandits/method",
+        "planning/method",
+        "bayesian-optimization/method"
+      ]
+    },
+    {
+      "term": "bandit problem",
+      "kind": "emergent",
+      "seed": false,
+      "df": 106,
+      "match": {
+        "type": "text",
+        "forms": [
+          "bandit problem"
+        ]
+      },
+      "papers": 106,
+      "top_cells": [
+        "bandits/theory",
+        "bandits/method",
+        "sequential/method",
+        "reward/method"
+      ]
+    },
+    {
+      "term": "systematic literature",
+      "kind": "emergent",
+      "seed": false,
+      "df": 105,
+      "match": {
+        "type": "text",
+        "forms": [
+          "systematic literature"
+        ]
+      },
+      "papers": 105,
+      "top_cells": [
+        "survey/method",
+        "decision-theory/theory",
+        "decision-making/method",
+        "decision-making/theory"
+      ]
+    },
+    {
+      "term": "operational efficiency",
+      "kind": "emergent",
+      "seed": false,
+      "df": 104,
+      "match": {
+        "type": "text",
+        "forms": [
+          "operational efficiency"
+        ]
+      },
+      "papers": 104,
+      "top_cells": [
+        "human-ai/method",
+        "multi-agent/method",
+        "bayesian-optimization/method",
+        "game-theory/theory"
+      ]
+    },
+    {
+      "term": "action spaces",
+      "kind": "emergent",
+      "seed": false,
+      "df": 104,
+      "match": {
+        "type": "text",
+        "forms": [
+          "action spaces"
+        ]
+      },
+      "papers": 104,
+      "top_cells": [
+        "mdp/theory",
+        "reinforcement-learning/method",
+        "reward/method",
+        "mdp/method"
+      ]
+    },
+    {
+      "term": "significantly outperforms",
+      "kind": "emergent",
+      "seed": false,
+      "df": 103,
+      "match": {
+        "type": "text",
+        "forms": [
+          "significantly outperforms"
+        ]
+      },
+      "papers": 103,
+      "top_cells": [
+        "multi-agent/method",
+        "sequential/method",
+        "reward/method",
+        "bandits/theory"
+      ]
+    },
+    {
+      "term": "decision-making tasks",
+      "kind": "emergent",
+      "seed": false,
+      "df": 99,
+      "match": {
+        "type": "text",
+        "forms": [
+          "decision-making tasks"
+        ]
+      },
+      "papers": 99,
+      "top_cells": [
+        "sequential/method",
+        "decision-making/method",
+        "reinforcement-learning/method",
+        "autonomous/method"
+      ]
+    },
+    {
+      "term": "autonomous agents",
+      "kind": "emergent",
+      "seed": false,
+      "df": 92,
+      "match": {
+        "type": "text",
+        "forms": [
+          "autonomous agents"
+        ]
+      },
+      "papers": 92,
+      "top_cells": [
+        "multi-agent/method",
+        "autonomous/method",
+        "autonomous/theory",
+        "decision-making/method"
+      ]
+    },
+    {
+      "term": "address challenges",
+      "kind": "emergent",
+      "seed": false,
+      "df": 12,
+      "match": {
+        "type": "text",
+        "forms": [
+          "address challenges"
+        ]
+      },
+      "papers": 12,
+      "top_cells": [
+        "decision-making/method",
+        "planning/method",
+        "survey/theory",
+        "survey/method"
+      ]
+    },
+    {
+      "term": "provides comprehensive",
+      "kind": "emergent",
+      "seed": false,
+      "df": 8,
+      "match": {
+        "type": "text",
+        "forms": [
+          "provides comprehensive"
+        ]
+      },
+      "papers": 8,
+      "top_cells": [
+        "human-ai/method",
+        "decision-making/method",
+        "reinforcement-learning/theory",
+        "multi-agent/method"
+      ]
+    },
+    {
+      "term": "propose novel",
+      "kind": "emergent",
+      "seed": false,
+      "df": 6,
+      "match": {
+        "type": "text",
+        "forms": [
+          "propose novel"
+        ]
+      },
+      "papers": 6,
+      "top_cells": [
+        "multi-agent/method",
+        "optimization-uncertainty/method",
+        "autonomous/application",
+        "bandits/method"
+      ]
+    },
+    {
+      "term": "decision-making autonomous",
+      "kind": "emergent",
+      "seed": false,
+      "df": 5,
+      "match": {
+        "type": "text",
+        "forms": [
+          "decision-making autonomous"
+        ]
+      },
+      "papers": 5,
+      "top_cells": [
+        "reinforcement-learning/theory",
+        "decision-making/method",
+        "sequential/method",
+        "autonomous/theory"
+      ]
+    },
+    {
+      "term": "planning uncertainty",
+      "kind": "emergent",
+      "seed": false,
+      "df": 2,
+      "match": {
+        "type": "text",
+        "forms": [
+          "planning uncertainty"
+        ]
+      },
+      "papers": 2,
+      "top_cells": [
+        "decision-making/theory",
+        "planning/method"
+      ]
+    },
+    {
+      "term": "decision-making uncertainty",
+      "kind": "emergent",
+      "seed": false,
+      "df": 2,
+      "match": {
+        "type": "text",
+        "forms": [
+          "decision-making uncertainty"
+        ]
+      },
+      "papers": 2,
+      "top_cells": [
+        "mdp/method",
+        "optimization-uncertainty/method"
+      ]
+    },
+    {
+      "term": "optimization uncertainty",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "optimization uncertainty"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "reward/method"
+      ]
+    },
+    {
+      "term": "available https",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "available https"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "reinforcement-learning/method"
+      ]
+    },
+    {
+      "term": "proposes novel",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "proposes novel"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "bandits/method"
+      ]
+    },
+    {
+      "term": "reinforcement algorithms",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "reinforcement algorithms"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "reward/method"
+      ]
+    },
+    {
+      "term": "reinforcement algorithm",
+      "kind": "emergent",
+      "seed": false,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "reinforcement algorithm"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "reinforcement-learning/method"
+      ]
     }
   ]
 }
