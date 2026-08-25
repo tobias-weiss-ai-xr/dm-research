@@ -4,18 +4,18 @@
 
 ## Top hubs (by PageRank)
 
-- **Bayesian Optimization** — PR 0.0000, degree 0, df 526
-- **Decision Theory** — PR 0.0000, degree 0, df 427
-- **Markov Decision Processes** — PR 0.0000, degree 0, df 399
-- **Planning Under Uncertainty** — PR 0.0000, degree 0, df 364
-- **Decision Making** — PR 0.0000, degree 0, df 253
-- **Reinforcement Learning** — PR 0.0000, degree 0, df 244
-- **Surveys & Reviews** — PR 0.0000, degree 0, df 240
-- **Reward & Policy Learning** — PR 0.0000, degree 0, df 210
-- **Multi-Agent & Coordination** — PR 0.0000, degree 0, df 193
-- **Autonomous Decision Making** — PR 0.0000, degree 0, df 190
-- **Sequential Decision Making** — PR 0.0000, degree 0, df 181
-- **Game Theory** — PR 0.0000, degree 0, df 179
+- **Reinforcement Learning** — PR 0.0000, degree 0, df 1187
+- **Bayesian Optimization** — PR 0.0000, degree 0, df 1113
+- **Decision Making** — PR 0.0000, degree 0, df 1078
+- **Decision Theory** — PR 0.0000, degree 0, df 909
+- **Multi-Agent & Coordination** — PR 0.0000, degree 0, df 898
+- **Human-AI Collaboration** — PR 0.0000, degree 0, df 866
+- **Markov Decision Processes** — PR 0.0000, degree 0, df 851
+- **Sequential Decision Making** — PR 0.0000, degree 0, df 824
+- **Planning Under Uncertainty** — PR 0.0000, degree 0, df 801
+- **Surveys & Reviews** — PR 0.0000, degree 0, df 780
+- **Game Theory** — PR 0.0000, degree 0, df 759
+- **Optimization Under Uncertainty** — PR 0.0000, degree 0, df 747
 
 ## Bridge nodes (high betweenness — connect clusters)
 
