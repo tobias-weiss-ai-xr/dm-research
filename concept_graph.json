@@ -4,37 +4,37 @@
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 3626
+      "df": 3636
     },
     {
       "id": 1,
       "term": "Reinforcement Learning",
       "kind": "taxonomy",
-      "df": 1187
+      "df": 1189
     },
     {
       "id": 2,
       "term": "Bayesian Optimization",
       "kind": "taxonomy",
-      "df": 1113
+      "df": 1114
     },
     {
       "id": 3,
       "term": "Decision Making",
       "kind": "taxonomy",
-      "df": 1078
+      "df": 1079
     },
     {
       "id": 4,
       "term": "Decision Theory",
       "kind": "taxonomy",
-      "df": 909
+      "df": 910
     },
     {
       "id": 5,
       "term": "Multi-Agent & Coordination",
       "kind": "taxonomy",
-      "df": 898
+      "df": 899
     },
     {
       "id": 6,
@@ -46,19 +46,19 @@
       "id": 7,
       "term": "Human-AI Collaboration",
       "kind": "taxonomy",
-      "df": 866
+      "df": 867
     },
     {
       "id": 8,
       "term": "Markov Decision Processes",
       "kind": "taxonomy",
-      "df": 851
+      "df": 852
     },
     {
       "id": 9,
       "term": "Sequential Decision Making",
       "kind": "taxonomy",
-      "df": 824
+      "df": 827
     },
     {
       "id": 10,
@@ -88,17 +88,17 @@
       "id": 14,
       "term": "Reward & Policy Learning",
       "kind": "taxonomy",
-      "df": 727
+      "df": 730
     },
     {
       "id": 15,
-      "term": "Autonomous Decision Making",
+      "term": "Bandits & Exploration",
       "kind": "taxonomy",
-      "df": 660
+      "df": 661
     },
     {
       "id": 16,
-      "term": "Bandits & Exploration",
+      "term": "Autonomous Decision Making",
       "kind": "taxonomy",
       "df": 660
     },
@@ -106,7 +106,7 @@
       "id": 17,
       "term": "benchmark",
       "kind": "curated",
-      "df": 448
+      "df": 449
     },
     {
       "id": 18,
@@ -230,12 +230,12 @@
     {
       "source": 0,
       "target": 1,
-      "weight": 296
+      "weight": 297
     },
     {
       "source": 0,
       "target": 5,
-      "weight": 388
+      "weight": 389
     },
     {
       "source": 0,
@@ -285,7 +285,7 @@
     {
       "source": 0,
       "target": 14,
-      "weight": 267
+      "weight": 270
     },
     {
       "source": 0,
@@ -345,7 +345,7 @@
     {
       "source": 0,
       "target": 7,
-      "weight": 218
+      "weight": 219
     },
     {
       "source": 17,
@@ -405,7 +405,7 @@
     {
       "source": 0,
       "target": 9,
-      "weight": 212
+      "weight": 213
     },
     {
       "source": 2,
@@ -420,7 +420,7 @@
     {
       "source": 0,
       "target": 4,
-      "weight": 212
+      "weight": 213
     },
     {
       "source": 2,
@@ -435,7 +435,7 @@
     {
       "source": 0,
       "target": 3,
-      "weight": 241
+      "weight": 242
     },
     {
       "source": 2,
@@ -635,7 +635,7 @@
     {
       "source": 9,
       "target": 17,
-      "weight": 32
+      "weight": 33
     },
     {
       "source": 9,
@@ -794,36 +794,36 @@
     },
     {
       "source": 0,
-      "target": 15,
+      "target": 16,
       "weight": 256
     },
     {
-      "source": 15,
+      "source": 16,
       "target": 20,
       "weight": 17
     },
     {
-      "source": 15,
+      "source": 16,
       "target": 22,
       "weight": 10
     },
     {
-      "source": 15,
+      "source": 16,
       "target": 23,
       "weight": 10
     },
     {
-      "source": 15,
+      "source": 16,
       "target": 21,
       "weight": 11
     },
     {
       "source": 6,
-      "target": 15,
+      "target": 16,
       "weight": 30
     },
     {
-      "source": 15,
+      "source": 16,
       "target": 18,
       "weight": 38
     },
@@ -833,7 +833,7 @@
       "weight": 11
     },
     {
-      "source": 15,
+      "source": 16,
       "target": 24,
       "weight": 12
     },
@@ -858,12 +858,12 @@
       "weight": 18
     },
     {
-      "source": 15,
+      "source": 16,
       "target": 17,
       "weight": 32
     },
     {
-      "source": 15,
+      "source": 16,
       "target": 19,
       "weight": 21
     },
@@ -1139,8 +1139,8 @@
     },
     {
       "source": 0,
-      "target": 16,
-      "weight": 258
+      "target": 15,
+      "weight": 259
     },
     {
       "source": 12,
@@ -1154,41 +1154,41 @@
     },
     {
       "source": 6,
-      "target": 16,
+      "target": 15,
       "weight": 9
     },
     {
-      "source": 16,
+      "source": 15,
       "target": 26,
       "weight": 4
     },
     {
-      "source": 15,
+      "source": 16,
       "target": 25,
       "weight": 11
     },
     {
-      "source": 16,
+      "source": 15,
       "target": 18,
       "weight": 45
     },
     {
-      "source": 16,
+      "source": 15,
       "target": 24,
       "weight": 16
     },
     {
-      "source": 16,
+      "source": 15,
       "target": 17,
       "weight": 31
     },
     {
-      "source": 16,
+      "source": 15,
       "target": 21,
       "weight": 3
     },
     {
-      "source": 16,
+      "source": 15,
       "target": 20,
       "weight": 5
     },
@@ -1203,7 +1203,7 @@
       "weight": 3
     },
     {
-      "source": 16,
+      "source": 15,
       "target": 19,
       "weight": 9
     },
@@ -1423,7 +1423,7 @@
       "weight": 4
     },
     {
-      "source": 15,
+      "source": 16,
       "target": 26,
       "weight": 5
     },
@@ -1531,6 +1531,6 @@
   "stats": {
     "concepts": 35,
     "edges": 263,
-    "papers": 12860
+    "papers": 12875
   }
 }
