@@ -6,3 +6,4 @@ venv/
 assets/*.png
 !assets/visualizations/*.png
 experiments/
+verify-sources-report.json
