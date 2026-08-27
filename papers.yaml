@@ -309158,7 +309158,7 @@ papers:
 - title: 'Guided Riemannian Optimization (GuRO): Bridging Model Predictive Control
     and Decision Transformers'
   date: 2026-08
-  url: https://arxiv.org/abs/2608.23204v2
+  url: https://arxiv.org/abs/2608.23204
   category: decision-making
   subcategory: method
   authors:
@@ -309190,7 +309190,7 @@ papers:
 - title: 'Artificial Empathy: Towards a Framework for Unsupervised Agency Detection
     and Policy Reconstruction'
   date: 2026-08
-  url: https://arxiv.org/abs/2608.23030v1
+  url: https://arxiv.org/abs/2608.23030
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -309209,7 +309209,7 @@ papers:
 - title: Enhancing Sim2Real Transfer for Torque-Controlled Robots through Real2Sim
     Dynamics Estimation and Reinforcement Learning
   date: 2026-08
-  url: https://arxiv.org/abs/2608.22629v1
+  url: https://arxiv.org/abs/2608.22629
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -309239,7 +309239,7 @@ papers:
     policies.
 - title: Threshold Structure of Optimal Policies in Restart POMDPs
   date: 2026-08
-  url: https://arxiv.org/abs/2608.10936v1
+  url: https://arxiv.org/abs/2608.10936
   category: mdp
   subcategory: theory
   authors:
@@ -309264,7 +309264,7 @@ papers:
     the uniform boundedness of the optimal thresholds and relative value functions.
 - title: Test-Time Collaborative Classification over Multi-Agent Networks
   date: 2026-08
-  url: https://arxiv.org/abs/2608.24787v1
+  url: https://arxiv.org/abs/2608.24787
   category: multi-agent
   subcategory: method
   authors:
@@ -309295,7 +309295,7 @@ papers:
     data.
 - title: Sequential operator learning under dependent data
   date: 2026-08
-  url: https://arxiv.org/abs/2608.24426v1
+  url: https://arxiv.org/abs/2608.24426
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -309317,7 +309317,7 @@ papers:
 - title: 'AI-Augmented Inquiry and Regulation in Hybrid Systems: A Control Allocation
     Architecture for Preserving Epistemic Agency in Hybrid Human-AI Cognition'
   date: 2026-08
-  url: https://arxiv.org/abs/2608.21618v1
+  url: https://arxiv.org/abs/2608.21618
   category: human-ai
   subcategory: application
   authors:
@@ -309354,7 +309354,7 @@ papers:
     environments, and a conceptual toolkit for the governance of hybrid human-AI cognition.'
 - title: Bitcoin After Block Rewards
   date: 2026-06
-  url: https://arxiv.org/abs/2606.05503v1
+  url: https://arxiv.org/abs/2606.05503
   category: sequential
   subcategory: method
   authors:
@@ -309378,7 +309378,7 @@ papers:
     assessing Bitcoin''s security as block rewards disappear.'
 - title: 'AlgoSkill: Learning to Design Algorithms by Scheduling Human-Like Skills'
   date: 2026-06
-  url: https://arxiv.org/abs/2606.29999v1
+  url: https://arxiv.org/abs/2606.29999
   category: sequential
   subcategory: method
   authors:
@@ -309407,7 +309407,7 @@ papers:
 - title: 'Reinforcement Learning for the Full Strawberry Harvesting Process: Obstacle
     Separation, Detachment, and Placement'
   date: 2026-07
-  url: https://arxiv.org/abs/2607.14708v1
+  url: https://arxiv.org/abs/2607.14708
   category: sequential
   subcategory: method
   authors:
@@ -309436,7 +309436,7 @@ papers:
 - title: 'HiDiffTIR: Hierarchical Difficulty-Aware Policy Optimization for Multi-Turn
     Tool-Integrated Reasoning'
   date: 2026-08
-  url: https://arxiv.org/abs/2608.21863v1
+  url: https://arxiv.org/abs/2608.21863
   category: reward
   subcategory: method
   authors:
@@ -309467,7 +309467,7 @@ papers:
     LLM agents.
 - title: 'Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents'
   date: 2026-08
-  url: https://arxiv.org/abs/2608.21830v1
+  url: https://arxiv.org/abs/2608.21830
   category: reward
   subcategory: method
   authors:
@@ -309501,7 +309501,7 @@ papers:
 - title: 'FARCA: Fact-Aligned Reliability-Aware Credit Assignment for Reinforcement
     Learning with Factual Supervision'
   date: 2026-08
-  url: https://arxiv.org/abs/2608.24350v1
+  url: https://arxiv.org/abs/2608.24350
   category: reward
   subcategory: method
   authors:
@@ -309532,7 +309532,7 @@ papers:
     improves model factuality while preserving general reasoning capabilities.'
 - title: Revelation Control
   date: 2026-08
-  url: https://arxiv.org/abs/2608.23860v1
+  url: https://arxiv.org/abs/2608.23860
   category: decision-theory
   subcategory: theory
   authors:
@@ -309566,7 +309566,7 @@ papers:
 - title: 'Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework
     for Low-Cost LLM Essay Scoring'
   date: 2026-08
-  url: https://arxiv.org/abs/2608.23814v1
+  url: https://arxiv.org/abs/2608.23814
   category: bandits
   subcategory: method
   authors:
