@@ -37769,11 +37769,11 @@ papers:
     was conducted by comparing the model outputs with a legal ranking established
     by four legal experts, allowing us to verify the consistency of the algorithmic
     predictions with human legal reasoning. The results indicate that the shows the
-    highest correlation with legal evaluations ( $\rho = 0.857 ρ = 0.857 , \tau =
-    0.714 τ = 0.714 , p values < 0.05$ < 0.05 ), while performed the worst. This study
-    highlights the potential of AI in legal decision support, emphasizing the need
-    to ensure transparency and bias mitigation to comply with European Union Regulations
-    while maintaining human judgment as the central authority in legal proceedings.'
+    highest correlation with legal evaluations ( \rho = 0.857 ρ = 0.857 , \tau = 0.714
+    τ = 0.714 , p values < 0.05 < 0.05 ), while performed the worst. This study highlights
+    the potential of AI in legal decision support, emphasizing the need to ensure
+    transparency and bias mitigation to comply with European Union Regulations while
+    maintaining human judgment as the central authority in legal proceedings.'
   venue: AI & Society
 - title: 'Aligning goals, not perceptions: making space for illness perception in
     paediatric decision-making'
@@ -43275,10 +43275,10 @@ papers:
     and H_σ denote the nominal and robust optimal bias spans, respectively. We identify
     σH_0 as the perturbation scale separating high- and low-tolerance regimes. Our
     matching upper and lower bounds show that, up to logarithmic factors, the minimax
-    total sample complexity is $ NSA \asymp \frac{SA}{\varepsilon^2}\begin{cases}
-    \min\{H_0,H_σ\}, & \varepsilon\gtrsimσH_0,\\ \min\{H_0,H_σ\}+σH_σ^2, & \varepsilon\lesssimσH_0.
-    \end{cases} Here S and A are the numbers of states and actions, and N$ is the
-    number of samples per state-action pair. The sample complexity consists of a linear-span
+    total sample complexity is NSA \asymp \frac{SA}{\varepsilon^2}\begin{cases} \min\{H_0,H_σ\},
+    & \varepsilon\gtrsimσH_0,\\ \min\{H_0,H_σ\}+σH_σ^2, & \varepsilon\lesssimσH_0.
+    \end{cases} Here S and A are the numbers of states and actions, and N is the number
+    of samples per state-action pair. The sample complexity consists of a linear-span
     term that resembles the nominal AMDP results and a robustness-specific term that
     appears only in the low-tolerance regime. We attain these rates using reduction-based
     plug-in procedures that select the reduction---nominal or robust---and its discount
@@ -44585,7 +44585,7 @@ papers:
     and confidentiality lifetime). We also contrast this probabilistic view with common
     deterministic single-date Q-day planning, highlighting how tail uncertainty can
     materially change exposure estimates and recommended start years. For a representative
-    enterprise case ( $X{=}10 X = 10 years, Y{=}6$ Y = 6 years), delaying the migration
+    enterprise case ( X{=}10 X = 10 years, Y{=}6 Y = 6 years), delaying the migration
     start from 2026 to 2030 increases the expected exposed fraction of the confidentiality
     window from 0.37 to 0.54 under a midline timeline. We also provide cloud-specific
     implementation guidance (crypto inventory, hybrid TLS/QUIC and service-mesh deployments,
@@ -49646,10 +49646,10 @@ papers:
     a data-driven framework integrating a recursive multi-year forecasting engine
     with network-level Genetic Algorithm (GA) optimization. Unlike static models,
     this approach establishes a dynamic feedback loop where maintenance decisions
-    at year t update the pavement state inputs for the prediction model at year $t+1
+    at year t update the pavement state inputs for the prediction model at year t+1
     . The framework couples a Light Gradient Boosting Machine (LightGBM), with hyperparameters
     tuned via Bayesian optimization (Optuna), trained on Long-Term Pavement Performance
-    (LTPP) data ( R^2=0.88 , RMSE=0.19$ ) with a GA optimization module for resource
+    (LTPP) data ( R^2=0.88 , RMSE=0.19 ) with a GA optimization module for resource
     allocation. Using a section-based splitting strategy to prevent data leakage,
     results show this recursive integration outperforms reactive strategies, improving
     network quality by 3% while reducing maintenance costs by 22%. This framework
@@ -57684,7 +57684,7 @@ papers:
     (WQI) and entropy-weighted water quality index (EWQI) using hydrochemical and
     spatial parameters. The models achieved strong predictive performance, with nested
     cross-validation yielding low RMSE values across most folds. SHAP analysis consistently
-    identified Mn, NO $_{3}\,^{-}$ , and spatial coordinates as the most influential
+    identified Mn, NO _{3}\,^{-} , and spatial coordinates as the most influential
     predictors, whereas conventional bulk parameters such as total hardness and sulfate
     contributed minimally, particularly in the EWQI model. Uncertainty analysis showed
     that predictive variance was dominated by aleatoric contributions, while epistemic
@@ -57794,11 +57794,11 @@ papers:
   abstract: Abstract We consider a two-stage distributionally robust optimization
     (DRO) model with multimodal uncertainty, where both the mode probabilities and
     uncertainty distributions could be affected by the first-stage decisions. To address
-    this setting, we propose a generic framework by introducing a $\phi ϕ -divergence
+    this setting, we propose a generic framework by introducing a \phi ϕ -divergence
     based ambiguity set to characterize the decision-dependent mode probabilities
     and further consider both moment-based and Wasserstein distance-based ambiguity
     sets to characterize the uncertainty distribution under each mode. We identify
-    two special \phi ϕ -divergence examples (variation distance and \chi ^2$ χ 2 -distance)
+    two special \phi ϕ -divergence examples (variation distance and \chi ^2 χ 2 -distance)
     and provide specific forms of decision dependence relationships under which we
     can derive tractable reformulations. Furthermore, we investigate the benefits
     of considering multimodality in a DRO model compared to a single-modal counterpart
@@ -60247,14 +60247,14 @@ papers:
     bounded rationality and time-delay effects to analyze strategic interactions among
     Japan, other countries, and the International Atomic Energy Agency (IAEA). Through
     the construction of payoff matrices and replicator dynamic equations with delay
-    terms, the model identifies three evolutionarily stable strategies $\gamma _4(0,0,1),
+    terms, the model identifies three evolutionarily stable strategies \gamma _4(0,0,1),
     \gamma _6(1,0,1), and \gamma _8(1,1,1) under specific cost and benefit conditions.
     Numerical simulations reveal that time delays significantly influence convergence
     speed and trajectory complexity, particularly for Japan and the IAEA. Parametric
     analyses show that Japan’s decision to discharge is sensitive to storage costs
     (C_{SJ}), discharge costs (C_{DJ}), export tax revenue loss (T_{RJ}), and reputational
     damage (I_J), while other countries’ responses are shaped by litigation compensation
-    (C_{LC}) and aid to Japan (C_{HJ}$). The model also aligns with real-world developments
+    (C_{LC}) and aid to Japan (C_{HJ}). The model also aligns with real-world developments
     such as China’s conditional partial lifting of its seafood import ban in June
     2025, exemplifying the stabilizing role of credible international oversight and
     transparency. This research contributes a novel delayed-replication framework
@@ -67273,8 +67273,8 @@ papers:
     to train on at each moment; and (ii) the most relevant previous experiences to
     learn policies for new agent preferences through a novel Dyna-style MORL method.
     We prove our algorithm is guaranteed to always converge to an optimal solution
-    in a finite number of steps, or an $\epsilon -optimal solution (for a bounded
-    \epsilon $ ) if the agent can only identify sub-optimal policies. Our method monotonically
+    in a finite number of steps, or an \epsilon -optimal solution (for a bounded \epsilon
+    ) if the agent can only identify sub-optimal policies. Our method monotonically
     improves the quality of its partial solutions while learning. We also introduce
     a bound that characterizes the maximum utility loss (with respect to the optimal
     solution) incurred by intermediate policies identified by our method during learning.
@@ -167385,8 +167385,8 @@ papers:
     exploration can be achieved by defining a subset of the state-space called proxy
     set.
   venue: arXiv (Cornell University)
-- title: Certificates and Witnesses for Multi-objective $\omega $-Regular Queries
-    in Markov Decision Processes
+- title: Certificates and Witnesses for Multi-objective \omega -Regular Queries in
+    Markov Decision Processes
   date: 2025-11
   url: https://doi.org/10.1007/978-3-032-10444-1_8
   category: mdp
@@ -168894,17 +168894,17 @@ papers:
     with transitions labeled with functions over parameters. Whereas traditional Markov
     chain analysis relies on a single, fixed set of probabilities, analysing parametric
     Markov models focuses on synthesising parameter values that establish a given
-    safety or performance specification $\varphi φ . Examples are: what component
-    failure rates ensure the probability of a system breakdown to be below 0.00000001?,
-    or which failure rates maximise the performance, for instance the throughput,
-    of the system? This paper presents various analysis algorithms for parametric
-    discrete-time Markov chains and Markov decision processes. We focus on three problems:
-    (a) do all parameter values within a given region satisfy \varphi φ ?, (b) which
-    regions satisfy \varphi $ φ and which ones do not?, and (c) an approximate version
-    of (b) focusing on covering a large fraction of all possible parameter values.
-    We give a detailed account of the various algorithms, present a software tool
-    realising these techniques, and report on an extensive experimental evaluation
-    on benchmarks that span a wide range of applications.'
+    safety or performance specification \varphi φ . Examples are: what component failure
+    rates ensure the probability of a system breakdown to be below 0.00000001?, or
+    which failure rates maximise the performance, for instance the throughput, of
+    the system? This paper presents various analysis algorithms for parametric discrete-time
+    Markov chains and Markov decision processes. We focus on three problems: (a) do
+    all parameter values within a given region satisfy \varphi φ ?, (b) which regions
+    satisfy \varphi φ and which ones do not?, and (c) an approximate version of (b)
+    focusing on covering a large fraction of all possible parameter values. We give
+    a detailed account of the various algorithms, present a software tool realising
+    these techniques, and report on an extensive experimental evaluation on benchmarks
+    that span a wide range of applications.'
   venue: Formal Methods in System Design
 - title: Using Markov Random Field and Analytic Hierarchy Process to Account for Interdependent
     Criteria
@@ -170314,7 +170314,7 @@ papers:
   authors:
   - Yu. I. Sapronov
   - Nikita Yudin
-  abstract: We continue to develop the concept of studying the $\varepsilon $ -optimal
+  abstract: We continue to develop the concept of studying the \varepsilon -optimal
     policy for Average Reward Markov Decision Processes (AMDP) by reducing it to Discounted
     Markov Decision Processes (DMDP). Existing research often stipulates that the
     discount factor must not fall below a certain threshold. Typically, this threshold
@@ -195411,10 +195411,10 @@ papers:
     network backbone, which presents orders of magnitude less trainable parameters
     than deep ensembles of comparable performance. We showcase the utility of this
     method for sequential decision-making by examining the problem of composite Bayesian
-    Optimization (BO), where we aim to optimize a function $f=g\circ h , where h:X\rightarrow
+    Optimization (BO), where we aim to optimize a function f=g\circ h , where h:X\rightarrow
     C(\mathscr {Y},{\mathbb {R}}^{d_s}) is an unknown map which outputs elements of
     a function space, and g: C(\mathscr {Y},{\mathbb {R}}^{d_s})\rightarrow {\mathbb
-    {R}}$ is a known and cheap-to-compute functional. By comparing our approach to
+    {R}} is a known and cheap-to-compute functional. By comparing our approach to
     other state-of-the-art methods on toy and real world scenarios, we demonstrate
     that Neon achieves state-of-the-art performance while requiring orders of magnitude
     less trainable parameters.'
@@ -199120,14 +199120,14 @@ papers:
     strategy was modified for the infill criterion and customized to prefer exploitation
     in the decision space. In addition, a new strategy was developed for hidden constraints
     using Voronoi penalization. In the approximate Pareto Front, an absolute improvement
-    over the base design of $14\% 14 % in the underflow collection efficiency and
-    10\%$ 10 % in the total collection efficiency was achieved, which resulted in
-    the filing of a patent.* The corresponding designs were attributed to the effective
-    distribution of residence time between the trays via the removal of a vertical
-    plume. The plume also reduced both efficiencies by creating a flow path in a direction
-    that acted against effective settling. The concave down and offset tray shapes
-    demonstrated the value of Bayesian optimization in producing useful and non-intuitive
-    designs. Graphic abstract
+    over the base design of 14\% 14 % in the underflow collection efficiency and 10\%
+    10 % in the total collection efficiency was achieved, which resulted in the filing
+    of a patent.* The corresponding designs were attributed to the effective distribution
+    of residence time between the trays via the removal of a vertical plume. The plume
+    also reduced both efficiencies by creating a flow path in a direction that acted
+    against effective settling. The concave down and offset tray shapes demonstrated
+    the value of Bayesian optimization in producing useful and non-intuitive designs.
+    Graphic abstract
   venue: Optimization and Engineering
 - title: A simulation optimization approach for weight valuation in analytic hierarchy
     process
@@ -203136,12 +203136,12 @@ papers:
     and local contrast, and the clinical relevance of uncertainty maps employing correlation
     between the uncertainty measures and the dose reduction factor (DRF). Our NPB-LDPET
     reconstruction method exhibits a significantly superior global reconstruction
-    accuracy for various DRFs (paired t -test, $p<0.0001 p < 0.0001 , N =10, 631).
+    accuracy for various DRFs (paired t -test, p<0.0001 p < 0.0001 , N =10, 631).
     Moreover, we demonstrate a 21% reduction in MAE (573.54 vs. 723.70, paired t -test,
     p<0.0001 p < 0.0001 , N =28) and an 8.3% improvement in local lesion contrast
     (2.077 vs. 1.916, paired t -test, p<0.0001 p < 0.0001 , N=28). Furthermore, our
     framework exhibits a stronger correlation between the predicted uncertainty 95th
-    percentile score and the DRF ( r^2=0.9174 r 2 = 0.9174 vs. r^2=0.6144$ r 2 = 0.6144
+    percentile score and the DRF ( r^2=0.9174 r 2 = 0.9174 vs. r^2=0.6144 r 2 = 0.6144
     , N =10, 631). The proposed framework has the potential to improve clinical decision-making
     for LD PET imaging by providing a more accurate and informative reconstruction
     while reducing radiation exposure. Graphical abstract
@@ -239368,7 +239368,7 @@ papers:
   - Mengyuan Zhang
   abstract: ''
   venue: Socio-Economic Planning Sciences
-- title: A new approach for the $\epsilon -$quasi solution of nonsmooth semi-infinite
+- title: A new approach for the \epsilon -quasi solution of nonsmooth semi-infinite
     optimization problems under data uncertainty
   date: 2025-11
   url: https://doi.org/10.1007/s11117-025-01153-9
@@ -265174,7 +265174,7 @@ papers:
     The achieved results demonstrate an improvement in the sample efficiency of the
     RL training on a robotic grasping task. In particular, the learning is improved
     with respect to the baseline case of a non-evolutionary agent. The evolutionary
-    agent needs $60$ 60 % fewer samples to completely learn the grasping task, enabled
+    agent needs 60 60 % fewer samples to completely learn the grasping task, enabled
     by the adaptive transfer of knowledge between the agents through the evolutionary
     algorithm. The proposed approach also demonstrates the possibility of updating
     reward parameters during training, potentially providing a general approach to
@@ -280473,7 +280473,7 @@ papers:
     their specific characteristics. Furthermore, this work outlines the fundamentals
     of various extensions of mathematical structures from the perspective of soft
     set theory. Particularly, we present basic results of soft topology and other
-    algebraic structures such as soft algebras and $\sigma$ σ -algebras. This article
+    algebraic structures such as soft algebras and \sigma σ -algebras. This article
     examines a selection of notable applications of soft set theory in different fields,
     including medicine and economics, underscoring its versatile nature. The survey
     concludes with a discussion on the challenges and future directions in soft set
@@ -292755,14 +292755,14 @@ papers:
     allows us to use MAB strategies to balance the exploitation of good choices based
     on observed data with the exploration of potentially better options. In this paper,
     we integrate hard real-time constraints with MAB strategies for resource management
-    of a Stochastic Parallel Synchronous Task. On a platform with $M M cores available
+    of a Stochastic Parallel Synchronous Task. On a platform with M M cores available
     for the task, m\le M m ≤ M cores are initially assigned. Prior work has shown
     how to compute a virtual deadline such that assigning all M M cores to the task
     if it has not completed by this virtual deadline guarantees that the deadline
     will be met. An MAB strategy is used to select the value of m m . A Dynamic Power
     Management (DPM) energy model considering CPU sockets and sleep states is described.
     Experimental evaluation shows that MAB strategies learn consistently suitable
-    m$ m , and perform well compared to binary exponential search and greedy methods.
+    m m , and perform well compared to binary exponential search and greedy methods.
   venue: Real-Time Systems
 - title: 'Innovation Bandits: A Dynamic Portfolio Strategy with Endogenous Rewards'
   date: 2025-01
@@ -309367,15 +309367,15 @@ papers:
     fees. This paper seeks to identify the conditions under which large-scale and
     persistent deviation from honest mining can arise. We analyze and compare the
     payoffs of honest and deviating miners in a sequential decision model, and identify
-    a deviation threshold $G_t$ at which honest mining ceases to be privately optimal.
+    a deviation threshold G_t at which honest mining ceases to be privately optimal.
     Around the 2024 Bitcoin halving, we show that current mining behavior does not
     exhibit large-scale or structural deviation. However, when the block reward is
-    removed, the $G_t$ criterion implies that deviation can arise even with a very
-    small fraction of transaction fees. Finally, we evaluate three protocol-level
-    mechanisms: Base Fee, Fee Floor, and an adaptive maximum block size rule, and
-    show that their combination raises the deviation threshold and mitigates incentive
-    breakdown in a fee-only regime. These results provide a practical benchmark for
-    assessing Bitcoin''s security as block rewards disappear.'
+    removed, the G_t criterion implies that deviation can arise even with a very small
+    fraction of transaction fees. Finally, we evaluate three protocol-level mechanisms:
+    Base Fee, Fee Floor, and an adaptive maximum block size rule, and show that their
+    combination raises the deviation threshold and mitigates incentive breakdown in
+    a fee-only regime. These results provide a practical benchmark for assessing Bitcoin''s
+    security as block rewards disappear.'
 - title: 'AlgoSkill: Learning to Design Algorithms by Scheduling Human-Like Skills'
   date: 2026-06
   url: https://arxiv.org/abs/2606.29999
@@ -309592,3 +309592,410 @@ papers:
     the first application of online control mechanisms to adaptively select prompting
     strategies in AES, transforming prompt selection from an offline hyperparameter
     optimization problem into an efficient online learning task.
+- title: 'A phenomenon of AI-conformity: how algorithms change human moral decision-making'
+  date: 2026-04
+  url: https://arxiv.org/abs/2606.00013
+  category: decision-making
+  subcategory: method
+  authors:
+  - Yana Venerina
+  - Dmitry Koch
+  - Nare Meloyan
+  - Gerda Prutko
+  - Valeriia Lelik
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Social conformity is a well-documented phenomenon in which individuals
+    shift their opinions towards those of a social majority. As artificial intelligence
+    (AI) becomes increasingly integrated into everyday life it may also create a novel
+    source of influence giving rise to algorithmic conformity, mechanisms of which
+    are poorly understood. The present study examined whether AI judgements affect
+    moral decision-making in humans (n=165) adapting the classical Asch paradigm.
+    Participants completed a series of moral dilemmas under three different conditions:
+    in presence of social majority, with an AI model providing brief answers and with
+    an AI model providing both answers and explanations of its choices. In all conditions
+    the presented responses contradicted generally accepted moral norms. The results
+    indicated that an AI model with a reasoning component affected the opinion of
+    participants to a degree comparable to that of a human majority. These findings
+    suggest that even moral judgements, despite their sensitivity and personal significance,
+    may be susceptible to algorithmic conformity. However, the mechanism underlying
+    algorithmic conformity appears to differ from the social one. Overall, the study
+    challenges the assumption that moral decision-making lies in "AI inadmissibility
+    zone" - a sphere that is considered as an area in which only human-made decisions
+    are acceptable and highlights the need for a further investigation of this phenomenon
+    as AI-based recommendations become increasingly embedded into human decision-making.'
+- title: 'BVR Sim: An Open and High-Throughput Environment for Heterogeneous Air-Combat
+    Reinforcement Learning'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.25419
+  category: reinforcement-learning
+  subcategory: method
+  authors: []
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Beyond-visual-range (BVR) air combat is a challenging reinforcement-learning
+    domain characterized by partial observability, long-horizon decision making, energy
+    management, and limited weapons. We present BVR Sim, an open-source Gymnasium-style
+    environment designed for heterogeneous air-combat reinforcement learning. BVR
+    Sim supports multiple JSBSim aircraft models, including the F-15, F-16, F/A-18,
+    and F-22, with configurable weapons, sensors, controllers, and opponents. A unified
+    tactical action interface specifies desired heading, altitude, speed, and weapon
+    release above aircraft-specific inner-loop controllers, enabling policies to operate
+    across heterogeneous platforms. The environment provides interchangeable Python
+    and accelerated C++ backends, entity-oriented observations, compositional rewards,
+    scripted opponents, replay and visualization, and adapters for multi-agent learning
+    frameworks. At a 0.4-s decision interval, the C++ backend achieves 104 simulated
+    seconds per wall-clock second in 1-vs-1 and remains practical through 10-vs-10
+    scenarios. A policy trained only on the F-16 transfers without retraining to four
+    unseen aircraft, reaching a 45.5% mean win rate with aircraft-specific controller
+    adaptation. MAPPO and HAPPO experiments further verify end-to-end compatibility
+    with standard multi-agent reinforcement-learning pipelines.
+- title: Answer-Set-Programming-based Abstractions for Reinforcement Learning
+  date: 2026-05
+  url: https://arxiv.org/abs/2605.31444
+  category: reinforcement-learning
+  subcategory: method
+  authors:
+  - Rafael Bankosegger
+  - Thomas Eiter
+  - Johannes Oetsch
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Reinforcement Learning (RL) enables autonomous agents to learn policies
+    from experience, but realistic problems often involve enormous state spaces, making
+    learning and generalisation challenging. Abstraction and approximation are therefore
+    essential. Relational Reinforcement Learning (RRL) offers a way to reason about
+    objects and their relations, and the CARCASS framework by Martijn van Otterlo
+    demonstrates how logical representations can model Markov Decision Processes (MDPs)
+    in first-order domains. Originally implemented in Prolog, CARCASS leverages domain
+    knowledge to create powerful abstractions. We explore Answer-Set Programming (ASP),
+    which is a rich and, contrary to Prolog, fully declarative modelling language,
+    to realise CARCASS abstractions. We evaluate our ASP-based implementation in case
+    studies of two domains, viz. Blocks World and Minigrid. Our results indicate that
+    CARCASS with ASP provides a promising approach to constructing abstractions for
+    RL, especially when domain knowledge is available.
+- title: Dynamical Priors as a Training Objective in Reinforcement Learning
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.21464
+  category: reinforcement-learning
+  subcategory: method
+  authors:
+  - Sukesh Subaharan
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Standard reinforcement learning (RL) optimizes policies for reward but
+    imposes few constraints on how decisions evolve over time. As a result, policies
+    may achieve high performance while exhibiting temporally incoherent behavior such
+    as abrupt confidence shifts, oscillations, or degenerate inactivity. We introduce
+    Dynamical Prior Reinforcement Learning (DP-RL), a training framework that augments
+    policy gradient learning with an auxiliary loss derived from external state dynamics
+    that implement evidence accumulation and hysteresis. Without modifying the reward,
+    environment, or policy architecture, this prior shapes the temporal evolution
+    of action probabilities during learning. Across three minimal environments, we
+    show that dynamical priors systematically alter decision trajectories in task-dependent
+    ways, promoting temporally structured behavior that cannot be explained by generic
+    smoothing. These results demonstrate that training objectives alone can control
+    the temporal geometry of decision-making in RL agents.
+- title: 'ReinVBC: A Model-based Reinforcement Learning Approach to Vehicle Braking
+    Controller'
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.04401
+  category: reinforcement-learning
+  subcategory: method
+  authors:
+  - Haoxin Lin
+  - Junjie Zhou
+  - Daheng Xu
+  - Yang Yu
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Braking system, the key module to ensure the safety and steer-ability
+    of current vehicles, relies on extensive manual calibration during production.
+    Reducing labor and time consumption while maintaining the Vehicle Braking Controller
+    (VBC) performance greatly benefits the vehicle industry. Model-based methods in
+    offline reinforcement learning, which facilitate policy exploration within a data-driven
+    dynamics model, offer a promising solution for addressing real-world control tasks.
+    This work proposes ReinVBC, which applies an offline model-based reinforcement
+    learning approach to deal with the vehicle braking control problem. We introduce
+    useful engineering designs into the paradigm of model learning and utilization
+    to obtain a reliable vehicle dynamics model and a capable braking policy. Several
+    results demonstrate the capability of our method in real-world vehicle braking
+    and its potential to replace the production-grade anti-lock braking system.
+- title: 'Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms
+    to Physics-Informed Workflows'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.26016
+  category: bayesian-optimization
+  subcategory: method
+  authors:
+  - Yuki K. Wakabayashi
+  - Takuma Otsuka
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Self-driving laboratories (SDLs) are transforming materials research by
+    closing the loop among synthesis, characterization, data analysis and experimental
+    decision making. Bayesian optimization (BO) is a decision engine for these loops
+    because it can select experiments from scarce and noisy data while balancing exploitation
+    and exploration. Yet real materials campaigns often depart from the standard black-box
+    setting, involving failed or missing experiments, noise and drift, mixed variables,
+    constraints, multiple objectives, variable cost and fidelity, transfer from historical
+    data, batch or asynchronous operation, and prior physics knowledge. This review
+    presents BO for materials SDLs through the lens of these practical challenges.
+    We summarize Gaussian-process-based BO and the formulation of materials goals
+    as quantitative objectives, then discuss major choices in surrogate modelling
+    and acquisition. Particular emphasis is placed on physics-informed Bayesian optimization
+    (PIBO), in which domain knowledge enters through representations, priors, kernels,
+    acquisition functions, and constraints. We survey achievements enabled by BO and
+    related active-learning approaches across semiconductors, catalysis, chemical
+    reactions, batteries, alloys, functional materials and quantum materials, highlighting
+    advances beyond parameter optimization, including new materials and synthesis
+    routes, improved functional performance, and reusable scientific knowledge. We
+    conclude by outlining open problems for BO-driven materials SDLs, including nonstationarity,
+    multimodal observations, adaptive problem formulation, and scientific reasoning
+    by humans, large language models and research agents. Addressing these challenges
+    may advance SDLs beyond efficient optimization toward interpretable and knowledge-generating
+    experimentation.
+- title: Are Concept Bottleneck Models Effective as Decision-Support Systems?
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.25581
+  category: human-ai
+  subcategory: application
+  authors:
+  - Alessandro Bogani
+  - Nicola Debole
+  - Emanuele Marconato
+  - Andrea Pugnana
+  - Katya Tentori
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Concept Bottleneck Models (CBMs) are interpretable-by-design neural networks
+    that detect human-understandable concepts from the input and use them to generate
+    predictions. By allowing users to inspect the concepts underlying a prediction
+    and explore how predictions change under alternative concept configurations, CBMs
+    have emerged as one of the most prominent approaches to supporting human-AI collaboration.
+    However, user studies investigating their actual effectiveness as decision-support
+    systems remain limited. We present two large-scale user studies (N participants
+    = 705, N observations = 6,959) evaluating how concept-based explanations and user
+    interventions on the model''s concepts affect the performance of the human-AI
+    team in two distinct binary classification tasks. Our results show that CBMs,
+    and particularly their interactive component, can improve human-AI team accuracy
+    relative to both unaided human performance and performance with non-interpretable
+    AI support. However, these benefits emerge only under certain conditions: classification
+    tasks perceived as difficult, easily identifiable concepts, and active interaction
+    with the model. We also discuss how inaccurate concept detection may undermine
+    users'' trust in the model. Overall, this work provides practical guidance for
+    the deployment of CBMs as effective decision-support tools.'
+- title: Improving LLM Interpretability with User-Centric Chain-of-Thought Reasoning
+  date: 2026-07
+  url: https://arxiv.org/abs/2608.26166
+  category: human-ai
+  subcategory: application
+  authors:
+  - Philipp Schröppel
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Advancing reasoning capabilities allow large language models (LLMs) to
+    tackle increasingly complex problems, while reasoning traces - intermediate steps
+    toward solutions - open up high-stakes applications by enabling human inspection
+    of AI decision-making. However, current approaches prioritize model performance
+    over human interpretability, limiting effective human-AI collaboration. In this
+    study, we design and evaluate a human-centered approach that structures reasoning
+    traces based on self-contained, verifiable steps, enabling users to independently
+    assess and correct AI reasoning. Our approach uses XML-like tags to encode reasoning
+    content and metadata, facilitating targeted feedback. Evaluation on mathematical
+    reasoning tasks shows our approach maintains equivalent performance to standard
+    Chain-of-Thought reasoning while enhancing interpretability. User studies demonstrate
+    significant improvements in perceived usefulness and ease of use. This work advances
+    understanding of how user-centric design of LLM outputs can better serve human
+    collaboration needs in high-stakes AI deployments.
+- title: Equilibrium Computation in Extensive-Form Games with Stochastic Action Sets
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.13093
+  category: sequential
+  subcategory: method
+  authors:
+  - Thomas Schwarz
+  - Ryann Sim
+  - Chun Kai Ling
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Extensive-form games (EFGs) are a standard model for sequential decision-making
+    in games. A fundamental and typically implicit assumption in EFGs is that players
+    always have access to all of their actions at every decision point. However, in
+    many realistic settings, certain actions might be unavailable during game-play
+    due to exogenous stochasticity, hindering the expressivity of the standard EFG
+    model. Given a `base' EFG, we formalize a model that allows for actions to be
+    stochastically restricted, leading to a corresponding Extensive-Form Games with
+    Stochastic Action Sets (EFGSAS). In EFGSAS, we derive an expansion procedure that
+    results in an equivalent EFG, thus showing that standard strategy formalisms could
+    require exponentially-large representations. However, under an appropriate independence
+    assumption, we show that compact strategy representations polynomial in the size
+    of the base EFG exist. Computationally, we introduce an algorithm called SI-CFR
+    that minimizes sleeping internal regret, converging to Nash equilibria with high
+    probability in two-player zero-sum EFGSAS. Finally, we utilize a stochastic approximation
+    procedure to recover compact representations of Nash equilibria, utilizing only
+    the iterates of SI-CFR.
+- title: 'Learning to Distributedly Estimate under Partially Known Dynamics: A Covariance-Agnostic
+    Neural Kalman Consensus Filter'
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.28441
+  category: sequential
+  subcategory: method
+  authors:
+  - George Stamatelis
+  - Kyriakos Stylianopoulos
+  - George C. Alexandropoulos
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Online latent state estimation constitutes a fundamental challenge within
+    the artificial intelligence field, serving as a foundational tool for diverse
+    applications, including sequential decision making, anomaly and change-point detection.
+    In this paper, a novel online distributed sensing framework, where agents collaborate
+    and exchange information to perform latent state estimation, is presented. The
+    proposed estimator combines available partial domain knowledge with the representation
+    capabilities of deep neural networks. In particular, the designed sensing framework
+    incorporates prior estimates, optimized consensus weights, and Kalman-like recursive
+    updates to perform decentralized inference, without relying on knowledge of noise
+    statistics. Extensive experiments on linear, chaotic (Lorenz), and practical wireless
+    tracking environments reveal that the proposed Covariance-Agnostic Neural Kalman
+    Consensus Filter (CA-NKCF) outperforms traditional distributed Kalman and particle
+    filters as well as purely model-free deep neural networks, exhibiting robustness
+    even when the underlying motion and observation models are misspecified. It is
+    also demonstrated that CA-NKCF's performance advantage remains stable across varying
+    noise levels, random communication topologies, latent state dimensions, and observation
+    clutter densities induced by scattering objects in wireless systems.
+- title: 'Security-Aware Pinching-Antenna Systems (PASS): Physical-Layer Security
+    Transmission'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.25301
+  category: reward
+  subcategory: method
+  authors:
+  - Zhaoming Hu
+  - Xiaochen Nie
+  - Ruikang Zhong
+  - Haochen Li
+  - Dengao Li
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: This paper investigates heterogeneous secure multi-user transmission in
+    pinching-antenna systems (PASS), where dynamically adjustable pinching antennas
+    reshape both guided-wave and free-space propagation to improve communication and
+    confidentiality performance. Unlike conventional physical-layer security designs
+    that represent different security requirements merely through weights or thresholds,
+    heterogeneous services may change the logical role of each receiver for each information
+    stream. To address this issue, we establish a unified role-dependent PASS transmission
+    framework comprising low-, medium-, and high-security modes. These modes respectively
+    maximize the minimum legitimate-user rate, protect confidential streams against
+    external eavesdroppers, and further prevent non-target legitimate users from intercepting
+    unauthorized information. The resulting joint optimization of information beamforming,
+    artificial noise, and pinching-antenna positions is formulated as a long-horizon
+    continuous-control problem. Two learning-based controllers are then developed
+    to provide complementary complexity-performance tradeoffs. First, heterogeneous
+    security-aware proximal policy optimization (HSPPO) directly transforms mode-specific
+    rate and secrecy violations into normalized smooth feedback embedded in the proximal-policy-optimization
+    advantage, enabling lightweight and violation-sensitive control. Second, multi-relational
+    hierarchy-aware diffusion policy optimization (MRHA-DPO) combines a PASS-aware
+    multi-relational graph encoder, a graph-conditioned hierarchical velocity network,
+    and exact-inversion DPO training to achieve topology-aware and expressive control.
+    The proposed framework enables a common PASS platform to flexibly support service-dependent
+    confidentiality requirements while balancing online efficiency and control capability.
+- title: 'Evidence, Calibration, and Stability: A Triadic Framework for Hypothesis
+    Testing Under Model Uncertainty'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.27320
+  category: decision-theory
+  subcategory: theory
+  authors:
+  - Subir Hait
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Statistical tests are often asked to do too much. A single reported result
+    is expected to describe what the observed data say, reassure readers about repeated-sampling
+    behavior, and remain convincing when the working model is perturbed. Those tasks
+    are connected, but they are not equivalent. Fisherian inductive inference and
+    Neyman-Pearson decision theory clarify the first two; robust testing, sensitivity
+    analysis, fragility measures, multiverse analysis, and distributional-stability
+    methods speak to the third. I propose Evidence-Calibration-Stability (ECS) as
+    a framework for keeping these roles separate while reporting them together. Evidence
+    is post-data. Calibration belongs to the design or procedure. Stability is the
+    post-data distance from the benchmark analysis to a conclusion-reversing perturbation
+    within a declared model neighborhood. Full ECS support is conjunctive: a strong
+    coordinate cannot rescue a failed one. For finite-dimensional affine perturbations,
+    I derive an exact ellipsoidal stability radius. For smooth nonlinear margins,
+    a uniform quadratic-remainder condition yields a certified lower bound over a
+    declared neighborhood, showing when the affine formula is only a surrogate. I
+    also establish coordinate invariance and a matrix extension for multiple claims,
+    and distinguish confirmatory calibration from descriptive calibration profiles
+    when prespecification is unavailable. Simulations for the one-sample t test and
+    Student''s historical sleep data show that the three coordinates can lead to different
+    interpretations. ECS is a formal synthesis, not a claim that evidence, power,
+    or robustness is itself new.'
+- title: Regret Tail Characterization of Optimal Bandit Algorithms with Generic Rewards
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.14876
+  category: bandits
+  subcategory: method
+  authors:
+  - Subhodip Panda
+  - Shubhada Agrawal
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: We study the tail behavior of regret in stochastic multi-armed bandits
+    for algorithms that are asymptotically optimal in expectation. While minimizing
+    expected regret is the classical objective, recent work shows that even such algorithms
+    can exhibit heavy regret tails, incurring large regret with non-negligible probability.
+    Existing sharp characterizations of regret tails are largely restricted to parametric
+    settings, such as single-parameter exponential families. In this work, we extend
+    the \KLinf-UCB algorithm of to a broad nonparametric class of reward distributions
+    satisfying mild assumptions, and establish its asymptotic optimality in expectation.
+    We then analyze the tail behavior of its regret and derive a novel upper bound
+    on the regret tail probability. As special cases, our results recover regret-tail
+    guarantees for both bounded-support and heavy-tailed (moment-bounded) bandit models.
+    Moreover, for the special case of finitely-supported reward distributions, our
+    upper bound matches the known lower bound exactly. Our results thus provide a
+    unified and tight characterization of regret tails for asymptotically optimal
+    KL-based UCB algorithms, going beyond parametric models.
+- title: 'Surgical Video Generation From Diffusion to World Models: A Survey'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.26214
+  category: survey
+  subcategory: survey
+  authors:
+  - Fuxiang Huang
+  - Chenxu Zhang
+  - Liang Han
+  - Lei Zhang
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Surgical video data provides the primary training resource for models
+    of intraoperative perception, surgical workflow understanding, and robotic decision-making.
+    However, clinical data acquisition remains constrained by privacy, cost, and class
+    imbalance. Surgical video generation has emerged as a transformative approach
+    to addressing data scarcity and as a foundation for surgical simulation, training,
+    and robotic policy learning. The field has developed rapidly without a clear conceptual
+    framework. This survey organizes the 2024-2026 literature into three categories:
+    unconditional generation, conditional generation, and world modeling generation,
+    revealing a fundamental shift in how the task is defined from synthesizing visually
+    plausible frames to modeling the causal dynamics of surgical scenes. We examine
+    the persistent gap between pixel-level fidelity and clinical plausibility, and
+    identify generalization, physical realism, controllability, and interpretability
+    as bottlenecks. We further summarize experimental results of representative methods
+    on public datasets to provide a quantitative reference for the field. This survey
+    provides a structured overview of the current state and open challenges, offering
+    a reference for researchers working at the intersection of intelligent perception,
+    multi-modal fusion, generative AI, and surgical data science.'

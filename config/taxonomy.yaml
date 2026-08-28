@@ -1,191 +1,223 @@
-# ⚙️ Research Taxonomy & Discovery Config — Decision-Making Research
-# Regenerated: OpenAlex categories were missing; derived from the repo topic.
-
 topic:
-  name: "Decision-Making Research"
-  short: "dm"
-  description: "Reinforcement learning, planning, optimization under uncertainty, and human–AI decision processes."
-  openalex_mailto: "research@tobias-weiss-ai-xr.de"
-
+  name: Decision-Making Research
+  short: dm
+  description: Reinforcement learning, planning, optimization under uncertainty, and
+    human–AI decision processes.
+  openalex_mailto: research@tobias-weiss-ai-xr.de
 taxonomy:
   categories:
-    - id: decision-making
-      display: "Decision Making"
-    - id: reinforcement-learning
-      display: "Reinforcement Learning"
-    - id: mdp
-      display: "Markov Decision Processes"
-    - id: planning
-      display: "Planning Under Uncertainty"
-    - id: multi-agent
-      display: "Multi-Agent & Coordination"
-    - id: bayesian-optimization
-      display: "Bayesian Optimization"
-    - id: human-ai
-      display: "Human-AI Collaboration"
-    - id: sequential
-      display: "Sequential Decision Making"
-    - id: optimization-uncertainty
-      display: "Optimization Under Uncertainty"
-    - id: game-theory
-      display: "Game Theory"
-    - id: autonomous
-      display: "Autonomous Decision Making"
-    - id: reward
-      display: "Reward & Policy Learning"
-    - id: decision-theory
-      display: "Decision Theory"
-    - id: bandits
-      display: "Bandits & Exploration"
-    - id: survey
-      display: "Surveys & Reviews"
-  subcategories:
-    - id: method
-      display: "Method"
-    - id: theory
-      display: "Theory"
-    - id: application
-      display: "Application"
-    - id: survey
-      display: "Survey"
-    - id: experiment
-      display: "Experiment"
-    - id: systems
-      display: "Systems"
-    - id: development
-      display: "Development"
-
-arxiv_queries:
-  - query: 'abs:"decision making"'
-    category: decision-making
-    subcategory_hint: method
-  - query: 'abs:"reinforcement learning"'
-    category: reinforcement-learning
-    subcategory_hint: method
-  - query: 'abs:"Markov decision process"'
-    category: mdp
-    subcategory_hint: theory
-  - query: 'abs:"planning under uncertainty"'
-    category: planning
-    subcategory_hint: method
-  - query: 'abs:"multi-agent" AND abs:"decision"'
-    category: multi-agent
-    subcategory_hint: method
-  - query: 'abs:"Bayesian optimization"'
-    category: bayesian-optimization
-    subcategory_hint: method
-  - query: 'abs:"human-AI" AND abs:"decision"'
-    category: human-ai
-    subcategory_hint: application
-  - query: 'abs:"sequential decision"'
-    category: sequential
-    subcategory_hint: method
-  - query: 'abs:"optimization under uncertainty"'
-    category: optimization-uncertainty
-    subcategory_hint: method
-  - query: 'abs:"game theory" AND abs:"decision"'
-    category: game-theory
-    subcategory_hint: theory
-  - query: 'abs:"autonomous decision"'
-    category: autonomous
-    subcategory_hint: application
-  - query: 'abs:"policy optimization"'
-    category: reward
-    subcategory_hint: method
-  - query: 'abs:"decision theory"'
-    category: decision-theory
-    subcategory_hint: theory
-  - query: 'abs:"multi-armed bandit"'
-    category: bandits
-    subcategory_hint: method
-  - query: 'abs:"decision making" AND abs:"survey"'
-    category: survey
-    subcategory_hint: survey
-
-other_sources_queries:
-  - source: crossref
-    query: decision making survey review
-    category: survey
-    subcategory_hint: survey
-  - source: dblp
-    query: reinforcement learning decision
-    category: reinforcement-learning
-    subcategory_hint: method
-  - source: europepmc
-    query: planning under uncertainty application
-    category: planning
-    subcategory_hint: application
-
-openalex_queries:
-  - category: decision-making
-    query: "decision making"
-  - category: reinforcement-learning
-    query: "reinforcement learning"
-  - category: mdp
-    query: "Markov decision process"
-  - category: planning
-    query: "planning under uncertainty"
-  - category: multi-agent
-    query: "multi-agent decision making coordination"
-  - category: bayesian-optimization
-    query: "Bayesian optimization decision"
-  - category: human-ai
-    query: "human-AI collaborative decision making"
-  - category: sequential
-    query: "sequential decision making"
-  - category: optimization-uncertainty
-    query: "optimization under uncertainty"
-  - category: game-theory
-    query: "game theory decision"
-  - category: autonomous
-    query: "autonomous decision making"
-  - category: reward
-    query: "reward learning policy optimization"
-  - category: decision-theory
-    query: "decision theory"
-  - category: bandits
-    query: "multi-armed bandit exploration"
-  - category: survey
-    query: "decision making survey review"
-
-subcategory_keywords:
-  - id: theory
-    keywords: ["theory", "theoretical", "proof", "convergence", "bound", "consistency", "asymptotic"]
-  - id: method
-    keywords: ["method", "algorithm", "approach", "technique", "framework", "novel", "scheme"]
-  - id: application
-    keywords: ["application", "applied", "real-world", "case study", "empirical"]
-  - id: evaluation
-    keywords: ["benchmark", "evaluation", "comparison", "baseline", "empirical study"]
-  - id: development
-    keywords: ["implementation", "software", "package", "library", "toolkit", "open-source"]
-  - id: systems
-    keywords: ["system", "framework", "platform", "scalable", "distributed", "GPU", "parallel"]
+  - id: decision-making
+    display: Decision Making
+  - id: reinforcement-learning
+    display: Reinforcement Learning
+  - id: mdp
+    display: Markov Decision Processes
+  - id: planning
+    display: Planning Under Uncertainty
+  - id: multi-agent
+    display: Multi-Agent & Coordination
+  - id: bayesian-optimization
+    display: Bayesian Optimization
+  - id: human-ai
+    display: Human-AI Collaboration
+  - id: sequential
+    display: Sequential Decision Making
+  - id: optimization-uncertainty
+    display: Optimization Under Uncertainty
+  - id: game-theory
+    display: Game Theory
+  - id: autonomous
+    display: Autonomous Decision Making
+  - id: reward
+    display: Reward & Policy Learning
+  - id: decision-theory
+    display: Decision Theory
+  - id: bandits
+    display: Bandits & Exploration
   - id: survey
-    keywords: ["survey", "review", "literature", "tutorial", "overview", "taxonomy"]
+    display: Surveys & Reviews
+  subcategories:
+  - id: method
+    display: Method
+  - id: theory
+    display: Theory
+  - id: application
+    display: Application
+  - id: survey
+    display: Survey
   - id: experiment
-    keywords: ["experiment", "experimental", "simulation study", "numerical study", "synthetic"]
-
+    display: Experiment
+  - id: systems
+    display: Systems
+  - id: development
+    display: Development
+arxiv_queries:
+- query: abs:"decision making"
+  category: decision-making
+  subcategory_hint: method
+- query: abs:"reinforcement learning"
+  category: reinforcement-learning
+  subcategory_hint: method
+- query: abs:"Markov decision process"
+  category: mdp
+  subcategory_hint: theory
+- query: abs:"planning under uncertainty"
+  category: planning
+  subcategory_hint: method
+- query: abs:"multi-agent" AND abs:"decision"
+  category: multi-agent
+  subcategory_hint: method
+- query: abs:"Bayesian optimization"
+  category: bayesian-optimization
+  subcategory_hint: method
+- query: abs:"human-AI" AND abs:"decision"
+  category: human-ai
+  subcategory_hint: application
+- query: abs:"sequential decision"
+  category: sequential
+  subcategory_hint: method
+- query: abs:"optimization under uncertainty"
+  category: optimization-uncertainty
+  subcategory_hint: method
+- query: abs:"game theory" AND abs:"decision"
+  category: game-theory
+  subcategory_hint: theory
+- query: abs:"autonomous decision"
+  category: autonomous
+  subcategory_hint: application
+- query: abs:"policy optimization"
+  category: reward
+  subcategory_hint: method
+- query: abs:"decision theory"
+  category: decision-theory
+  subcategory_hint: theory
+- query: abs:"multi-armed bandit"
+  category: bandits
+  subcategory_hint: method
+- query: abs:"decision making" AND abs:"survey"
+  category: survey
+  subcategory_hint: survey
+other_sources_queries:
+- source: crossref
+  query: decision making survey review
+  category: survey
+  subcategory_hint: survey
+- source: dblp
+  query: reinforcement learning decision
+  category: reinforcement-learning
+  subcategory_hint: method
+- source: europepmc
+  query: planning under uncertainty application
+  category: planning
+  subcategory_hint: application
+openalex_queries:
+- category: decision-making
+  query: decision making
+- category: reinforcement-learning
+  query: reinforcement learning
+- category: mdp
+  query: Markov decision process
+- category: planning
+  query: planning under uncertainty
+- category: multi-agent
+  query: multi-agent decision making coordination
+- category: bayesian-optimization
+  query: Bayesian optimization decision
+- category: human-ai
+  query: human-AI collaborative decision making
+- category: sequential
+  query: sequential decision making
+- category: optimization-uncertainty
+  query: optimization under uncertainty
+- category: game-theory
+  query: game theory decision
+- category: autonomous
+  query: autonomous decision making
+- category: reward
+  query: reward learning policy optimization
+- category: decision-theory
+  query: decision theory
+- category: bandits
+  query: multi-armed bandit exploration
+- category: survey
+  query: decision making survey review
+subcategory_keywords:
+- id: theory
+  keywords:
+  - theory
+  - theoretical
+  - proof
+  - convergence
+  - bound
+  - consistency
+  - asymptotic
+- id: method
+  keywords:
+  - method
+  - algorithm
+  - approach
+  - technique
+  - framework
+  - novel
+  - scheme
+- id: application
+  keywords:
+  - application
+  - applied
+  - real-world
+  - case study
+  - empirical
+- id: development
+  keywords:
+  - implementation
+  - software
+  - package
+  - library
+  - toolkit
+  - open-source
+- id: systems
+  keywords:
+  - system
+  - framework
+  - platform
+  - scalable
+  - distributed
+  - GPU
+  - parallel
+- id: survey
+  keywords:
+  - survey
+  - review
+  - literature
+  - tutorial
+  - overview
+  - taxonomy
+- id: experiment
+  keywords:
+  - experiment
+  - experimental
+  - simulation study
+  - numerical study
+  - synthetic
 relevance_keywords:
-  - "decision making"
-  - "reinforcement learning"
-  - "Markov decision process"
-  - "planning"
-  - "uncertainty"
-  - "multi-agent"
-  - "Bayesian optimization"
-  - "human-AI"
-  - "policy optimization"
-  - "bandit"
-  - "game theory"
-  - "autonomous"
-
+- decision making
+- reinforcement learning
+- Markov decision process
+- planning
+- uncertainty
+- multi-agent
+- Bayesian optimization
+- human-AI
+- policy optimization
+- bandit
+- game theory
+- autonomous
 trend_keywords:
-  - "decision making"
-  - "reinforcement learning"
-  - "planning under uncertainty"
-  - "human-AI"
-  - "Bayesian optimization"
-  - "policy optimization"
-  - "multi-agent"
-  - "bandit"
+- decision making
+- reinforcement learning
+- planning under uncertainty
+- human-AI
+- Bayesian optimization
+- policy optimization
+- multi-agent
+- bandit
