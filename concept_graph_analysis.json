@@ -4,18 +4,18 @@
     "edges": 263,
     "components": 1,
     "communities": 1,
-    "modularity": -903.8062
+    "modularity": -907.0563
   },
   "nodes": [
     {
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 3636,
+      "df": 3642,
       "degree": 32,
-      "weighted_degree": 4871,
+      "weighted_degree": 4880,
       "degree_centrality": 0.9412,
-      "pagerank": 0.232055,
+      "pagerank": 0.232097,
       "betweenness": 51.7146,
       "clustering": 0.4657
     },
@@ -23,11 +23,11 @@
       "id": 6,
       "term": "survey",
       "kind": "curated",
-      "df": 888,
+      "df": 890,
       "degree": 31,
-      "weighted_degree": 1522,
+      "weighted_degree": 1527,
       "degree_centrality": 0.9118,
-      "pagerank": 0.074804,
+      "pagerank": 0.074905,
       "betweenness": 39.1312,
       "clustering": 0.4903
     },
@@ -35,11 +35,11 @@
       "id": 11,
       "term": "Surveys & Reviews",
       "kind": "taxonomy",
-      "df": 780,
+      "df": 781,
       "degree": 17,
-      "weighted_degree": 1214,
+      "weighted_degree": 1217,
       "degree_centrality": 0.5,
-      "pagerank": 0.060617,
+      "pagerank": 0.060651,
       "betweenness": 8.7851,
       "clustering": 0.5882
     },
@@ -47,11 +47,11 @@
       "id": 17,
       "term": "benchmark",
       "kind": "curated",
-      "df": 449,
+      "df": 450,
       "degree": 26,
-      "weighted_degree": 794,
+      "weighted_degree": 796,
       "degree_centrality": 0.7647,
-      "pagerank": 0.039811,
+      "pagerank": 0.039846,
       "betweenness": 13.338,
       "clustering": 0.6062
     },
@@ -63,7 +63,7 @@
       "degree": 24,
       "weighted_degree": 701,
       "degree_centrality": 0.7059,
-      "pagerank": 0.035413,
+      "pagerank": 0.035362,
       "betweenness": 12.0142,
       "clustering": 0.5797
     },
@@ -71,11 +71,11 @@
       "id": 20,
       "term": "quantitative",
       "kind": "curated",
-      "df": 281,
+      "df": 283,
       "degree": 28,
-      "weighted_degree": 643,
+      "weighted_degree": 648,
       "degree_centrality": 0.8235,
-      "pagerank": 0.035039,
+      "pagerank": 0.0352,
       "betweenness": 20.6265,
       "clustering": 0.5608
     },
@@ -87,7 +87,7 @@
       "degree": 29,
       "weighted_degree": 550,
       "degree_centrality": 0.8529,
-      "pagerank": 0.033315,
+      "pagerank": 0.033267,
       "betweenness": 34.7416,
       "clustering": 0.5197
     },
@@ -99,7 +99,7 @@
       "degree": 26,
       "weighted_degree": 620,
       "degree_centrality": 0.7647,
-      "pagerank": 0.032622,
+      "pagerank": 0.032577,
       "betweenness": 15.3226,
       "clustering": 0.5785
     },
@@ -107,13 +107,25 @@
       "id": 3,
       "term": "Decision Making",
       "kind": "taxonomy",
-      "df": 1079,
+      "df": 1080,
       "degree": 13,
       "weighted_degree": 541,
       "degree_centrality": 0.3824,
-      "pagerank": 0.029066,
+      "pagerank": 0.029027,
       "betweenness": 2.1598,
       "clustering": 0.7692
+    },
+    {
+      "id": 2,
+      "term": "Bayesian Optimization",
+      "kind": "taxonomy",
+      "df": 1115,
+      "degree": 11,
+      "weighted_degree": 564,
+      "degree_centrality": 0.3235,
+      "pagerank": 0.0284,
+      "betweenness": 0.2696,
+      "clustering": 0.9091
     },
     {
       "id": 5,
@@ -123,20 +135,8 @@
       "degree": 12,
       "weighted_degree": 565,
       "degree_centrality": 0.3529,
-      "pagerank": 0.028401,
+      "pagerank": 0.028362,
       "betweenness": 0.3252,
-      "clustering": 0.9091
-    },
-    {
-      "id": 2,
-      "term": "Bayesian Optimization",
-      "kind": "taxonomy",
-      "df": 1114,
-      "degree": 11,
-      "weighted_degree": 562,
-      "degree_centrality": 0.3235,
-      "pagerank": 0.028351,
-      "betweenness": 0.2696,
       "clustering": 0.9091
     },
     {
@@ -147,7 +147,7 @@
       "degree": 22,
       "weighted_degree": 532,
       "degree_centrality": 0.6471,
-      "pagerank": 0.028342,
+      "pagerank": 0.028301,
       "betweenness": 10.5372,
       "clustering": 0.619
     },
@@ -155,11 +155,11 @@
       "id": 7,
       "term": "Human-AI Collaboration",
       "kind": "taxonomy",
-      "df": 867,
+      "df": 869,
       "degree": 16,
       "weighted_degree": 466,
       "degree_centrality": 0.4706,
-      "pagerank": 0.02655,
+      "pagerank": 0.026517,
       "betweenness": 6.1946,
       "clustering": 0.6417
     },
@@ -167,11 +167,11 @@
       "id": 1,
       "term": "Reinforcement Learning",
       "kind": "taxonomy",
-      "df": 1189,
+      "df": 1193,
       "degree": 12,
-      "weighted_degree": 516,
+      "weighted_degree": 518,
       "degree_centrality": 0.3529,
-      "pagerank": 0.026295,
+      "pagerank": 0.026339,
       "betweenness": 0.3252,
       "clustering": 0.9091
     },
@@ -179,11 +179,11 @@
       "id": 4,
       "term": "Decision Theory",
       "kind": "taxonomy",
-      "df": 910,
+      "df": 911,
       "degree": 14,
-      "weighted_degree": 426,
+      "weighted_degree": 428,
       "degree_centrality": 0.4118,
-      "pagerank": 0.02606,
+      "pagerank": 0.026111,
       "betweenness": 5.5158,
       "clustering": 0.6813
     },
@@ -195,7 +195,7 @@
       "degree": 12,
       "weighted_degree": 453,
       "degree_centrality": 0.3529,
-      "pagerank": 0.023928,
+      "pagerank": 0.023896,
       "betweenness": 0.3252,
       "clustering": 0.9091
     },
@@ -207,7 +207,7 @@
       "degree": 23,
       "weighted_degree": 411,
       "degree_centrality": 0.6765,
-      "pagerank": 0.023137,
+      "pagerank": 0.023105,
       "betweenness": 9.9902,
       "clustering": 0.6403
     },
@@ -215,11 +215,11 @@
       "id": 9,
       "term": "Sequential Decision Making",
       "kind": "taxonomy",
-      "df": 827,
+      "df": 829,
       "degree": 14,
-      "weighted_degree": 397,
+      "weighted_degree": 398,
       "degree_centrality": 0.4118,
-      "pagerank": 0.022161,
+      "pagerank": 0.022173,
       "betweenness": 2.347,
       "clustering": 0.7582
     },
@@ -231,7 +231,7 @@
       "degree": 13,
       "weighted_degree": 396,
       "degree_centrality": 0.3824,
-      "pagerank": 0.021694,
+      "pagerank": 0.021666,
       "betweenness": 1.7157,
       "clustering": 0.8077
     },
@@ -239,11 +239,11 @@
       "id": 15,
       "term": "Bandits & Exploration",
       "kind": "taxonomy",
-      "df": 661,
+      "df": 662,
       "degree": 9,
       "weighted_degree": 381,
       "degree_centrality": 0.2647,
-      "pagerank": 0.020537,
+      "pagerank": 0.020511,
       "betweenness": 0.1615,
       "clustering": 0.9167
     },
@@ -251,11 +251,11 @@
       "id": 14,
       "term": "Reward & Policy Learning",
       "kind": "taxonomy",
-      "df": 730,
+      "df": 731,
       "degree": 7,
-      "weighted_degree": 375,
+      "weighted_degree": 376,
       "degree_centrality": 0.2059,
-      "pagerank": 0.020061,
+      "pagerank": 0.020076,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -267,7 +267,7 @@
       "degree": 25,
       "weighted_degree": 330,
       "degree_centrality": 0.7353,
-      "pagerank": 0.019418,
+      "pagerank": 0.019393,
       "betweenness": 12.5258,
       "clustering": 0.5967
     },
@@ -279,7 +279,7 @@
       "degree": 10,
       "weighted_degree": 289,
       "degree_centrality": 0.2941,
-      "pagerank": 0.016879,
+      "pagerank": 0.016859,
       "betweenness": 0.1082,
       "clustering": 0.9556
     },
@@ -291,7 +291,7 @@
       "degree": 10,
       "weighted_degree": 296,
       "degree_centrality": 0.2941,
-      "pagerank": 0.016877,
+      "pagerank": 0.016856,
       "betweenness": 0.1082,
       "clustering": 0.9556
     },
@@ -303,7 +303,7 @@
       "degree": 19,
       "weighted_degree": 264,
       "degree_centrality": 0.5588,
-      "pagerank": 0.016087,
+      "pagerank": 0.016067,
       "betweenness": 4.5742,
       "clustering": 0.6959
     },
@@ -315,7 +315,7 @@
       "degree": 10,
       "weighted_degree": 261,
       "degree_centrality": 0.2941,
-      "pagerank": 0.015476,
+      "pagerank": 0.015458,
       "betweenness": 0.05,
       "clustering": 0.9778
     },
@@ -327,7 +327,7 @@
       "degree": 20,
       "weighted_degree": 106,
       "degree_centrality": 0.5882,
-      "pagerank": 0.009463,
+      "pagerank": 0.009455,
       "betweenness": 8.367,
       "clustering": 0.6053
     },
@@ -339,7 +339,7 @@
       "degree": 11,
       "weighted_degree": 69,
       "degree_centrality": 0.3235,
-      "pagerank": 0.008112,
+      "pagerank": 0.008106,
       "betweenness": 2.8592,
       "clustering": 0.6909
     },
@@ -351,7 +351,7 @@
       "degree": 7,
       "weighted_degree": 43,
       "degree_centrality": 0.2059,
-      "pagerank": 0.006529,
+      "pagerank": 0.006525,
       "betweenness": 0.2054,
       "clustering": 0.8571
     },
@@ -363,7 +363,7 @@
       "degree": 4,
       "weighted_degree": 35,
       "degree_centrality": 0.1176,
-      "pagerank": 0.006414,
+      "pagerank": 0.00641,
       "betweenness": 0.0,
       "clustering": 1.0
     },
@@ -375,7 +375,7 @@
       "degree": 7,
       "weighted_degree": 30,
       "degree_centrality": 0.2059,
-      "pagerank": 0.005909,
+      "pagerank": 0.005907,
       "betweenness": 0.1181,
       "clustering": 0.9048
     },
@@ -387,7 +387,7 @@
       "degree": 7,
       "weighted_degree": 21,
       "degree_centrality": 0.2059,
-      "pagerank": 0.005479,
+      "pagerank": 0.005478,
       "betweenness": 0.4808,
       "clustering": 0.7143
     },
@@ -399,7 +399,7 @@
       "degree": 5,
       "weighted_degree": 12,
       "degree_centrality": 0.1471,
-      "pagerank": 0.005098,
+      "pagerank": 0.005097,
       "betweenness": 0.0625,
       "clustering": 0.9
     },
@@ -478,7 +478,7 @@
     "qualitative",
     "case study",
     "Decision Making",
-    "Multi-Agent & Coordination"
+    "Bayesian Optimization"
   ],
   "bridge_nodes": [
     "framework",
@@ -538,7 +538,7 @@
     {
       "source": "framework",
       "target": "Reward & Policy Learning",
-      "weight": 270,
+      "weight": 271,
       "edge_betweenness": 6.9024
     },
     {

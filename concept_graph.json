@@ -4,31 +4,31 @@
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 3636
+      "df": 3642
     },
     {
       "id": 1,
       "term": "Reinforcement Learning",
       "kind": "taxonomy",
-      "df": 1189
+      "df": 1193
     },
     {
       "id": 2,
       "term": "Bayesian Optimization",
       "kind": "taxonomy",
-      "df": 1114
+      "df": 1115
     },
     {
       "id": 3,
       "term": "Decision Making",
       "kind": "taxonomy",
-      "df": 1079
+      "df": 1080
     },
     {
       "id": 4,
       "term": "Decision Theory",
       "kind": "taxonomy",
-      "df": 910
+      "df": 911
     },
     {
       "id": 5,
@@ -40,13 +40,13 @@
       "id": 6,
       "term": "survey",
       "kind": "curated",
-      "df": 888
+      "df": 890
     },
     {
       "id": 7,
       "term": "Human-AI Collaboration",
       "kind": "taxonomy",
-      "df": 867
+      "df": 869
     },
     {
       "id": 8,
@@ -58,7 +58,7 @@
       "id": 9,
       "term": "Sequential Decision Making",
       "kind": "taxonomy",
-      "df": 827
+      "df": 829
     },
     {
       "id": 10,
@@ -70,7 +70,7 @@
       "id": 11,
       "term": "Surveys & Reviews",
       "kind": "taxonomy",
-      "df": 780
+      "df": 781
     },
     {
       "id": 12,
@@ -88,13 +88,13 @@
       "id": 14,
       "term": "Reward & Policy Learning",
       "kind": "taxonomy",
-      "df": 730
+      "df": 731
     },
     {
       "id": 15,
       "term": "Bandits & Exploration",
       "kind": "taxonomy",
-      "df": 661
+      "df": 662
     },
     {
       "id": 16,
@@ -106,7 +106,7 @@
       "id": 17,
       "term": "benchmark",
       "kind": "curated",
-      "df": 449
+      "df": 450
     },
     {
       "id": 18,
@@ -124,7 +124,7 @@
       "id": 20,
       "term": "quantitative",
       "kind": "curated",
-      "df": 281
+      "df": 283
     },
     {
       "id": 21,
@@ -220,7 +220,7 @@
     {
       "source": 0,
       "target": 20,
-      "weight": 111
+      "weight": 112
     },
     {
       "source": 10,
@@ -230,7 +230,7 @@
     {
       "source": 0,
       "target": 1,
-      "weight": 297
+      "weight": 299
     },
     {
       "source": 0,
@@ -240,7 +240,7 @@
     {
       "source": 0,
       "target": 17,
-      "weight": 218
+      "weight": 219
     },
     {
       "source": 5,
@@ -285,12 +285,12 @@
     {
       "source": 0,
       "target": 14,
-      "weight": 270
+      "weight": 271
     },
     {
       "source": 0,
       "target": 6,
-      "weight": 191
+      "weight": 192
     },
     {
       "source": 5,
@@ -375,7 +375,7 @@
     {
       "source": 2,
       "target": 20,
-      "weight": 17
+      "weight": 18
     },
     {
       "source": 2,
@@ -405,12 +405,12 @@
     {
       "source": 0,
       "target": 9,
-      "weight": 213
+      "weight": 214
     },
     {
       "source": 2,
       "target": 6,
-      "weight": 14
+      "weight": 15
     },
     {
       "source": 6,
@@ -420,7 +420,7 @@
     {
       "source": 0,
       "target": 4,
-      "weight": 213
+      "weight": 214
     },
     {
       "source": 2,
@@ -830,7 +830,7 @@
     {
       "source": 4,
       "target": 17,
-      "weight": 11
+      "weight": 12
     },
     {
       "source": 16,
@@ -1120,7 +1120,7 @@
     {
       "source": 6,
       "target": 20,
-      "weight": 55
+      "weight": 57
     },
     {
       "source": 6,
@@ -1210,12 +1210,12 @@
     {
       "source": 0,
       "target": 11,
-      "weight": 160
+      "weight": 161
     },
     {
       "source": 6,
       "target": 11,
-      "weight": 581
+      "weight": 582
     },
     {
       "source": 11,
@@ -1230,7 +1230,7 @@
     {
       "source": 11,
       "target": 20,
-      "weight": 61
+      "weight": 62
     },
     {
       "source": 11,
@@ -1531,6 +1531,6 @@
   "stats": {
     "concepts": 35,
     "edges": 263,
-    "papers": 12875
+    "papers": 12889
   }
 }
