@@ -1,21 +1,21 @@
 # Concept Graph Analysis
 
-**Generated:** 35 nodes, 263 edges, 1 components, 1 communities (modularity -907.056). Edges = co-occurrence.
+**Generated:** 35 nodes, 263 edges, 1 components, 1 communities (modularity -917.08). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.2321, degree 32, df 3642
-- **survey** — PR 0.0749, degree 31, df 890
-- **Surveys & Reviews** — PR 0.0607, degree 17, df 781
-- **benchmark** — PR 0.0398, degree 26, df 450
-- **dataset** — PR 0.0354, degree 24, df 405
-- **quantitative** — PR 0.0352, degree 28, df 283
-- **qualitative** — PR 0.0333, degree 29, df 228
-- **case study** — PR 0.0326, degree 26, df 354
-- **Decision Making** — PR 0.0290, degree 13, df 1080
-- **Bayesian Optimization** — PR 0.0284, degree 11, df 1115
-- **Multi-Agent & Coordination** — PR 0.0284, degree 12, df 899
-- **literature review** — PR 0.0283, degree 22, df 265
+- **framework** — PR 0.2322, degree 32, df 3664
+- **survey** — PR 0.0748, degree 31, df 893
+- **Surveys & Reviews** — PR 0.0604, degree 17, df 781
+- **benchmark** — PR 0.0399, degree 26, df 452
+- **dataset** — PR 0.0352, degree 24, df 406
+- **quantitative** — PR 0.0352, degree 28, df 284
+- **qualitative** — PR 0.0334, degree 29, df 230
+- **case study** — PR 0.0326, degree 26, df 356
+- **Decision Making** — PR 0.0289, degree 13, df 1089
+- **Multi-Agent & Coordination** — PR 0.0285, degree 12, df 910
+- **literature review** — PR 0.0284, degree 22, df 267
+- **Bayesian Optimization** — PR 0.0283, degree 11, df 1120
 
 ## Bridge nodes (high betweenness — connect clusters)
 
