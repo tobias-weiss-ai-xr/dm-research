@@ -309999,3 +309999,2431 @@ papers:
     provides a structured overview of the current state and open challenges, offering
     a reference for researchers working at the intersection of intelligent perception,
     multi-modal fusion, generative AI, and surgical data science.'
+- title: An innovative fuzzy multi-criteria decision making model for analyzing anthropogenic
+    influences on urban river water quality
+  date: 2024-11
+  url: https://doi.org/10.1007/s42044-024-00211-x
+  category: decision-making
+  subcategory: theory
+  authors:
+  - Ajoy Kanti Das
+  - Nandini Gupta
+  - Tahir Mahmood
+  abstract: ''
+  venue: Iran Journal of Computer Science
+- title: AI-Driven Decision-Making Applications in Pharmaceutical Sciences
+  date: 2024-01
+  url: https://doi.org/10.4018/979-8-3693-0639-0.ch001
+  category: decision-making
+  subcategory: method
+  authors:
+  - Bancha Yingngam
+  - Abhiruj Navabhatra
+  - Polpan Sillapapibool
+  abstract: This chapter explores AI's influence on pharmaceutical sciences, highlighting
+    its enhancement of traditional design methodologies. It explores AI's transformational
+    role in key sectors, including drug discovery, virtual screening, and drug formulation
+    development. AI's ability to efficiently identify potential drug candidates from
+    large chemical libraries and its use of optimization algorithms in the selection
+    of suitable excipients and dosage forms are discussed. The chapter also emphasizes
+    AI's significance in improving pharmaceutical manufacturing processes through
+    parameter refinement, quality outcome prediction, and real-time anomaly detection.
+    The integration of traditional design methods with AI ensures robust, reliable,
+    AI-driven processes that are compliant with regulations. In conclusion, the chapter
+    highlights the potential of AI in pharmaceutical sciences and the importance of
+    its integration with traditional design methods. This approach empowers scientists
+    to innovate, speed up drug development, and improve patient outcomes.
+  venue: Advances in media, entertainment and the arts (AMEA) book series
+- title: The Relationship Between the Emotional Intelligence and Clinical Decision-Making
+    Among Nurses in Neonatal Intensive Care Units
+  date: 2025-02
+  url: https://doi.org/10.1177/23779608251321352
+  category: decision-making
+  subcategory: method
+  authors:
+  - Ahmad Ayed
+  abstract: 'Introduction Emotional intelligence (EI) is crucial for managing stress,
+    enhancing well-being, and improving clinical decision-making (CDM). In neonatal
+    intensive care units (NICUs), where rapid decisions, emotional demands, and complex
+    interactions are common, understanding how EI supports CDM is key to ensuring
+    high-quality care and effective outcomes. Objective This study aimed to explore
+    the relationship between EI and CDM among NICU nurses. Methods The study was cross-sectional
+    in design and used a convenience sample of 178 NICU nurses. Data collection gathered
+    by paper-based between 10 January and 10 April 2024, employing the “Schutte Self-Report
+    Emotional Intelligence Test” and the “CDM Scale.” Results The analysis revealed
+    that the average EI score among participants was 151.9 ± 1.7 (range: 33–165, CI
+    = 151.613–152.096), reflecting a high level of EI. High EI in the NICU context
+    is characterized by nurses’ ability to manage their own stress effectively, empathize
+    with families facing emotional distress, and maintain composure in high-pressure
+    situations. Similarly, participants demonstrated a high level of CDM, with an
+    average score of 179.6 ± 8.6 (range: 40–200, CI = 178.349–180.770). High CDM involves
+    making accurate and timely clinical decisions, such as assessing neonatal conditions,
+    prioritizing interventions, and collaborating with interdisciplinary teams to
+    ensure optimal outcomes. A significant positive relationship was found between
+    EI and CDM ( r = 0.53, p < .001, effect size = 0.8). Furthermore, EI was a significant
+    predictor of enhanced accuracy, timeliness, and prioritization in CDM ( p < .001,
+    CI = 1.991–3.337). Conclusion Nurses in NICUs demonstrated both high EI and strong
+    CDM skills. A positive association between these two variables was evident.'
+  venue: SAGE Open Nursing
+- title: Influence of Artificial Intelligence on Engineering Management Decision-Making
+    with Mediating Role of Transformational Leadership
+  date: 2024-12
+  url: https://doi.org/10.3390/systems12120570
+  category: decision-making
+  subcategory: theory
+  authors:
+  - Abdullah Abositta
+  - Muri Wole Adedokun
+  - Ayşen Berberoğlu
+  abstract: The relationship between AI and management decision-making has received
+    increasing attention in the literature, but the impact of AI on managerial decision-making
+    through transformational leadership has not yet been thoroughly examined. Thus,
+    this study investigates the impact of artificial intelligence on engineering management
+    decision-making through transformational leadership. The participants include
+    385 employees drawn from manufacturing, construction, and information technology
+    firms in Turkey. The data were processed using WarpPLS (7.0), and the estimation
+    was conducted with the use of “partial least squares structural equation modeling
+    (PLS-SEM)”. A positive and significant direct influence of “artificial intelligence”
+    and “transformational leadership” on engineering management decision-making practices
+    was demonstrated in this study, while transformational leadership was also found
+    to have a significant mediating role in the relationship between artificial intelligence
+    and engineering management decision-making practices. This study concluded with
+    theoretical and practical implications for policymakers in the engineering industry
+    by providing an integrated framework that allows for a nuanced examination of
+    how AI impacts engineering management decision-making. It accounts for individual
+    perceptions, leadership influences, and organizational adaptations, providing
+    a comprehensive lens through which to analyze the complex interplay between AI
+    technology, leadership, and decision-making processes in engineering management
+    contexts. In addition, the findings of our study have significant implications
+    for engineers and for governments creating standards to help preserve engineering
+    businesses. Leaders and practitioners should research the instillation of values
+    inherent to AI for an organization like engineering businesses to ensure that
+    AI is being used to enable effective decision-making towards ensuring the accomplishment
+    of their sustainable competitive advantage.
+  venue: Systems
+- title: 'Building Human-Like Artificial Agents: A General Cognitive Algorithm for
+    Emulating Human Decision-Making in Dynamic Environments'
+  date: 2023-10
+  url: https://doi.org/10.1177/17456916231196766
+  category: decision-making
+  subcategory: theory
+  authors:
+  - Cleotilde González
+  abstract: One of the early goals of artificial intelligence (AI) was to create algorithms
+    that exhibited behavior indistinguishable from human behavior (i.e., human-like
+    behavior). Today, AI has diverged, often aiming to excel in tasks inspired by
+    human capabilities and outperform humans, rather than replicating human cogntion
+    and action. In this paper, I explore the overarching question of whether computational
+    algorithms have achieved this initial goal of AI. I focus on dynamic decision-making,
+    approaching the question from the perspective of computational cognitive science.
+    I present a general cognitive algorithm that intends to emulate human decision-making
+    in dynamic environments, as defined in instance-based learning theory (IBLT).
+    I use the cognitive steps proposed in IBLT to organize and discuss current evidence
+    that supports some of the human-likeness of the decision-making mechanisms. I
+    also highlight the significant gaps in research that are required to improve current
+    models and to create higher fidelity in computational algorithms to represent
+    human decision processes. I conclude with concrete steps toward advancing the
+    construction of algorithms that exhibit human-like behavior with the ultimate
+    goal of supporting human dynamic decision-making.
+  venue: Perspectives on Psychological Science
+- title: Fostering effective hybrid human-LLM reasoning and decision making
+  date: 2025-01
+  url: https://doi.org/10.3389/frai.2024.1464690
+  category: decision-making
+  subcategory: theory
+  authors:
+  - Andrea Passerini
+  - Aryo Pradipta Gema
+  - Pasquale Minervini
+  abstract: The impressive performance of modern Large Language Models (LLMs) across
+    a wide range of tasks, along with their often non-trivial errors, has garnered
+    unprecedented attention regarding the potential of AI and its impact on everyday
+    life. While considerable effort has been and continues to be dedicated to overcoming
+    the limitations of current models, the potentials and risks of human-LLM collaboration
+    remain largely underexplored. In this perspective, we argue that enhancing the
+    focus on human-LLM interaction should be a primary target for future LLM research.
+    Specifically, we will briefly examine some of the biases that may hinder effective
+    collaboration between humans and machines, explore potential solutions, and discuss
+    two broader goals-mutual understanding and complementary team performance-that,
+    in our view, future research should address to enhance effective human-LLM reasoning
+    and decision-making.
+  venue: Frontiers in Artificial Intelligence
+- title: How was my performance? Exploring the role of anchoring bias in AI-assisted
+    decision making
+  date: 2025-02
+  url: https://doi.org/10.1016/j.ijinfomgt.2025.102875
+  category: decision-making
+  subcategory: method
+  authors:
+  - Lemuria Carter
+  - Dapeng Liu
+  abstract: 'Organizations leverage artificial intelligence (AI) to analyze data and
+    support decision making. However, the integration of AI into organizational workflows
+    may introduce unintended biases. Despite the proliferation of AI in organizations,
+    no study to date has juxtaposed the impact of human and AI recommendations on
+    decision making. Using two controlled experiments of 775 managers, we explore
+    the impact of AI and cognitive bias on performance appraisal ratings. In particular,
+    we examine anchoring and adjustment bias and present an effective strategy for
+    mitigating this bias. The findings show managers’ performance ratings are impacted
+    by the presence of an AI recommendation. The source of the recommendation (human
+    or AI) interacted with the anchor (high or low) to influence managers’ rating.
+    In particular, a high-anchor produced different performance ratings for each source.
+    However, when exposed to a low-anchor, supervisors did not produce varied estimates
+    from AI and non-AI recommendations. These findings suggest managers should be
+    aware of the differential effects of anchoring and adjustment bias on organizational
+    decisions. An employee’s performance may be rated differently, not because of
+    the employee’s behavior, but because of the source of the recommendation and the
+    magnitude of the anchor. This paper makes several significant contributions: (1)
+    it is among the first studies to empirically test the presence and salience of
+    anchoring bias in AI-assisted decision making; (2) it presents the consider-the-opposite
+    strategy as an approach to effectively debias the anchoring effects of AI recommendations.
+    • Using two experiments, we explore AI and cognitive bias in performance appraisal
+    ratings. • The source of the recommendation (human or AI) interacts with the anchor.
+    • Managers should be aware of the differential effects of anchoring and adjustment
+    bias. • The consider-the-opposite strategy is an approach to effectively debias
+    the anchoring effects.'
+  venue: International Journal of Information Management
+- title: Evidence-based scientific thinking and decision-making in everyday life
+  date: 2024-08
+  url: https://doi.org/10.1186/s41235-024-00578-2
+  category: decision-making
+  subcategory: method
+  authors:
+  - Caitlin Dawson
+  - Hanna Julku
+  - Milla Pihlajamäki
+  abstract: In today's knowledge economy, it is critical to make decisions based on
+    high-quality evidence. Science-related decision-making is thought to rely on a
+    complex interplay of reasoning skills, cognitive styles, attitudes, and motivations
+    toward information. By investigating the relationship between individual differences
+    and behaviors related to evidence-based decision-making, our aim was to better
+    understand how adults engage with scientific information in everyday life. First,
+    we used a data-driven exploratory approach to identify four latent factors in
+    a large set of measures related to cognitive skills and epistemic attitudes. The
+    resulting structure suggests that key factors include curiosity and positive attitudes
+    toward science, prosociality, cognitive skills, and openmindedness to new information.
+    Second, we investigated whether these factors predicted behavior in a naturalistic
+    decision-making task. In the task, participants were introduced to a real science-related
+    petition and were asked to read six online articles related to the petition, which
+    varied in scientific quality, while deciding how to vote. We demonstrate that
+    curiosity and positive science attitudes, cognitive flexibility, prosociality
+    and emotional states, were related to engaging with information and discernment
+    of evidence reliability. We further found that that social authority is a powerful
+    cue for source credibility, even above the actual quality and relevance of the
+    sources. Our results highlight that individual motivating factors toward information
+    engagement, like curiosity, and social factors such as social authority are important
+    drivers of how adults judge the credibility of everyday sources of scientific
+    information.
+  venue: Cognitive Research Principles and Implications
+- title: 'Exploring the role of ChatGPT in clinical decision-making in otorhinolaryngology:
+    a ChatGPT designed study'
+  date: 2024-02
+  url: https://doi.org/10.1007/s00405-024-08498-z
+  category: decision-making
+  subcategory: theory
+  authors:
+  - Francisco Teixeira-Marques
+  - Nuno Medeiros
+  - Francisco Nazaré
+  abstract: ''
+  venue: European Archives of Oto-Rhino-Laryngology
+- title: 'Reinforcement learning for data center energy efficiency optimization: A
+    systematic literature review and research roadmap'
+  date: 2025-03
+  url: https://doi.org/10.1016/j.apenergy.2025.125734
+  category: reinforcement-learning
+  subcategory: method
+  authors:
+  - Hussain Kahil
+  - Shiva Sharma
+  - Petri Välisuo
+  abstract: With today’s challenges posed by climate change , global attention is
+    increasingly focused on reducing energy consumption within sustainable communities.
+    As significant energy consumers, data centers represent a crucial area for research
+    in energy efficiency optimization. To address this issue, various algorithms have
+    been employed to develop sophisticated solutions for data center systems. Recently,
+    Reinforcement Learning (RL) and its advanced counterpart, Deep Reinforcement Learning
+    (DRL), have demonstrated promising potential in improving data center energy efficiency.
+    However, a comprehensive review of the deployment of these algorithms remains
+    limited. In this systematic review, we explore the application of RL/DRL algorithms
+    for optimizing data center energy efficiency, with a focus on optimizing the operation
+    of cooling systems and Information and Communication Technology (ICT) processes,
+    including task scheduling , resource allocation , virtual machine (VM) consolidation/placement,
+    and network traffic control. Following the Preferred Reporting Items for Systematic
+    review and Meta-Analysis (PRISMA) protocol, we provide a detailed overview of
+    the methodologies and objectives of 65 identified studies, along with an in-depth
+    analysis of their energy-related results. We also summarize key aspects of these
+    studies, including benchmark comparisons, experimental setups, datasets, and implementation
+    platforms. Additionally, we present a structured qualitative comparison of the
+    Markov Decision Process (MDP) elements for joint optimization studies. Our findings
+    highlight vital research gaps, including the lack of real-time validation for
+    developed algorithms and the absence of multi-scale standardized metrics for reporting
+    energy efficiency improvements. Furthermore, we propose joint optimization of
+    multi-system objectives as a promising direction for future research.
+  venue: Applied Energy
+- title: Reinforcement learning of adaptive control strategies
+  date: 2024-01
+  url: https://doi.org/10.1038/s44271-024-00055-y
+  category: reinforcement-learning
+  subcategory: method
+  authors:
+  - Leslie Held
+  - Luc Vermeylen
+  - David Dignath
+  abstract: Humans can up- or downregulate the degree to which they rely on task information
+    for goal-directed behaviour, a process often referred to as cognitive control.
+    Adjustments in cognitive control are traditionally studied in response to experienced
+    or expected task-rule conflict. However, recent theories suggest that people can
+    also learn to adapt control settings through reinforcement. Across three preregistered
+    task switching experiments (n = 415), we selectively rewarded correct performance
+    on trials with either more (incongruent) or less (congruent) task-rule conflict.
+    Results confirmed the hypothesis that people rewarded more on incongruent trials
+    showed smaller task-rule congruency effects, thus optimally adapting their control
+    settings to the reward scheme. Using drift diffusion modelling, we further show
+    that this reinforcement of cognitive control may occur through conflict-dependent
+    within-trial adjustments of response thresholds after conflict detection. Together,
+    our findings suggest that, while people remain more efficient at learning stimulus-response
+    associations through reinforcement, they can similarly learn cognitive control
+    strategies through reinforcement.
+  venue: Communications Psychology
+- title: Combining Motion Planner and Deep Reinforcement Learning for UAV Navigation
+    in Unknown Environment
+  date: 2023-11
+  url: https://doi.org/10.1109/lra.2023.3334978
+  category: reinforcement-learning
+  subcategory: method
+  authors:
+  - Yuntao Xue
+  - Weisheng Chen
+  abstract: Navigation of unmanned aerial vehicles (UAVs) in unknown environments
+    is a challenging problem, and it is worth considering how to reach the target
+    through static obstacles in a safe and energy-efficient manner. The traditional
+    motion planning algorithm is easy to get into trouble when the obstacles are dense.
+    The navigation algorithm based on reinforcement learning has better generalization
+    and robustness, but the trajectory generated by the end-to-end method is not smooth
+    and dynamic enough. In this work, a classical motion planning algorithm and deep
+    reinforcement learning (DRL) algorithm are combined named RLPlanNav, which aims
+    to solve the problem of safe and dynamic navigation of UAVs in unknown environments.
+    The upper-layer DRL algorithm part of the framework receives the sensor raw information
+    to generate the next local target, and the lower-layer classical planner generates
+    a smooth and safe trajectory to reach the target. The DRL algorithm incorporates
+    an LSTM network to add memory capabilities, thereby ensuring the effectiveness
+    of local target selections. The proposed navigation framework is tested in a simulated
+    environment where static obstacles are randomly generated, and has higher navigation
+    success rates and more kinematic-compliant navigation trajectories compared to
+    traditional motion planning methods and end-to-end methods.
+  venue: IEEE Robotics and Automation Letters
+- title: Deep reinforcement learning-based plug-in electric vehicle charging/discharging
+    scheduling in a home energy management system
+  date: 2025-01
+  url: https://doi.org/10.1016/j.energy.2025.134420
+  category: reinforcement-learning
+  subcategory: systems
+  authors:
+  - Shaza H. Mansour
+  - Sarah M. Azzam
+  - Hany M. Hasanien
+  abstract: ''
+  venue: Energy
+- title: 'FedAEB: Deep Reinforcement Learning Based Joint Client Selection and Resource
+    Allocation Strategy for Heterogeneous Federated Learning'
+  date: 2024-01
+  url: https://doi.org/10.1109/tvt.2024.3359860
+  category: reinforcement-learning
+  subcategory: theory
+  authors:
+  - Feng Zheng
+  - Yuze Sun
+  - Bin Ni
+  abstract: Recently, federated learning (FL) has become a promising distributed learning
+    technology by collaboratively training shared learning models on clients. However,
+    due to the statistical heterogeneity of clients and differences in computing and
+    communication resources, the convergence speed and accuracy of FL may decrease.
+    The energy consumption and latency performance of clients may also be affected.
+    To achieve a flexible balance between FL's model performance, overall energy consumption,
+    and latency, thereby meeting customized requirements, we propose a deep reinforcement
+    learning based FL framework called FedAEB. It adopts a dynamic optimization method
+    based on the Soft Actor-Critic network for client selection and resource allocation,
+    which can effectively adapt to complex and time-varying systems. The weight factors
+    that balance optimization variables can be flexibly adjusted according to different
+    application needs. Many experiments have been conducted on well-known and state-of-the-art
+    datasets, demonstrating that our FedAEB outperforms the benchmark method in reward
+    values, learning accuracy, energy consumption, and latency performance.
+  venue: IEEE Transactions on Vehicular Technology
+- title: 'Optimizing anti-collision strategy for MASS: A safe reinforcement learning
+    approach to improve maritime traffic safety'
+  date: 2024-04
+  url: https://doi.org/10.1016/j.ocecoaman.2024.107161
+  category: reinforcement-learning
+  subcategory: method
+  authors:
+  - Chengbo Wang
+  - Xinyu Zhang
+  - Hongbo Gao
+  abstract: ''
+  venue: Ocean & Coastal Management
+- title: Enhancing cotton irrigation with distributional actor–critic reinforcement
+    learning
+  date: 2024-12
+  url: https://doi.org/10.1016/j.agwat.2024.109194
+  category: reinforcement-learning
+  subcategory: theory
+  authors:
+  - Yi Chen
+  - Meiwei Lin
+  - Zhuo Yu
+  abstract: Accurate predictions of irrigation’s impact on crop yield are crucial
+    for effective decision-making. However, current research predominantly focuses
+    on the relationship between irrigation events and soil moisture, often neglecting
+    the physiological state of the crops themselves. This study introduces a novel
+    intelligent irrigation approach based on distributional reinforcement learning,
+    ensuring that the algorithm simultaneously considers weather, soil, and crop conditions
+    to make optimal irrigation decisions for long-term benefits. To achieve this,
+    we collected climate data from 1980 to 2024 and conducted a two-year cotton planting
+    experiment in 2023 and 2024. We used soil and plant state indicators from 5 experimental
+    groups with varying irrigation treatments to calibrate and validate the DSSAT
+    model. Subsequently, we innovatively integrated a distributional reinforcement
+    learning method—an effective machine learning technique for continuous control
+    problems. Our algorithm focuses on 17 indicators, including crop leaf area, stem
+    leaf count, and soil evapotranspiration, among others. Through a well-designed
+    network structure and cumulative rewards, our approach effectively captures the
+    relationships between irrigation events and these states. Additionally, we validated
+    the robustness and generalizability of the model using three years of extreme
+    weather data and two consecutive years of cross-site observations. This method
+    surpasses previous irrigation strategies managed by standard reinforcement learning
+    techniques (e.g., DQN). Empirical results indicate that our approach significantly
+    outperforms traditional agronomic decision-making, enhancing cotton yield by 13.6%
+    and improving water use efficiency per kilogram of crop by 6.7%. In 2024, our
+    method was validated in actual field experiments, achieving the highest yield
+    among all approaches, with a 12.9% increase compared to traditional practices.
+    Our research provides a robust framework for intelligent cotton irrigation in
+    the region and offers promising new directions for implementing smart agricultural
+    decision systems across diverse areas. • Our algorithm increased cotton yield
+    13.6%, reduced water usage 6.7%. • State space with 17 variables boosts irrigation,
+    improves convergence by 3.5%. • Actor–critic network cuts overestimation, demonstrating
+    robustness for irrigation.
+  venue: Agricultural Water Management
+- title: 'Reinforcement learning-based computation offloading in edge computing: Principles,
+    methods, challenges'
+  date: 2024-07
+  url: https://doi.org/10.1016/j.aej.2024.07.049
+  category: reinforcement-learning
+  subcategory: method
+  authors:
+  - Zhongqiang Luo
+  - Xiangchen Dai
+  abstract: With the rapid development of mobile communication technologies and Internet
+    of Things (IoT) devices, Multi-Access Edge Computing (MEC) has become one of the
+    most potential technologies for wireless communication. In MEC systems, faster
+    and more reliable data processing can be provided to IoT devices through computation
+    offloading, but edge servers have limited computing and storage resources. The
+    prerequisite for whether an IoT device can offload a computation task to an edge
+    server for processing is whether the edge server has enough remaining available
+    resources and whether the edge server caches the services related to the task,
+    followed by finding the best way to offload the task. Therefore, to process tasks
+    efficiently, offloading decisions, resource allocation, and edge caching need
+    to be jointly considered during offloading tasks to edge servers. Reinforcement
+    Learning (RL) has recently emerged as a key technique for solving the computation
+    offloading problem in MEC, and a large number of optimization methods have emerged.
+    In this context, we provide a comprehensive survey of RL-based computation offloading
+    fundamental principles and theories in MEC, including mechanisms for finding optimal
+    offloading decisions, methods for joint resource allocation, and means for joint
+    edge caching. In addition, we also discuss the challenges and future work of RL-based
+    computation offloading methods.
+  venue: Alexandria Engineering Journal
+- title: 'Mobility-Aware Dependent Task Offloading in Edge Computing: A Digital Twin-Assisted
+    Reinforcement Learning Approach'
+  date: 2024-11
+  url: https://doi.org/10.1109/tmc.2024.3506221
+  category: reinforcement-learning
+  subcategory: method
+  authors:
+  - Xiangchun Chen
+  - Jiannong Cao
+  - Yuvraj Sahni
+  abstract: Collaborative edge computing (CEC) has emerged as a promising paradigm,
+    enabling edge nodes to collaborate and execute tasks from end devices. Task offloading
+    is a fundamental problem in CEC that decides when and where tasks are executed
+    upon the arrival of tasks. However, the mobility of users often results in unstable
+    connections, leading to network failures and resource underutilization. Existing
+    works have not adequately addressed joint mobility-aware dependent task offloading
+    and network flow scheduling, resulting in network congestion and suboptimal performance.
+    To address this, we formulate an online joint mobility-aware dependent task offloading
+    and bandwidth allocation problem, to improve the quality of service by reducing
+    task completion time and energy consumption. We introduce a Mobility-aware Digital
+    Twin-assisted Deep Reinforcement Learning (MDT-DRL) algorithm. Our digital twin
+    model equips the reinforcement learning process by providing future states of
+    mobile users, enabling efficient offloading plans for adapting to the mobile CEC
+    system. Experimental results on real-world and synthetic datasets show that MDT-DRL
+    surpasses state-of-the-art baselines on average task completion time and energy
+    consumption.
+  venue: IEEE Transactions on Mobile Computing
+- title: A Reinforcement Learning Approach for Intelligent Conversational Chatbot
+    For Enhancing Mental Health Therapy
+  date: 2024-01
+  url: https://doi.org/10.1016/j.procs.2024.04.087
+  category: reinforcement-learning
+  subcategory: method
+  authors:
+  - Abdulqahar Mukhtar Abubakar
+  - Deepa Gupta
+  - Shantipriya Parida
+  abstract: Mental health therapy plays a crucial role in addressing the growing challenges
+    of mental health disorders. However, barriers such as limited accessibility and
+    social stigma often hinder individuals from seeking timely and effective support.
+    Advancement in the field of Artificial Intelligence (AI) and Natural Language
+    Processing (NLP) has enabled the development of Chatbots which can simulate counseling
+    conversations and provide support to those who seek help. However, existing chatbots
+    often lack contextual understanding, limit user responses to multiple-choice questions,
+    and face challenges in generating human-like responses. In this work, we present
+    an Intelligent Conversational Agent using Reinforcement Learning with Human Feedback
+    (RLHF) for mental health therapy support. The proposed system employs reinforcement
+    learning to optimize its responses and adapts its conversational strategies to
+    better understand user's responses, analyze the emotions expressed, and provide
+    personalized therapeutic interventions to enhance Mental Health Therapy.
+  venue: Procedia Computer Science
+- title: Optimization of RAG multi query rewrite generation strategy based on markov
+    decision process
+  date: 2025-02
+  url: https://doi.org/10.1145/3728199.3728221
+  category: mdp
+  subcategory: method
+  authors:
+  - Junwen Yang
+  - Yanci Zhou
+  - Yijin Li
+  abstract: The Large Language Model (LLM) has some limitations in dealing with illusion
+    problems, acquiring the latest knowledge, and dealing with complex tasks. Retrieval
+    Enhanced Generation (RAG) combines retrieval based and generation based models,
+    utilizing massive external data to assist the LLM in generating more informative,
+    accurate, and contextually relevant responses. Query rewriting solves the above
+    problem by generating new retrieval queries from the user's original queries to
+    obtain external knowledge. The RAG framework MQRF-RAG, based on multiple query
+    rewrites, constructs four different styles of query problems, enabling it to obtain
+    more comprehensive and accurate retrieval documents. Based on Markov decision
+    process optimization rewriter and lightweight prompt adaptive rewriting strategy
+    selection, it better handles complex tasks. The test results show that MQRF-RAG
+    outperforms existing rewriting methods in document retrieval, and the retrieved
+    documents provide accurate external knowledge for the response model, significantly
+    improving its response performance.
+  venue: ''
+- title: A Markov Decision Process model for maximizing overall equipment effectiveness
+  date: 2025-05
+  url: https://doi.org/10.1108/jqme-10-2024-0099
+  category: mdp
+  subcategory: theory
+  authors:
+  - Raft Mohmmad Alrebati
+  - Mohammad M. AlDurgam
+  - Mohammad Nabhan
+  abstract: Purpose The purpose of this paper is to present a novel high-level decision-making
+    framework for optimizing Overall Equipment Effectiveness (OEE) in production systems.
+    The model can be used to schedule the daily production and maintenance tasks to
+    maximize the OEE—a topic that is seldom addressed in the existing literature within
+    dynamic settings. Design/methodology/approach This study introduces a novel Markov
+    Decision Process (MDP) model to optimize OEE in production systems. The model
+    uses daily availability and quality rate as the system state vector to streamline
+    decision-making regarding maintenance and production scheduling. The MDP model
+    was solved by the policy iteration algorithm, with the objective of maximizing
+    the OEE. The model is demonstrated through an industrial case study demonstrating
+    the practical effectiveness of the MDP framework in improving OEE. Findings The
+    study finds that using an MDP-based approach significantly enhances OEE. Through
+    a case study, we show that this approach provides better outcomes compared to
+    traditional methods. The model effectively balances availability, performance,
+    and quality components, leading to improved production efficiency and reduced
+    downtime. Research limitations/implications This research primarily focuses on
+    using daily availability and quality as the system state, which, while effective
+    for high-level decision-making—such as allocating time for maintenance rather
+    than specifying exact maintenance tasks—may not capture the detailed states of
+    production systems. Additionally, the model’s reliance on real-time data may require
+    high levels of data accuracy and consistency, which could be a limitation in systems
+    with less comprehensive monitoring capabilities. Future studies could expand the
+    model to include additional system states and quality metrics. Practical implications
+    The proposed MDP model provides a practical decision-support tool for managers
+    in production environments. By optimizing maintenance schedules and the production
+    rate, the model helps reduce downtime, improve equipment utilization, and enhance
+    product quality. This model can be useful for industries looking for the optimal
+    control of OEE. Social implications Improving OEE has wide social implications,
+    particularly in industries where enhanced operational efficiency leads to reduced
+    resource consumption and waste. By optimizing the utilization of machinery and
+    minimizing downtime, the MDP model contributes to more sustainable production
+    practices. Originality/value This paper offers a unique contribution to the field
+    by modeling OEE using the MDP , with daily availability as the system state. Unlike
+    most studies in the literature that focus on measuring OEE, this research aims
+    to facilitate optimal control of OEE, and with the increasing availability of
+    sensory data in modern industries, this direction holds significant potential
+    for practical application.
+  venue: Journal of Quality in Maintenance Engineering
+- title: Global Algorithms for Mean-Variance Optimization in Markov Decision Processes
+  date: 2025-02
+  url: https://doi.org/10.1287/moor.2023.0176
+  category: mdp
+  subcategory: theory
+  authors:
+  - Li Xia
+  - Shuai Ma
+  abstract: 'Dynamic optimization of mean and variance in Markov decision processes
+    (MDPs) is a long-standing challenge caused by the failure of dynamic programming.
+    In this paper, we propose a new approach to finding the globally optimal policy
+    for combined metrics of steady-state mean and variance in an infinite-horizon
+    undiscounted MDP. By introducing the concepts of pseudo mean and pseudo variance,
+    we convert the original problem to a bilevel MDP problem, where the inner one
+    is a standard MDP optimizing pseudo mean-variance, and the outer one is a single-parameter
+    selection problem optimizing pseudo mean. We use the sensitivity analysis of MDPs
+    to derive the properties of this bilevel problem. By solving inner standard MDPs
+    for pseudo mean-variance optimization, we can identify worse policy spaces dominated
+    by optimal policies of the pseudo problems. We propose an optimization algorithm
+    that can find the globally optimal policy by repeatedly removing worse policy
+    spaces. The convergence and complexity of the algorithm are studied. Another policy
+    dominance property is also proposed to further improve the algorithm efficiency.
+    Numerical experiments demonstrate the performance and efficiency of our algorithms.
+    To the best of our knowledge, our algorithm is the first that efficiently finds
+    the globally optimal policy of mean-variance optimization in MDPs. Our results
+    are also valid for solely minimizing the variance metrics and can shed light on
+    solving other varied forms of mean-variance MDPs. Funding: This research was supported
+    in part by the National Key Research and Development Program of China [Grant 2022YFA1004600],
+    the National Natural Science Foundation of China [Grants 72342006 and 72371253],
+    the Guangdong Basic and Applied Basic Research Foundation [Grants 2023A1515012492
+    and 2023B1515040001], the Regional Joint Foundation of Guangdong [Grant 2022A1515110725],
+    and the Guangdong Province Key Laboratory of Computational Science at the Sun
+    Yat-sen University. The work described in this paper was also partially supported
+    by the InnoHK Initiative, the Government of the HKSAR, and the Laboratory for
+    AI-Powered Financial Technologies.'
+  venue: Mathematics of Operations Research
+- title: Optimisation of production strategies based on Markov decision process and
+    Bellman equation
+  date: 2025-11
+  url: https://doi.org/10.1117/12.3091499
+  category: mdp
+  subcategory: theory
+  authors:
+  - Guanyu Ji
+  - Chenrui Liu
+  - Xiangnan Ju
+  abstract: This paper explores the application of utilizing Markov Decision Process
+    (MDP) in intelligent production decision making. Markov Decision Process, as an
+    algorithmic tool, can effectively simulate and optimize decision-making problems
+    in dynamic systems. In the smart production environment, enterprises need to face
+    a large amount of uncertainty and complexity, and traditional decision-making
+    methods are often difficult to meet the real-time and accuracy requirements. This
+    paper first introduces the basic theory of Markov decision process, including
+    the core concepts of state space, action space, transfer probability and reward
+    function. Then, it elaborates how to apply these theories to specific enterprise
+    production scenarios by constructing suitable models to simulate various aspects
+    of the production process. The study optimizes the strategy selection in the Markov
+    decision-making process by introducing intelligent algorithms, such as reinforcement
+    learning and deep learning, so as to realize the automation and intelligence of
+    production decision-making. The experimental results show that the production
+    decision-making system based on the Markov decision-making process can adaptively
+    adjust the strategies in different environments, significantly improving the production
+    efficiency and resource utilization. The research in this paper provides theoretical
+    support and technical ways for enterprises to optimize decision-making in intelligent
+    production, which is of great practical significance.
+  venue: ''
+- title: Optimal generation expansion planning with multi-stage stochastic modeling
+    for coupled electricity-carbon markets under multiple uncertainties
+  date: 2025-10
+  url: https://doi.org/10.1016/j.epsr.2025.112287
+  category: planning
+  subcategory: theory
+  authors:
+  - Dong Jiang
+  - Yali Xue
+  - Chenxia Wang
+  abstract: ''
+  venue: Electric Power Systems Research
+- title: Two-stage stochastic planning and DRL-based adaptive scheduling of hydrogen-based
+    multi-energy systems under market uncertainty
+  date: 2026-06
+  url: https://doi.org/10.1016/j.apenergy.2026.128254
+  category: planning
+  subcategory: systems
+  authors:
+  - Abubakr Hassan
+  - Ali T. Al‐Awami
+  abstract: ''
+  venue: Applied Energy
+- title: Digital twin-driven decision support for human capital management under uncertainty
+  date: 2026-02
+  url: https://doi.org/10.1016/j.grets.2026.100353
+  category: planning
+  subcategory: method
+  authors:
+  - Hamed Nozari
+  - Zornitsa Yordanova
+  abstract: Organizations increasingly face uncertainty in workforce planning, driven
+    by shifting skill demands, rising turnover risks, and pressure to optimize labor
+    investments. Traditional human capital decision models struggle to support strategic
+    trade-offs among productivity, retention, and cost efficiency in dynamic environments.
+    This study proposes a Digital Twin–driven decision support framework that enables
+    adaptive, data-informed workforce optimization under uncertainty. The digital
+    twin continuously mirrors employee profiles, performance trajectories, engagement
+    patterns, and attrition risk, providing a real-time model of workforce dynamics.
+    Using this live data environment, a multi-objective optimization model evaluates
+    competing strategic outcomes, balancing productivity maximization, training and
+    deployment cost minimization, and talent retention in critical roles. The framework
+    is tested through simulation scenarios that reflect realistic organizational uncertainty,
+    including fluctuating workloads, budget constraints, and employee movement. Results
+    demonstrate that the system generates high-quality, interpretable decisions that
+    achieve superior performance across all objectives compared to rule-based or single-factor
+    decision strategies. The findings contribute to human capital analytics and digital
+    transformation research by positioning digital twins as an intelligent capability
+    enabling continuous workforce learning and decision refinement. Practically, the
+    model offers organizations a scalable pathway to integrate real-time analytics,
+    optimization, and predictive workforce intelligence into strategic HR planning.
+    • A digital twin framework is proposed for workforce decision support under uncertainty.
+    • The model balances productivity, cost, and talent retention using multi-objective
+    optimization. • Real-time employee data drives adaptive and scenario-based decision
+    recommendations. • Simulation results show improved decision quality compared
+    to rule-based approaches. • The framework advances human capital analytics by
+    enabling continuous workforce learning.
+  venue: Green Technologies and Sustainability
+- title: 'An integrated water resources management model considering carbon source
+    and sink under uncertainty: A case study of agricultural water-dominated basin'
+  date: 2024-01
+  url: https://doi.org/10.1016/j.jclepro.2024.140667
+  category: planning
+  subcategory: application
+  authors:
+  - Lin Li
+  - Qiting Zuo
+  - Enhui Jiang
+  abstract: ''
+  venue: Journal of Cleaner Production
+- title: A review of motion planning for redundant space manipulators
+  date: 2025-02
+  url: https://doi.org/10.1007/s11431-024-2841-y
+  category: planning
+  subcategory: survey
+  authors:
+  - Ziqiang Zhang
+  - Xiaoshuo Liu
+  - Meng Ning
+  abstract: ''
+  venue: Science China Technological Sciences
+- title: 'LangChain & LangGraph in Production: Architectures for Multi-Agent LLM Systems'
+  date: 2025-07
+  url: https://doi.org/10.65923/cr7cd998
+  category: multi-agent
+  subcategory: method
+  authors:
+  - Karthik Pelluru
+  abstract: As large language models (LLMs) transition from research labs into production
+    environments, the demand for robust orchestration frameworks that manage multiple
+    interacting agents has surged. LangChain and LangGraph have emerged as pioneering
+    frameworks enabling developers to construct, deploy, and scale multi-agent systems
+    efficiently. This paper explores the architectural underpinnings of LangChain
+    and LangGraph, examining how they facilitate the coordination, memory management,
+    and communication of autonomous LLM agents. By integrating symbolic reasoning
+    with generative capabilities, these frameworks pave the way for sophisticated
+    workflows such as autonomous research, document parsing, customer support, and
+    decision-making agents. We critically analyze production-level considerations,
+    including scalability, modularity, fault tolerance, and state management, and
+    demonstrate how LangChain and LangGraph enable rapid iteration while ensuring
+    stability and transparency. This study contributes a comprehensive blueprint for
+    engineers aiming to build intelligent, agent-based AI systems for real-world applications.
+  venue: ''
+- title: Blockchain-Secured Multi-Agent Digital Twin Framework for Distributed Manufacturing
+    With Fuzzy PID Control
+  date: 2026-01
+  url: https://doi.org/10.1109/mcomstd.2025.3648845
+  category: multi-agent
+  subcategory: theory
+  authors:
+  - Shuo Kang
+  abstract: Industry 4.0’s quick development and the introduction of 6G connectivity
+    technologies have increased the need for intelligent, adaptable, and safe control
+    systems in remote industrial settings. This research explores a Blockchain-Secured
+    Multi- Agent Digital Twin and Deep Net Framework (BSMDTDF) to enhance real-time
+    collaboration, system reliability, and operational efficiency across decentralized
+    manufacturing networks. The framework utilizes IoT-driven smart manufacturing
+    datasets with preprocessing for noise reduction and normalization. To create dynamic
+    virtual recreations of physical assets and facilitate real-time monitoring, predictive
+    maintenance, and performance enhancement, the framework makes use of Digital Twin
+    (DT) technology. A Multi-Agent System (MAS) architecture supports decentralized
+    decision-making, allowing autonomous agents to coordinate manufacturing resources
+    and adapt to fluctuating production demands. To ensure data integrity and trust
+    in distributed environments, a Blockchain layer with smart contracts secures inter-agent
+    communication and transaction records. The integration of 6G networks provides
+    ultra-low latency, massive device connectivity, and high-speed data transmission,
+    significantly improving responsiveness and synchronization among distributed agents.
+    Furthermore, Fuzzy PID control enhances process adaptability by dynamically tuning
+    parameters under uncertain and nonlinear operating conditions. To further improve
+    predictive accuracy and control optimization, a Long Short-Term Memory (LSTM)
+    deep learning model is incorporated to learn temporal dependencies and forecast
+    control behavior for enhanced stability and precision. Experimental simulations
+    demonstrate f1-score (98.41%), accuracy (98.56%), recall (98.23%), and precision
+    (99.53%) compared to conventional methods. The BSMDTDF framework establishes sustainable
+    manufacturing through the convergence of blockchain security, DT intelligence,
+    6G connectivity, multi-agent coordination, fuzzy adaptive control, and DL framework.
+  venue: IEEE Communications Standards Magazine
+- title: 'PC 2 P: Multi-Agent Path Finding via Personalized-Enhanced Communication
+    and Crowd Perception'
+  date: 2025-10
+  url: https://arxiv.org/abs/2601.03301
+  category: multi-agent
+  subcategory: method
+  authors:
+  - Guotao Li
+  - Shaoyun Xu
+  - Yuexing Hao
+  abstract: 'Distributed Multi-Agent Path Finding (MAPF) integrated with Multi-Agent
+    Reinforcement Learning (MARL) has emerged as a prominent research focus, enabling
+    real-time cooperative decision-making in partially observable environments through
+    inter-agent communication. However, due to insufficient collaborative and perceptual
+    capabilities, existing methods are inadequate for scaling across diverse environmental
+    conditions. To address these challenges, we propose PC2P, a novel distributed
+    MAPF method derived from a Q-learning-based MARL framework. Initially, we introduce
+    a personalized-enhanced communication mechanism based on dynamic graph topology,
+    which ascertains the core aspects of "who" and "what" in interactive process through
+    three-stage operations: selection, generation, and aggregation. Concurrently,
+    we incorporate local crowd perception to enrich agents’ heuristic observation,
+    thereby strengthening the model’s guidance for effective actions via the integration
+    of static spatial constraints and dynamic occupancy changes. To resolve extreme
+    deadlock issues, we propose a region-based deadlock-breaking strategy that leverages
+    expert guidance to implement efficient coordination within confined areas. Experimental
+    results demonstrate that PC2P achieves superior performance compared to state-of-the-art
+    distributed MAPF methods in varied environments. Ablation studies further confirm
+    the effectiveness of each module for overall performance.'
+  venue: ''
+- title: Agentic automation driven reinforcement learning for inventory optimization
+  date: 2026-04
+  url: https://doi.org/10.1108/jm2-07-2025-0347
+  category: multi-agent
+  subcategory: theory
+  authors:
+  - Sarit Maitra
+  abstract: 'Purpose The purpose of this study is to address the challenge of optimizing
+    joint pricing and inventory decisions in supply chains by proposing an Agentic
+    Automation-driven Multi-Agent Reinforcement Learning (MARL) framework. By embedding
+    autonomy, goal-directed behavior and self-improving capabilities into each decision-making
+    entity, this research overcomes limitations of traditional optimization methods
+    in handling demand heterogeneity, variable lead times, dynamic pricing and shared
+    resources such as warehouse capacity. Design/methodology/approach The methodology
+    integrates principles of multi-agent automation within a Centralized-Training–Decentralized-Execution
+    (CTDE) architecture, enabling agents to exhibit proactive, coordinated behavior.
+    Agents are trained using shared global information (e.g. warehouse constraints
+    and cross-product demand patterns) but execute specialized, independent policies
+    for individual Stock Keeping Units (SKUs). The approach combines Deep Reinforcement
+    Learning (RL) with inventory theory to jointly optimize pricing and replenishment
+    decisions under stochastic demand, while enabling autonomous adaptation to changing
+    market conditions. Findings The framework is benchmarked against eight popular
+    optimization and learning approaches: Bayesian Optimization, Genetic Algorithm
+    (GA), Evolutionary Algorithm, Deep Q-Networks (DQN), Newsvendor Model, Economic
+    Order Quantity (EOQ), Proximal Policy Optimization (PPO) and Soft Q-Learning (SQL).
+    The results of this study show that the agentic MARL system achieves strong, balanced
+    performance ($524k profit, 94.9% service) with robust adaptability. The EOQ model
+    offers higher profit ($584k, 98.9% service level) but only in stable environments
+    because of its limited adaptiveness. Other RL methods (PPO and SQL) exhibit high
+    variability, while traditional approaches (GA, rule-based, Bayesian) underperform,
+    lacking the autonomy and learning capacity needed for dynamic business environments.
+    Originality/value This study provides: a scalable architecture enabling autonomous,
+    goal-driven coordination for supply chain optimization; empirical evidence showing
+    the advantages of agentic RL over traditional methods in complex, uncertain settings;
+    and foundational insights for extending agentic AI to real-world applications
+    such as promotion planning, supplier collaboration and end-to-end retail automation.
+    Overall, this work bridges academic research and operational practice, providing
+    a pathway toward intelligent, adaptive and agentic supply chain systems.'
+  venue: Journal of Modelling in Management
+- title: 'Chain-of-Trust AI: Zero-Knowledge Verified Federated Reinforcement and Generative
+    Learning for Interpretable, Bias-Free Decision-Making in Decentralized Complex
+    Systems'
+  date: 2025-05
+  url: https://doi.org/10.30574/ijsra.2025.15.2.1613
+  category: multi-agent
+  subcategory: theory
+  authors:
+  - Oyegoke Oyebode
+  abstract: The rapid growth of artificial intelligence (AI) in decentralized systems
+    such as healthcare, financial networks, and autonomous transportation has underscored
+    the critical need for interpretability, fairness, and verifiable trust in decision-making.
+    Traditional federated learning frameworks, while addressing data privacy and scalability,
+    often suffer from bias propagation, opaque model behaviors, and limited mechanisms
+    for ensuring accountability. This article introduces Chain-of-Trust AI, a novel
+    paradigm that integrates zero-knowledge proofs (ZKPs), federated reinforcement
+    learning (FRL), and generative learning models to create an interpretable, bias-free,
+    and verifiable decision-making framework for complex distributed environments.
+    The proposed framework leverages FRL to enable adaptive coordination across heterogeneous
+    agents while maintaining local data sovereignty. Generative learning models, such
+    as variational autoencoders, provide transparent causal representations that support
+    bias detection and enhance interpretability of reinforcement-driven policies.
+    ZKPs are embedded as cryptographic guarantees to verify model updates and decision
+    outcomes without exposing sensitive information, thus ensuring compliance, trust,
+    and transparency across decentralized networks. Methodologically, the framework
+    is evaluated through MATLAB-based multi-agent simulations, benchmarking performance
+    in terms of interpretability, fairness indices, convergence stability, and verification
+    overhead. Theoretical analyses confirm convergence under heterogeneous reward
+    structures, cryptographic soundness of proofs, and bias reduction capabilities
+    through generative regularization. Case studies in decentralized healthcare diagnostics,
+    financial fraud detection, and autonomous vehicular coordination highlight the
+    practical scalability and robustness of Chain-of-Trust AI. By uniting reinforcement
+    learning, generative interpretability, and zero-knowledge verification, this work
+    pioneers a secure, auditable, and ethically aligned AI architecture for decentralized
+    complex systems, advancing both technical rigor and governance in distributed
+    intelligence.
+  venue: International Journal of Science and Research Archive
+- title: 'Agentic AI: Building Self-Directed Software Agents with Multimodal Reasoning'
+  date: 2025-01
+  url: https://doi.org/10.63282/3117-5481/aijcst-v7i1p101
+  category: multi-agent
+  subcategory: method
+  authors:
+  - Guru Pramod Rusum
+  - Sunil Anasuri
+  abstract: Artificial Intelligence (AI) has come in with highly intelligent systems
+    that continuously do ever more complex tasks. The proposed research relates to
+    one of the newer paradigms in AI research, Agentic AI, which can be understood
+    as autonomous, self-directed software agents that can execute goal-driven behavior
+    via multimodal reasoning. This paper explores the design, construction, and deployment
+    of Agentic Artificial Intelligence systems capable of synthesizing information
+    across different modalities, including text, images, audio, and environment monitoring
+    sensors, so as to generate intelligent autonomous choices. The main deliverable
+    of the research is the development of a framework, which combines multimodal mechanisms
+    of reasoning with agent-based architectures, and allows adaptive and context-sensitive
+    behavior. To address this problem, we postulate a modular architecture that integrates
+    the ability to learn fast and enough through reinforcement learning and profound
+    associations throughout symbolic reasoning in this paper to effectuate decision-making
+    in a real-time scenario and learning in a challenging arena. Our literature review
+    is extensive and follows the development of autonomy in AI systems, the purpose
+    of multimodal reasoning and issues in integration. The approach we use presents
+    a layered model, which consists of perception, cognition, and action modules that
+    accomplish specific tasks and communicate with each other using a common knowledge
+    base. Our prototype system has been tested on various benchmarking scenarios,
+    including navigation, task planning, and multi-agent coordination. Experience
+    indicates a significant increase in task completion rate, awareness of context,
+    and learning efficiency compared to unimodal and static AI agents. The paper concludes
+    with a discussion of the ethical implications, limitations, and future trends
+    of developing generalizable, safe, and socially agreeable autonomous agents. The
+    study aims to develop agents that not only act intelligently but also learn and
+    respond to new circumstances in intelligent ways
+  venue: American International Journal of Computer Science and Technology
+- title: An Agent-Based Architecture for Modeling and Analyzing IoT-Edge-Cloud Continuum
+    Systems
+  date: 2025-09
+  url: https://doi.org/10.1109/synasc69064.2025.00058
+  category: multi-agent
+  subcategory: application
+  authors:
+  - Daniel-Costel Bouleanu
+  - Ionuţ Murareţu
+  - Costin Bădică
+  abstract: The explosive growth of the Internet of Things (IoT) has given rise to
+    systems that are increasingly heterogeneous, resource-constrained, and latency-sensitive.
+    Traditional cloudcentric architectures struggle to meet the real-time demands
+    of such systems, motivating a shift toward edge computing. However, edge systems
+    themselves require greater autonomy, adaptability, and intelligence to manage
+    decentralized tasks efficiently. In this paper, we propose a layered agent-based
+    architecture for Edge-Cloud-IoT systems that integrates resourceaware control
+    loops and multi-agent coordination across sensing, edge, and cloud nodes. Each
+    node embeds an autonomous agent executing a MAPE-K control loop, enabling dynamic
+    task offloading, resource monitoring, and decentralized decision-making. We formalize
+    system topology as a layered graph and model key resources such as energy, memory,
+    and bandwidth. A multiobjective cost function guides task delegation based on
+    feasibility and performance trade-offs. The proposed model is applied to a localization-based
+    use case involving realistic hardware profiles and task generation dynamics.
+  venue: ''
+- title: 'Correction: The realism of behavioral theory-based vs. non-theory-based
+    AI agents during a simulated infant formula shortage'
+  date: 2026-04
+  url: https://doi.org/10.3389/frai.2026.1812447
+  category: multi-agent
+  subcategory: theory
+  authors:
+  - Linda Desens
+  - Brandon Walling
+  - Rhys O’Neill
+  abstract: 'As autonomous agent/digital twin (DT) systems become integrated into
+    public policy and health system planning, the credibility of agent behavior is
+    critical. This study provides evidence for policymakers and researchers regarding
+    the realism of behavioral theory-informed autonomous AI agents in crisis situations
+    such as food shortages.The ability to simulate the behavior of households related
+    to health and social systems, and to have confidence that those simulations are
+    realistic ones, would provide an important capacity for policymakers. However,
+    in order to trust the simulations, there is a critical need to assess the accuracy
+    of simulated agents during a crisis. Grounding autonomous agents in behavioral
+    theories could improve their capacity to reflect realistic human decision-making.
+    Our research addresses existing gaps in the literature by making the following
+    contributions:1. Assessing the realism of autonomous agents that are grounded
+    in behavioral theory, comparing them with agents that are not. 2. Building an
+    autonomous agent/DT simulation related to food access.We use this research question:
+    "Do participants perceive theory-based AI agents as behaving more realistically
+    than non-theory-based agents?"This study highlights the importance of incorporating
+    behavioral theory in the design of AI agents. AI agent modeling and simulation
+    should advance from a rule-based decision tree to agent designs that are grounded
+    in empirically validated behavioral theory. To achieve greater realism, agents
+    should be designed with socially adaptive mechanisms that enable them to adjust
+    their strategies based on evolving human norms, values and behaviors to reflect
+    realistic human behavior (Rahwan et al., 2019) and internal processes such as
+    cooperation that reflect human behavior (Diau, 2025). Agents should include reflective
+    reasoning, goal representations, memory, and behavioral theoretical grounding
+    to maintain consistency and behavioral coherency over time (Park et al., 2023).
+    Capturing these nuances in a simulated environment is essential to ensure that
+    autonomous AI agents realistically reflect the decision-making patterns of the
+    populations they represent. In this study, incorporating well-established behavioral
+    theories into agent design ensures that simulated actions are grounded in how
+    people react during a crisis.This study models the behavior of households through
+    the use case of an infant formula shortage. Food security is shaped by an interplay
+    of policy, economic, geographic, and social systems (Roggio, 2019;Sawyer et al.,
+    2021), as was demonstrated during the 2022 infant formula crisis. Families with
+    infants are uniquely susceptible to disruptions across these systems, a concern
+    that has drawn the attention of policymakers (U.S. Department of Health and Human
+    Services, 2025; United States, 2022).The use of autonomous agents and DTs to simulate
+    health and social systems has been growing, including in contexts directly related
+    to our research, such as emergency response and urban Deleted: . ¶ ©2025 The MITRE
+    Corporation. ALL RIGHTS RESERVED health (Jiang et al., 2022;Khan et al., 2023;Park
+    et al., 2025). Review articles emphasize that DT use in these areas is in its
+    infancy, and they point to technical, ethical, financial, and other barriers (Katsoulakis
+    et al., 2024;Ringeval et al., 2025). Despite these challenges, promising case
+    studies have validated the accuracy of DT/autonomous agent simulations (Bilal
+    et al., 2025;Jiang et al., 2022;Park et al., 2025;Von Hoene et al., 2025) or provide
+    a conceptual model for their use in health emergencies (Rodríguez-Aguilar, R.,
+    & Marmolejo-Saucedo, J., 2020). The Bilal study (2025) is noteworthy in that it
+    demonstrated predictive validity of an epidemic DT/autonomous agent model, comparing
+    its results to observed COVID-19 data: the model closely matched actual trends
+    in cases, hospitalizations, and deaths (Bilal et al., 2025). Assessing the accuracy
+    of simulations is imperative to their future use: as Park et al. state, "we must
+    develop tools and methodologies so [policymakers] know when they can, and can''t,
+    trust these simulations" (Park et al., 2025). Some validation methods, such as
+    Immersive Face Validation, are primarily used to judge the believability of autonomous
+    agents that appear in human form on-screen, for example in videos or games (Bogdanovych
+    et al., 2016;Louloudi & Klügl, 2012). Other methods focus on agent behavior rather
+    than visual aspects. For example, the Virtual Overlay Multi-Agent System uses
+    supervisory agents that monitor the simulation''s adherence to predefined behavioral
+    constraints set by human experts (Niazi, 2017). The Standardized Test Suite, which
+    involves human success/failure ratings on agent-generated continuations of real
+    human interaction scenarios, reveals alignment with human judgments (Abramson
+    et al., 2022).Other research that assesses the realism of autonomous AI agents
+    using human raters focuses on specific contexts. For example, a growing body of
+    work assesses the accuracy of autonomous agents for clinical decision support
+    by comparing them to the ratings of expert physicians (Hayat et al., 2025;Ringeval
+    et al., 2025). Park et al.''s 2023 study is similar to our research, in that it
+    uses human raters as participants to assess agent decisions and actions (rather
+    than visual appearance) in simulated non-clinical environments. Park et al. (2023)
+    created 25 generative agents that stored and synthesized memories and were embedded
+    in a sandbox city environment. The researchers "interviewed" agents, asking questions
+    across five categories (self-knowledge, memory, plans, reactions, and reflections).
+    Participants then compared agent interview responses created under different agent
+    types (full, no reflection, no reflection/plan, no reflection/plan/observation,
+    and human baseline) and rated believability across the same five question categories.
+    Results that the generative agent ability to and the behavior (Park et al., 2023).
+    Our research on this the of agents to in with behavioral the use of autonomous
+    agents in simulation into such as crisis public and social policy, that agent
+    behavior realistic human critical. studies have grounded agent in behavioral validation
+    focus on internal consistency or rather than and behaviors (Bogdanovych et al.,
+    This study from the Health and the of into autonomous agent theories were they
+    provide The MITRE Corporation. ALL RIGHTS RESERVED for how people decisions under
+    perceive and to social and which are during such as food studies have integrated
+    behavioral theory into agent or of agent et al.''s of existing research (2025)
+    used to that agent behavior over and behavioral et al., 2025). this is a for the
+    of decision-making and in autonomous AI agents over it a model that behavioral
+    theory into agent study that so on using modeling to simulate behavioral and in
+    the of The model simulated of how in agents they are in that a of agents over
+    their environment to their a of Our study into the use of behavioral theory for
+    agent incorporating behavioral theories and using human participants as raters
+    for The behavioral theories used in this study are in are in our for and The is
+    used by participants to assess the behavioral realism of the autonomous agents.
+    of of which are based on theoretical from and as in 2. were they directly to and
+    and are and by participants The in with from the Health and the of as in the The
+    were the for the behavioral ratings used by the participants The is based on an
+    that real decision contexts from the 2022 infant formula & et al., et al., For
+    example, of the agents to the same to formula crisis decision-making or an Other
+    agents support from social when they were to formula from As a example, agents
+    their of infant formula was of this study was to empirically theory-based autonomous
+    AI agents behavioral realism as by in to autonomous AI agents theoretical the
+    following research question and participants perceive theory-based AI agents as
+    behaving more realistically than non-theory-based AI agents using behavioral theories
+    realism study a design the realism of autonomous agent behaviors under agents
+    that are grounded in behavioral theory and non-theory-based agents The was the
+    agent theory-based The were the realism ratings for of the of and of from the
+    2022 formula including actions and the constraints on formula our The 2022 formula
+    was by the of a for of the formula and was by related to the COVID-19 2025). constraints
+    a in the formula shortage. for for and for were it for to the infant formula et
+    al., and such as in food or to to to the for et al., on the other as to formula
+    through and et al., et al., of and to the 2022 infant formula the types of actions
+    into our actions were into behavioral by responses and patterns from the 2022
+    and them the behavioral theory For example, responses from the 2022 to to for
+    it et al., et al., and it through and including food et al., et al., et al., Other
+    2022 actions the of formula that was an of our The MITRE Corporation. ALL RIGHTS
+    RESERVED they were to used including formula or it with such as or infant formula
+    & et al., and by in 2022 were used to the crisis For example, strategies based
+    on households were more to formula than in a for households compared to for other
+    households et al., households were more to have the to to over a of these households
+    or more and more than to infant formula et al., In of of time and to formula et
+    al., households constraints that other households they were to using the Food
+    and of to of or of infant formula during the (U.S. 2025). were more than to use
+    & et al., of that their infant to in they as et al., behaviors how and shaped
+    responses during the which has a food than the as a provides a for our Food is
+    as or of and or or ability to in socially (U.S. Department of food and and have
+    and health for et al., et al., food in was in 2023 compared to the of and food
+    was compared to the of has of the in and the was compared to the of in 2023 (U.S.
+    in the are as and to food (U.S. Department of and were food (U.S. Department of
+    the interplay of that were for our of raters was from a This was based on a a
+    and a of raters was ©2025 The MITRE Corporation. ALL RIGHTS RESERVED for a et
+    al., participants a behavioral health or public health no in the behavioral and
+    social or was The were designed to be by behaviors were simulated in a twin of
+    during a infant formula twin to as closely as the to provide the agents with for
+    infant formula during the crisis To provide the twin and AI accuracy the of the
+    real were into their state, and were and into and of the twin of barriers for
+    the AI twin five in specific were drawn as for the agents would on and to formula
+    in the 2023). The to formula in were formula and for was integrated into the of
+    the simulation modeling to more the and of infant formula from to The and and
+    that the agent of infant and were based on 2022 (U.S. Food and 2023). The model
+    was designed to disruptions and such as and emergency To model the for based on
+    and behavior when of were into the and were used as policy to as realistic to
+    infant formula were into this of the twin to provide realistic barriers for with
+    infant formula This integrated 2025) to provide realistic for the agents, including
+    and across the a and model were from (U.S. 2025) and integrated into the This
+    to formula for agents. and that infant formula in the specific on realistic and
+    were when with This during emergency response used the to assess the realism of
+    the behavior across the by a on the for of the of and of was to the consistency
+    realism ratings to participants on how to and the of that the response was with
+    how a real under similar crisis would be to a of behavior that was realistic For
+    example, on the an agent an or a of was rated a In formula was was rated and a
+    were for the of of to ensure across were an that the study and the of their the
+    participants were a to the form that and the a of actions over the simulation
+    and include theoretical from for a of The theory-based agents behaviors of theoretical
+    from and and non-theory-based agents that with no theoretical an of in a order
+    using the To order participants were into with different This ©2025 The MITRE
+    Corporation. ALL RIGHTS RESERVED that in in the an of across theory-based agents
+    in this study were designed to simulate realistic human decision processes by
+    from and The decision was by the agents to reflect on the strategies that their
+    and in response to et al., 2023). and were into the theory-based agents agent
+    that used for were embedded into a of and social the goal of infant and were as
+    strategies social to food or was on the theory-based and the of the agents a rule-based
+    decision tree social or adaptive This a for Agents a decision are from and social
+    then by that To a is during behavioral theoretical is and agent for the of the
+    of the is in example how a theory-based agent into a decision using behavioral
+    theory the the the agent infant formula is its is The agent and from households
+    similar are as rather than the Health the of formula and the of and the of and
+    work constraints behavioral for to other households formula through the of The
+    MITRE Corporation. ALL RIGHTS the internal the The on infant its from through
+    social and The agent then an with this such as a food or to constraints such as
+    and agent behavior to over time in response to grounded in behavioral theory,
+    actions that reflect realistic human decision-making under crisis rather than
+    of to behavioral theory and decision is in the non-theory-based agents decisions
+    based on rule-based The agents a decision tree that a when was and was the agent
+    a and when was the agent would for The decision tree different under different
+    of and However, the non-theory-based agents have that social or adaptive This
+    created a for the to which into the agents realism in simulated crisis For a of
+    theory-based non-theory-based agents, non-theory-based agents were designed as
+    a rather than as a realistic or predictive was to provide a that rule-based used
+    in the study to the of behavioral theory to realism decision tree was for validity
+    by experts with in public health food systems, and crisis to ensure that the actions
+    were and of or was as the study realism agent types rather than behavioral for
+    agents were using from the Food and (U.S. Department of 2025) and the (U.S. 2025)
+    to and the the of need or ability to formula during or the need to a time of and
+    to different the System (U.S. for and 2025) and health were to agent or adaptive
+    with the to to from and (U.S. Department ©2025 The MITRE Corporation. ALL RIGHTS
+    RESERVED of Food and 2025) and to which and are through agents to areas and are
+    by based on realistic and for crisis simulation a set of agents that and support
+    mechanisms that would be during an infant formula shortage. As an of the into
+    the these systems agents food and or agent was designed with and so that their
+    behavior with how these systems realistically including these agents, the model
+    the households and the responses that during a agent types were created to model
+    crisis response The agent food from Health and Human 2025) and 2025) to model
+    to agents emergency formula when households were in the The twin simulated to
+    be to the 2022 infant formula in five in five were they a of food and The model
+    integrated This simulation was using and with and to support and of the agent
+    decision-making validation ensures for for and system the of agents the agent
+    the twin the research question and comparing realism for the theory-based compared
+    to non-theory-based agents, a was the compared realism for theory-based non-theory-based
+    For to the realism by of the a was used to the in ratings or were as for and for
+    participants rated the theory-based and non-theory-based AI agents for realism
+    across the for As in theory-based agents realism compared to non-theory-based
+    agents the confidence for these with the of the theory-based the of the non-theory-based
+    evidence of a in realism theory-based and assess the consistency of ratings using
+    the were for the ratings across and was that the realism across and were and by
+    agent was for ratings than for theory-based The results consistency raters across
+    values for theory-based reflect the greater behavioral by from behavioral theory.
+    Some agent behaviors were in In agents to decision consistency across for are
+    in and the realism and confidence for theory-based and non-theory-based agents
+    across for of the realism by for theory-based non-theory-based agents and compared
+    to non-theory-based agents, greater realism and consistency in agent the research
+    question and and participants the theory-based agents to be more realistic when
+    compared to non-theory-based agents, a was used to the realism across The results
+    that the in realism across was was with and as of were to the that the of was
+    for and for the interaction were in the to the same as the a for a for and a interaction
+    results are in the of the of using were over the from the of other the were Participants
+    rated the theory-based agents as more realistic than non-theory-based agents for
+    the and the of in the and of were for a of the of agent for agents, the of from
+    the and from the of For non-theory-based agents, the from the of other were that
+    the interaction was primarily by realism ratings for agents in the and of and
+    by specific the agent or assess the of our the a using confidence for the theory-based
+    and non-theory-based across The confidence that the observed are with confidence
+    for the of and of results provide evidence that the of theory-based agent design
+    is across with the constraints of our results of the study provide support for
+    the that the behavior of autonomous AI agents grounded in behavioral theory is
+    as more realistic by participants compared to the behavior of agents that the
+    same theoretical This addresses a in the literature the validation of twin agents,
+    accuracy to behavior as by the of realism decision of and use of social theory-based
+    agents realism The in realism ratings theory-based and non-theory-based agents
+    was with a that the of behavioral theory the realism of ©2025 The MITRE Corporation.
+    ALL RIGHTS RESERVED agent behavior in food The of this was through confidence
+    which demonstrated that theory-based agents were rated across when for on these
+    for agent and realism as as a interaction agent and This that theory-based agents
+    non-theory-based agents in realism, the of this across the different of the realism
+    was for the use of social the importance of modeling social and adaptive behaviors
+    during crisis and including that the and behavior of social with research that
+    agents are of social and processes and that human raters their behavior more and
+    in simulated (Park et al., of the study the of as a design and from and into agent
+    and with these this study a for and behavioral realism in autonomous agent This
+    addresses a critical in the rule-based theory-informed agent design that the of
+    human decision-making and behavior under crisis results have for the and of autonomous
+    AI agents in twin related to food and crisis the that theory-based agents are
+    rated as more realistic by participants the importance of behavioral theory into
+    agent This or accuracy and that realistic behavior is critical for simulations
+    that are and be by This that behavioral theories into the AI design the of decision
+    support tools in of these to the of simulation models in public emergency and
+    social As twin to the realism of agent behavior is essential for simulation agent
+    design to ensure that simulation results have for for crisis a question of trust
+    in Our that grounding agents in behavioral theory behavioral agents decisions
+    how real people and their actions become to the experts must on simulation when
+    are or public health need agents that decisions based on social they and theory-based
+    provides that policy contexts agent behavior with validated theories and for twin
+    This could of decision support in public health and emergency for realism and
+    simulation used in this study be as this However, these be to researchers to and
+    are to this participants agent realism through that an the infant formula shortage.
+    The agent are and to for during the constraints that use which would the participants
+    to assess the agents a agents decisions how real people and their actions become
+    to the experts must on simulation compared to the agent the are that of how the
+    agents were on the realism of agents, assess theory-based agents would to behavioral
+    behavioral theory was used to agent the goal was to assess realism, that more
+    or realistic agent models be to behavioral this on the and embedded in the rather
+    than agent studies should how be designed to support or behaviors in response
+    to crisis our use case was and on infant formula shortage. Other public health
+    crisis or emergency different is in the theory-based compared to non-theory-based
+    for the which that more work to be to the for realism theory-based However, the
+    realism ratings across and of realism was used to theory-based to non-theory-based
+    for was which the ratings across raters provides a for This is in with in social
+    and behavioral ratings are used to and the of (Bogdanovych et al., et al., study
+    which for or the design by through and the confidence the of our the to of or
+    the of a was based on it for the across or the interaction studies should to improve
+    of and enable more modeling of in realism our have the specific This research
+    on participants to an infant formula which is a crisis populations The to which
+    these would in populations or contexts infant social support trust in and across
+    contexts and actual behavior and of agent work should behavioral theory-based
+    agents in and across different types of and under of to the validity of these
+    behavioral theories and the of agent AI model with the grounding of the autonomous
+    agents with behavioral theories and using human for the this the of which from
+    such as theory and in the simulation environment that across populations or The
+    study behavioral and to of these However, future research should include as of
+    twin et al., et al., study that when autonomous AI agents are designed with behavioral
+    theory, they are as more realistic in how they decisions and with In the simulated
+    infant formula theory-based agents more closely with human than non-theory-based
+    agents. This the importance of behavioral theory into the of have that it is to
+    and the realism of these agents in a a for behavioral a simulation that people
+    trust to reflect under crisis credibility is critical are to be used in and The
+    MITRE Corporation. ALL RIGHTS RESERVED this work a for the and of AI agents that
+    are by behavioral theory. studies the to different and more social As policymakers
+    and researchers on simulation for planning, this research provides an and a for
+    that autonomous agents grounded in human are for future research that could on
+    this for future research is to a simulations and behavioral Park et al. (2023)
+    agents for of time to set for how they is validation comparing simulated agent
+    behavior to from real during the infant formula of the from human more in the
+    design of the agents their realism with is to autonomous agents a decision-making
+    that uses behavioral drawn from behavioral research et al., et al., In that research,
+    the decision were to and research that decision-making when with health or et
+    al., et al., important for future research involves across the this to scenarios,
+    systems, and urban contexts would its and for For example, use models to responses
+    during or agents would provide more realistic simulations of and assess patterns
+    In could simulate decisions adherence and could use theory-based agents to simulate
+    responses to or with and modeling the use of human raters and the provide a and
+    for agent behavioral theory with agent behavior and a for the design and of AI
+    agents and This addresses a in the validation have on internal or rather than
+    the realism of agent behavior by human raters (Bogdanovych et al., agent design
+    and with behavioral theory, this a for the validation across and that autonomous
+    agents are and as Health and to The in the of the or and the no is to the to internal
+    or or that to or behavior & et al., et al., 2012). The and confidence in ability
+    to a specific behavior & et al., et al., 2012). barriers and The in the or barriers
+    that behavior or health and the that the behavior or health could to health &
+    et al., et al., 2012). to The to internal or or that to or behavior by which to
+    the social and the specific behavior & et al., et al., to a to a behavior 2020).
+    behavioral The or has over the specific by that or behavior et al., & et al.,
+    the behavior The the of a specific by behavioral specific to the of a behavior
+    & et al., by which are based on or of the in to an to the to which an to ©2025
+    The MITRE Corporation. ALL RIGHTS RESERVED with & et al., to behaviors through
+    and by and et al., et al., 2023). the and of the of a specific by social et al.,
+    & 2020). behavior in The of a specific behavior by a model, is the are when models
+    are to be the et al., and to behavior that how the specific behavior are to specific
+    behaviors when or et al., 2. and real and The for crisis decision-making the ability
+    to and in response to the infant formula crisis as as their ability to strategies
+    and to the is by the of the their to the and the to such as a of infant formula
+    on behavioral which agent based on and et al., 2020). and how it & assesses agents
+    a or confidence in to a ©2025 The MITRE Corporation. ALL RIGHTS RESERVED or on
+    behavior barriers or behavioral the their ability to a behavior or actions et
+    al., 2020). and agents adjust their behavior based on and the results & theoretical
+    for the of actions that agents actions their constraints as as with their and
+    the and barriers they actions the behavior assesses a an as or & 2017). behavior
+    in that behavior realistic constraints and & of theoretical for this agents with
+    or that reflect real human to through highlights that social an agent to on and
+    in with and the infant formula by has of uses to for an and to for support the
+    strategies to maintain with to and a that which have formula has a the of the
+    infant formula formula making is using and with to and uses to with formula in
+    the of the has to formula to future has to and social on and in with and the infant
+    formula decisions on how formula has the has on so to formula so to the and to
+    the the same when formula a when has the of the infant formula has to to no a
+    is of and has a formula the has on when for the'
+  venue: Frontiers in Artificial Intelligence
+- title: Self-Attention-Enhanced Multiagent Deep Reinforcement Learning for UAVs Target
+    Search in Obstacle-Dense Environments
+  date: 2026-01
+  url: https://doi.org/10.1109/taes.2026.3672079
+  category: multi-agent
+  subcategory: method
+  authors:
+  - Miao Liu
+  - Longbiao Xie
+  - Long Xiao
+  abstract: In the field of Unmanned Aerial Vehicles(UAVs) decision-making, cooperative
+    target search by multiple UAVs rep resents a central research focus. Recent advancements
+    in neural network-based deep reinforcement learning, coupled with improvements
+    in UAV performance, have significantly enhanced the intelligent decision-making
+    capabilities of UAVs in unknown and dynamic environments. However, as search scenarios
+    grow in scale and complexity, existing UAV search methods increasingly struggle
+    to maintain efficient search performance. To address these challenges, this study
+    introduces a Multi-Agent Deep Deterministic Policy Gradient integrated with a
+    self-attention mechanism (SA MADDPG) algorithm which integrates a self-attention
+    mechanism to facilitate global spatial information modeling. By effectively capturing
+    long-range dependencies within complex, high-dimensional spatial data, such as
+    obstacle distributions, teammate positions, and target probabilities, the algorithm
+    overcomes the constraints of localized receptive fields inherent in conventional
+    architectures. This enables agents to prioritize critical environmental features,
+    thereby significantly enhancing collaborative decision-making in obstacle-dense
+    settings. Furthermore, we develop a dual-incentive exploration mechanism that
+    synthesizes Bayesian-updated target probability maps with Voronoi-region partitioning
+    to enhance multi UAV collaborative coordination and search reliability. Experimental
+    results reveal that the proposed SA-MADDPG method significantly outperforms existing
+    search strategies across critical metrics, including collision rate, coverage
+    rate, and target detection rate.
+  venue: IEEE Transactions on Aerospace and Electronic Systems
+- title: Trusted Collaborative Reinforcement Learning-based UAV-assisted Communication
+  date: 2025-12
+  url: https://doi.org/10.1145/3769698.3771227
+  category: multi-agent
+  subcategory: method
+  authors:
+  - Zhongwei Huang
+  - Minhan Gao
+  - Chenhao Wu
+  abstract: This paper proposes a trusted collaborative reinforcement learning (TCRL)-based
+    unmanned aerial vehicle (UAV)-assisted communication mechanism for distributed
+    end users to maximize the user coverage under limited resource capacity. We first
+    model UAV-assisted communication as a distributed reinforcement learning decision-making
+    problem, each UAV uses its partial observations to achieve the optimal action
+    selection. Secondly, we develop a multi-agent collaboration framework to encode
+    the status of neighbor UAVs as messages to achieve coordination between multiple
+    agents. Finally, we integrate the blockchain consensus module to ensure the security
+    of the knowledge collaboration process. The simulation results demonstrate that
+    the proposed TCRL framework significantly improves user coverage and learning
+    efficiency compared to non-collaborative baselines, while preserving privacy through
+    secure message exchange.
+  venue: ''
+- title: 'From multi-agent logistics to agentic artificial intelligence: review of
+    autonomous coordination in Q-commerce-related last-mile fulfilment'
+  date: 2026-08
+  url: https://doi.org/10.1016/j.elerap.2026.101631
+  category: multi-agent
+  subcategory: survey
+  authors:
+  - Shahryar Sorooshian
+  - Navidreza Ahadi
+  - Pouria Liravi
+  abstract: ''
+  venue: Electronic Commerce Research and Applications
+- title: Bayesian Optimization of Stacking Integrated Learning Model for Hpc Compressive
+    Strength Prediction
+  date: 2024-01
+  url: https://dx.doi.org/10.2139/ssrn.5019913
+  category: bayesian-optimization
+  subcategory: theory
+  authors:
+  - Xiang Wang
+  - Qingfu Li
+  abstract: ''
+  venue: SSRN Electronic Journal
+- title: Quantum probabilistic group consensus decision-making model based on matrix
+    fluctuation grey correlation for engineering bid evaluation
+  date: 2025-09
+  url: https://doi.org/10.1016/j.eswa.2025.129600
+  category: bayesian-optimization
+  subcategory: theory
+  authors:
+  - Jiuru Zhu
+  - Xinping Xiao
+  - Congjun Rao
+  abstract: ''
+  venue: Expert Systems with Applications
+- title: High Dimensional Bayesian Optimization for Aerodynamic Design of Airfoils
+    and Wings with Hybrid Laminar Flow Control
+  date: 2025-01
+  url: https://doi.org/10.2139/ssrn.5316824
+  category: bayesian-optimization
+  subcategory: theory
+  authors:
+  - Samarth Kakkar
+  - Paolo Olivucci
+  - Anand Sudhi
+  abstract: ''
+  venue: SSRN Electronic Journal
+- title: Development of data-driven predictive model and enhanced multiobjective optimization
+    to improve the excavation performance of large-diameter slurry shields
+  date: 2025-09
+  url: https://doi.org/10.1016/j.engappai.2025.112402
+  category: bayesian-optimization
+  subcategory: theory
+  authors:
+  - Feiming Su
+  - Xianguo Wu
+  - Tiejun Li
+  abstract: ''
+  venue: Engineering Applications of Artificial Intelligence
+- title: A roommate problem and room allocation in dormitories using mathematical
+    modeling and multi-attribute decision-making techniques
+  date: 2024-02
+  url: https://doi.org/10.1108/jm2-09-2023-0214
+  category: bayesian-optimization
+  subcategory: method
+  authors:
+  - Alireza Khalili-Fard
+  - Reza Tavakkoli‐Moghaddam
+  - Nasser Abdali
+  abstract: Purpose In recent decades, the student population in dormitories has increased
+    notably, primarily attributed to the growing number of international students.
+    Dormitories serve as pivotal environments for student development. The coordination
+    and compatibility among students can significantly influence their overall success.
+    This study aims to introduce an innovative method for roommate selection and room
+    allocation within dormitory settings. Design/methodology/approach In this study,
+    initially, using multi-attribute decision-making methods including the Bayesian
+    best-worst method and weighted aggregated sum product assessment, the incompatibility
+    rate among pairs of students is calculated. Subsequently, using a linear mathematical
+    model, roommates are selected and allocated to dormitory rooms pursuing the twin
+    objectives of minimizing the total incompatibility rate and costs. Finally, the
+    grasshopper optimization algorithm is applied to solve large-sized instances.
+    Findings The results demonstrate the effectiveness of the proposed method in comparison
+    to two common alternatives, i.e. random allocation and preference-based allocation.
+    Moreover, the proposed method’s applicability extends beyond its current context,
+    making it suitable for addressing various matching problems, including crew pairing
+    and classmate pairing. Originality/value This novel method for roommate selection
+    and room allocation enhances decision-making for optimal dormitory arrangements.
+    Inspired by a real-world problem faced by the authors, this study strives to offer
+    a robust solution to this problem.
+  venue: Journal of Modelling in Management
+- title: Building the Foundations of Augmented Organizations Through AI Empowerment
+  date: 2026-01
+  url: https://doi.org/10.4018/979-8-3373-8607-2.ch006
+  category: human-ai
+  subcategory: method
+  authors:
+  - R. N. Ravikumar
+  - S. Aarthi
+  - Zokir Mamadiyarov
+  abstract: As organizations navigate the Fourth Industrial Revolution, the use of
+    AI and robotics in core business functions is essential. This research analyzes
+    Human-Robotic Collaboration (HRC) as a driver for augmented organizations combining
+    human and machine intelligence to boost productivity, agility, and innovation.
+    It highlights key requirements for AI empowerment, such as data infrastructure,
+    ethical governance, digital literacy, and co-created ecosystems. The impact of
+    AI in reshaping jobs, workflows, and decision-making is explored, with examples
+    from various industries showcasing AI's positive effect on productivity, safety,
+    and employee satisfaction. Challenges like resistance to change, skill gaps, algorithmic
+    bias, and governance needs are also discussed. The chapter emphasizes a human-centered
+    design, where AI collaborates rather than replaces, enabling organizations to
+    succeed through trust, adaptability, and continuous learning.
+  venue: Advances in computational intelligence and robotics book series
+- title: 'The Future of Human-AI Collaboration in Wealth Management: Enhancing Decision-Making
+    and Personalization'
+  date: 2025-05
+  url: https://doi.org/10.37745/ejcsit.2013/vol13n43109119
+  category: human-ai
+  subcategory: method
+  authors:
+  - Praveen Kumar Reddy Bandi
+  abstract: 'The wealth management industry is experiencing a profound transformation
+    through the integration of artificial intelligence with human expertise. This
+    article explores how human-AI collaboration enhances both strategic decision-making
+    and personalized client engagement, enabling wealth managers to deliver more timely,
+    data-driven financial advice at scale. We examine the evolving role of AI-powered
+    systems—including predictive analytics, recommendation engines, and natural language
+    processing—in analyzing complex data to uncover investment opportunities, assess
+    risk, and anticipate client needs. These technologies, when integrated with human
+    judgment, create a hybrid advisory model combining automation efficiency with
+    human empathy and trust. The article investigates four critical dimensions: advanced
+    analytics transforming investment processes, hyper-personalization creating individualized
+    client experiences, preservation of human elements essential for trust, and ethical
+    considerations emerging from algorithmic decision-making. Through extensive research,
+    we identify successful implementation practices, highlighting the organizational
+    transformation required to effectively deploy these collaborative models. Wealth
+    management firms must develop a comprehensive approach encompassing technology,
+    talent, process, and governance to navigate this paradigm shift, ultimately creating
+    more resilient and personalized financial advisory services.'
+  venue: European Journal of Computer Science and Information Technology
+- title: Challenges and Opportunities in AI-Human Collaborative Teaching
+  date: 2026-01
+  url: https://doi.org/10.4018/979-8-3373-3000-6.ch006
+  category: human-ai
+  subcategory: method
+  authors:
+  - Pankaj Vaishnav
+  abstract: This chapter highlights the transformative role of artificial intelligence
+    (AI) in education, focusing on its impact on teaching methodologies, assessment
+    strategies, and student engagement. AI-driven adaptive learning platforms personalize
+    education by analyzing student performance and tailoring content to individual
+    needs. Additionally, AI assists educators by automating administrative tasks,
+    enabling data-driven instruction, and identifying learning gaps. However, ethical
+    concerns such as bias in AI algorithms, student data privacy, and transparency
+    in AI decision-making must be addressed. The chapter also explores compliance
+    with legal frameworks, including the General Data Protection Regulation (GDPR),
+    the Family Educational Rights and Privacy Act (FERPA), and intellectual property
+    laws, which are crucial for ensuring responsible AI use in education. The legal
+    complexities surrounding AI-generated content ownership and liability in AI malfunctions
+    further necessitate the establishment of clear policies and risk management strategies.
+    Moreover, AI's integration requires pedagogical adaptations, ensuring that AI
+    complements human instruction rather than replacing it. Blended learning models,
+    AI-augmented teacher roles, and gamified learning environments are examined as
+    strategies to promote student-centered education while preserving the essential
+    human connection in teaching. To fully harness AI's potential; institutions must
+    adopt ethical guidelines, provide professional development for educators, and
+    establish regulatory measures that balance innovation with accountability.
+  venue: Advances in computational intelligence and robotics book series
+- title: Towards Collaborative Intelligence
+  date: 2026-01
+  url: https://doi.org/10.4018/979-8-3373-5747-8.ch001
+  category: human-ai
+  subcategory: application
+  authors:
+  - R. N. Ravikumar
+  - S. Aarthi
+  abstract: In today's digital era, collaboration is evolving beyond traditional tools,
+    driven by the integration of Artificial Intelligence (AI) and emerging technologies
+    such as IoT, Blockchain, 5G, AR/VR, and Quantum Computing. This chapter explores
+    the concept of collaborative intelligence, where human ingenuity merges with machine
+    intelligence to enhance teamwork, communication, and innovation. It highlights
+    how AI-powered systems are transforming real-time collaboration, decision-making,
+    and organizational productivity across sectors like healthcare, education, and
+    enterprise operations. The chapter also addresses key challenges privacy, trust,
+    ethics, and system design providing strategies for responsible AI adoption. Through
+    real-world use cases and future insights, it emphasizes the importance of human-AI
+    synergy in building intelligent, adaptive, and ethical collaborative ecosystems
+    that redefine how we work and connect in the digital age.
+  venue: Advances in computational intelligence and robotics book series
+- title: 'Humanity''s Last Decision™: Toward a Science of Decision Quality for Autonomous
+    Systems'
+  date: 2026-05
+  url: https://doi.org/10.5281/zenodo.20486678
+  category: human-ai
+  subcategory: theory
+  authors:
+  - Aleksandra Pinar
+  abstract: 'Humanity''s Last Decision™ (HLD) is a conceptual research framework that
+    explores the challenge of irreversible decision-making in the age of advanced
+    artificial intelligence and autonomous systems. The paper introduces the notion
+    of a "last decision"—a decision whose consequences cannot be meaningfully reversed
+    once implemented. As AI systems become increasingly capable of influencing economic,
+    political, environmental, and technological outcomes, the quality of human and
+    machine-supported decisions becomes a critical factor for long-term societal resilience.
+    HLD argues that the next frontier of AI governance is not only system alignment,
+    safety, or regulation, but the development of a rigorous science of decision quality.
+    The framework examines how decision-makers can evaluate evidence, uncertainty,
+    assumptions, context, and potential long-term consequences before committing to
+    high-impact actions. The paper serves as a foundational contribution to the emerging
+    field of Decision Engineering Science (DES) and provides a conceptual basis for
+    future research on: Decision Quality Assessment Human–AI Collaborative Decision-Making
+    Decision Governance AI-Assisted Deliberation Evidence-Based Policy Design Irreversible
+    and High-Stakes Decisions Decision Layer Architectures Societal Resilience and
+    Long-Term Stewardship Humanity''s Last Decision™ proposes that the most important
+    challenge of the AI era is not whether machines can make decisions, but whether
+    humanity can systematically improve the quality of the decisions that shape its
+    future. Related works include research on bounded rationality (Simon), cognitive
+    biases (Kahneman), existential risk (Bostrom, Ord), AI alignment (Russell), and
+    AI governance. Humanity''s Last Decision™ extends these traditions by focusing
+    on the quality, admissibility, and reversibility of decisions made by human–AI
+    systems under conditions of uncertainty and irreversible consequences.'
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: 'Towards enhanced decision-making: a human-machine collaborative approach
+    with XAI for power system corrective control'
+  date: 2025-12
+  url: https://doi.org/10.1016/j.epsr.2025.112619
+  category: human-ai
+  subcategory: method
+  authors:
+  - Ke Zhang
+  - Yuting Wang
+  - Peidong Xu
+  abstract: ''
+  venue: Electric Power Systems Research
+- title: 'Not Magic but Manageable: Generative AI and Instructional Decision‐Making
+    in Structured Reading Intervention'
+  date: 2025-11
+  url: https://doi.org/10.1002/trtr.70036
+  category: human-ai
+  subcategory: method
+  authors:
+  - Amy Walter
+  - Dennis S. Davis
+  abstract: ABSTRACT Planning reading interventions often calls for working within
+    a research‐aligned program while tailoring instruction for student needs. We explored
+    how generative artificial intelligence (GenAI) can support educators in reading
+    intervention planning by examining how two novice teachers in a university‐based
+    intervention program used GenAI tools to generate materials, customize texts,
+    and refine lessons. Using the Technological Pedagogical Content Knowledge (TPACK)
+    framework and a sociocognitive lens, we examined how teachers' use of GenAI evolved
+    from basic prompting to strategic pedagogical reasoning. Planning became a space
+    for professional learning, where tutors honed content and pedagogical understanding,
+    refined decision‐making, and grew more confident in instructional adaptation.
+    When embedded in collaborative systems, GenAI use surfaced instructional judgment
+    and supported responsive adaptation, though it did not replace the need for human
+    oversight. We offer implications for teacher educators, interventionists, and
+    school leaders seeking to integrate GenAI in ways that strengthen pedagogical
+    growth and instructional responsiveness.
+  venue: The Reading Teacher
+- title: 'The Influence of AI-Driven Marketing Analytics on Strategic Decision-Making
+    in Private Educational Institutes in Sri Lanka: Moderator Role of Organisational
+    Culture'
+  date: 2025-09
+  url: https://doi.org/10.31357/ajmm.v4i2.7970
+  category: human-ai
+  subcategory: method
+  authors:
+  - C. Ediriweera
+  - Hansini Pramudika
+  - Malika Fernando
+  abstract: 'Purpose: This study explores the influence of AI-driven marketing analytics
+    on strategic decision-making processes in Sri Lankan private universities. AI-driven
+    analytics enable private education institutions to offer insights for targeted
+    student recruitment campaigns and optimized resource allocation. Design/methodology/approach:
+    A quantitative methodology was adopted, employing a deductive approach to test
+    hypotheses related to AI adoption and its impact on strategic decision-making.
+    The study focused on 225 managers, decision-makers, and administrative staff involved
+    in marketing and decision-making processes within private universities. Data were
+    collected through a structured questionnaire survey, analyzed using SPSS v26,
+    and validated through reliability, regression, and moderator analyses. Findings:
+    There is a positive and statistically significant impact of AI-driven marketing
+    analytics on strategic decision-making effectiveness. Organizational culture emerged
+    as a critical moderator, influencing how AI tools are utilized. Institutions with
+    innovation-oriented cultures were found to adopt AI technologies more effectively,
+    promoting adaptability, experimentation, and collaboration. Originality: This
+    study uniquely integrates organizational culture as a moderating factor, providing
+    new insights into how innovation-oriented cultures enhance AI adoption and utilization.
+    By addressing gaps in existing research on AI applications in educational marketing,
+    this study offers a novel framework for leveraging AI tools to optimize decision-making
+    in higher education institutions. Implications: The study highlights the importance
+    of fostering data-driven and innovation-focused cultures within universities to
+    maximize AI adoption. Recommendations include investing in AI tools, staff training
+    programs, and ethical data governance frameworks. Additionally, collaborative
+    decision-making models integrating AI insights with human expertise are suggested
+    to optimize strategic outcomes.'
+  venue: Asian Journal of Marketing Management
+- title: 'Forcing Deliberation: The Role of Cognitive Interventions in Preventing
+    Overreliance in AI-Assisted Decision-Making'
+  date: 2026-01
+  url: https://doi.org/10.1007/978-3-032-29548-4_13
+  category: human-ai
+  subcategory: theory
+  authors:
+  - Wonji Doh
+  - Youngnoh Goh
+  - Sang-Hwan Kim
+  abstract: ''
+  venue: Lecture notes in computer science
+- title: 'AI and Human Collaboration: Creating Personalized Shopping Experiences'
+  date: 2025-05
+  url: https://doi.org/10.32996/jcsts.2025.7.4.18
+  category: human-ai
+  subcategory: method
+  authors:
+  - Kartheek Sankranthi
+  abstract: This article explores the transformative synergy between artificial intelligence
+    and human creativity in revolutionizing e-commerce personalization. It examines
+    how AI's computational power processes vast customer datasets to identify patterns
+    invisible to human analysis alone, while human creativity contributes essential
+    emotional intelligence, cultural understanding, and ethical oversight. The article
+    analyzes the technical architecture enabling this collaboration through a layered
+    approach comprising data collection, AI processing, human interface, and customer
+    presentation components. Through evidence from multiple studies, the article demonstrates
+    how this collaborative model delivers measurable business outcomes across conversion
+    metrics, transaction values, customer retention, and marketing efficiency. It
+    further investigates emerging technologies, including augmented reality, voice
+    commerce, emotional AI, and blockchain-based personalization approaches that promise
+    to further enhance the AI-human partnership. This study offers an integrated framework
+    for AI-human collaboration in personalization, paving the way for future research
+    on ethical AI implementations and cross-cultural applications in global e-commerce.
+    By documenting both current implementations and future possibilities, this article
+    provides a comprehensive examination of how the integration of technological capabilities
+    with human ingenuity creates shopping experiences that are simultaneously data-driven
+    and emotionally resonant, addressing both rational and emotional dimensions of
+    consumer decision-making.
+  venue: Journal of Computer Science and Technology Studies
+- title: 'From Deskilling to Upskilling: The Role of Cognitive Ethical Engagement
+    in Human-AI Collaboration'
+  date: 2025-07
+  url: https://doi.org/10.5465/amproc.2025.13103abstract
+  category: human-ai
+  subcategory: method
+  authors:
+  - Mina Karami
+  - Jim Whitbeck
+  abstract: The rise of artificial intelligence (AI) in organizational decision-making
+    has sparked concerns about its potential to diminish human moral skills, a phenomenon
+    referred to as moral deskilling. However, differences in how employees engage
+    with AI remain conspicuously untheorized with regard to moral deskilling. Accordingly,
+    this paper examines the dual processes of moral deskilling and upskilling within
+    hybrid human-AI problem-solving frameworks. We propose that the extent and type
+    of human involvement in these processes plays a critical role in determining whether
+    moral competencies are eroded or enhanced. In scenarios where AI dominates problem-solving,
+    the risk of moral deskilling increases, leading to a higher likelihood of amoral
+    decision-making and unintended unethical outcomes. Conversely, in interactive
+    problem-solving contexts where humans and AI collaborate closely, opportunities
+    for moral upskilling may arise, enhancing human ethical decision-making capacity.
+    The paper introduces the concept of Cognitive Ethical Engagement as a strategy
+    to mitigate moral deskilling, emphasizing the importance of transparency, active
+    human involvement, and continuous ethical reflection in AI-assisted decision-making
+    processes.
+  venue: Academy of Management Proceedings
+- title: Human-AI Collaboration in Supply Chain Industry 5.0 to Build a Human-Centered
+    Autonomous Ecosystem
+  date: 2025-05
+  url: https://doi.org/10.38035/sijdb.v2i4.197
+  category: human-ai
+  subcategory: method
+  authors:
+  - M Arya Ardanta
+  - Achmad Fauzi
+  - Pitri Patimah
+  abstract: The emergence of Industry 5.0 has shifted supply chain management from
+    full automation toward a human-Al collaborative ecosystem, where artificial intelligence
+    (AI) enhances efficiency while retaining human decision-making and ethical considerations.
+    This study explores the incorporation of AI-powered decision-making, autonomous
+    systems, and sustainability strategies in modern supply chains, emphasizing their
+    impact on efficiency, resilience, and transparency. The research highlights how
+    Al-powered predictive analytics, real-time inventory management, and automated
+    logistics optimize supply chain performance, reducing operational costs and minimizing
+    waste. Case studies from Amazon, JD Logistics, and Siemens demonstrate how AI-powered
+    solutions improve predictive demand analysis, optimize routing, and circular economy
+    practices, leading to more sustainable and agile supply chains. Furthermore, autonomous
+    systems, such as self-driving freight vehicles and robotic fulfillment centers,
+    significantly improve speed and accuracy in global supply networks. Despite its
+    advantages, Al adoption in supply chains presents challenges, including substantial
+    implementation costs, cybersecurity threats, and workforce adaptation challenges,
+    and ethical concerns related to automation. The study underscores the necessity
+    of a human-centric approach, ensuring that AI enhances human expertise rather
+    than substituting it. Organizations must prioritize Al transparency, ethical governance,
+    and digital upskilling programs to maximize AI's potential in next-generation
+    Industry 5.0 supply networks. This research concludes the successful integration
+    of AI in managing supply chains will drive the next generation of self-optimizing,
+    sustainable, and resilient supply networks. Future research should examine AI's
+    long-term socioeconomic effects, its integration with blockchain and IoT, and
+    the development of AI ethics in decision-making.
+  venue: Siber International Journal of Digital Business (SIJDB)
+- title: Student use of Generative AI
+  date: 2024-11
+  url: https://doi.org/10.14742/apubs.2024.1153
+  category: human-ai
+  subcategory: method
+  authors:
+  - Jennifer Chung
+  - Michael Henderson
+  - Nicole Pepperell
+  abstract: Despite the potential and challenges of generative AI (GenAI) in higher
+    education, there remains a significant gap in empirical research to guide strategic
+    decision-making. Current studies are often conceptual or small-scale explorations
+    of staff and student experiences, ranging from analyses of the potential advantages
+    of GenAI, through to expressions of serious concerns about risks for higher education
+    (e.g. Chan & Hu, 2023). Large-scale and comprehensive, data-driven investigations
+    remain rare, however. In particular, there is a need to explore the experiences
+    of students, to better understand what they know, how they are using GenAI, why
+    they are using it, and their attitudes about the use of AI in their studies, by
+    their educators and in their future lives (e.g. Lodge et al., 2023; O’Dea, 2024).
+    This Pecha Kucha reports on the second phase of a multi-institutional collaborative
+    project. The project’s overall research question is ‘How do university students
+    make meaning about GenAI in relation to themselves as learners?’ The first phase
+    involved focus groups at each university, followed by a large-scale online survey.
+    The analysis of the focus group data informed the design of a cross-sectional
+    survey to explore students’ perspectives on GenAI on topics such as knowledge
+    and access, use and usefulness, and attitudes. The survey development was an iterative
+    and significant undertaking. Current literature was unable to provide a comprehensive
+    picture of student use and attitudes. Given the rapidly changing GenAI landscape,
+    we were also aware that student experience and attitudes are contextually dependent
+    and may also evolve quickly. Whilst valuable, existing studies have not connected
+    the varied dimensions of the student experience we seek to investigate. While
+    keeping these studies in mind, this project used a grounded thematic approach
+    to build its own survey instrument, beginning with 4 focus groups of 11 scholars
+    to identify the key issues which needed to be explored within the Australian university
+    context. This stage was followed by iterative development of the survey, in which
+    over 200 suggested edits were provided by 17 scholars as well as a reference group
+    of Deputy/Pro-Vice Chancellors. When completed, the survey was piloted by undergraduate
+    students. The anonymous online survey was conducted in the second half of 2024
+    at four Australian Universities located in Victoria, New South Wales, and Queensland.
+    Human Research Ethics Committee approval was granted at each University prior
+    to conducting this study. The data is currently being collected. To date, the
+    survey has been completed by 8,340 students. The Pecha Kucha will present key
+    descriptive data on selected components of the survey including student knowledge
+    and access, GenAI literacies and skills, perceptions of use and usefulness, and
+    motivations and barriers for when they choose to (not) use GenAI. We will present
+    findings of the whole sample, as well specific equity groups who may have experienced
+    disadvantage or under-representation. For example, preliminary analysis already
+    indicates significant differences in the ways in which international students
+    use and trust generative AI. The findings will provide an evidence base to inform
+    policies and practices that leverage GenAI's benefits while mitigating its risks.
+  venue: ASCILITE Publications
+- title: 'Reinventing supply chain dynamics: The rise of intelligent AI Agents'
+  date: 2025-05
+  url: https://doi.org/10.30574/wjaets.2025.15.2.0581
+  category: human-ai
+  subcategory: method
+  authors:
+  - Aravind Guduru
+  abstract: Intelligent AI agents are revolutionizing supply chain management by transforming
+    reactive systems into proactive, data-driven ecosystems. This article explores
+    how these agents monitor digital consumer behavior across e-commerce platforms
+    to anticipate demand shifts before traditional analytics detect changes. It outlines
+    the collaborative intelligence model where multiple specialized agents communicate
+    to optimize inventory, logistics, and pricing decisions. The three-tiered intelligence
+    framework—encompassing sensing and insight, strategic decision-making, and operational
+    execution—enables organizations to translate real-time consumer signals into actionable
+    strategies. By automating routine tasks, these interconnected AI systems free
+    human talent to focus on long-term planning and creative problem-solving, ultimately
+    creating more agile and responsive supply chains.
+  venue: World Journal of Advanced Engineering Technology and Sciences
+- title: 'Agentic AI in services: orchestrating human–machine synergy for service
+    excellence'
+  date: 2026-03
+  url: https://doi.org/10.1108/ijqss-03-2026-303
+  category: human-ai
+  subcategory: theory
+  authors:
+  - Ankur Srivastava
+  - Sanjay Fuloria
+  abstract: 'Agentic artificial intelligence (AI) refers to systems capable of perceiving
+    their environment, making contextually relevant decisions and acting autonomously
+    to pursue defined or evolving objectives. While the notion of AI as an assemblage
+    of rational agents is well established, as reflected in foundational works that
+    conceptualize AI as the study of entities that map percepts to actions to maximize
+    long-term performance (Russell and Norvig, 2016), its contemporary evolution lies
+    in the fusion of classical agent architectures with modern foundation models.
+    This convergence enables AI systems not only to interpret complex environments
+    but also to formulate subgoals, design multistep plans, access external tools
+    and application programming interfaces and collaborate with other autonomous agents
+    with limited human supervision (Wang et al., 2025a).The emergence of agentic AI
+    represents a profound epistemological and managerial shift in the domain of service
+    management. Traditionally, services have been conceptualized as human-centric,
+    relational and experiential in nature. In contrast, contemporary service ecosystems
+    are increasingly populated by autonomous digital entities capable of sensing,
+    reasoning, learning and acting with purpose. Earlier generations of information
+    systems functioned primarily as deterministic tools, executing human-commanded
+    logic. By comparison, agentic AI embodies features of agency, including context
+    awareness, goal formation, deliberation among alternatives and ethically bounded
+    action (Baird and Maruping, 2021). This shift necessitates a departure from longstanding
+    managerial assumptions related to control, intentionality and accountability,
+    redefining the role of managers from direct supervisors of technology to orchestrators
+    of human–machine collaboration.More fundamentally, the rise of agentic AI challenges
+    the anthropocentric premise that intentional action is uniquely human. Algorithmic
+    agents can now learn from experience, generalize across contexts and contribute
+    actively to value co-creation. Agency thus becomes a distributed property, shared
+    between human and machine intelligences coexisting within sociotechnical networks.
+    Consequently, the meaning of “service” evolves: from a transactional exchange
+    to an interactive process, from efficiency-driven delivery to ethical engagement
+    and from automation to coagency.Within this broader transformation, customer service,
+    particularly service recovery, has become a critical site where the influence
+    of technology and agentic AI is evident. Service recovery refers to the strategies
+    and behaviors used by service providers to address failures or disruptions in
+    customer experience. In such contexts, customer satisfaction is shaped not only
+    by the resolution of the problem but also by the perceived empathy, fairness and
+    responsiveness of the service agent. Recent scholarship by Lajante and Dohm (2024)
+    suggests that while robotic service agents deliver consistent, standardized and
+    efficient recovery responses, human agents remain superior in their ability to
+    convey authenticity, empathy and emotional understanding. These qualities become
+    especially salient in emotionally charged service failures, where procedural accuracy
+    alone fails to satisfy customers’ relational expectations. In such settings, the
+    emotional labor performed by human agents creates a more profound sense of trust
+    and relational repair.Mandal et al. (2025) extended this argument by exploring
+    the responses of Generation Z consumers to service robots. Their research demonstrates
+    that younger customers are receptive to service robots when efficiency, speed
+    and convenience are prioritized; however, they continue to prefer human agents
+    in complex or emotionally sensitive service failures. This suggests that a blended
+    or hybrid service model, where human judgment and machine efficiency are deployed
+    according to situational demands, could produce optimal outcomes. In parallel,
+    the anthropomorphism of chatbots has emerged as a significant factor in determining
+    customer acceptance and satisfaction. Sfar et al. (2025) demonstrated that anthropomorphic
+    design elements, such as human-like language styles, emotional expressions and
+    conversational tone, enhance perceived trustworthiness, social presence and customer
+    engagement. Nonetheless, they cautioned that excessive or poorly executed anthropomorphism
+    can generate feelings of discomfort or perceived manipulation, resulting in a
+    decline in user trust. Therefore, achieving a suitable balance between functional
+    competence and emotional realism is crucial (Bai and Liu, 2025; Jha et al., 2026).These
+    technological shifts unfold within the broader framework of Quality 4.0 – the
+    digital transformation of quality management systems. Malikah et al. (2025) identified
+    multiple pathways through which Quality 4.0 is adopted in organizations: technology-centric,
+    data-driven and human-oriented models. They argue that the future of service-oriented
+    quality lies in synergistically integrating AI, customer analytics and human expertise
+    to create adaptive and resilient service ecosystems. Collectively, these developments
+    affirm that while AI and automation significantly enhance scalability, consistency
+    and personalization in customer service, the human capacity for empathy, ethical
+    judgment and nuanced communication remains indispensable in shaping meaningful
+    customer experiences.The transition from automation to autonomous agency is not
+    confined to customer-facing functions; it is unfolding across diverse industries,
+    signaling a broader paradigmatic reorientation. Evidence from sectors such as
+    digital finance, manufacturing and retail demonstrates that agency, once considered
+    an exclusively human capability, is now increasingly embedded within technological
+    systems. In the domain of digital finance, algorithmic advisory systems have evolved
+    beyond merely recommending financial options. Contemporary AI-powered financial
+    advisors continuously monitor user behavior, learn from interaction histories
+    and provide personalized guidance that actively shapes decision-making trajectories
+    (Chang et al., 2026). Their role has shifted from informational support to participatory
+    influence, thereby redefining how financial value is co-created between institutions
+    and consumers. A similar transition is evident in the manufacturing sector. Intelligent
+    production systems, empowered by machine learning, computer vision and Industrial
+    Internet of Things infrastructures, autonomously coordinate multistep workflows.
+    These systems dynamically adjust the balance between machine decision-making and
+    human supervision in response to contextual uncertainty (Qin et al., 2025; Qiu
+    et al., 2025). They do not simply execute predefined rules; instead, they interpret
+    variable conditions, negotiate resource allocation and escalate anomalies for
+    human intervention only when necessary.Retail ecosystems provide another compelling
+    illustration. Generative AI, emotion-aware virtual assistants and predictive analytics
+    allow retailers to anticipate consumer intent with increasing accuracy (Mangiò
+    et al., 2025). These systems design hyperpersonalized service pathways, modulating
+    recommendations, pricing and engagement strategies in real time. Such technologies
+    blur the boundary between service provision and co-creation, as consumers unconsciously
+    collaborate with algorithms in shaping the retail experience. Taken together,
+    these developments underscore a pivotal insight: agency has become a distributed
+    phenomenon operating across human, algorithmic and organizational layers of service
+    ecosystems (Bartelheimer et al., 2025). This redistribution transforms the strategic
+    role of technology. Whereas earlier service architectures pursued efficiency primarily
+    through standardization and tight control mechanisms, agentic AI thrives on adaptability,
+    probabilistic reasoning and contextual learning.Consequently, managerial orientation
+    must also change. The task is no longer to eliminate variability through rigid
+    standard operating procedures. Instead, managers must architect conditions under
+    which human creativity and machine intelligence co-evolve productively. Scuotto
+    et al. (2025) described this as the “empowerment of AI,” a deliberate transfer
+    of selective decision rights and cognitive tasks to autonomous systems capable
+    of acting responsibly within predefined ethical and operational boundaries. However,
+    delegating agency to AI is not an ethically neutral act. As Novelli et al. (2023)
+    cautioned, once systems begin to act autonomously, the consequences of their decisions
+    can no longer be divorced from questions of fairness, transparency and accountability.
+    Thus, performance and ethics must be managed simultaneously, not sequentially.In
+    this sense, agentic AI represents not just a technological upgrade but a rethinking
+    of managerial logic. Authority shifts from centralized control toward distributed
+    cognition, where humans and machines negotiate meaning, responsibility and action.
+    According to Baird and Maruping’s (2021) model of reciprocal delegation, humans
+    assign decision tasks to AI, and AI systems, in turn, refer interpretive dilemmas
+    back to humans when contextual judgment is required. Managerial work, therefore,
+    becomes less about instruction and more about orchestration, interpretation and
+    ethical stewardship.Because services are inherently relational, the socioemotional
+    dimension is pivotal. Trust, empathy and presence, once seen as incompatible with
+    automation, are increasingly simulated and, in bounded ways, enhanced through
+    advances in natural language processing, affective computing and reinforcement
+    learning (Pei et al., 2024; Wang et al., 2025b). Service agents can recognize
+    emotions, adjust tone and pacing and emulate empathetic responses, blurring the
+    boundaries between authentic emotional labor and synthetic compassion. As Hur
+    and Shin (2025) demonstrated, robot-mediated encounters also alter stress, risk
+    perception and helping behavior, which necessitates updated service scripts and
+    safeguards to maintain satisfaction and well-being.Greater emotional fluency,
+    however, heightens ethical responsibilities. When an AI appears to understand
+    or care, the obligation to disclose its nature and limits becomes a moral requirement,
+    not just a regulatory checkbox. Transparency underpins trust. The risks of moral
+    abdication are not theoretical: in a virtual replication of Milgram’s obedience
+    study, participants deferred judgment when authority was externalized (González-Franco
+    et al., 2018; Zhang et al., 2025).Given their relational intensity and ethical
+    sensitivity, service organizations are an ideal laboratory for this transition.
+    Services are lived rather than merely delivered: they emerge in conversation,
+    mutual give-and-take and emotionally charged encounters, making plain how human–machine
+    collaboration shapes value, meaning and social life. Absent participatory design
+    and clear disclosure, AI-mediated workplaces risk reinscribing domination through
+    opaque outputs that are difficult to contest (Young et al., 2021). When stewarded
+    with care, by contrast, agentic systems can widen inclusion, catalyze creativity
+    and affirm dignity at work, aligning technological advancement with human flourishing.This
+    Viewpoint adopts a deliberately cross-disciplinary stance, drawing on service
+    science, information systems, organizational psychology and ethics, to clarify
+    how agentic AI is remaking managerial practice. It advances three connected claims.
+    First, agency in services is inherently relational and distributed, worked out
+    among intelligent systems and social contexts rather than held exclusively by
+    humans. Second, trust and transparency have become the bedrock of durable service
+    relationships for customers and employees who increasingly interact through algorithmically
+    mediated touchpoints.Third, ethical governance and empathetic design must anchor
+    managerial practice to avoid dehumanization and to protect legitimacy. The aim
+    is not simply to catalog technology but to interpret its human consequences. Properly
+    understood, agentic AI is less an instrument of automation than a catalyst for
+    transformation, reshaping the moral, emotional and cognitive foundations of service
+    systems. The managerial challenge is to orchestrate this transformation deliberately,
+    so that human judgment and machine intelligence can converge toward service excellence
+    that is ethical, adaptive and inclusive.The emergence of agentic AI has transformed
+    service systems into distributed cognitive ecosystems in which humans and algorithms
+    collaboratively share perception, reasoning, judgment and execution. This shift
+    demands a reconceptualization of agency, not as an attribute possessed solely
+    by individuals or machines but as a relational process negotiated between them.
+    Baird and Maruping (2021) conceptualized this through the lens of reciprocal delegation.
+    In practice, humans establish objectives, constraints and ethical boundaries,
+    while AI systems manage complexity, execute tasks and offer adaptive solutions.
+    Crucially, AI systems do not retain unilateral control; they “delegate back” by
+    surfacing anomalies, uncertainties or contextual ambiguities that require human
+    interpretation. This recursive flow of interpretive work makes agency a dynamic
+    and interactive phenomenon rather than a unidirectional transfer of control.Bartelheimer
+    et al. (2025) extended this idea to describe hybrid intelligence ecosystems, where
+    human intuition and algorithmic precision coalesce to produce adaptive service
+    value. In such contexts, agency is relational and co-created. It flows across
+    a network of actors, including employees, customers, managers and machines, rather
+    than being hierarchically imposed.For such ecosystems to function effectively,
+    trust becomes the foundational currency. As AI systems increasingly assume advisory
+    or decision-making roles, trust decisions shift from human-to-human interactions
+    toward human-to-algorithm interactions (Chang et al., 2026). Trust is shaped by
+    perceptions of Competence (the accuracy and reliability of outputs), Benevolence
+    (alignment with user interests) and Integrity (the ethical use of data and transparency
+    of reasoning). Hur and Shin (2025) noted that users’ trust in service robots varies
+    according to perceived risk, emotional safety and cultural context. Similarly,
+    Safarov (2021) found that digital trust among older migrants is mediated by emotional
+    security, familiarity and value alignment rather than technical utility alone
+    (Casino, F., 2025).Explainability is essential for fostering trust. Transparent
+    AI systems that provide comprehensible reasoning restore perceptions of fairness,
+    legitimacy and user control (Liao and Vaughan, 2024). However, explainability
+    alone is insufficient. Emerging research on algorithmic empathy suggests that
+    emotionally attuned responses, when contextually appropriate and clearly bounded,
+    strengthen engagement and trust. In this sense, empathy becomes both a design
+    principle and a moral commitment. As authority shifts from human actors to AI
+    systems, governance must ensure that accountability is not diluted in the same
+    manner. Humans have a well-documented tendency to defer moral responsibility to
+    external authorities (González-Franco et al., 2018). When such authority is embedded
+    in AI, there is a risk that responsibility could dissipate across human–machine
+    interfaces.Thus, ethical governance requires Structural accountability: a clear
+    designation of who remains ultimately responsible for AI-enabled outcomes. Procedural
+    transparency – visibility into how AI systems reason, update and act. Normative
+    alignment – assurance that AI behavior reflects organizational values and broader
+    ethical standards (Ye et al., 2021). When embedded as practice rather than symbolic
+    compliance, governance becomes a strategic asset rather than a constraint. Agentic
+    AI also reshapes organizational creativity. Evidence from gamified learning environments
+    suggests that striking a balance between challenge, feedback and autonomy can
+    stimulate ideation (Karthik and Sheik Manzoor, 2020). Similarly, human–AI collaboration
+    – when built on iterative feedback loops – enhances problem-solving and innovation
+    resilience (Verganti et al., 2020). Still, organizational narratives surrounding
+    AI remain undecided – oscillating between visions of control, displacement, empowerment
+    and collaboration. Mangiò et al. (2025) emphasized the role of reflexive negotiation,
+    where leaders frame AI not as a threat or inevitability, but as a co-evolving
+    partner that invites critical questioning, learning and adaptation.The integration
+    of agentic AI within service ecosystems fundamentally reconfigures managerial
+    roles, organizational structures and leadership imperatives. As decision-making
+    authority becomes distributed between human and machine actors, leadership shifts
+    from enforcing compliance to cultivating coherence across a network of interacting
+    intelligences. In traditional service management, leadership involved directing
+    human labor through predefined processes and Agentic AI this logic. When AI systems
+    in managers are no longer primarily supervisors of instead, they become orchestrators
+    of hybrid responsible for human creativity with machine (Baird and Maruping, 2021).
+    The process of determining when and where AI autonomy is where human judgment
+    must and that technological efficiency not ethical or relational Thus, the role
+    of the from of instruction to of and ethical As AI systems increasing accuracy
+    and organizations risk or automation the tendency to AI outputs leaders must ethical
+    the capacity to algorithmic value and with human values and purpose. strategies
+    algorithmic of AI decisions and ethics to use (González-Franco et al., 2018; and
+    Liu, Trust, both and external becomes a strategic asset in AI-mediated service
+    ecosystems. and this trust requires transparency and to understand how AI systems
+    clear communication of or simulated emotional intelligence that and emotionally
+    intelligent while about the nature. Trust is thus not a of technology but a of
+    empathy and of agentic AI has profound for When AI is it risks being perceived
+    as a of or and trust. participatory design and enhance acceptance and (Young et
+    al., 2021). leadership in this is defined employees in design and autonomy and
+    dignity at work and for human especially in or emotionally complex organizational
+    boundaries, managers increasingly assume as of sociotechnical ecosystems. Agentic
+    AI can enhance through data and predictive analytics (Ye et al., 2021). In and
+    service contexts, AI-enabled have et al., 2025). for inclusion, especially for
+    individuals with digital or remains for social legitimacy and moral responsibility
+    service systems become more autonomous and the human role shifts from to interpretation
+    and managers not merely monitor AI they with outputs and model This human ethical
+    emotional cultural and the capacity to generate meaning under uncertainty et al.,
+    AI is thus both a technological and a moral It invites organizations to service
+    systems on where humans and machines act not as but as in value. Trust, empathy,
+    transparency and governance are not constraints on they are the foundations of
+    The service of the future be solely human exclusively It be a between the an of
+    shared intelligence by empathy, accountability and AI a significant and research
+    for in service science, information systems, organizational behavior and While
+    foundations for human–AI collaboration are evolving (Baird and Maruping, of how
+    agency is negotiated and remains research must the through which decision accountability
+    and interpretive authority are distributed across customers, employees, algorithms
+    and managerial structures et al., 2025). and be particularly in exploring how
+    relationships of trust and especially as AI systems and more actively in service
+    in agentic AI is not solely a rational of it is also and emotionally While competence
+    and as of AI (Chang et al., future research how cultural emotional and context
+    human responses to machine on Safarov across and could in how assign and relational
+    to AI research algorithmic empathy, the to which AI can or emotional understanding.
+    suggests that emotionally AI can strengthen user engagement when used However,
+    questions remain AI empathy, or can it only conditions enhance trust rather than
+    create discomfort or ethical safeguards are to emotional and emphasized by et
+    al. and et al. humans defer moral judgment to systems. When authority is algorithmic
+    rather than human, how responsibility be for research of shared accountability
+    that a balance between innovation and (Ye and Liu, work ethics and organizational
+    is crucial for regulatory that hybrid AI reshapes the work experience. research
+    suggests that task autonomy and AI can enhance and agency (Qin et al., while other
+    opaque control, and dehumanization (Young et al., 2021). address this future research
+    use and participatory to understand how employees meaning, dignity and creativity
+    in study these complex a of research including exploring transparency and interpretive
+    research and organizational (Mangiò et al., and and behavior within human–machine
+    (Ye et al., the of agentic AI, particularly in to and inclusion, While AI has
+    and risk governance through data (Ye et al., it has also ethical dilemmas and
+    of AI systems both profound and moral risk et al., 2025). across and institutions
+    can clarify how or AI et al., scholarship must beyond a on technological performance
+    to a of This framework how agency is ethical responsibility is and human dignity
+    is in hybrid service ecosystems. As et al. (2025) the challenge is not merely
+    AI, but the human–machine in a that advances both innovation and'
+  venue: International Journal of Quality and Service Sciences
+- title: 'Strategic Integration of HR, Organizational Management, Big Data, IoT, and
+    AI: A Comprehensive Framework for Future-Ready Enterprises'
+  date: 2024-04
+  url: https://dx.doi.org/10.1109/iconstem60960.2024.10568704
+  category: human-ai
+  subcategory: theory
+  authors:
+  - Vaibhavi Chavan
+  - Nagendra
+  - Mohammad Roshif U
+  abstract: This exploration paper proposes a comprehensive frame aimed at fostering
+    unborn-ready enterprises through the strategic integration of Human coffers(HR),
+    Organizational Management, Big Data, the Internet of Things (IoT), and Artificial
+    Intelligence(AI). By synthesizing these critical factors, the frame seeks to optimize
+    organizational effectiveness, enhance decision-making processes, and acclimatize
+    proactively to evolving request dynamics. Through a methodical review of being
+    literature and empirical substantiation, the paper delineates the interconnectedness
+    of these rudiments and elucidates their collaborative impact on organizational
+    performance and dexterity. likewise, it explores perpetration strategies and implicit
+    challenges associated with espousing such an intertwined approach. This paper
+    not only contributes to the theoretical understanding of strategic operation but
+    also provides practical perceptivity for directors and directors seeking to navigate
+    the complications of the contemporary business geography and place their associations
+    for sustained success in a decreasingly digitized and competitive terrain.
+  venue: ''
+- title: Trust-Aware Sequential Decision Making and Rollout Planning for Resilient
+    Multi-Robot Systems
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.25690
+  category: sequential
+  subcategory: theory
+  authors:
+  - Roee M. Francos
+  - Daniel Garces
+  - Orhan Eren Akgün
+  abstract: Sequential decision-making in multi-robot systems typically assumes that
+    planning information is reliable and that agents execute the actions anticipated
+    by the planner. Compromised agents can violate both assumptions, creating a mismatch
+    between the planning model and physical execution. We study this problem in online
+    multi-robot routing under localization spoofing. We introduce a distance-constrained
+    spoofing model for monitor-aware adversaries, together with a tiered bipartite
+    matching strategy that maximizes assignment influence while limiting spoofing
+    magnitude. To mitigate such attacks, we develop a trust-aware monitor that combines
+    probabilistic localization trust, calibrated using real GPS spoofing data, with
+    behavioral evidence from task execution to classify agents and remove detected
+    adversaries from subsequent planning. We further show that undetected adversaries
+    can cause rollout to lose its expected cost-improvement behavior by violating
+    planner-execution consistency. Trust-aware removal restores this consistency after
+    detection, enabling stable routing and recovery of rollout's empirical advantage
+    over the base policy. Experiments using real GPS spoofing datasets and San Francisco
+    taxicab demand demonstrate effective detection and resilient routing across varying
+    spoofing capabilities, adversarial fleet sizes, adaptive attacks, monitoring configurations,
+    and rollout horizons.
+  venue: arXiv (Cornell University)
+- title: Optimisation or Learning? Appropriate Choice of Models and Methods for Sequential
+    Decision‐Making in Power System Operation
+  date: 2026-08
+  url: https://doi.org/10.1049/ein2.70035
+  category: sequential
+  subcategory: theory
+  authors:
+  - Wei Wei
+  - Runze Liang
+  abstract: ABSTRACT Power system operation is inherently a sequential decision‐making
+    problem, traditionally addressed through optimisation models built upon high‐quality
+    load forecasts. However, the rapid proliferation of renewable generation and price‐responsive
+    demands, such as electric vehicles and merchant energy storage, has introduced
+    multiple sources of uncertainty that are difficult to characterise and predict
+    with sufficient accuracy. To address the impact of uncertainty, advanced optimisation
+    and reinforcement learning have emerged as two representative yet conceptually
+    distinct paradigms for sequential decision‐making in power systems. Despite their
+    different theoretical foundations, modelling assumptions and implementation schemes,
+    their practical application domains often overlap, which has led to persistent
+    ambiguity in model selection. This paper argues that the choice between optimisation
+    and learning should not be framed as a methodological preference, but as a modelling
+    decision rooted in available information and the structure of uncertainty. This
+    article clarifies the fundamental strengths and limitations of the two paradigms
+    and identifies the conditions under which each is most appropriate. The goal is
+    not to advocate one paradigm over the other, but to establish a principled view
+    of model choice for sequential decision‐making in power system and energy internet
+    operations.
+  venue: Energy internet.
+- title: 'To Harvest or Not to Harvest: Mapping and Decision-Making for a Selective
+    Table Grape Harvesting Robot'
+  date: 2025-08
+  url: https://doi.org/10.1109/lra.2025.3600147
+  category: sequential
+  subcategory: method
+  authors:
+  - Ruben Beumer
+  - Leonardo Saraceni
+  - Daniele Nardi
+  abstract: This paper focuses on robotic harvesting of delicate crops such as table
+    grapes, featuring selective harvesting based on individual product properties.
+    The robot detects grape bunches and estimates their positions and quality attributes.
+    However, sensor limitations and occlusions affect data completeness and accuracy,
+    reducing the cost-effectiveness of automated harvesting systems. Determining in
+    real-time the optimal harvesting order in the presence of uncertainty is therefore
+    important for enhancing efficiency and grape quality for growers and consumers.
+    This task is challenging not only due to data uncertainty, but also due to the
+    need to consider factors such as obstructive low-quality bunches. Existing literature
+    often resorts to sub-optimal approaches such as selecting the first available
+    crop. In contrast, we propose (i) a mapping and tracking method based on multiple
+    viewpoints to enhance bunch information quality and (ii) a decision-making algorithm
+    in a decision-tree with a recursive structure based on a constructed reachability
+    graph derived from the map to optimize harvested quality and execution time sequentially.
+  venue: IEEE Robotics and Automation Letters
+- title: Evade or rush? Investigating jaywalkers' sequential crossing decisions at
+    mid-blocks without crossing facilities
+  date: 2024-04
+  url: https://doi.org/10.1016/j.tbs.2024.100799
+  category: sequential
+  subcategory: theory
+  authors:
+  - Ziqian Zhang
+  - Haojie Li
+  - Gang Ren
+  abstract: ''
+  venue: Travel Behaviour and Society
+- title: Optimization of Collaborative Vessel Scheduling for Offshore Wind Farm Installation
+    Under Weather Uncertainty
+  date: 2026-01
+  url: https://doi.org/10.3390/jmse14020223
+  category: optimization-uncertainty
+  subcategory: method
+  authors:
+  - Shengguan Qu
+  - Changmao Yu
+  - Yang Zhou
+  abstract: 'The construction cost of offshore wind farms (OWFs) is heavily influenced
+    by vessel scheduling and meteorological uncertainties. To address these challenges,
+    this paper proposes a constraint-driven hierarchical optimization framework for
+    the coordinated scheduling of installation vessels (IVs) and transport vessels
+    (TVs). First, a Mixed-Integer Linear Programming (MILP) model is established to
+    describe the operational constraints, which is then decomposed into two interrelated
+    sub-problems: vessel path planning and scheduling optimization. For path planning,
+    the problem is modeled as a Multiple Traveling Salesman Problem (MTSP) to ensure
+    balanced fleet workloads. This stage is solved via a tailored three-stage heuristic
+    combining balanced sweep clustering and penalized local search. For scheduling
+    optimization, a hybrid Earliest Deadline First (EDF)-Simulated Annealing (SA)
+    strategy is employed, where EDF generates a strictly feasible baseline to warm-start
+    the SA optimization. Furthermore, a stochastic optimization approach integrates
+    historical meteorological data to ensure schedule robustness against weather uncertainty.
+    The validity of the framework is supported by two real-world OWF cases, which
+    demonstrate total cost reductions of 15.44% and 13.20%, respectively, under stochastic
+    weather conditions. These results demonstrate its effectiveness in solving high-constraint
+    offshore engineering problems.'
+  venue: Journal of Marine Science and Engineering
+- title: A Fuzzy Credibility-Constrained Fuzzy Multi-Objective Programming Model for
+    Optimizing Irrigation Strategies to Balance Citrus Yield and Quality Under Uncertainty
+  date: 2025-11
+  url: https://doi.org/10.3390/agronomy15122739
+  category: optimization-uncertainty
+  subcategory: method
+  authors:
+  - Fan Zhang
+  - Xinyu Zhang
+  - Zihan Wu
+  abstract: 'Optimizing irrigation strategies to simultaneously enhance crop yield
+    and fruit quality under water scarcity is a critical challenge for sustainable
+    agriculture. This study addresses this challenge by developing a novel fuzzy credibility-constrained
+    fuzzy multi-objective programming (FCC-FMOP) model for irrigation planning under
+    uncertainty. The model incorporates stochastic hydrologic factors, decision-maker
+    preferences, and complex interrelationships among fruit quality attributes and
+    market dynamics. Applied to a citrus-producing region in Southwest China prone
+    to seasonal drought, the approach demonstrates its capability to reconcile multiple
+    objectives under fuzzy constraints. The key findings include the following: (1)
+    The IVIF-TOPSIS analysis quantitatively revealed that yield was the paramount
+    objective for decision-makers in the study region, followed by single fruit weight,
+    highlighting the economic drivers that must be balanced with qualitative metrics.
+    (2) The FCC-FMOP model effectively balances yield and quality objectives while
+    adapting to real-world fuzzy constraints, proving to be both robust and practical.
+    (3) Compared with conventional practices, the proposed irrigation strategy—calibrated
+    under varying credibility levels (β = 0.55, 0.75, and 0.95)—significantly improves
+    yield, fruit weight, hue angle, water content, and soluble sugar content. Performance
+    evaluation using synthetic degree (SD), the sustainability index (SI), and approximation
+    degree (AD) confirmed the model’s superiority over single-objective models and
+    conventional practices. The FCC-FMOP model provides a scalable and decision-maker-oriented
+    tool for sustainable irrigation management in water-limited environments.'
+  venue: Agronomy
+- title: A bi-level optimization model of integrated energy system considering waste
+    treatment under uncertainty
+  date: 2025-06
+  url: https://doi.org/10.1016/j.energy.2025.136810
+  category: optimization-uncertainty
+  subcategory: systems
+  authors:
+  - Jie Yang
+  - Jichen Wang
+  - Kai Ma
+  abstract: ''
+  venue: Energy
+- title: Robust discrete variable topology optimization for continuum structures under
+    load and material uncertainties
+  date: 2026-02
+  url: https://doi.org/10.1007/s00158-026-04264-3
+  category: optimization-uncertainty
+  subcategory: theory
+  authors:
+  - Peihan Chen
+  - Zhenzeng Lei
+  - Gang Li
+  abstract: ''
+  venue: Structural and Multidisciplinary Optimization
+- title: Strategic Analysis And Implementation Of Tic-Tac-Toe Using Ai And Game Theory
+  date: 2025-05
+  url: https://doi.org/10.55248/gengpi.6.0525.1631
+  category: game-theory
+  subcategory: theory
+  authors:
+  - H L Nethra
+  - A D Shalini
+  - B R Sourabha
+  abstract: Tic-Tac-Toe, a classic two-player game, serves as a fundamental model
+    for exploring artificial intelligence (AI) and game theory applications.This paper
+    presents a strategic analysis of Tic-Tac-Toe, incorporating AI techniques and
+    game theory principles to develop an optimal decision-making system.We first examine
+    the mathematical foundations of the game, including its state-space complexity,
+    deterministic nature, and equilibrium strategies.Using minimax algorithms with
+    alpha-beta pruning, we implement an AI agent capable of optimal play, ensuring
+    that it never loses against a rational opponent.Reinforcement learning techniques,
+    such as Q-learning, are also explored for adaptive gameplay improvement.The paper
+    further discusses Nash equilibrium in the context of Tic-Tac-Toe, demonstrating
+    how strategic dominance influences AI decision-making.Experimental results validate
+    the effectiveness of our AI model in achieving optimal play while minimizing computational
+    overhead.Additionally, we analyze practical implementation challenges, such as
+    state-space reduction and decisiontree optimization.The findings highlight the
+    applicability of AI and game theory in strategic decision-making for similar zero-sum
+    games.This study provides valuable insights into AI-driven game strategies, paving
+    the way for advancements in more complex decision-based systems.
+  venue: International Journal of Research Publication and Reviews
+- title: Dynamic decisions of the manufacturer-led closed-loop supply chain considering
+    altruistic behavior in EV battery
+  date: 2024-08
+  url: https://doi.org/10.1016/j.jclepro.2024.143385
+  category: game-theory
+  subcategory: theory
+  authors:
+  - Hongfang Song
+  - Xifan Li
+  - Junlin Chen
+  abstract: 'Behavioral studies have found that altruism can affect the decision of
+    Closed-Loop Supply Chain (CLSC) significantly. Altruistic behaviors on optimal
+    decision-making in dynamic environments are challenging problems. To solve these
+    difficulties, we individually propose three types of cases and using differential
+    game theory and Bellman theory: (a) a manufacturer behaving altruistically to
+    third-party recyclers; (b) one manufacturer cooperating with other participants
+    to have altruism; (c) the manufacturer collaborating with other participants to
+    behave non-altruistically. We conduct optimal dynamic decisions for participants
+    associated with quality of EV batteries, further explore the rule of time evolution
+    considering altruistic behavior. We find three interesting results as follows:
+    altruistic behavior of the manufacturer is advantageous to profitability of CLSC
+    especially when it cooperates with a retailer and one of third-party recyclers.
+    Altruistic behavior of the manufacturer is a behavior of “profit transferring”
+    and moderate altruistic behavior is conducive to the profitability of CLSC and
+    cooperation motivates activity of recycling. In dynamic situations, quality level
+    of EV batteries is polarized. When the manufacturer has altruistic behavior to
+    one or two third-party recyclers, long-term development of CLSC is affected by
+    the deterioration of quality level of EV batteries.'
+  venue: Journal of Cleaner Production
+- title: What do dividend changes reveal? Theory and evidence from a unique environment
+  date: 2023-11
+  url: https://doi.org/10.1007/s11156-023-01211-x
+  category: game-theory
+  subcategory: theory
+  authors:
+  - Abdullah AlGhazali
+  - Khamis Hamed Al‐Yahyaee
+  - Richard Fairchild
+  abstract: Abstract We explore the reasons behind corporate dividend changes and
+    factors driving those changes during 2001–2021 in Oman, as a unique environment.
+    The implications of our paper contrast with the relevant existing literature which
+    demonstrates a positive correlation between dividends and stock prices in Oman,
+    in support of the signaling theory. Employing multiple methods and after controlling
+    for the nonlinearity in the profitability process, we find virtually no evidence
+    for the signaling theory of dividends for dividend reductions, in terms of future
+    earnings. Furthermore, our analysis affirms the importance of current profitability
+    in influencing the magnitude of and the propensity to change (increase or decrease)
+    dividends in listed Omani firms. We also find that the catering theory of dividends
+    does not have any explanatory power on dividend changes. Further, firms’ life-cycle
+    status and real investments have been found to significantly affect the decision
+    to change dividends. Our results, which depart from the findings in the conventional
+    literature, can be attributed to the distinct institutional features in Oman.
+    Our game-theoretic model of dividend signaling/dividend catering provides some
+    explanations.
+  venue: Review of Quantitative Finance and Accounting
+- title: 'Enhancing Autonomous Vehicle Decision-Making at Intersections in Mixed-Autonomy
+    Traffic: A Comparative Study Using an Explainable Classifier'
+  date: 2024-06
+  url: https://doi.org/10.3390/s24123859
+  category: autonomous
+  subcategory: theory
+  authors:
+  - Erika Ziraldo
+  - Megan E. Govers
+  - Michele Oliver
+  abstract: The transition to fully autonomous roadways will include a long period
+    of mixed-autonomy traffic. Mixed-autonomy roadways pose a challenge for autonomous
+    vehicles (AVs) which use conservative driving behaviours to safely negotiate complex
+    scenarios. This can lead to congestion and collisions with human drivers who are
+    accustomed to more confident driving styles. In this work, an explainable multi-variate
+    time series classifier, Time Series Forest (TSF), is compared to two state-of-the-art
+    models in a priority-taking classification task. Responses to left-turning hazards
+    at signalized and stop-sign-controlled intersections were collected using a full-vehicle
+    driving simulator. The dataset was comprised of a combination of AV sensor-collected
+    and V2V (vehicle-to-vehicle) transmitted features. Each scenario forced participants
+    to either take ("go") or yield ("no go") priority at the intersection. TSF performed
+    comparably for both the signalized and sign-controlled datasets, although all
+    classifiers performed better on the signalized dataset. The inclusion of V2V data
+    led to a slight increase in accuracy for all models and a substantial increase
+    in the true positive rate of the stop-sign-controlled models. Additionally, incorporating
+    the V2V data resulted in fewer chosen features, thereby decreasing the model complexity
+    while maintaining accuracy. Including the selected features in an AV planning
+    model is hypothesized to reduce the need for conservative AV driving behaviour
+    without increasing the risk of collision.
+  venue: Sensors
+- title: 'Ethical Decision-Making in Artificial Intelligence: A Logic Programming
+    Approach'
+  date: 2024-12
+  url: https://doi.org/10.3390/ai5040130
+  category: autonomous
+  subcategory: method
+  authors:
+  - José Machado
+  - Regina Sousa
+  - Hugo Peixoto
+  abstract: This article proposes a framework for integrating ethical reasoning into
+    AI systems through Continuous Logic Programming (CLP), emphasizing the improvement
+    of transparency and accountability in automated decision-making. The study highlights
+    requirements for AI that respects human values and societal norms by examining
+    concerns such as algorithmic bias, data privacy, and ethical dilemmas in fields
+    like healthcare and autonomous systems. The proposed CLP-based methodology offers
+    a systematic, elucidative framework for ethical decision-making, allowing AI systems
+    to balance operational efficiency with ethical principles. Important contributions
+    include strategies for the integration of ethical frameworks, stakeholder engagement,
+    and transparency, as well as discussion on artificial moral agents and their function
+    in addressing ethical dilemmas in AI. The paper presents practical examples that
+    illustrate the application of CLP in ethical reasoning, highlighting its ability
+    to bring together AI performance with responsible AI practices.
+  venue: AI
+- title: Human–machine collaboration for enhanced decision-making in governance
+  date: 2024-01
+  url: https://doi.org/10.1017/dap.2024.72
+  category: autonomous
+  subcategory: method
+  authors:
+  - Dirk Van Rooy
+  abstract: Abstract A detailed exploration is presented of the integration of human–machine
+    collaboration in governance and policy decision-making, against the backdrop of
+    increasing reliance on artificial intelligence (AI) and automation. This exploration
+    focuses on the transformative potential of combining human cognitive strengths
+    with machine computational capabilities, particularly emphasizing the varying
+    levels of automation within this collaboration and their interaction with human
+    cognitive biases. Central to the discussion is the concept of dual-process models,
+    namely Type I and II thinking, and how these cognitive processes are influenced
+    by the integration of AI systems in decision-making. An examination of the implications
+    of these biases at different levels of automation is conducted, ranging from systems
+    offering decision support to those operating fully autonomously. Challenges and
+    opportunities presented by human–machine collaboration in governance are reviewed,
+    with a focus on developing strategies to mitigate cognitive biases. Ultimately,
+    a balanced approach to human–machine collaboration in governance is advocated,
+    leveraging the strengths of both humans and machines while consciously addressing
+    their respective limitations. This approach is vital for the development of governance
+    systems that are both technologically advanced and cognitively attuned, leading
+    to more informed and responsible decision-making.
+  venue: Data & Policy
