@@ -4903,7 +4903,6 @@ papers:
   venue: Frontiers in Artificial Intelligence
 - title: Leveraging ChatGPT for Real-Time Decision-Making in Autonomous Systems
   date: 2023-01
-  url: https://doi.org/10.56614/eiprmj.v12i2.407
   category: human-ai
   subcategory: application
   authors:
@@ -51641,7 +51640,7 @@ papers:
 - title: Exploration of unknown environments via bayesian optimization for mobile
     robots
   date: 2026-03
-  url: https://amslaurea.unibo.it/view/cds/CDS8891/>,
+  url: https://amslaurea.unibo.it/view/cds/CDS8891/
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -53182,7 +53181,6 @@ papers:
 - title: Collaborative Exploration of Healthcare AI Applications and Ethical Human-Machine
     Alignment
   date: 2026-06
-  url: https://doi.org/10.66128/jdhe202602.1
   category: human-ai
   subcategory: theory
   authors:
@@ -66772,7 +66770,6 @@ papers:
 - title: Topological data analysis on understanding and explaining decision making
     for autonomous vehicles
   date: 2026-07
-  url: https://hdl.handle.net/10889/32525
   category: autonomous
   subcategory: theory
   authors:
@@ -105353,7 +105350,6 @@ papers:
   - Hao Fang
   - Runmin Cong
   venue: ''
-  code_url: https://github.com/Maricalce/MCPO
   project_url: ''
   abstract: Post-training has significantly enhanced the reasoning capability of Large
     Reasoning Models (LRMs), especially with Reinforcement Learning (RL) like Group
@@ -118000,7 +117996,6 @@ papers:
   venue: ''
 - title: 'Data-Driven Decision Making: Advanced Database Systems for Business Intelligence'
   date: 2024-05
-  url: https://doi.org/10.62441/nano-ntp.v20is3.51
   category: decision-making
   subcategory: systems
   authors: []
@@ -142193,7 +142188,6 @@ papers:
   - Dmitry Yudin
   - Aleksandr Panov
   venue: ''
-  code_url: https://github.com/Xisonik/Aloha
   project_url: ''
   abstract: 'The 3D scene graph models spatial relationships between objects, enabling
     the agent to efficiently navigate in a partially observable environment and predict
@@ -170450,7 +170444,6 @@ papers:
   venue: Mathematical Structures in Computer Science
 - title: Markov Decision Process Modeling in Pharmacoeconomics with Application Perspectives
   date: 2024-01
-  url: https://dx.doi.org/10.2478/amns-2024-2458
   category: mdp
   subcategory: theory
   authors:
@@ -191108,7 +191101,6 @@ papers:
   venue: World Journal of Future Technologies in Computer Science and Engineering
 - title: 1497 - Multi-agent In-context Coordination via Decentralized Memory Retrieval
   date: 2026-01
-  url: https://doi.org/10.48448/4qh4-yd66
   category: multi-agent
   subcategory: method
   authors:
@@ -207182,7 +207174,6 @@ papers:
 - title: Large Language Models as General Purpose Intelligence Systems for Reasoning,
     Planning and Decision Making
   date: 2025-12
-  url: https://doi.org/10.71465/ajainn473
   category: human-ai
   subcategory: theory
   authors:
@@ -226962,7 +226953,6 @@ papers:
 - title: '357 - SkillGen: Learning Domain Skills for In-Context Sequential Decision
     Making'
   date: 2026-01
-  url: https://doi.org/10.48448/0efr-f857
   category: sequential
   subcategory: theory
   authors:
@@ -248822,7 +248812,6 @@ papers:
 - title: 'THE EMOTIONAL BATTLE OF THE SEXES GAME: PSYCHOLOGICAL GAME THEORY APPLIED
     TO THE CHOICE OF TOURISM'
   date: 2025-01
-  url: https://doi.org/10.20867/thm.31.2.4
   category: game-theory
   subcategory: theory
   authors:
@@ -277424,7 +277413,6 @@ papers:
 - title: Research on the realization path of ideological and political education goals
     in colleges and universities based on Bayesian decision theory
   date: 2024-01
-  url: https://doi.org/10.2478/amns-2024-0433
   category: decision-theory
   subcategory: theory
   authors:
@@ -279092,7 +279080,6 @@ papers:
 - title: 'A Perspective of Theory of Reasoned Action and Planned Behavior: Purchase
     Decision'
   date: 2025-02
-  url: https://doi.org/10.24912/jm.v29i1.2265
   category: decision-theory
   subcategory: theory
   authors:
@@ -292186,7 +292173,7 @@ papers:
   venue: Journal of Chemical Theory and Computation
 - title: 'Evaluation of contextual bandits for recommendation: temporality and limitations'
   date: 2025-10
-  url: https://repositorio.ufscar.br/handle/20.500.14289/22952.
+  url: https://repositorio.ufscar.br/handle/20.500.14289/22952
   category: bandits
   subcategory: method
   authors:
@@ -308822,7 +308809,6 @@ papers:
   venue: Systems
 - title: Consumer Reviews on TikTok and Their Impact on Millennial Saving Decisions
   date: 2023-12
-  url: https://dx.doi.org/10.56457/jimk.v11i2.385
   category: survey
   subcategory: method
   authors:
@@ -310812,8 +310798,8 @@ papers:
     (GA), Evolutionary Algorithm, Deep Q-Networks (DQN), Newsvendor Model, Economic
     Order Quantity (EOQ), Proximal Policy Optimization (PPO) and Soft Q-Learning (SQL).
     The results of this study show that the agentic MARL system achieves strong, balanced
-    performance ($524k profit, 94.9% service) with robust adaptability. The EOQ model
-    offers higher profit ($584k, 98.9% service level) but only in stable environments
+    performance (524k profit, 94.9% service) with robust adaptability. The EOQ model
+    offers higher profit (584k, 98.9% service level) but only in stable environments
     because of its limited adaptiveness. Other RL methods (PPO and SQL) exhibit high
     variability, while traditional approaches (GA, rule-based, Bayesian) underperform,
     lacking the autonomy and learning capacity needed for dynamic business environments.
@@ -312429,7 +312415,7 @@ papers:
   venue: Data & Policy
 - title: Using AI Uncertainty Quantification to Improve Human Decision-Making
   date: 2023-09
-  url: https://arxiv.org/abs/2309.10852v2
+  url: https://arxiv.org/abs/2309.10852
   category: decision-making
   subcategory: method
   authors:
@@ -312456,7 +312442,7 @@ papers:
 - title: 'Learning from Evolution: Improving Collective Decision-Making Mechanisms
     using Insights from Evolutionary Robotics'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.02133v1
+  url: https://arxiv.org/abs/2405.02133
   category: decision-making
   subcategory: method
   authors:
@@ -312480,7 +312466,7 @@ papers:
     mechanisms voter model and majority rule.
 - title: Fair Machine Guidance to Enhance Fair Decision Making in Biased People
   date: 2024-04
-  url: https://arxiv.org/abs/2404.05228v1
+  url: https://arxiv.org/abs/2404.05228
   category: decision-making
   subcategory: method
   authors:
@@ -312507,7 +312493,7 @@ papers:
     in humans.'
 - title: Building Decision Making Models Through Language Model Regime
   date: 2024-08
-  url: https://arxiv.org/abs/2408.06087v1
+  url: https://arxiv.org/abs/2408.06087
   category: decision-making
   subcategory: method
   authors:
@@ -312526,24 +312512,23 @@ papers:
     for each unique task. In contrast, LLMs demonstrate remarkable success in generalizing
     across varied language tasks, inspiring a new strategy for training decision making
     models. Our approach, referred to as "Learning then Using" (LTU), entails a two-stage
-    process. Initially, the \textit{learning} phase develops a robust foundational
-    decision making model by integrating diverse knowledge from various domains and
-    decision making contexts. The subsequent \textit{using} phase refines this foundation
-    model for specific decision making scenarios. Distinct from other studies that
-    employ LLMs for decision making through supervised learning, our LTU method embraces
-    a versatile training methodology that combines broad pre-training with targeted
-    fine-tuning. Experiments in e-commerce domains such as advertising and search
-    optimization have shown that LTU approach outperforms traditional supervised learning
-    regimes in decision making capabilities and generalization. The LTU approach is
-    the first practical training architecture for both single-step and multi-step
-    decision making tasks combined with LLMs, which can be applied beyond game and
-    robot domains. It provides a robust and adaptable framework for decision making,
-    enhances the effectiveness and flexibility of various systems in tackling various
-    challenges.
+    process. Initially, the learning phase develops a robust foundational decision
+    making model by integrating diverse knowledge from various domains and decision
+    making contexts. The subsequent using phase refines this foundation model for
+    specific decision making scenarios. Distinct from other studies that employ LLMs
+    for decision making through supervised learning, our LTU method embraces a versatile
+    training methodology that combines broad pre-training with targeted fine-tuning.
+    Experiments in e-commerce domains such as advertising and search optimization
+    have shown that LTU approach outperforms traditional supervised learning regimes
+    in decision making capabilities and generalization. The LTU approach is the first
+    practical training architecture for both single-step and multi-step decision making
+    tasks combined with LLMs, which can be applied beyond game and robot domains.
+    It provides a robust and adaptable framework for decision making, enhances the
+    effectiveness and flexibility of various systems in tackling various challenges.
 - title: 'Towards End-to-End Embodied Decision Making via Multi-modal Large Language
     Model: Explorations with GPT4-Vision and Beyond'
   date: 2023-10
-  url: https://arxiv.org/abs/2310.02071v4
+  url: https://arxiv.org/abs/2310.02071
   category: decision-making
   subcategory: method
   authors:
@@ -312575,7 +312560,7 @@ papers:
     new avenues for MLLM research. Code and data are open at https://github.com/pkunlp-icler/PCA-EVAL/.
 - title: Evolution of Collective Decision-Making Mechanisms for Collective Perception
   date: 2023-11
-  url: https://arxiv.org/abs/2311.02994v1
+  url: https://arxiv.org/abs/2311.02994
   category: decision-making
   subcategory: method
   authors:
@@ -312606,7 +312591,7 @@ papers:
 - title: 'DISCERN: Designing Decision Support Interfaces to Investigate the Complexities
     of Workplace Social Decision-Making With Line Managers'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.19318v1
+  url: https://arxiv.org/abs/2402.19318
   category: decision-making
   subcategory: method
   authors:
@@ -312635,7 +312620,7 @@ papers:
     support highly interactional social decision-making.
 - title: Decisioning Workshop 2023
   date: 2024-04
-  url: https://arxiv.org/abs/2404.05495v1
+  url: https://arxiv.org/abs/2404.05495
   category: decision-making
   subcategory: method
   authors:
@@ -312682,7 +312667,7 @@ papers:
 - title: 'The Physics of Preference: Unravelling Imprecision of Human Preferences
     through Magnetisation Dynamics'
   date: 2023-09
-  url: https://arxiv.org/abs/2310.00267v2
+  url: https://arxiv.org/abs/2310.00267
   category: decision-making
   subcategory: method
   authors:
@@ -312702,7 +312687,7 @@ papers:
     behaviour and decision-making.
 - title: 'DeLLMa: Decision Making Under Uncertainty with Large Language Models'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.02392v3
+  url: https://arxiv.org/abs/2402.02392
   category: decision-making
   subcategory: method
   authors:
@@ -312732,7 +312717,7 @@ papers:
 - title: 'Self-supervised Pretraining for Decision Foundation Model: Formulation,
     Pipeline and Challenges'
   date: 2023-12
-  url: https://arxiv.org/abs/2401.00031v2
+  url: https://arxiv.org/abs/2401.00031
   category: decision-making
   subcategory: method
   authors:
@@ -312755,7 +312740,7 @@ papers:
     generic and flexible self-supervised pretraining.
 - title: On the Decision-Making Abilities in Role-Playing using Large Language Models
   date: 2024-02
-  url: https://arxiv.org/abs/2402.18807v1
+  url: https://arxiv.org/abs/2402.18807
   category: decision-making
   subcategory: method
   authors:
@@ -312777,7 +312762,7 @@ papers:
     to the 16 personality types of Myers-Briggs Type Indicator (abbreviated as MBTI)
     representing a segmentation of the population. Then we design specific quantitative
     operations to evaluate the decision-making abilities of LLMs post role-playing
-    from four aspects: adaptability, exploration$\&amp;$exploitation trade-off ability,
+    from four aspects: adaptability, exploration\&amp;exploitation trade-off ability,
     reasoning ability, and safety. Finally, we analyze the association between the
     performance of decision-making and the corresponding MBTI types through GPT-4.
     Extensive experiments demonstrate stable differences in the four aspects of decision-making
@@ -312787,7 +312772,7 @@ papers:
     characteristics.'
 - title: Large Language Models for Explainable Decisions in Dynamic Digital Twins
   date: 2024-05
-  url: https://arxiv.org/abs/2405.14411v2
+  url: https://arxiv.org/abs/2405.14411
   category: decision-making
   subcategory: method
   authors:
@@ -312811,7 +312796,7 @@ papers:
 - title: Multilevel Graph Reinforcement Learning for Consistent Cognitive Decision-making
     in Heterogeneous Mixed Autonomy
   date: 2024-08
-  url: https://arxiv.org/abs/2408.08516v1
+  url: https://arxiv.org/abs/2408.08516
   category: decision-making
   subcategory: method
   authors:
@@ -312846,7 +312831,7 @@ papers:
     and a sophisticated distribution of attentional resources.
 - title: Random Graph Set and Evidence Pattern Reasoning Model
   date: 2024-02
-  url: https://arxiv.org/abs/2402.13058v2
+  url: https://arxiv.org/abs/2402.13058
   category: decision-making
   subcategory: method
   authors:
@@ -312873,7 +312858,7 @@ papers:
     making.
 - title: 'DiffuserLite: Towards Real-time Diffusion Planning'
   date: 2024-01
-  url: https://arxiv.org/abs/2401.15443v5
+  url: https://arxiv.org/abs/2401.15443
   category: decision-making
   subcategory: method
   authors:
@@ -312902,7 +312887,7 @@ papers:
 - title: 'DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles
     with Lagrangian Safety Enhancement'
   date: 2024-01
-  url: https://arxiv.org/abs/2401.03629v2
+  url: https://arxiv.org/abs/2401.03629
   category: decision-making
   subcategory: method
   authors:
@@ -312939,7 +312924,7 @@ papers:
 - title: 'Exploring the Sensitivity of LLMs'' Decision-Making Capabilities: Insights
     from Prompt Variation and Hyperparameters'
   date: 2023-12
-  url: https://arxiv.org/abs/2312.17476v1
+  url: https://arxiv.org/abs/2312.17476
   category: decision-making
   subcategory: method
   authors:
@@ -312963,7 +312948,7 @@ papers:
     after simple adjustments to the prompt.
 - title: On Predictive planning and counterfactual learning in active inference
   date: 2024-03
-  url: https://arxiv.org/abs/2403.12417v1
+  url: https://arxiv.org/abs/2403.12417
   category: decision-making
   subcategory: method
   authors:
@@ -312988,7 +312973,7 @@ papers:
 - title: 'Decoding AI''s Nudge: A Unified Framework to Predict Human Behavior in AI-assisted
     Decision Making'
   date: 2024-01
-  url: https://arxiv.org/abs/2401.05840v1
+  url: https://arxiv.org/abs/2401.05840
   category: decision-making
   subcategory: method
   authors:
@@ -313020,7 +313005,7 @@ papers:
     styles are nudged by AI assistance differently.
 - title: PresAIse, A Prescriptive AI Solution for Enterprises
   date: 2024-02
-  url: https://arxiv.org/abs/2402.02006v2
+  url: https://arxiv.org/abs/2402.02006
   category: decision-making
   subcategory: method
   authors:
@@ -313051,7 +313036,7 @@ papers:
 - title: 'Navigating Decision Landscapes: The Impact of Principals on Decision-Making
     Dynamics'
   date: 2023-12
-  url: https://arxiv.org/abs/2312.16230v1
+  url: https://arxiv.org/abs/2312.16230
   category: decision-making
   subcategory: method
   authors:
@@ -313073,7 +313058,7 @@ papers:
 - title: 'Self Generated Wargame AI: Double Layer Agent Task Planning Based on Large
     Language Model'
   date: 2023-12
-  url: https://arxiv.org/abs/2312.01090v2
+  url: https://arxiv.org/abs/2312.01090
   category: decision-making
   subcategory: method
   authors:
@@ -313104,7 +313089,7 @@ papers:
     value and significance for the development of intelligent decision-making.
 - title: 'Configurable Mirror Descent: Towards a Unification of Decision Making'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.11746v1
+  url: https://arxiv.org/abs/2405.11746
   category: decision-making
   subcategory: method
   authors:
@@ -313122,25 +313107,25 @@ papers:
     world. Various methods are proposed to address the specific decision-making problems.
     Despite the successes in specific categories, these methods typically evolve independently
     and cannot generalize to other categories. Therefore, a fundamental question for
-    decision-making is: \emph{Can we develop \textbf{a single algorithm} to tackle
-    \textbf{ALL} categories of decision-making problems?} There are several main challenges
-    to address this question: i) different decision-making categories involve different
-    numbers of agents and different relationships between agents, ii) different categories
-    have different solution concepts and evaluation measures, and iii) there lacks
-    a comprehensive benchmark covering all the categories. This work presents a preliminary
-    attempt to address the question with three main contributions. i) We propose the
-    generalized mirror descent (GMD), a generalization of MD variants, which considers
-    multiple historical policies and works with a broader class of Bregman divergences.
-    ii) We propose the configurable mirror descent (CMD) where a meta-controller is
-    introduced to dynamically adjust the hyper-parameters in GMD conditional on the
-    evaluation measures. iii) We construct the \textsc{GameBench} with 15 academic-friendly
-    games across different decision-making categories. Extensive experiments demonstrate
+    decision-making is: Can we develop \textbf{a single algorithm to tackle ALL categories
+    of decision-making problems?} There are several main challenges to address this
+    question: i) different decision-making categories involve different numbers of
+    agents and different relationships between agents, ii) different categories have
+    different solution concepts and evaluation measures, and iii) there lacks a comprehensive
+    benchmark covering all the categories. This work presents a preliminary attempt
+    to address the question with three main contributions. i) We propose the generalized
+    mirror descent (GMD), a generalization of MD variants, which considers multiple
+    historical policies and works with a broader class of Bregman divergences. ii)
+    We propose the configurable mirror descent (CMD) where a meta-controller is introduced
+    to dynamically adjust the hyper-parameters in GMD conditional on the evaluation
+    measures. iii) We construct the \textsc{GameBench} with 15 academic-friendly games
+    across different decision-making categories. Extensive experiments demonstrate
     that CMD achieves empirically competitive or better outcomes compared to baselines
     while providing the capability of exploring diverse dimensions of decision making.'
 - title: 'A hierarchical control framework for autonomous decision-making systems:
     Integrating HMDP and MPC'
   date: 2024-01
-  url: https://arxiv.org/abs/2401.06833v1
+  url: https://arxiv.org/abs/2401.06833
   category: decision-making
   subcategory: method
   authors:
@@ -313176,7 +313161,7 @@ papers:
 - title: Experimental control of mode-competition dynamics in a chaotic multimode
     semiconductor laser for decision making
   date: 2023-12
-  url: https://arxiv.org/abs/2312.16798v1
+  url: https://arxiv.org/abs/2312.16798
   category: decision-making
   subcategory: method
   authors:
@@ -313209,7 +313194,7 @@ papers:
 - title: Preservation of Feature Stability in Machine Learning Under Data Uncertainty
     for Decision Support in Critical Domains
   date: 2024-01
-  url: https://arxiv.org/abs/2401.11044v2
+  url: https://arxiv.org/abs/2401.11044
   category: decision-making
   subcategory: method
   authors:
@@ -313237,7 +313222,7 @@ papers:
 - title: 'Cognitive LLMs: Towards Integrating Cognitive Architectures and Large Language
     Models for Manufacturing Decision-making'
   date: 2024-08
-  url: https://arxiv.org/abs/2408.09176v1
+  url: https://arxiv.org/abs/2408.09176
   category: decision-making
   subcategory: method
   authors:
@@ -313271,7 +313256,7 @@ papers:
     to LLM-only baselines that leverage chain-of-thought reasoning strategies.
 - title: Cooperative and Interaction-aware Driver Model for Lane Change Maneuver
   date: 2024-03
-  url: https://arxiv.org/abs/2403.01752v1
+  url: https://arxiv.org/abs/2403.01752
   category: decision-making
   subcategory: method
   authors:
@@ -313302,7 +313287,7 @@ papers:
     humans.
 - title: 'Linear Latent World Models in Simple Transformers: A Case Study on Othello-GPT'
   date: 2023-10
-  url: https://arxiv.org/abs/2310.07582v2
+  url: https://arxiv.org/abs/2310.07582
   category: decision-making
   subcategory: method
   authors:
@@ -313325,7 +313310,7 @@ papers:
 - title: 'Enhancing Multi-Criteria Decision Analysis with AI: Integrating Analytic
     Hierarchy Process and GPT-4 for Automated Decision Support'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.07404v1
+  url: https://arxiv.org/abs/2402.07404
   category: decision-making
   subcategory: method
   authors:
@@ -313349,7 +313334,7 @@ papers:
 - title: 'Breamy: An augmented reality mHealth prototype for surgical decision-making
     in breast cancer'
   date: 2023-09
-  url: https://arxiv.org/abs/2309.15893v1
+  url: https://arxiv.org/abs/2309.15893
   category: decision-making
   subcategory: method
   authors:
@@ -313381,7 +313366,7 @@ papers:
 - title: Counterexample-Guided Repair of Reinforcement Learning Systems Using Safety
     Critics
   date: 2024-05
-  url: https://arxiv.org/abs/2405.15430v1
+  url: https://arxiv.org/abs/2405.15430
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313398,7 +313383,7 @@ papers:
     learning agent and a safety critic using gradient-based constrained optimisation.
 - title: A Survey Analyzing Generalization in Deep Reinforcement Learning
   date: 2024-01
-  url: https://arxiv.org/abs/2401.02349v2
+  url: https://arxiv.org/abs/2401.02349
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313424,7 +313409,7 @@ papers:
     robust deep neural policies with higher generalization skills.
 - title: Reinforcement Learning and Machine ethics:a systematic review
   date: 2024-07
-  url: https://arxiv.org/abs/2407.02425v2
+  url: https://arxiv.org/abs/2407.02425
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313448,7 +313433,7 @@ papers:
     thus completing the gap in the state of the art machine ethics landscape
 - title: 'PGN: A perturbation generation network against deep reinforcement learning'
   date: 2023-12
-  url: https://arxiv.org/abs/2312.12904v1
+  url: https://arxiv.org/abs/2312.12904
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313471,7 +313456,7 @@ papers:
     rapid and efficient verification of the vulnerability of deep reinforcement learning.
 - title: Physics-Guided Actor-Critic Reinforcement Learning for Swimming in Turbulence
   date: 2024-06
-  url: https://arxiv.org/abs/2406.10242v3
+  url: https://arxiv.org/abs/2406.10242
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313496,7 +313481,7 @@ papers:
 - title: Using Large Language Models to Automate and Expedite Reinforcement Learning
     with Reward Machine
   date: 2024-02
-  url: https://arxiv.org/abs/2402.07069v1
+  url: https://arxiv.org/abs/2402.07069
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313525,7 +313510,7 @@ papers:
 - title: How to ensure a safe control strategy? Towards a SRL for urban transit autonomous
     operation
   date: 2023-11
-  url: https://arxiv.org/abs/2311.14457v2
+  url: https://arxiv.org/abs/2311.14457
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313552,7 +313537,7 @@ papers:
 - title: Causal Inference on Investment Constraints and Non-stationarity in Dynamic
     Portfolio Optimization through Reinforcement Learning
   date: 2023-11
-  url: https://arxiv.org/abs/2311.04946v1
+  url: https://arxiv.org/abs/2311.04946
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313578,7 +313563,7 @@ papers:
     framework and examined how they influence investment behavior.
 - title: 'QTRL: Toward Practical Quantum Reinforcement Learning via Quantum-Train'
   date: 2024-07
-  url: https://arxiv.org/abs/2407.06103v1
+  url: https://arxiv.org/abs/2407.06103
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313604,7 +313589,7 @@ papers:
     feedback from the policy model is essential.
 - title: 'Reinforcement Learning for Sustainable Energy: A Survey'
   date: 2024-07
-  url: https://arxiv.org/abs/2407.18597v1
+  url: https://arxiv.org/abs/2407.18597
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313637,7 +313622,7 @@ papers:
     role in the energy transition.'
 - title: 'Going into Orbit: Massively Parallelizing Episodic Reinforcement Learning'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.11512v1
+  url: https://arxiv.org/abs/2405.11512
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313663,7 +313648,7 @@ papers:
     Intelligent Surfaces-Aided 6G Networks: From Reinforcement Learning to Large Language
     Models'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.17439v2
+  url: https://arxiv.org/abs/2405.17439
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313690,7 +313675,7 @@ papers:
 - title: Two-Step Offline Preference-Based Reinforcement Learning with Constrained
     Actions
   date: 2023-12
-  url: https://arxiv.org/abs/2401.00330v3
+  url: https://arxiv.org/abs/2401.00330
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313719,7 +313704,7 @@ papers:
 - title: 'Scaling Is All You Need: Autonomous Driving with JAX-Accelerated Reinforcement
     Learning'
   date: 2023-12
-  url: https://arxiv.org/abs/2312.15122v4
+  url: https://arxiv.org/abs/2312.15122
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313746,7 +313731,7 @@ papers:
     autonomous driving.
 - title: Multi-Agent Quantum Reinforcement Learning using Evolutionary Optimization
   date: 2023-11
-  url: https://arxiv.org/abs/2311.05546v4
+  url: https://arxiv.org/abs/2311.05546
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313773,11 +313758,11 @@ papers:
     them to classical approaches. We showed that our Variational Quantum Circuit approaches
     perform significantly better compared to a neural network with a similar amount
     of trainable parameters. Compared to the larger neural network, our approaches
-    archive similar results using $97.88\%$ less parameters.
+    archive similar results using 97.88\% less parameters.
 - title: 'AD4RL: Autonomous Driving Benchmarks for Offline Reinforcement Learning
     with Value-based Dataset'
   date: 2024-04
-  url: https://arxiv.org/abs/2404.02429v1
+  url: https://arxiv.org/abs/2404.02429
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313801,7 +313786,7 @@ papers:
     methods. Dataset and codes can be found in https://sites.google.com/view/ad4rl.
 - title: A quantum system control method based on enhanced reinforcement learning
   date: 2023-09
-  url: https://arxiv.org/abs/2310.03036v1
+  url: https://arxiv.org/abs/2310.03036
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313829,7 +313814,7 @@ papers:
     to quantum state evolution under the condition of limited resources.
 - title: Deep Reinforcement Learning for Autonomous Vehicle Intersection Navigation
   date: 2023-09
-  url: https://arxiv.org/abs/2310.08595v2
+  url: https://arxiv.org/abs/2310.08595
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313857,7 +313842,7 @@ papers:
 - title: Model-based deep reinforcement learning for accelerated learning from flow
     simulations
   date: 2024-02
-  url: https://arxiv.org/abs/2402.16543v2
+  url: https://arxiv.org/abs/2402.16543
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313877,13 +313862,13 @@ papers:
     the benefits of model-based reinforcement learning for flow control applications.
     Specifically, we optimize the policy by alternating between trajectories sampled
     from flow simulations and trajectories sampled from an ensemble of environment
-    models. The model-based learning reduces the overall training time by up to $85\%$
+    models. The model-based learning reduces the overall training time by up to 85\%
     for the fluidic pinball test case. Even larger savings are expected for more demanding
     flow simulations.
 - title: The Interpretability of Codebooks in Model-Based Reinforcement Learning is
     Limited
   date: 2024-07
-  url: https://arxiv.org/abs/2407.19532v1
+  url: https://arxiv.org/abs/2407.19532
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313906,7 +313891,7 @@ papers:
     vector quantization may be fundamentally insufficient for model interpretability.
 - title: Model-assisted Reinforcement Learning of a Quadrotor
   date: 2023-11
-  url: https://arxiv.org/abs/2311.06914v1
+  url: https://arxiv.org/abs/2311.06914
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313934,7 +313919,7 @@ papers:
     partial differential equation (HJ PDE).
 - title: An introduction to reinforcement learning for neuroscience
   date: 2023-11
-  url: https://arxiv.org/abs/2311.07315v3
+  url: https://arxiv.org/abs/2311.07315
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313961,7 +313946,7 @@ papers:
 - title: Online Estimation and Inference for Robust Policy Evaluation in Reinforcement
     Learning
   date: 2023-10
-  url: https://arxiv.org/abs/2310.02581v2
+  url: https://arxiv.org/abs/2310.02581
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -313990,7 +313975,7 @@ papers:
 - title: 'Learning Control Barrier Functions and their application in Reinforcement
     Learning: A Survey'
   date: 2024-04
-  url: https://arxiv.org/abs/2404.16879v1
+  url: https://arxiv.org/abs/2404.16879
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -314018,7 +314003,7 @@ papers:
 - title: Trajectory Planning for Autonomous Vehicle Using Iterative Reward Prediction
     in Reinforcement Learning
   date: 2024-04
-  url: https://arxiv.org/abs/2404.12079v4
+  url: https://arxiv.org/abs/2404.12079
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -314044,7 +314029,7 @@ papers:
 - title: Current applications and potential future directions of reinforcement learning-based
     Digital Twins in agriculture
   date: 2024-06
-  url: https://arxiv.org/abs/2406.08854v1
+  url: https://arxiv.org/abs/2406.08854
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -314077,7 +314062,7 @@ papers:
     for more efficient and sustainable farming methodologies.
 - title: Demonstration Guided Multi-Objective Reinforcement Learning
   date: 2024-04
-  url: https://arxiv.org/abs/2404.03997v1
+  url: https://arxiv.org/abs/2404.03997
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -314101,7 +314086,7 @@ papers:
 - title: 'CURLing the Dream: Contrastive Representations for World Modeling in Reinforcement
     Learning'
   date: 2024-08
-  url: https://arxiv.org/abs/2408.05781v2
+  url: https://arxiv.org/abs/2408.05781
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -314127,7 +314112,7 @@ papers:
 - title: 'Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL
     for Coordinated Platooning and Traffic Signal Control'
   date: 2023-10
-  url: https://arxiv.org/abs/2310.10948v3
+  url: https://arxiv.org/abs/2310.10948
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -314157,7 +314142,7 @@ papers:
     performance compared to other adaptive signal control methods.'
 - title: 'EduGym: An Environment and Notebook Suite for Reinforcement Learning Education'
   date: 2023-11
-  url: https://arxiv.org/abs/2311.10590v2
+  url: https://arxiv.org/abs/2311.10590
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -314189,7 +314174,7 @@ papers:
     while the full software package can be installed from https://github.com/RLG-Leiden/edugym.
 - title: Why long model-based rollouts are no reason for bad Q-value estimates
   date: 2024-07
-  url: https://arxiv.org/abs/2407.11751v1
+  url: https://arxiv.org/abs/2407.11751
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -314209,7 +314194,7 @@ papers:
     learning techniques.
 - title: 'Evolutionary Reinforcement Learning: A Systematic Review and Future Directions'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.13296v1
+  url: https://arxiv.org/abs/2402.13296
   category: reinforcement-learning
   subcategory: method
   authors:
@@ -314239,7 +314224,7 @@ papers:
     in the ever-evolving landscape of artificial intelligence.
 - title: Long-term Fairness in Ride-Hailing Platform
   date: 2024-07
-  url: https://arxiv.org/abs/2407.17839v1
+  url: https://arxiv.org/abs/2407.17839
   category: mdp
   subcategory: theory
   authors:
@@ -314275,7 +314260,7 @@ papers:
 - title: Towards Faster Matrix Diagonalization with Graph Isomorphism Networks and
     the AlphaZero Framework
   date: 2024-06
-  url: https://arxiv.org/abs/2407.00779v1
+  url: https://arxiv.org/abs/2407.00779
   category: mdp
   subcategory: theory
   authors:
@@ -314304,7 +314289,7 @@ papers:
     applications in scientific and engineering domains.
 - title: Adaptive planning for risk-aware predictive digital twins
   date: 2024-07
-  url: https://arxiv.org/abs/2407.20490v2
+  url: https://arxiv.org/abs/2407.20490
   category: mdp
   subcategory: theory
   authors:
@@ -314330,7 +314315,7 @@ papers:
     and its adaptive mission replanning.
 - title: Anytime-Competitive Reinforcement Learning with Policy Prior
   date: 2023-11
-  url: https://arxiv.org/abs/2311.01568v3
+  url: https://arxiv.org/abs/2311.01568
   category: mdp
   subcategory: theory
   authors:
@@ -314356,7 +314341,7 @@ papers:
 - title: Differentially Private Reward Functions in Policy Synthesis for Markov Decision
     Processes
   date: 2023-09
-  url: https://arxiv.org/abs/2309.12476v3
+  url: https://arxiv.org/abs/2309.12476
   category: mdp
   subcategory: theory
   authors:
@@ -314383,13 +314368,13 @@ papers:
     still remaining private, and we quantify the increase in computational complexity
     needed to compute policies from privatized rewards. Numerical simulations are
     performed on three classes of systems and they reveal a surprising compatibility
-    with privacy: using reasonably strong privacy ($ε=1.3$) on average induces as
-    little as a~$5\%$ decrease in total accumulated reward and a $0.016\%$ increase
-    in computation time.'
+    with privacy: using reasonably strong privacy (ε=1.3) on average induces as little
+    as a~5\% decrease in total accumulated reward and a 0.016\% increase in computation
+    time.'
 - title: Provable Representation with Efficient Planning for Partial Observable Reinforcement
     Learning
   date: 2023-11
-  url: https://arxiv.org/abs/2311.12244v3
+  url: https://arxiv.org/abs/2311.12244
   category: mdp
   subcategory: theory
   authors:
@@ -314417,7 +314402,7 @@ papers:
 - title: Optimal Sampling for Uncertainty-of-Information Minimization in a Remote
     Monitoring System
   date: 2024-05
-  url: https://arxiv.org/abs/2405.02924v3
+  url: https://arxiv.org/abs/2405.02924
   category: mdp
   subcategory: theory
   authors:
@@ -314446,7 +314431,7 @@ papers:
 - title: 'Bridging State and History Representations: Understanding Self-Predictive
     RL'
   date: 2024-01
-  url: https://arxiv.org/abs/2401.08898v3
+  url: https://arxiv.org/abs/2401.08898
   category: mdp
   subcategory: theory
   authors:
@@ -314474,7 +314459,7 @@ papers:
     in a set of preliminary guidelines for RL practitioners.
 - title: On shallow planning under partial observability
   date: 2024-07
-  url: https://arxiv.org/abs/2407.15820v2
+  url: https://arxiv.org/abs/2407.15820
   category: mdp
   subcategory: theory
   authors:
@@ -314493,7 +314478,7 @@ papers:
 - title: Digital Twin Assisted Deep Reinforcement Learning for Online Admission Control
     in Sliced Network
   date: 2023-10
-  url: https://arxiv.org/abs/2310.09299v3
+  url: https://arxiv.org/abs/2310.09299
   category: mdp
   subcategory: theory
   authors:
@@ -314523,7 +314508,7 @@ papers:
 - title: A note on weak compactness of occupation measures for an absorbing Markov
     decision process
   date: 2024-02
-  url: https://arxiv.org/abs/2402.10672v3
+  url: https://arxiv.org/abs/2402.10672
   category: mdp
   subcategory: theory
   authors:
@@ -314541,7 +314526,7 @@ papers:
     mentioned in the related literature.
 - title: What should be observed for optimal reward in POMDPs?
   date: 2024-05
-  url: https://arxiv.org/abs/2405.10768v2
+  url: https://arxiv.org/abs/2405.10768
   category: mdp
   subcategory: theory
   authors:
@@ -314567,7 +314552,7 @@ papers:
     of typical examples from the POMDP literature.'
 - title: Rollout Heuristics for Online Stochastic Contingent Planning
   date: 2023-10
-  url: https://arxiv.org/abs/2310.02345v1
+  url: https://arxiv.org/abs/2310.02345
   category: mdp
   subcategory: theory
   authors:
@@ -314593,7 +314578,7 @@ papers:
 - title: Learning-based agricultural management in partially observable environments
     subject to climate variability
   date: 2024-01
-  url: https://arxiv.org/abs/2401.01273v2
+  url: https://arxiv.org/abs/2401.01273
   category: mdp
   subcategory: theory
   authors:
@@ -314627,7 +314612,7 @@ papers:
     the optimization of crop management practices.
 - title: Fresh Caching of Dynamic Contents using Restless Multi-armed Bandits
   date: 2024-04
-  url: https://arxiv.org/abs/2404.12468v2
+  url: https://arxiv.org/abs/2404.12468
   category: mdp
   subcategory: theory
   authors:
@@ -314655,7 +314640,7 @@ papers:
     is optimal via simulations.
 - title: 'Track-MDP: Reinforcement Learning for Target Tracking with Controlled Sensing'
   date: 2024-07
-  url: https://arxiv.org/abs/2407.13995v1
+  url: https://arxiv.org/abs/2407.13995
   category: mdp
   subcategory: theory
   authors:
@@ -314687,7 +314672,7 @@ papers:
 - title: 'Weathering Ongoing Uncertainty: Learning and Planning in a Time-Varying
     Partially Observable Environment'
   date: 2023-12
-  url: https://arxiv.org/abs/2312.03263v3
+  url: https://arxiv.org/abs/2312.03263
   category: mdp
   subcategory: theory
   authors:
@@ -314715,7 +314700,7 @@ papers:
     time-varying domains.'
 - title: The Trembling-Hand Problem for LTLf Planning
   date: 2024-04
-  url: https://arxiv.org/abs/2404.16163v1
+  url: https://arxiv.org/abs/2404.16163
   category: mdp
   subcategory: theory
   authors:
@@ -314744,7 +314729,7 @@ papers:
     effectiveness experimentally through a proof-of-concept implementation.
 - title: A unified worst case for classical simplex and policy iteration pivot rules
   date: 2023-09
-  url: https://arxiv.org/abs/2309.14034v2
+  url: https://arxiv.org/abs/2309.14034
   category: mdp
   subcategory: theory
   authors:
@@ -314770,7 +314755,7 @@ papers:
 - title: Tackling Decision Processes with Non-Cumulative Objectives using Reinforcement
     Learning
   date: 2024-05
-  url: https://arxiv.org/abs/2405.13609v3
+  url: https://arxiv.org/abs/2405.13609
   category: mdp
   subcategory: theory
   authors:
@@ -314800,7 +314785,7 @@ papers:
 - title: A dynamical neural network approach for distributionally robust chance constrained
     Markov decision process
   date: 2023-12
-  url: https://arxiv.org/abs/2312.15312v2
+  url: https://arxiv.org/abs/2312.15312
   category: mdp
   subcategory: theory
   authors:
@@ -314820,7 +314805,7 @@ papers:
     with the sequential convex approximation approach.
 - title: Robust Risk-Sensitive Reinforcement Learning with Conditional Value-at-Risk
   date: 2024-05
-  url: https://arxiv.org/abs/2405.01718v1
+  url: https://arxiv.org/abs/2405.01718
   category: mdp
   subcategory: theory
   authors:
@@ -314847,7 +314832,7 @@ papers:
 - title: '"A Good Bot Always Knows Its Limitations": Assessing Autonomous System Decision-making
     Competencies through Factorized Machine Self-confidence'
   date: 2024-07
-  url: https://arxiv.org/abs/2407.19631v3
+  url: https://arxiv.org/abs/2407.19631
   category: mdp
   subcategory: theory
   authors:
@@ -314884,7 +314869,7 @@ papers:
 - title: A Contracting Dynamical System Perspective toward Interval Markov Decision
     Processes
   date: 2023-09
-  url: https://arxiv.org/abs/2309.09146v1
+  url: https://arxiv.org/abs/2309.09146
   category: mdp
   subcategory: theory
   authors:
@@ -314900,7 +314885,7 @@ papers:
     we show that the pessimistic (resp. the optimistic) value iterations, i.e., the
     value iterations under the assumption of a competitive adversary (resp. cooperative
     agent), are monotone dynamical systems and are contracting with respect to the
-    $\ell_{\infty}$-norm. Inspired by this dynamical system viewpoint, we introduce
+    \ell_{\infty}-norm. Inspired by this dynamical system viewpoint, we introduce
     another IMDP, called the action-space relaxation IMDP. We show that the action-space
     relaxation IMDP has two key features: (i) its optimal value is an upper bound
     for the optimal value of the original IMDP, and (ii) its value iterations can
@@ -314911,7 +314896,7 @@ papers:
     approximating the optimal value of the action-space relaxation IMDP.'
 - title: 'SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.19715v3
+  url: https://arxiv.org/abs/2405.19715
   category: mdp
   subcategory: theory
   authors:
@@ -314943,7 +314928,7 @@ papers:
     of this paper is available at https://github.com/Kaffaljidhmah2/SpecDec_pp.
 - title: Prospective Side Information for Latent MDPs
   date: 2023-10
-  url: https://arxiv.org/abs/2310.07596v1
+  url: https://arxiv.org/abs/2310.07596
   category: mdp
   subcategory: theory
   authors:
@@ -314968,12 +314953,12 @@ papers:
     weakly revealing, information on the latent context at the beginning of each episode.
     We show that, surprisingly, this problem is not captured by contemporary settings
     and algorithms designed for partially observed environments. We then establish
-    that any sample efficient algorithm must suffer at least $Ω(K^{2/3})$-regret,
-    as opposed to standard $Ω(\sqrt{K})$ lower bounds, and design an algorithm with
-    a matching upper bound.'
+    that any sample efficient algorithm must suffer at least Ω(K^{2/3})-regret, as
+    opposed to standard Ω(\sqrt{K}) lower bounds, and design an algorithm with a matching
+    upper bound.'
 - title: Certifiably Robust Policies for Uncertain Parametric Environments
   date: 2024-08
-  url: https://arxiv.org/abs/2408.03093v5
+  url: https://arxiv.org/abs/2408.03093
   category: mdp
   subcategory: theory
   authors:
@@ -315003,7 +314988,7 @@ papers:
 - title: 'Open Problem: Order Optimal Regret Bounds for Kernel-Based Reinforcement
     Learning'
   date: 2024-06
-  url: https://arxiv.org/abs/2406.15250v1
+  url: https://arxiv.org/abs/2406.15250
   category: mdp
   subcategory: theory
   authors:
@@ -315022,7 +315007,7 @@ papers:
     problem, overview existing partial results, and discuss related challenges.
 - title: Diffusion Spectral Representation for Reinforcement Learning
   date: 2024-06
-  url: https://arxiv.org/abs/2406.16121v2
+  url: https://arxiv.org/abs/2406.16121
   category: mdp
   subcategory: theory
   authors:
@@ -315053,7 +315038,7 @@ papers:
     various benchmarks with both fully and partially observable settings.
 - title: Robust MITL planning under uncertain navigation times
   date: 2024-03
-  url: https://arxiv.org/abs/2403.03727v1
+  url: https://arxiv.org/abs/2403.03727
   category: mdp
   subcategory: theory
   authors:
@@ -315083,7 +315068,7 @@ papers:
 - title: A Cantor-Kantorovich Metric Between Markov Decision Processes with Application
     to Transfer Learning
   date: 2024-07
-  url: https://arxiv.org/abs/2407.08324v1
+  url: https://arxiv.org/abs/2407.08324
   category: mdp
   subcategory: theory
   authors:
@@ -315103,7 +315088,7 @@ papers:
 - title: Fast ML-driven Analog Circuit Layout using Reinforcement Learning and Steiner
     Trees
   date: 2024-05
-  url: https://arxiv.org/abs/2405.16951v1
+  url: https://arxiv.org/abs/2405.16951
   category: mdp
   subcategory: theory
   authors:
@@ -315127,7 +315112,7 @@ papers:
 - title: Logical Discrete Graphical Models Must Supplement Large Language Models for
     Information Synthesis
   date: 2024-03
-  url: https://arxiv.org/abs/2403.09599v1
+  url: https://arxiv.org/abs/2403.09599
   category: planning
   subcategory: method
   authors:
@@ -315149,7 +315134,7 @@ papers:
 - title: Generative Probabilistic Time Series Forecasting and Applications in Grid
     Operations
   date: 2024-02
-  url: https://arxiv.org/abs/2402.13870v1
+  url: https://arxiv.org/abs/2402.13870
   category: planning
   subcategory: method
   authors:
@@ -315175,7 +315160,7 @@ papers:
     point forecasting techniques.
 - title: Planning and Optimizing Transit Lines
   date: 2024-05
-  url: https://arxiv.org/abs/2405.10074v1
+  url: https://arxiv.org/abs/2405.10074
   category: planning
   subcategory: method
   authors:
@@ -315203,7 +315188,7 @@ papers:
 - title: 'Robust Pushing: Exploiting Quasi-static Belief Dynamics and Contact-informed
     Optimization'
   date: 2024-04
-  url: https://arxiv.org/abs/2404.02795v2
+  url: https://arxiv.org/abs/2404.02795
   category: planning
   subcategory: method
   authors:
@@ -315233,7 +315218,7 @@ papers:
     control scheme, demonstrating additional robustness against unmodeled perturbations.
 - title: Transmission Benefits and Cost Allocation under Ambiguity
   date: 2024-03
-  url: https://arxiv.org/abs/2403.14803v1
+  url: https://arxiv.org/abs/2403.14803
   category: planning
   subcategory: method
   authors:
@@ -315263,7 +315248,7 @@ papers:
 - title: 'Learning Logic Specifications for Policy Guidance in POMDPs: an Inductive
     Logic Programming Approach'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.19265v1
+  url: https://arxiv.org/abs/2402.19265
   category: planning
   subcategory: method
   authors:
@@ -315297,7 +315282,7 @@ papers:
 - title: 'ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent
     Conversational Interactions'
   date: 2023-10
-  url: https://arxiv.org/abs/2310.01331v4
+  url: https://arxiv.org/abs/2310.01331
   category: multi-agent
   subcategory: method
   authors:
@@ -315327,7 +315312,7 @@ papers:
 - title: 'MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement
     Learning'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.07890v1
+  url: https://arxiv.org/abs/2402.07890
   category: multi-agent
   subcategory: method
   authors:
@@ -315355,7 +315340,7 @@ papers:
 - title: Multi-Scenario Combination Based on Multi-Agent Reinforcement Learning to
     Optimize the Advertising Recommendation System
   date: 2024-07
-  url: https://arxiv.org/abs/2407.02759v1
+  url: https://arxiv.org/abs/2407.02759
   category: multi-agent
   subcategory: method
   authors:
@@ -315378,7 +315363,7 @@ papers:
     settings.
 - title: Challenges Faced by Large Language Models in Solving Multi-Agent Flocking
   date: 2024-04
-  url: https://arxiv.org/abs/2404.04752v2
+  url: https://arxiv.org/abs/2404.04752
   category: multi-agent
   subcategory: method
   authors:
@@ -315410,7 +315395,7 @@ papers:
 - title: 'Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent
     MDPs'
   date: 2023-10
-  url: https://arxiv.org/abs/2310.11334v3
+  url: https://arxiv.org/abs/2310.11334
   category: multi-agent
   subcategory: method
   authors:
@@ -315438,7 +315423,7 @@ papers:
     management environment.
 - title: A Review of Cooperation in Multi-agent Learning
   date: 2023-12
-  url: https://arxiv.org/abs/2312.05162v1
+  url: https://arxiv.org/abs/2312.05162
   category: multi-agent
   subcategory: method
   authors:
@@ -315463,7 +315448,7 @@ papers:
     aim of inspiring new avenues for research.
 - title: Robust Communicative Multi-Agent Reinforcement Learning with Active Defense
   date: 2023-12
-  url: https://arxiv.org/abs/2312.11545v1
+  url: https://arxiv.org/abs/2312.11545
   category: multi-agent
   subcategory: method
   authors:
@@ -315493,7 +315478,7 @@ papers:
 - title: An Industrial Perspective on Multi-Agent Decision Making for Interoperable
     Robot Navigation following the VDA5050 Standard
   date: 2023-11
-  url: https://arxiv.org/abs/2311.14615v1
+  url: https://arxiv.org/abs/2311.14615
   category: multi-agent
   subcategory: method
   authors:
@@ -315518,7 +315503,7 @@ papers:
 - title: 'CodePori: Large-Scale System for Autonomous Software Development Using Multi-Agent
     Technology'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.01411v3
+  url: https://arxiv.org/abs/2402.01411
   category: multi-agent
   subcategory: method
   authors:
@@ -315545,7 +315530,7 @@ papers:
     code smells, alongside a practitioner-centric perspective.'
 - title: Characterising Interventions in Causal Games
   date: 2024-06
-  url: https://arxiv.org/abs/2406.09318v1
+  url: https://arxiv.org/abs/2406.09318
   category: multi-agent
   subcategory: method
   authors:
@@ -315570,7 +315555,7 @@ papers:
 - title: 'Persona Inconstancy in Multi-Agent LLM Collaboration: Conformity, Confabulation,
     and Impersonation'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.03862v3
+  url: https://arxiv.org/abs/2405.03862
   category: multi-agent
   subcategory: method
   authors:
@@ -315599,7 +315584,7 @@ papers:
 - title: 'Enhancing Diagnostic Accuracy through Multi-Agent Conversations: Using Large
     Language Models to Mitigate Cognitive Bias'
   date: 2024-01
-  url: https://arxiv.org/abs/2401.14589v2
+  url: https://arxiv.org/abs/2401.14589
   category: multi-agent
   subcategory: method
   authors:
@@ -315637,7 +315622,7 @@ papers:
 - title: 'Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models
     (MLLMs): Solving TSP and mTSP Combinatorial Challenges'
   date: 2024-06
-  url: https://arxiv.org/abs/2407.00092v1
+  url: https://arxiv.org/abs/2407.00092
   category: multi-agent
   subcategory: method
   authors:
@@ -315673,7 +315658,7 @@ papers:
 - title: 'MOMAland: A Set of Benchmarks for Multi-Objective Multi-Agent Reinforcement
     Learning'
   date: 2024-07
-  url: https://arxiv.org/abs/2407.16312v2
+  url: https://arxiv.org/abs/2407.16312
   category: multi-agent
   subcategory: method
   authors:
@@ -315706,7 +315691,7 @@ papers:
 - title: 'Beyond Local Views: Global State Inference with Diffusion Models for Cooperative
     Multi-Agent Reinforcement Learning'
   date: 2024-08
-  url: https://arxiv.org/abs/2408.09501v1
+  url: https://arxiv.org/abs/2408.09501
   category: multi-agent
   subcategory: method
   authors:
@@ -315734,7 +315719,7 @@ papers:
 - title: Bridging the Gap between Partially Observable Stochastic Games and Sparse
     POMDP Methods
   date: 2024-05
-  url: https://arxiv.org/abs/2405.18703v2
+  url: https://arxiv.org/abs/2405.18703
   category: multi-agent
   subcategory: method
   authors:
@@ -315761,7 +315746,7 @@ papers:
     reinforcement learning.'
 - title: Distributed Error-Identification and Correction using Block-Sparse Optimization
   date: 2023-09
-  url: https://arxiv.org/abs/2309.11784v3
+  url: https://arxiv.org/abs/2309.11784
   category: multi-agent
   subcategory: method
   authors:
@@ -315787,7 +315772,7 @@ papers:
     as well as reconstruct their error vectors.
 - title: Expected Coordinate Improvement for High-Dimensional Bayesian Optimization
   date: 2024-04
-  url: https://arxiv.org/abs/2404.11917v2
+  url: https://arxiv.org/abs/2404.11917
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -315814,7 +315799,7 @@ papers:
     Bayesian optimization.
 - title: 'CATBench: A Compiler Autotuning Benchmarking Suite for Black-box Optimization'
   date: 2024-06
-  url: https://arxiv.org/abs/2406.17811v2
+  url: https://arxiv.org/abs/2406.17811
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -315843,7 +315828,7 @@ papers:
     and compiler autotuning research.
 - title: Vanilla Bayesian Optimization Performs Great in High Dimensions
   date: 2024-02
-  url: https://arxiv.org/abs/2402.02229v5
+  url: https://arxiv.org/abs/2402.02229
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -315869,7 +315854,7 @@ papers:
     on multiple commonly considered real-world high-dimensional tasks.
 - title: 'Beyond Regrets: Geometric Metrics for Bayesian Optimization'
   date: 2024-01
-  url: https://arxiv.org/abs/2401.01981v3
+  url: https://arxiv.org/abs/2401.01981
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -315898,7 +315883,7 @@ papers:
 - title: Parameter Identification for Electrochemical Models of Lithium-Ion Batteries
     Using Bayesian Optimization
   date: 2024-05
-  url: https://arxiv.org/abs/2405.10750v1
+  url: https://arxiv.org/abs/2405.10750
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -315928,7 +315913,7 @@ papers:
     and 72.7%, respectively.
 - title: Covariance Linkage Assimilation method for Unobserved Data Exploration
   date: 2024-08
-  url: https://arxiv.org/abs/2408.08539v3
+  url: https://arxiv.org/abs/2408.08539
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -315947,13 +315932,13 @@ papers:
     technique, the maximum value of the example function was found more efficiently
     compared to ordinary Bayesian optimization without the data assimilation. A practical
     demonstration was also conducted by constructing a data assimilation model for
-    the bandgap of (Sr$_{1-x_{1}-x_{2}}$La$_{x_{1}}$Na$_{x_{2}}$)(Ti$_{1-x_{1}-x_{2}}$Ga$_{x_{1}}$Ta$_{x_{2}}$)O$_{3}$.
+    the bandgap of (Sr_{1-x_{1}-x_{2}}La_{x_{1}}Na_{x_{2}})(Ti_{1-x_{1}-x_{2}}Ga_{x_{1}}Ta_{x_{2}})O_{3}.
     The concentration dependence of the bandgap was analyzed, and synthesis was performed
     with chemical compositions in the sparse region of the training data points to
     validate the predictions.
 - title: Bayesian Optimization with Adaptive Kernels for Robot Control
   date: 2024-02
-  url: https://arxiv.org/abs/2402.07021v1
+  url: https://arxiv.org/abs/2402.07021
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -315981,7 +315966,7 @@ papers:
     show its potential for the design of the wing shape of a UAV.
 - title: Hybrid Reinforcement Learning Framework for Mixed-Variable Problems
   date: 2024-05
-  url: https://arxiv.org/abs/2405.20500v1
+  url: https://arxiv.org/abs/2405.20500
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316007,7 +315992,7 @@ papers:
     optimization in terms of effectiveness and efficiency.
 - title: Data-Driven Moving Horizon Estimation Using Bayesian Optimization
   date: 2023-11
-  url: https://arxiv.org/abs/2311.06787v1
+  url: https://arxiv.org/abs/2311.06787
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316031,7 +316016,7 @@ papers:
     estimation algorithm is demonstrated by several numerical simulations.
 - title: Constrained Bayesian optimization with merit functions
   date: 2024-03
-  url: https://arxiv.org/abs/2403.13140v1
+  url: https://arxiv.org/abs/2403.13140
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316059,7 +316044,7 @@ papers:
     plasma physics.
 - title: High dimensional Bayesian Optimization via Condensing-Expansion Projection
   date: 2024-08
-  url: https://arxiv.org/abs/2408.04860v1
+  url: https://arxiv.org/abs/2408.04860
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316083,7 +316068,7 @@ papers:
     is available in \url{https://anonymous.4open.science/r/CEPBO-14429}.'
 - title: Adaptive Bayesian Optimization for High-Precision Motion Systems
   date: 2024-04
-  url: https://arxiv.org/abs/2404.14602v1
+  url: https://arxiv.org/abs/2404.14602
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316111,7 +316096,7 @@ papers:
 - title: Bayesian optimization for stable properties amid processing fluctuations
     in sputter deposition
   date: 2024-05
-  url: https://arxiv.org/abs/2405.03092v1
+  url: https://arxiv.org/abs/2405.03092
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316146,7 +316131,7 @@ papers:
 - title: Improved predictions of phenomenological nuclear charge radius formulae with
     Bayesian optimization approach
   date: 2024-05
-  url: https://arxiv.org/abs/2405.12936v1
+  url: https://arxiv.org/abs/2405.12936
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316172,7 +316157,7 @@ papers:
     the Bayesian optimization approach.
 - title: Advancing Bayesian Optimization via Learning Correlated Latent Space
   date: 2023-10
-  url: https://arxiv.org/abs/2310.20258v3
+  url: https://arxiv.org/abs/2310.20258
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316200,7 +316185,7 @@ papers:
     fitting, and achieve high performance within a small budget.
 - title: RIS-aided Real-time Beam Tracking for a Mobile User via Bayesian Optimization
   date: 2023-10
-  url: https://arxiv.org/abs/2310.19014v1
+  url: https://arxiv.org/abs/2310.19014
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316224,7 +316209,7 @@ papers:
 - title: A survey and benchmark of high-dimensional Bayesian optimization of discrete
     sequences
   date: 2024-06
-  url: https://arxiv.org/abs/2406.04739v2
+  url: https://arxiv.org/abs/2406.04739
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316252,7 +316237,7 @@ papers:
     optimizers. Project website: https://machinelearninglifescience.github.io/hdbo_benchmark'
 - title: An Invariant Information Geometric Method for High-Dimensional Online Optimization
   date: 2024-01
-  url: https://arxiv.org/abs/2401.01579v1
+  url: https://arxiv.org/abs/2401.01579
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316281,7 +316266,7 @@ papers:
     property oriented evolution strategies.
 - title: 'PMBO: Enhancing Black-Box Optimization through Multivariate Polynomial Surrogates'
   date: 2024-03
-  url: https://arxiv.org/abs/2403.07485v1
+  url: https://arxiv.org/abs/2403.07485
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316310,7 +316295,7 @@ papers:
     function.
 - title: Looping in the Human Collaborative and Explainable Bayesian Optimization
   date: 2023-10
-  url: https://arxiv.org/abs/2310.17273v5
+  url: https://arxiv.org/abs/2310.17273
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316340,7 +316325,7 @@ papers:
 - title: Process-constrained batch Bayesian approaches for yield optimization in multi-reactor
     systems
   date: 2024-08
-  url: https://arxiv.org/abs/2408.02551v1
+  url: https://arxiv.org/abs/2408.02551
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316369,7 +316354,7 @@ papers:
 - title: Integrating Marketing Channels into Quantile Transformation and Bayesian
     Optimization of Ensemble Kernels for Sales Prediction with Gaussian Process Models
   date: 2024-04
-  url: https://arxiv.org/abs/2404.09386v2
+  url: https://arxiv.org/abs/2404.09386
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316386,14 +316371,14 @@ papers:
     ability to handle complex sales data patterns. Our approach significantly outperforms
     traditional GP models, achieving a notable 98\% accuracy and superior performance
     across key metrics including Mean Squared Error (MSE), Mean Absolute Error (MAE),
-    Root Mean Squared Error (RMSE), and Coefficient of Determination ($R^2$). This
-    advancement underscores the effectiveness of ensemble kernels and Bayesian optimization
-    in improving predictive accuracy, offering profound implications for machine learning
+    Root Mean Squared Error (RMSE), and Coefficient of Determination (R^2). This advancement
+    underscores the effectiveness of ensemble kernels and Bayesian optimization in
+    improving predictive accuracy, offering profound implications for machine learning
     applications in sales forecasting.
 - title: 'ECCBO: An Inherently Safe Bayesian Optimization with Embedded Constraint
     Control for Real-Time Optimization'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.18415v1
+  url: https://arxiv.org/abs/2402.18415
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316418,7 +316403,7 @@ papers:
     is demonstrated on a benchmark Williams-Otto reactor example.
 - title: Towards Safe Multi-Task Bayesian Optimization
   date: 2023-12
-  url: https://arxiv.org/abs/2312.07281v3
+  url: https://arxiv.org/abs/2312.07281
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316448,7 +316433,7 @@ papers:
     Bayesian optimization methods, contingent on the fidelity of the models.
 - title: Variational Entropy Search for Adjusting Expected Improvement
   date: 2024-02
-  url: https://arxiv.org/abs/2402.11345v2
+  url: https://arxiv.org/abs/2402.11345
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316470,7 +316455,7 @@ papers:
     scenarios.
 - title: A General Bayesian Algorithm for the Autonomous Alignment of Beamlines
   date: 2024-02
-  url: https://arxiv.org/abs/2402.16716v2
+  url: https://arxiv.org/abs/2402.16716
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316505,7 +316490,7 @@ papers:
 - title: Automated Computational Energy Minimization of ML Algorithms using Constrained
     Bayesian Optimization
   date: 2024-07
-  url: https://arxiv.org/abs/2407.05788v2
+  url: https://arxiv.org/abs/2407.05788
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316529,7 +316514,7 @@ papers:
 - title: 'A Unified Framework for Tabular Generative Modeling: Loss Functions, Benchmarks,
     and Improved Multi-objective Bayesian Optimization Approaches'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.16971v2
+  url: https://arxiv.org/abs/2405.16971
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316563,7 +316548,7 @@ papers:
 - title: Parameter Tuning in the Radial Kernel-Based Partition of Unity Method by
     Bayesian Optimization
   date: 2023-11
-  url: https://arxiv.org/abs/2311.04289v1
+  url: https://arxiv.org/abs/2311.04289
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316589,7 +316574,7 @@ papers:
 - title: Constrained Bayesian Optimization with Adaptive Active Learning of Unknown
     Constraints
   date: 2023-10
-  url: https://arxiv.org/abs/2310.08751v1
+  url: https://arxiv.org/abs/2310.08751
   category: bayesian-optimization
   subcategory: method
   authors:
@@ -316621,7 +316606,7 @@ papers:
 - title: Towards Optimizing Human-Centric Objectives in AI-Assisted Decision-Making
     With Offline Reinforcement Learning
   date: 2024-03
-  url: https://arxiv.org/abs/2403.05911v2
+  url: https://arxiv.org/abs/2403.05911
   category: human-ai
   subcategory: application
   authors:
@@ -316659,7 +316644,7 @@ papers:
     interaction for such objectives.'
 - title: Scalable Interactive Machine Learning for Future Command and Control
   date: 2024-02
-  url: https://arxiv.org/abs/2402.06501v2
+  url: https://arxiv.org/abs/2402.06501
   category: human-ai
   subcategory: application
   authors:
@@ -316688,7 +316673,7 @@ papers:
     and human-AI teams for flexibility across a range of potential contexts and situations.'
 - title: On Evaluating Explanation Utility for Human-AI Decision Making in NLP
   date: 2024-07
-  url: https://arxiv.org/abs/2407.03545v2
+  url: https://arxiv.org/abs/2407.03545
   category: human-ai
   subcategory: application
   authors:
@@ -316722,7 +316707,7 @@ papers:
 - title: 'Are We Asking the Right Questions?: Designing for Community Stakeholders''
     Interactions with AI in Policing'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.05348v2
+  url: https://arxiv.org/abs/2402.05348
   category: human-ai
   subcategory: application
   authors:
@@ -316752,7 +316737,7 @@ papers:
     suggested redesign pathways such that the tool could complement their domain expertise.
 - title: 'CREW: Facilitating Human-AI Teaming Research'
   date: 2024-07
-  url: https://arxiv.org/abs/2408.00170v3
+  url: https://arxiv.org/abs/2408.00170
   category: human-ai
   subcategory: application
   authors:
@@ -316783,7 +316768,7 @@ papers:
     studies within a week to verify the effectiveness of our benchmark.
 - title: 'When combinations of humans and AI are useful: A systematic review and meta-analysis'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.06087v2
+  url: https://arxiv.org/abs/2405.06087
   category: human-ai
   subcategory: application
   authors:
@@ -316808,7 +316793,7 @@ papers:
     human-AI systems.
 - title: Confounding-Robust Policy Improvement with Human-AI Teams
   date: 2023-10
-  url: https://arxiv.org/abs/2310.08824v2
+  url: https://arxiv.org/abs/2310.08824
   category: human-ai
   subcategory: application
   authors:
@@ -316835,7 +316820,7 @@ papers:
     collaborations.
 - title: Building Open-Ended Embodied Agent via Language-Policy Bidirectional Adaptation
   date: 2023-12
-  url: https://arxiv.org/abs/2401.00006v3
+  url: https://arxiv.org/abs/2401.00006
   category: human-ai
   subcategory: application
   authors:
@@ -316864,7 +316849,7 @@ papers:
 - title: 'Explain To Decide: A Human-Centric Review on the Role of Explainable Artificial
     Intelligence in AI-assisted Decision Making'
   date: 2023-12
-  url: https://arxiv.org/abs/2312.11507v1
+  url: https://arxiv.org/abs/2312.11507
   category: human-ai
   subcategory: application
   authors:
@@ -316889,7 +316874,7 @@ papers:
     identified the challenges, and proposed future research directions.
 - title: 'Complementarity in Human-AI Collaboration: Concept, Sources, and Evidence'
   date: 2024-03
-  url: https://arxiv.org/abs/2404.00029v2
+  url: https://arxiv.org/abs/2404.00029
   category: human-ai
   subcategory: application
   authors:
@@ -316918,7 +316903,7 @@ papers:
 - title: 'The Impact of Explanations on Fairness in Human-AI Decision-Making: Protected
     vs Proxy Features'
   date: 2023-10
-  url: https://arxiv.org/abs/2310.08617v2
+  url: https://arxiv.org/abs/2310.08617
   category: human-ai
   subcategory: application
   authors:
@@ -316948,7 +316933,7 @@ papers:
 - title: 'From Metrics to Meaning: Time to Rethink Evaluation in Human-AI Collaborative
     Design'
   date: 2024-01
-  url: https://arxiv.org/abs/2402.07911v2
+  url: https://arxiv.org/abs/2402.07911
   category: human-ai
   subcategory: application
   authors:
@@ -316981,7 +316966,7 @@ papers:
     of the user experience -- not simply a back end tool.
 - title: Underspecified Human Decision Experiments Considered Harmful
   date: 2024-01
-  url: https://arxiv.org/abs/2401.15106v6
+  url: https://arxiv.org/abs/2401.15106
   category: human-ai
   subcategory: application
   authors:
@@ -317006,7 +316991,7 @@ papers:
     losses they allow to be conceived.
 - title: Rethinking Algorithmic Fairness for Human-AI Collaboration
   date: 2023-10
-  url: https://arxiv.org/abs/2310.03647v3
+  url: https://arxiv.org/abs/2310.03647
   category: human-ai
   subcategory: application
   authors:
@@ -317037,7 +317022,7 @@ papers:
 - title: On the Role of Information Structure in Reinforcement Learning for Partially-Observable
     Sequential Teams and Games
   date: 2024-03
-  url: https://arxiv.org/abs/2403.00993v2
+  url: https://arxiv.org/abs/2403.00993
   category: sequential
   subcategory: method
   authors:
@@ -317067,7 +317052,7 @@ papers:
 - title: 'LinearAPT: An Adaptive Algorithm for the Fixed-Budget Thresholding Linear
     Bandit Problem'
   date: 2024-03
-  url: https://arxiv.org/abs/2403.06230v1
+  url: https://arxiv.org/abs/2403.06230
   category: sequential
   subcategory: method
   authors:
@@ -317089,7 +317074,7 @@ papers:
     sequential decision-making challenges.
 - title: Probability Tools for Sequential Random Projection
   date: 2024-02
-  url: https://arxiv.org/abs/2402.14026v3
+  url: https://arxiv.org/abs/2402.14026
   category: sequential
   subcategory: method
   authors:
@@ -317112,7 +317097,7 @@ papers:
 - title: 'Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective
     State Spaces'
   date: 2024-03
-  url: https://arxiv.org/abs/2403.19925v1
+  url: https://arxiv.org/abs/2403.19925
   category: sequential
   subcategory: method
   authors:
@@ -317137,7 +317122,7 @@ papers:
 - title: On the Brittle Foundations of ReAct Prompting for Agentic Large Language
     Models
   date: 2024-05
-  url: https://arxiv.org/abs/2405.13966v1
+  url: https://arxiv.org/abs/2405.13966
   category: sequential
   subcategory: method
   authors:
@@ -317165,7 +317150,7 @@ papers:
 - title: Can language agents be alternatives to PPO? A Preliminary Empirical Study
     On OpenAI Gym
   date: 2023-12
-  url: https://arxiv.org/abs/2312.03290v1
+  url: https://arxiv.org/abs/2312.03290
   category: sequential
   subcategory: method
   authors:
@@ -317184,7 +317169,7 @@ papers:
     them to textual environments that construct the TextGym simulator. This allows
     for straightforward and efficient comparisons between PPO agents and language
     agents, given the widespread adoption of OpenAI Gym. To ensure a fair and effective
-    benchmarking, we introduce $5$ levels of scenario for accurate domain-knowledge
+    benchmarking, we introduce 5 levels of scenario for accurate domain-knowledge
     controlling and a unified RL-inspired framework for language agents. Additionally,
     we propose an innovative explore-exploit-guided language (EXE) agent to solve
     tasks within TextGym. Through numerical experiments and ablation studies, we extract
@@ -317196,7 +317181,7 @@ papers:
 - title: Inverse Design of Photonic Crystal Surface Emitting Lasers is a Sequence
     Modeling Problem
   date: 2024-03
-  url: https://arxiv.org/abs/2403.05149v1
+  url: https://arxiv.org/abs/2403.05149
   category: sequential
   subcategory: method
   authors:
@@ -317228,7 +317213,7 @@ papers:
     that PiT achieves superior performance and data efficiency compared to baselines.
 - title: Structure and Reduction of MCTS for Explainable-AI
   date: 2024-08
-  url: https://arxiv.org/abs/2408.05488v1
+  url: https://arxiv.org/abs/2408.05488
   category: sequential
   subcategory: method
   authors:
@@ -317256,7 +317241,7 @@ papers:
     can be used in the construction of human understandable explanations.
 - title: Self-evolving Autoencoder Embedded Q-Network
   date: 2024-02
-  url: https://arxiv.org/abs/2402.11604v1
+  url: https://arxiv.org/abs/2402.11604
   category: sequential
   subcategory: method
   authors:
@@ -317290,7 +317275,7 @@ papers:
     tasks.'
 - title: How to Choose a Reinforcement-Learning Algorithm
   date: 2024-07
-  url: https://arxiv.org/abs/2407.20917v1
+  url: https://arxiv.org/abs/2407.20917
   category: sequential
   subcategory: method
   authors:
@@ -317311,7 +317296,7 @@ papers:
     An interactive version of these guidelines is available online at https://rl-picker.github.io/.
 - title: 'TraCE: Trajectory Counterfactual Explanation Scores'
   date: 2023-09
-  url: https://arxiv.org/abs/2309.15965v2
+  url: https://arxiv.org/abs/2309.15965
   category: sequential
   subcategory: method
   authors:
@@ -317335,7 +317320,7 @@ papers:
 - title: Global Convergence of Policy Gradient Methods in Reinforcement Learning,
     Games and Control
   date: 2023-10
-  url: https://arxiv.org/abs/2310.05230v1
+  url: https://arxiv.org/abs/2310.05230
   category: sequential
   subcategory: method
   authors:
@@ -317355,7 +317340,7 @@ papers:
 - title: 'State2Explanation: Concept-Based Explanations to Benefit Agent Learning
     and User Understanding'
   date: 2023-09
-  url: https://arxiv.org/abs/2309.12482v2
+  url: https://arxiv.org/abs/2309.12482
   category: sequential
   subcategory: method
   authors:
@@ -317388,7 +317373,7 @@ papers:
 - title: Accelerating Matrix Diagonalization through Decision Transformers with Epsilon-Greedy
     Optimization
   date: 2024-06
-  url: https://arxiv.org/abs/2406.16191v1
+  url: https://arxiv.org/abs/2406.16191
   category: sequential
   subcategory: method
   authors:
@@ -317413,7 +317398,7 @@ papers:
 - title: Catastrophic-risk-aware reinforcement learning with extreme-value-theory-based
     policy gradients
   date: 2024-06
-  url: https://arxiv.org/abs/2406.15612v2
+  url: https://arxiv.org/abs/2406.15612
   category: sequential
   subcategory: method
   authors:
@@ -317435,7 +317420,7 @@ papers:
 - title: An investigation of belief-free DRL and MCTS for inspection and maintenance
     planning
   date: 2023-12
-  url: https://arxiv.org/abs/2312.14824v1
+  url: https://arxiv.org/abs/2312.14824
   category: sequential
   subcategory: method
   authors:
@@ -317458,7 +317443,7 @@ papers:
 - title: Managing Risk using Rolling Forecasts in Energy-Limited and Stochastic Energy
     Systems
   date: 2024-07
-  url: https://arxiv.org/abs/2407.13626v1
+  url: https://arxiv.org/abs/2407.13626
   category: sequential
   subcategory: method
   authors:
@@ -317478,7 +317463,7 @@ papers:
     the problem objective. We demonstrate our method on a numerical case study.
 - title: Improving GFlowNets with Monte Carlo Tree Search
   date: 2024-06
-  url: https://arxiv.org/abs/2406.13655v1
+  url: https://arxiv.org/abs/2406.13655
   category: sequential
   subcategory: method
   authors:
@@ -317503,7 +317488,7 @@ papers:
 - title: Multi-Agent Soft Actor-Critic with Coordinated Loss for Autonomous Mobility-on-Demand
     Fleet Control
   date: 2024-04
-  url: https://arxiv.org/abs/2404.06975v2
+  url: https://arxiv.org/abs/2404.06975
   category: sequential
   subcategory: method
   authors:
@@ -317526,7 +317511,7 @@ papers:
     benchmarks by up to 12.9% for dispatching and up to 38.9% with integrated rebalancing.
 - title: Higher order measures of risk and stochastic dominance
   date: 2024-02
-  url: https://arxiv.org/abs/2402.15387v1
+  url: https://arxiv.org/abs/2402.15387
   category: optimization-uncertainty
   subcategory: method
   authors:
@@ -317545,7 +317530,7 @@ papers:
     Expectiles are employed to exemplify the relations obtained.
 - title: Bayesian Optimization for Non-Convex Two-Stage Stochastic Optimization Problems
   date: 2024-08
-  url: https://arxiv.org/abs/2408.17387v2
+  url: https://arxiv.org/abs/2408.17387
   category: optimization-uncertainty
   subcategory: method
   authors:
@@ -317573,7 +317558,7 @@ papers:
     two-step benchmark.
 - title: Semi-Bandit Learning for Monotone Stochastic Optimization
   date: 2023-12
-  url: https://arxiv.org/abs/2312.15427v3
+  url: https://arxiv.org/abs/2312.15427
   category: optimization-uncertainty
   subcategory: method
   authors:
@@ -317592,7 +317577,7 @@ papers:
     (approximation) algorithms if these distributions are unknown, and the algorithm
     needs to learn them through repeated interactions? In this paper, we resolve this
     question for a large class of ''monotone'' stochastic problems, by providing a
-    generic online learning algorithm with $\sqrt{T\log(T)}$ regret relative to the
+    generic online learning algorithm with \sqrt{T\log(T)} regret relative to the
     best approximation algorithm (under known distributions). Importantly, our online
     algorithm works in a semi-bandit setting, where in each period, the algorithm
     only observes samples from the random variables that were actually probed. Moreover,
@@ -317603,7 +317588,7 @@ papers:
     pricing.
 - title: A Quantile Neural Network Framework for Two-stage Stochastic Optimization
   date: 2024-03
-  url: https://arxiv.org/abs/2403.11707v1
+  url: https://arxiv.org/abs/2403.11707
   category: optimization-uncertainty
   subcategory: method
   authors:
@@ -317632,7 +317617,7 @@ papers:
     computational case studies including a set of mixed-integer optimization problems.
 - title: 'Multi-fidelity Bayesian Optimization: A Review'
   date: 2023-11
-  url: https://arxiv.org/abs/2311.13050v3
+  url: https://arxiv.org/abs/2311.13050
   category: optimization-uncertainty
   subcategory: method
   authors:
@@ -317662,7 +317647,7 @@ papers:
 - title: Multi-objective optimisation using expected quantile improvement for decision
     making in disease outbreaks
   date: 2024-01
-  url: https://arxiv.org/abs/2401.12031v2
+  url: https://arxiv.org/abs/2401.12031
   category: optimization-uncertainty
   subcategory: method
   authors:
@@ -317694,7 +317679,7 @@ papers:
 - title: No-Regret Learning for Stackelberg Equilibrium Computation in Newsvendor
     Pricing Games
   date: 2024-03
-  url: https://arxiv.org/abs/2404.00203v3
+  url: https://arxiv.org/abs/2404.00203
   category: optimization-uncertainty
   subcategory: method
   authors:
@@ -317721,7 +317706,7 @@ papers:
     guarantees to an approximate Stackelberg equilibrium, are provided.
 - title: Efficient Unit Commitment Constraint Screening under Uncertainty
   date: 2024-08
-  url: https://arxiv.org/abs/2408.05185v1
+  url: https://arxiv.org/abs/2408.05185
   category: optimization-uncertainty
   subcategory: method
   authors:
@@ -317754,7 +317739,7 @@ papers:
     be accelerated by 71.2X to 131.3X using our proposed method.
 - title: Regret Minimization in Scalar, Static, Non-linear Optimization Problems
   date: 2024-03
-  url: https://arxiv.org/abs/2403.15344v2
+  url: https://arxiv.org/abs/2403.15344
   category: optimization-uncertainty
   subcategory: method
   authors:
@@ -317783,7 +317768,7 @@ papers:
 - title: Decision-Based vs. Distribution-Driven Clustering for Stochastic Energy System
     Design Optimization
   date: 2024-07
-  url: https://arxiv.org/abs/2407.11457v1
+  url: https://arxiv.org/abs/2407.11457
   category: optimization-uncertainty
   subcategory: method
   authors:
@@ -317820,7 +317805,7 @@ papers:
     yields more cost-efficient designs compared to distribution-driven clustering.'
 - title: Exploring Equilibrium Strategies in Network Games with Generative AI
   date: 2024-05
-  url: https://arxiv.org/abs/2405.08289v1
+  url: https://arxiv.org/abs/2405.08289
   category: game-theory
   subcategory: theory
   authors:
@@ -317854,7 +317839,7 @@ papers:
 - title: Collaborative Control Method of Transit Signal Priority Based on Cooperative
     Game and Reinforcement Learning
   date: 2024-04
-  url: https://arxiv.org/abs/2404.19683v1
+  url: https://arxiv.org/abs/2404.19683
   category: game-theory
   subcategory: theory
   authors:
@@ -317883,7 +317868,7 @@ papers:
 - title: The State-Action-Reward-State-Action Algorithm in Spatial Prisoner's Dilemma
     Game
   date: 2024-06
-  url: https://arxiv.org/abs/2406.17326v1
+  url: https://arxiv.org/abs/2406.17326
   category: game-theory
   subcategory: theory
   authors:
@@ -317910,7 +317895,7 @@ papers:
 - title: The six blinds and the elephant or an interdisciplinary selection of measurement
     features
   date: 2023-10
-  url: https://arxiv.org/abs/2310.17624v1
+  url: https://arxiv.org/abs/2310.17624
   category: game-theory
   subcategory: theory
   authors:
@@ -317928,7 +317913,7 @@ papers:
     underlying mathematical structures are very similar.
 - title: 'Game-Theoretic Cybersecurity: the Good, the Bad and the Ugly'
   date: 2024-01
-  url: https://arxiv.org/abs/2401.13815v2
+  url: https://arxiv.org/abs/2401.13815
   category: game-theory
   subcategory: theory
   authors:
@@ -317958,7 +317943,7 @@ papers:
 - title: 'From Qubits to Opinions: Operator and Error Syndrome Measurement in Quantum-Inspired
     Social Simulations on Transversal Gates'
   date: 2023-12
-  url: https://arxiv.org/abs/2401.01902v2
+  url: https://arxiv.org/abs/2401.01902
   category: game-theory
   subcategory: theory
   authors:
@@ -317981,7 +317966,7 @@ papers:
     enhancing the fidelity of decision-making and strategy formation processes.
 - title: Green Resilience of Cyber-Physical Systems
   date: 2023-11
-  url: https://arxiv.org/abs/2311.05201v1
+  url: https://arxiv.org/abs/2311.05201
   category: game-theory
   subcategory: theory
   authors:
@@ -318004,7 +317989,7 @@ papers:
     resilience of CAIS with minimized CO2 footprint.
 - title: Spacetime games subsume causal contextuality scenarios
   date: 2024-05
-  url: https://arxiv.org/abs/2405.20143v4
+  url: https://arxiv.org/abs/2405.20143
   category: game-theory
   subcategory: theory
   authors:
@@ -318029,7 +318014,7 @@ papers:
 - title: 'GameVLM: A Decision-making Framework for Robotic Task Planning Based on
     Visual Language Models and Zero-sum Games'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.13751v1
+  url: https://arxiv.org/abs/2405.13751
   category: game-theory
   subcategory: theory
   authors:
@@ -318056,7 +318041,7 @@ papers:
     the efficacy of the proposed framework, with an average success rate of 83.3%.
 - title: Personalized Pricing Decisions Through Adversarial Risk Analysis
   date: 2024-08
-  url: https://arxiv.org/abs/2409.00444v1
+  url: https://arxiv.org/abs/2409.00444
   category: game-theory
   subcategory: theory
   authors:
@@ -318086,7 +318071,7 @@ papers:
 - title: 'GResilience: Trading Off Between the Greenness and the Resilience of Collaborative
     AI Systems'
   date: 2023-11
-  url: https://arxiv.org/abs/2311.04569v1
+  url: https://arxiv.org/abs/2311.04569
   category: game-theory
   subcategory: theory
   authors:
@@ -318115,7 +318100,7 @@ papers:
 - title: Dynamic Pricing of Electric Vehicle Charging Station Alliances Under Information
     Asymmetry
   date: 2024-08
-  url: https://arxiv.org/abs/2408.06645v1
+  url: https://arxiv.org/abs/2408.06645
   category: game-theory
   subcategory: theory
   authors:
@@ -318143,7 +318128,7 @@ papers:
     of the dynamic pricing strategy.
 - title: Population dynamics and games of variable size
   date: 2024-05
-  url: https://arxiv.org/abs/2405.03346v1
+  url: https://arxiv.org/abs/2405.03346
   category: game-theory
   subcategory: theory
   authors:
@@ -318157,7 +318142,7 @@ papers:
     themselves. We start by discussing the main examples in game theory: dominance,
     coexistence, and coordination. We show that the same set of pay-offs can result
     in coordination-like or coexistence-like games depending on the strategic decision
-    of each player type. We also solve an inverse problem to find a $d$-player game
+    of each player type. We also solve an inverse problem to find a d-player game
     that reproduces the same fixation pattern of the VSGT. In the sequel, we consider
     a game involving prosocial and antisocial players, i.e., individuals who tend
     to play with large groups and small groups, respectively. In this game, a certain
@@ -318175,7 +318160,7 @@ papers:
     applications of VSGT to be addressed in the future.'
 - title: On the population size in stochastic differential games
   date: 2023-10
-  url: https://arxiv.org/abs/2310.09919v1
+  url: https://arxiv.org/abs/2310.09919
   category: game-theory
   subcategory: theory
   authors:
@@ -318209,7 +318194,7 @@ papers:
 - title: 'Towards a Partial Computation offloading in In-networking Computing-Assisted
     MEC: A Digital Twin Approach'
   date: 2024-04
-  url: https://arxiv.org/abs/2407.01540v1
+  url: https://arxiv.org/abs/2407.01540
   category: game-theory
   subcategory: theory
   authors:
@@ -318238,7 +318223,7 @@ papers:
     and more reliable communication.
 - title: Public Goods Games in Disease Evolution and Spread
   date: 2024-02
-  url: https://arxiv.org/abs/2402.17842v1
+  url: https://arxiv.org/abs/2402.17842
   category: game-theory
   subcategory: theory
   authors:
@@ -318270,7 +318255,7 @@ papers:
 - title: An explainable machine learning-based approach for analyzing customers' online
     data to identify the importance of product attributes
   date: 2024-02
-  url: https://arxiv.org/abs/2402.05949v1
+  url: https://arxiv.org/abs/2402.05949
   category: game-theory
   subcategory: theory
   authors:
@@ -318301,7 +318286,7 @@ papers:
 - title: Game-Theoretic Deep Reinforcement Learning to Minimize Carbon Emissions and
     Energy Costs for AI Inference Workloads in Geo-Distributed Data Centers
   date: 2024-04
-  url: https://arxiv.org/abs/2404.01459v1
+  url: https://arxiv.org/abs/2404.01459
   category: game-theory
   subcategory: theory
   authors:
@@ -318330,7 +318315,7 @@ papers:
     across diverse geographic locations.
 - title: Second-order optimisation strategies for neural network quantum states
   date: 2024-01
-  url: https://arxiv.org/abs/2401.17550v2
+  url: https://arxiv.org/abs/2401.17550
   category: game-theory
   subcategory: theory
   authors:
@@ -318359,7 +318344,7 @@ papers:
 - title: Quality of Non-Convergent Best Response Processes in Multi-Agent Systems
     through Sink Equilibrium
   date: 2024-05
-  url: https://arxiv.org/abs/2405.20426v1
+  url: https://arxiv.org/abs/2405.20426
   category: game-theory
   subcategory: theory
   authors:
@@ -318391,7 +318376,7 @@ papers:
     settings.
 - title: 'Multi-agent Reinforcement Learning: A Comprehensive Survey'
   date: 2023-12
-  url: https://arxiv.org/abs/2312.10256v2
+  url: https://arxiv.org/abs/2312.10256
   category: game-theory
   subcategory: theory
   authors:
@@ -318420,7 +318405,7 @@ papers:
 - title: Tutorial on Congestion Control in Multi-Area Transmission Grids via Online
     Feedback Equilibrium Seeking
   date: 2023-10
-  url: https://arxiv.org/abs/2310.15924v1
+  url: https://arxiv.org/abs/2310.15924
   category: game-theory
   subcategory: theory
   authors:
@@ -318449,7 +318434,7 @@ papers:
 - title: 'Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning:
     A Systematic Review'
   date: 2024-06
-  url: https://arxiv.org/abs/2406.06041v1
+  url: https://arxiv.org/abs/2406.06041
   category: game-theory
   subcategory: theory
   authors:
@@ -318479,7 +318464,7 @@ papers:
 - title: 'The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions
     of Large Language Models in Cooperation and Bargaining Games'
   date: 2024-06
-  url: https://arxiv.org/abs/2406.03299v1
+  url: https://arxiv.org/abs/2406.03299
   category: game-theory
   subcategory: theory
   authors:
@@ -318512,7 +318497,7 @@ papers:
 - title: 'Pessimism of the Will, Optimism of the Intellect: Fair Protocols with Malicious
     but Rational Agents'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.18958v2
+  url: https://arxiv.org/abs/2405.18958
   category: game-theory
   subcategory: theory
   authors:
@@ -318537,7 +318522,7 @@ papers:
     based on the underlying graph structure and objectives.
 - title: Do LLM Agents Have Regret? A Case Study in Online Learning and Games
   date: 2024-03
-  url: https://arxiv.org/abs/2403.16843v5
+  url: https://arxiv.org/abs/2403.16843
   category: game-theory
   subcategory: theory
   authors:
@@ -318556,23 +318541,23 @@ papers:
     applications. To better understand the limits of LLM agents in these interactive
     environments, we propose to study their interactions in benchmark decision-making
     settings in online learning and game theory, through the performance metric of
-    \emph{regret}. We first empirically study the {no-regret} behaviors of LLMs in
-    canonical (non-stationary) online learning problems, as well as the emergence
-    of equilibria when LLM agents interact through playing repeated games. We then
-    provide some theoretical insights into the no-regret behaviors of LLM agents,
-    under certain assumptions on the supervised pre-training and the rationality model
-    of human decision-makers who generate the data. Notably, we also identify (simple)
-    cases where advanced LLMs such as GPT-4 fail to be no-regret. To promote the no-regret
-    behaviors, we propose a novel \emph{unsupervised} training loss of \emph{regret-loss},
-    which, in contrast to the supervised pre-training loss, does not require the labels
-    of (optimal) actions. We then establish the statistical guarantee of generalization
+    regret. We first empirically study the {no-regret} behaviors of LLMs in canonical
+    (non-stationary) online learning problems, as well as the emergence of equilibria
+    when LLM agents interact through playing repeated games. We then provide some
+    theoretical insights into the no-regret behaviors of LLM agents, under certain
+    assumptions on the supervised pre-training and the rationality model of human
+    decision-makers who generate the data. Notably, we also identify (simple) cases
+    where advanced LLMs such as GPT-4 fail to be no-regret. To promote the no-regret
+    behaviors, we propose a novel unsupervised training loss of regret-loss, which,
+    in contrast to the supervised pre-training loss, does not require the labels of
+    (optimal) actions. We then establish the statistical guarantee of generalization
     bound for regret-loss minimization, followed by the optimization guarantee that
     minimizing such a loss may automatically lead to known no-regret learning algorithms.
     Our further experiments demonstrate the effectiveness of our regret-loss, especially
     in addressing the above ``regrettable'' cases.
 - title: 'Policy Space Response Oracles: A Survey'
   date: 2024-03
-  url: https://arxiv.org/abs/2403.02227v2
+  url: https://arxiv.org/abs/2403.02227
   category: game-theory
   subcategory: theory
   authors:
@@ -318598,7 +318583,7 @@ papers:
     We conclude by discussing open questions and future research.'
 - title: Model Checking of vGOAL
   date: 2024-06
-  url: https://arxiv.org/abs/2406.17206v1
+  url: https://arxiv.org/abs/2406.17206
   category: autonomous
   subcategory: application
   authors:
@@ -318630,7 +318615,7 @@ papers:
 - title: Deep Reinforcement Learning for Weapons to Targets Assignment in a Hypersonic
     strike
   date: 2023-10
-  url: https://arxiv.org/abs/2310.18509v1
+  url: https://arxiv.org/abs/2310.18509
   category: autonomous
   subcategory: application
   authors:
@@ -318653,7 +318638,7 @@ papers:
 - title: 'Towards Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language
     Models'
   date: 2024-08
-  url: https://arxiv.org/abs/2408.06458v2
+  url: https://arxiv.org/abs/2408.06458
   category: autonomous
   subcategory: application
   authors:
@@ -318673,7 +318658,7 @@ papers:
     for more advanced autonomous agents. The code is publicly available at https://github.com/YenCheHsiao/AutonomousLLMAgentwithAdaptingPlanning.
 - title: Exploring Benchmarks for Self-Driving Labs using Color Matching
   date: 2023-09
-  url: https://arxiv.org/abs/2310.00510v1
+  url: https://arxiv.org/abs/2310.00510
   category: autonomous
   subcategory: application
   authors:
@@ -318698,7 +318683,7 @@ papers:
     and automated publication of results for experiment tracking and post-hoc analysis.
 - title: 'Evolutionary City: Towards a Flexible, Agile and Symbiotic System'
   date: 2023-11
-  url: https://arxiv.org/abs/2311.14690v1
+  url: https://arxiv.org/abs/2311.14690
   category: autonomous
   subcategory: application
   authors:
@@ -318727,7 +318712,7 @@ papers:
 - title: Self-Supervised Path Planning in UAV-aided Wireless Networks based on Active
     Inference
   date: 2024-03
-  url: https://arxiv.org/abs/2403.13827v1
+  url: https://arxiv.org/abs/2403.13827
   category: autonomous
   subcategory: application
   authors:
@@ -318752,7 +318737,7 @@ papers:
     than traditional RL, leading to broader generalizability.
 - title: 'KUNPENG: An Embodied Large Model for Intelligent Maritime'
   date: 2024-07
-  url: https://arxiv.org/abs/2407.09048v1
+  url: https://arxiv.org/abs/2407.09048
   category: autonomous
   subcategory: application
   authors:
@@ -318780,7 +318765,7 @@ papers:
     maritime task evaluations, KUNPENG has demonstrated excellent performance.
 - title: 'A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.11005v4
+  url: https://arxiv.org/abs/2402.11005
   category: autonomous
   subcategory: application
   authors:
@@ -318807,7 +318792,7 @@ papers:
     raising ethical concerns.'
 - title: XEQ Scale for Evaluating XAI Experience Quality
   date: 2024-07
-  url: https://arxiv.org/abs/2407.10662v4
+  url: https://arxiv.org/abs/2407.10662
   category: autonomous
   subcategory: application
   authors:
@@ -318835,7 +318820,7 @@ papers:
     for evaluating user-centred XAI experiences.'
 - title: 'Conformal Decision Theory: Safe Autonomous Decisions from Imperfect Predictions'
   date: 2023-10
-  url: https://arxiv.org/abs/2310.05921v3
+  url: https://arxiv.org/abs/2310.05921
   category: autonomous
   subcategory: application
   authors:
@@ -318862,7 +318847,7 @@ papers:
 - title: From Feature Importance to Natural Language Explanations Using LLMs with
     RAG
   date: 2024-07
-  url: https://arxiv.org/abs/2407.20990v1
+  url: https://arxiv.org/abs/2407.20990
   category: autonomous
   subcategory: application
   authors:
@@ -318892,7 +318877,7 @@ papers:
 - title: 'Self-sustaining Software Systems (S4): Towards Improved Interpretability
     and Adaptation'
   date: 2024-01
-  url: https://arxiv.org/abs/2401.11370v1
+  url: https://arxiv.org/abs/2401.11370
   category: autonomous
   subcategory: application
   authors:
@@ -318923,7 +318908,7 @@ papers:
 - title: 'CognitiveDog: Large Multimodal Model Based System to Translate Vision and
     Language into Action of Quadruped Robot'
   date: 2024-01
-  url: https://arxiv.org/abs/2401.09388v1
+  url: https://arxiv.org/abs/2401.09388
   category: autonomous
   subcategory: application
   authors:
@@ -318954,7 +318939,7 @@ papers:
 - title: '"Pass the butter": A study on desktop-classic multitasking robotic arm based
     on advanced YOLOv7 and BERT'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.17250v1
+  url: https://arxiv.org/abs/2405.17250
   category: autonomous
   subcategory: application
   authors:
@@ -318986,7 +318971,7 @@ papers:
 - title: 'TIGeR: Unifying Text-to-Image Generation and Retrieval with Large Multimodal
     Models'
   date: 2024-06
-  url: https://arxiv.org/abs/2406.05814v2
+  url: https://arxiv.org/abs/2406.05814
   category: autonomous
   subcategory: application
   authors:
@@ -319017,7 +319002,7 @@ papers:
     of our proposed framework.
 - title: Policy Optimization of Finite-Horizon Kalman Filter with Unknown Noise Covariance
   date: 2023-10
-  url: https://arxiv.org/abs/2310.15467v2
+  url: https://arxiv.org/abs/2310.15467
   category: reward
   subcategory: method
   authors:
@@ -319034,10 +319019,10 @@ papers:
     solve the policy optimization problem, and further the global linear convergence
     and sample complexity of stochastic gradient descent are provided for the setting
     of unknown noise covariance matrices and known model parameters.
-- title: '$\mathbf{(N,K)}$-Puzzle: A Cost-Efficient Testbed for Benchmarking Reinforcement
-    Learning Algorithms in Generative Language Model'
+- title: '(N,K)-Puzzle: A Cost-Efficient Testbed for Benchmarking Reinforcement Learning
+    Algorithms in Generative Language Model'
   date: 2024-03
-  url: https://arxiv.org/abs/2403.07191v1
+  url: https://arxiv.org/abs/2403.07191
   category: reward
   subcategory: method
   authors:
@@ -319053,13 +319038,13 @@ papers:
     the performance of language models at scale. Yet, there is a noticeable absence
     of a cost-effective and standardized testbed tailored to evaluating and comparing
     these algorithms. To bridge this gap, we present a generalized version of the
-    24-Puzzle: the $(N,K)$-Puzzle, which challenges language models to reach a target
-    value $K$ with $N$ integers. We evaluate the effectiveness of established RL algorithms
+    24-Puzzle: the (N,K)-Puzzle, which challenges language models to reach a target
+    value K with N integers. We evaluate the effectiveness of established RL algorithms
     such as Proximal Policy Optimization (PPO), alongside novel approaches like Identity
     Policy Optimization (IPO) and Direct Policy Optimization (DPO).'
 - title: Reflective Policy Optimization
   date: 2024-06
-  url: https://arxiv.org/abs/2406.03678v1
+  url: https://arxiv.org/abs/2406.03678
   category: reward
   subcategory: method
   authors:
@@ -319084,7 +319069,7 @@ papers:
 - title: 'Reusing Historical Trajectories in Natural Policy Gradient via Importance
     Sampling: Convergence and Convergence Rate'
   date: 2024-03
-  url: https://arxiv.org/abs/2403.00675v2
+  url: https://arxiv.org/abs/2403.00675
   category: reward
   subcategory: method
   authors:
@@ -319110,7 +319095,7 @@ papers:
     results are verified on classical benchmarks.
 - title: 'Policy Optimization in RLHF: The Impact of Out-of-preference Data'
   date: 2023-12
-  url: https://arxiv.org/abs/2312.10584v2
+  url: https://arxiv.org/abs/2312.10584
   category: reward
   subcategory: method
   authors:
@@ -319134,9 +319119,9 @@ papers:
     representation, we find that policy optimization with adequate out-of-preference
     data significantly improves performance by harnessing the reward model''s generalization
     capabilities.'
-- title: 'Model-Free $μ$-Synthesis: A Nonsmooth Optimization Perspective'
+- title: 'Model-Free μ-Synthesis: A Nonsmooth Optimization Perspective'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.11654v1
+  url: https://arxiv.org/abs/2402.11654
   category: reward
   subcategory: method
   authors:
@@ -319149,7 +319134,7 @@ papers:
   code_url: ''
   project_url: ''
   abstract: 'In this paper, we revisit model-free policy search on an important robust
-    control benchmark, namely $μ$-synthesis. In the general output-feedback setting,
+    control benchmark, namely μ-synthesis. In the general output-feedback setting,
     there do not exist convex formulations for this problem, and hence global optimality
     guarantees are not expected. Apkarian (2011) presented a nonconvex nonsmooth policy
     optimization approach for this problem, and achieved state-of-the-art design results
@@ -319164,14 +319149,14 @@ papers:
     that both methods consistently replicate the design outcomes achieved by their
     model-based counterparts. Additionally, we provide some theoretical justifications
     showing that convergence guarantees to stationary points can be established for
-    our model-free $μ$-synthesis under some assumptions related to the coerciveness
+    our model-free μ-synthesis under some assumptions related to the coerciveness
     of the cost function. Overall, our results demonstrate that derivative-free policy
     optimization offers a competitive and viable approach for solving general output-feedback
-    $μ$-synthesis problems in the model-free setting.'
+    μ-synthesis problems in the model-free setting.'
 - title: 'Output-feedback Synthesis Orbit Geometry: Quotient Manifolds and LQG Direct
     Policy Optimization'
   date: 2024-03
-  url: https://arxiv.org/abs/2403.17157v3
+  url: https://arxiv.org/abs/2403.17157
   category: reward
   subcategory: method
   authors:
@@ -319196,7 +319181,7 @@ papers:
     numerical performance as compared with ordinary gradient descent.
 - title: Scalable Online Exploration via Coverability
   date: 2024-03
-  url: https://arxiv.org/abs/2403.06571v2
+  url: https://arxiv.org/abs/2403.06571
   category: reward
   subcategory: method
   authors:
@@ -319210,21 +319195,21 @@ papers:
     for high-dimensional domains that require function approximation. We propose exploration
     objectives -- policy optimization objectives that enable downstream maximization
     of any reward function -- as a conceptual framework to systematize the study of
-    exploration. Within this framework, we introduce a new objective, $L_1$-Coverage,
+    exploration. Within this framework, we introduce a new objective, L_1-Coverage,
     which generalizes previous exploration schemes and supports three fundamental
-    desiderata: 1. Intrinsic complexity control. $L_1$-Coverage is associated with
-    a structural parameter, $L_1$-Coverability, which reflects the intrinsic statistical
+    desiderata: 1. Intrinsic complexity control. L_1-Coverage is associated with a
+    structural parameter, L_1-Coverability, which reflects the intrinsic statistical
     difficulty of the underlying MDP, subsuming Block and Low-Rank MDPs. 2. Efficient
-    planning. For a known MDP, optimizing $L_1$-Coverage efficiently reduces to standard
+    planning. For a known MDP, optimizing L_1-Coverage efficiently reduces to standard
     policy optimization, allowing flexible integration with off-the-shelf methods
-    such as policy gradient and Q-learning approaches. 3. Efficient exploration. $L_1$-Coverage
+    such as policy gradient and Q-learning approaches. 3. Efficient exploration. L_1-Coverage
     enables the first computationally efficient model-based and model-free algorithms
     for online (reward-free or reward-driven) reinforcement learning in MDPs with
-    low coverability. Empirically, we find that $L_1$-Coverage effectively drives
-    off-the-shelf policy optimization algorithms to explore the state space.'
+    low coverability. Empirically, we find that L_1-Coverage effectively drives off-the-shelf
+    policy optimization algorithms to explore the state space.'
 - title: Federated Reinforcement Learning with Constraint Heterogeneity
   date: 2024-05
-  url: https://arxiv.org/abs/2405.03236v1
+  url: https://arxiv.org/abs/2405.03236
   category: reward
   subcategory: method
   authors:
@@ -319236,22 +319221,22 @@ papers:
   project_url: ''
   abstract: We study a Federated Reinforcement Learning (FedRL) problem with constraint
     heterogeneity. In our setting, we aim to solve a reinforcement learning problem
-    with multiple constraints while $N$ training agents are located in $N$ different
-    environments with limited access to the constraint signals and they are expected
-    to collaboratively learn a policy satisfying all constraint signals. Such learning
-    problems are prevalent in scenarios of Large Language Model (LLM) fine-tuning
-    and healthcare applications. To solve the problem, we propose federated primal-dual
-    policy optimization methods based on traditional policy gradient methods. Specifically,
-    we introduce $N$ local Lagrange functions for agents to perform local policy updates,
-    and these agents are then scheduled to periodically communicate on their local
-    policies. Taking natural policy gradient (NPG) and proximal policy optimization
-    (PPO) as policy optimization methods, we mainly focus on two instances of our
-    algorithms, ie, {FedNPG} and {FedPPO}. We show that FedNPG achieves global convergence
-    with an $\tilde{O}(1/\sqrt{T})$ rate, and FedPPO efficiently solves complicated
-    learning tasks with the use of deep neural networks.
+    with multiple constraints while N training agents are located in N different environments
+    with limited access to the constraint signals and they are expected to collaboratively
+    learn a policy satisfying all constraint signals. Such learning problems are prevalent
+    in scenarios of Large Language Model (LLM) fine-tuning and healthcare applications.
+    To solve the problem, we propose federated primal-dual policy optimization methods
+    based on traditional policy gradient methods. Specifically, we introduce N local
+    Lagrange functions for agents to perform local policy updates, and these agents
+    are then scheduled to periodically communicate on their local policies. Taking
+    natural policy gradient (NPG) and proximal policy optimization (PPO) as policy
+    optimization methods, we mainly focus on two instances of our algorithms, ie,
+    {FedNPG} and {FedPPO}. We show that FedNPG achieves global convergence with an
+    \tilde{O}(1/\sqrt{T}) rate, and FedPPO efficiently solves complicated learning
+    tasks with the use of deep neural networks.
 - title: Simple Policy Optimization
   date: 2024-01
-  url: https://arxiv.org/abs/2401.16025v9
+  url: https://arxiv.org/abs/2401.16025
   category: reward
   subcategory: method
   authors:
@@ -319280,7 +319265,7 @@ papers:
     end-to-end.'
 - title: Distributional Successor Features Enable Zero-Shot Policy Optimization
   date: 2024-03
-  url: https://arxiv.org/abs/2403.06328v4
+  url: https://arxiv.org/abs/2403.06328
   category: reward
   subcategory: method
   authors:
@@ -319311,7 +319296,7 @@ papers:
     across various simulated robotics problems. Videos and code available at https://weirdlabuw.github.io/dispo/.
 - title: A dynamical clipping approach with task feedback for Proximal Policy Optimization
   date: 2023-12
-  url: https://arxiv.org/abs/2312.07624v3
+  url: https://arxiv.org/abs/2312.07624
   category: reward
   subcategory: method
   authors:
@@ -319349,7 +319334,7 @@ papers:
 - title: Near-Optimal Policy Optimization for Correlated Equilibrium in General-Sum
     Markov Games
   date: 2024-01
-  url: https://arxiv.org/abs/2401.15240v2
+  url: https://arxiv.org/abs/2401.15240
   category: reward
   subcategory: method
   authors:
@@ -319361,17 +319346,17 @@ papers:
   code_url: ''
   project_url: ''
   abstract: We study policy optimization algorithms for computing correlated equilibria
-    in multi-player general-sum Markov Games. Previous results achieve $O(T^{-1/2})$
-    convergence rate to a correlated equilibrium and an accelerated $O(T^{-3/4})$
-    convergence rate to the weaker notion of coarse correlated equilibrium. In this
-    paper, we improve both results significantly by providing an uncoupled policy
-    optimization algorithm that attains a near-optimal $\tilde{O}(T^{-1})$ convergence
-    rate for computing a correlated equilibrium. Our algorithm is constructed by combining
-    two main elements (i) smooth value updates and (ii) the optimistic-follow-the-regularized-leader
+    in multi-player general-sum Markov Games. Previous results achieve O(T^{-1/2})
+    convergence rate to a correlated equilibrium and an accelerated O(T^{-3/4}) convergence
+    rate to the weaker notion of coarse correlated equilibrium. In this paper, we
+    improve both results significantly by providing an uncoupled policy optimization
+    algorithm that attains a near-optimal \tilde{O}(T^{-1}) convergence rate for computing
+    a correlated equilibrium. Our algorithm is constructed by combining two main elements
+    (i) smooth value updates and (ii) the optimistic-follow-the-regularized-leader
     algorithm with the log barrier regularizer.
 - title: Online Policy Optimization in Unknown Nonlinear Systems
   date: 2024-04
-  url: https://arxiv.org/abs/2404.13009v1
+  url: https://arxiv.org/abs/2404.13009
   category: reward
   subcategory: method
   authors:
@@ -319388,21 +319373,21 @@ papers:
     is challenging because, unlike in linear systems, the controller cannot obtain
     globally accurate estimations of the ground-truth dynamics using local exploration.
     We propose a meta-framework that combines a general online policy optimization
-    algorithm ($\texttt{ALG}$) with a general online estimator of the dynamical system's
-    model parameters ($\texttt{EST}$). We show that if the hypothetical joint dynamics
-    induced by $\texttt{ALG}$ with known parameters satisfies several desired properties,
-    the joint dynamics under inexact parameters from $\texttt{EST}$ will be robust
-    to errors. Importantly, the final policy regret only depends on $\texttt{EST}$'s
-    predictions on the visited trajectory, which relaxes a bottleneck on identifying
-    the true parameters globally. To demonstrate our framework, we develop a computationally
+    algorithm (\texttt{ALG}) with a general online estimator of the dynamical system's
+    model parameters (\texttt{EST}). We show that if the hypothetical joint dynamics
+    induced by \texttt{ALG} with known parameters satisfies several desired properties,
+    the joint dynamics under inexact parameters from \texttt{EST} will be robust to
+    errors. Importantly, the final policy regret only depends on \texttt{EST}'s predictions
+    on the visited trajectory, which relaxes a bottleneck on identifying the true
+    parameters globally. To demonstrate our framework, we develop a computationally
     efficient variant of Gradient-based Adaptive Policy Selection, called Memoryless
-    GAPS (M-GAPS), and use it to instantiate $\texttt{ALG}$. Combining M-GAPS with
-    online gradient descent to instantiate $\texttt{EST}$ yields (to our knowledge)
-    the first local regret bound for online policy optimization in nonlinear time-varying
-    systems with unknown dynamics.
+    GAPS (M-GAPS), and use it to instantiate \texttt{ALG}. Combining M-GAPS with online
+    gradient descent to instantiate \texttt{EST} yields (to our knowledge) the first
+    local regret bound for online policy optimization in nonlinear time-varying systems
+    with unknown dynamics.
 - title: Decision Theory-Guided Deep Reinforcement Learning for Fast Learning
   date: 2024-02
-  url: https://arxiv.org/abs/2402.06023v1
+  url: https://arxiv.org/abs/2402.06023
   category: decision-theory
   subcategory: theory
   authors:
@@ -319434,7 +319419,7 @@ papers:
     domain.'
 - title: Solving Decision Theory Problems with Probabilistic Answer Set Programming
   date: 2024-08
-  url: https://arxiv.org/abs/2408.11371v1
+  url: https://arxiv.org/abs/2408.11371
   category: decision-theory
   subcategory: theory
   authors:
@@ -319457,7 +319442,7 @@ papers:
     and Practice of Logic Programming (TPLP).
 - title: 'Imperfect-Recall Games: Equilibrium Concepts and Their Complexity'
   date: 2024-06
-  url: https://arxiv.org/abs/2406.15970v1
+  url: https://arxiv.org/abs/2406.15970
   category: decision-theory
   subcategory: theory
   authors:
@@ -319480,10 +319465,10 @@ papers:
     special cases, we consider (1) single-player games, (2) two-player zero-sum games
     and relationships to maximin values, and (3) games without exogenous stochasticity
     (chance nodes). We relate these problems to the complexity classes P, PPAD, PLS,
-    $Σ_2^P$ , $\exists$R, and $\exists \forall$R.'
+    Σ_2^P , \existsR, and \exists \forallR.'
 - title: Partial Law Invariance and Risk Measures
   date: 2024-01
-  url: https://arxiv.org/abs/2401.17265v5
+  url: https://arxiv.org/abs/2401.17265
   category: decision-theory
   subcategory: theory
   authors:
@@ -319508,7 +319493,7 @@ papers:
     coherent risk measures and give a numerical example.
 - title: The birth of (a robust) Arbitrage Theory in de Finetti's early contributions
   date: 2023-10
-  url: https://arxiv.org/abs/2310.07291v1
+  url: https://arxiv.org/abs/2310.07291
   category: decision-theory
   subcategory: theory
   authors:
@@ -319516,16 +319501,16 @@ papers:
   venue: ''
   code_url: ''
   project_url: ''
-  abstract: \textit{Il significato soggettivo della probabilità} (1931) by B. de Finetti
-    \cite{deF} is unanimously considered the rise of `subjectivism', a notion which
-    strongly influenced both Probability and Decision Theory. What is less acknowledge
-    is that \cite{deF} posed the foundations of modern arbitrage theory. In this paper
-    we aim at examining how de Finetti's contribution should be considered as the
-    precursor of Asset Pricing Theory and we show how his findings relate to recent
-    developments in Robust Finance.
+  abstract: Il significato soggettivo della probabilità (1931) by B. de Finetti \cite{deF}
+    is unanimously considered the rise of `subjectivism', a notion which strongly
+    influenced both Probability and Decision Theory. What is less acknowledge is that
+    \cite{deF} posed the foundations of modern arbitrage theory. In this paper we
+    aim at examining how de Finetti's contribution should be considered as the precursor
+    of Asset Pricing Theory and we show how his findings relate to recent developments
+    in Robust Finance.
 - title: Better Foundations for Subjective Probability
   date: 2023-12
-  url: https://arxiv.org/abs/2312.09796v1
+  url: https://arxiv.org/abs/2312.09796
   category: decision-theory
   subcategory: theory
   authors:
@@ -319544,7 +319529,7 @@ papers:
 - title: 'Decision-making under risk: when is utility maximization equivalent to risk
     minimization?'
   date: 2023-11
-  url: https://arxiv.org/abs/2311.07269v1
+  url: https://arxiv.org/abs/2311.07269
   category: decision-theory
   subcategory: theory
   authors:
@@ -319562,10 +319547,10 @@ papers:
     an axiomatic foundation of preferences for which utility-maximization is equivalent
     to minimizing a utility-based shortfall risk measure. Our axiomatization hinges
     on a novel axiom in decision theory, namely the risk-perception axiom.
-- title: A Variational Characterization of $H$-Mutual Information and its Application
-    to Computing $H$-Capacity
+- title: A Variational Characterization of H-Mutual Information and its Application
+    to Computing H-Capacity
   date: 2024-06
-  url: https://arxiv.org/abs/2406.14304v1
+  url: https://arxiv.org/abs/2406.14304
   category: decision-theory
   subcategory: theory
   authors:
@@ -319575,17 +319560,17 @@ papers:
   venue: ''
   code_url: ''
   project_url: ''
-  abstract: $H$-mutual information ($H$-MI) is a wide class of information leakage
-    measures, where $H=(η, F)$ is a pair of monotonically increasing function $η$
-    and a concave function $F$, which is a generalization of Shannon entropy. $H$-MI
-    is defined as the difference between the generalized entropy $H$ and its conditional
-    version, including Shannon mutual information (MI), Arimoto MI of order $α$, $g$-leakage,
-    and expected value of sample information. This study presents a variational characterization
-    of $H$-MI via statistical decision theory. Based on the characterization, we propose
-    an alternating optimization algorithm for computing $H$-capacity.
+  abstract: H-mutual information (H-MI) is a wide class of information leakage measures,
+    where H=(η, F) is a pair of monotonically increasing function η and a concave
+    function F, which is a generalization of Shannon entropy. H-MI is defined as the
+    difference between the generalized entropy H and its conditional version, including
+    Shannon mutual information (MI), Arimoto MI of order α, g-leakage, and expected
+    value of sample information. This study presents a variational characterization
+    of H-MI via statistical decision theory. Based on the characterization, we propose
+    an alternating optimization algorithm for computing H-capacity.
 - title: The Sleeping Beauty Problem -- A Real-World Solution
   date: 2023-12
-  url: https://arxiv.org/abs/2312.07544v1
+  url: https://arxiv.org/abs/2312.07544
   category: decision-theory
   subcategory: theory
   authors:
@@ -319605,7 +319590,7 @@ papers:
 - title: Using Participants' Utility Functions to Compare Versions of Differential
     Privacy
   date: 2023-10
-  url: https://arxiv.org/abs/2310.06258v1
+  url: https://arxiv.org/abs/2310.06258
   category: decision-theory
   subcategory: theory
   authors:
@@ -319622,11 +319607,11 @@ papers:
     be measured via the classic Euclidean metric. We then consider the question of
     which privacy guarantees would be more appealing for individuals under different
     decision settings. Through our analysis, we found that the nature of the potential
-    participant's utility function, along with the specific values of $ε$ and $δ$,
-    can greatly alter which privacy guarantees are preferable.
+    participant's utility function, along with the specific values of ε and δ, can
+    greatly alter which privacy guarantees are preferable.
 - title: Decision synthesis in monetary policy
   date: 2024-06
-  url: https://arxiv.org/abs/2406.03321v2
+  url: https://arxiv.org/abs/2406.03321
   category: decision-theory
   subcategory: theory
   authors:
@@ -319652,7 +319637,7 @@ papers:
 - title: Generating Personalized Insulin Treatments Strategies with Deep Conditional
     Generative Time Series Models
   date: 2023-09
-  url: https://arxiv.org/abs/2309.16521v2
+  url: https://arxiv.org/abs/2309.16521
   category: decision-theory
   subcategory: theory
   authors:
@@ -319678,7 +319663,7 @@ papers:
     support, personalized treatment generation, insulin and blood glucose prediction'
 - title: Max- and min-stability under first-order stochastic dominance
   date: 2024-03
-  url: https://arxiv.org/abs/2403.13138v3
+  url: https://arxiv.org/abs/2403.13138
   category: decision-theory
   subcategory: theory
   authors:
@@ -319703,7 +319688,7 @@ papers:
 - title: 'Starting Small: Prioritizing Safety over Efficacy in Randomized Experiments
     Using the Exact Finite Sample Likelihood'
   date: 2024-07
-  url: https://arxiv.org/abs/2407.18206v1
+  url: https://arxiv.org/abs/2407.18206
   category: decision-theory
   subcategory: theory
   authors:
@@ -319725,7 +319710,7 @@ papers:
     mixed in subsequent trials.
 - title: A placement-value based approach to concave ROC analysis
   date: 2024-06
-  url: https://arxiv.org/abs/2407.00797v1
+  url: https://arxiv.org/abs/2407.00797
   category: decision-theory
   subcategory: theory
   authors:
@@ -319748,7 +319733,7 @@ papers:
 - title: 'Data-Driven DRO and Economic Decision Theory: An Analytical Synthesis With
     Bayesian Nonparametric Advancements'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.13160v2
+  url: https://arxiv.org/abs/2405.13160
   category: decision-theory
   subcategory: theory
   authors:
@@ -319773,7 +319758,7 @@ papers:
     the method's favorable performance in terms of prediction accuracy and stability.
 - title: 'PersonaGym: Evaluating Persona Agents and LLMs'
   date: 2024-07
-  url: https://arxiv.org/abs/2407.18416v5
+  url: https://arxiv.org/abs/2407.18416
   category: decision-theory
   subcategory: theory
   authors:
@@ -319802,7 +319787,7 @@ papers:
 - title: Revisiting and Improving Scoring Fusion for Spoofing-aware Speaker Verification
     Using Compositional Data Analysis
   date: 2024-06
-  url: https://arxiv.org/abs/2406.10836v2
+  url: https://arxiv.org/abs/2406.10836
   category: decision-theory
   subcategory: theory
   authors:
@@ -319829,7 +319814,7 @@ papers:
     database.
 - title: Improving Zero-shot LLM Re-Ranker with Risk Minimization
   date: 2024-06
-  url: https://arxiv.org/abs/2406.13331v2
+  url: https://arxiv.org/abs/2406.13331
   category: decision-theory
   subcategory: theory
   authors:
@@ -319847,17 +319832,17 @@ papers:
     given the content of a document. However, directly prompting LLMs to approximate
     QLMs inherently is biased, where the estimated distribution might diverge from
     the actual document-specific distribution. In this study, we introduce a novel
-    framework, $\mathrm{UR^3}$, which leverages Bayesian decision theory to both quantify
-    and mitigate this estimation bias. Specifically, $\mathrm{UR^3}$ reformulates
-    the problem as maximizing the probability of document generation, thereby harmonizing
-    the optimization of query and document generation probabilities under a unified
-    risk minimization objective. Our empirical results indicate that $\mathrm{UR^3}$
-    significantly enhances re-ranking, particularly in improving the Top-1 accuracy.
-    It benefits the QA tasks by achieving higher accuracy with fewer input documents.
+    framework, UR^3, which leverages Bayesian decision theory to both quantify and
+    mitigate this estimation bias. Specifically, UR^3 reformulates the problem as
+    maximizing the probability of document generation, thereby harmonizing the optimization
+    of query and document generation probabilities under a unified risk minimization
+    objective. Our empirical results indicate that UR^3 significantly enhances re-ranking,
+    particularly in improving the Top-1 accuracy. It benefits the QA tasks by achieving
+    higher accuracy with fewer input documents.
 - title: 'Game of Travesty: Decoy-based Psychological Cyber Deception for Proactive
     Human Agents'
   date: 2023-09
-  url: https://arxiv.org/abs/2309.13403v1
+  url: https://arxiv.org/abs/2309.13403
   category: decision-theory
   subcategory: theory
   authors:
@@ -319883,7 +319868,7 @@ papers:
 - title: On Subjective Uncertainty Quantification and Calibration in Natural Language
     Generation
   date: 2024-06
-  url: https://arxiv.org/abs/2406.05213v2
+  url: https://arxiv.org/abs/2406.05213
   category: decision-theory
   subcategory: theory
   authors:
@@ -319909,7 +319894,7 @@ papers:
     in in-context learning.
 - title: A new foundation of quantum decision theory
   date: 2023-10
-  url: https://arxiv.org/abs/2310.12762v5
+  url: https://arxiv.org/abs/2310.12762
   category: decision-theory
   subcategory: theory
   authors:
@@ -319933,7 +319918,7 @@ papers:
 - title: Expert-guided Bayesian Optimisation for Human-in-the-loop Experimental Design
     of Known Systems
   date: 2023-12
-  url: https://arxiv.org/abs/2312.02852v1
+  url: https://arxiv.org/abs/2312.02852
   category: decision-theory
   subcategory: theory
   authors:
@@ -319959,7 +319944,7 @@ papers:
     optimisation.
 - title: 'On the Theory of Risk-Aware Agents: Bridging Actor-Critic and Economics'
   date: 2023-10
-  url: https://arxiv.org/abs/2310.19527v3
+  url: https://arxiv.org/abs/2310.19527
   category: decision-theory
   subcategory: theory
   authors:
@@ -319986,7 +319971,7 @@ papers:
     of leading model-based methods in the complex dog and humanoid domains.'
 - title: Bayesian Adaptive Trials for Social Policy
   date: 2024-06
-  url: https://arxiv.org/abs/2406.02868v1
+  url: https://arxiv.org/abs/2406.02868
   category: decision-theory
   subcategory: theory
   authors:
@@ -320016,7 +320001,7 @@ papers:
     effectively merging the best features of various methodologies.
 - title: Standards for Belief Representations in LLMs
   date: 2024-05
-  url: https://arxiv.org/abs/2405.21030v2
+  url: https://arxiv.org/abs/2405.21030
   category: decision-theory
   subcategory: theory
   authors:
@@ -320042,7 +320027,7 @@ papers:
     the limitations of using various criteria in isolation to identify belief representations.
 - title: Revisiting MAB based approaches to recursive delegation
   date: 2023-11
-  url: https://arxiv.org/abs/2311.01243v1
+  url: https://arxiv.org/abs/2311.01243
   category: bandits
   subcategory: method
   authors:
@@ -320059,7 +320044,7 @@ papers:
     in performance in such recursive delegation settings.
 - title: Going Green in RAN Slicing
   date: 2023-12
-  url: https://arxiv.org/abs/2312.17179v1
+  url: https://arxiv.org/abs/2312.17179
   category: bandits
   subcategory: method
   authors:
@@ -320086,7 +320071,7 @@ papers:
     all slice instances are active.
 - title: Global Rewards in Restless Multi-Armed Bandits
   date: 2024-06
-  url: https://arxiv.org/abs/2406.00738v2
+  url: https://arxiv.org/abs/2406.00738
   category: bandits
   subcategory: method
   authors:
@@ -320111,7 +320096,7 @@ papers:
 - title: Restless Bandit Problem with Rewards Generated by a Linear Gaussian Dynamical
     System
   date: 2024-05
-  url: https://arxiv.org/abs/2405.09584v2
+  url: https://arxiv.org/abs/2405.09584
   category: bandits
   subcategory: method
   authors:
@@ -320132,14 +320117,14 @@ papers:
     rewards for predicting each action's next reward. We show that, regardless of
     the sequence of previous actions chosen, the reward sampled for any previously
     chosen action can be used for predicting another action's future reward, i.e.
-    the reward sampled for action 1 at round $t-1$ can be used for predicting the
-    reward for action $2$ at round $t$. This is accomplished by designing a modified
-    Kalman filter with a matrix representation that can be learned for reward prediction.
-    Numerical evaluations are carried out on a set of linear Gaussian dynamical systems
-    and are compared with 2 other well-known stochastic multi-armed bandit algorithms.
+    the reward sampled for action 1 at round t-1 can be used for predicting the reward
+    for action 2 at round t. This is accomplished by designing a modified Kalman filter
+    with a matrix representation that can be learned for reward prediction. Numerical
+    evaluations are carried out on a set of linear Gaussian dynamical systems and
+    are compared with 2 other well-known stochastic multi-armed bandit algorithms.
 - title: Distributed Optimization via Kernelized Multi-armed Bandits
   date: 2023-12
-  url: https://arxiv.org/abs/2312.04719v1
+  url: https://arxiv.org/abs/2312.04719
   category: bandits
   subcategory: method
   authors:
@@ -320168,7 +320153,7 @@ papers:
     at the cost of more communication.
 - title: Jump Starting Bandits with LLM-Generated Prior Knowledge
   date: 2024-06
-  url: https://arxiv.org/abs/2406.19317v2
+  url: https://arxiv.org/abs/2406.19317
   category: bandits
   subcategory: method
   authors:
@@ -320193,7 +320178,7 @@ papers:
     survey experiment.'
 - title: Strategic Arms with Side Communication Prevail Over Low-Regret MAB Algorithms
   date: 2024-08
-  url: https://arxiv.org/abs/2408.17101v1
+  url: https://arxiv.org/abs/2408.17101
   category: bandits
   subcategory: method
   authors: []
@@ -320209,7 +320194,7 @@ papers:
     protocol that incentivizes the arms to communicate truthfully.'
 - title: 'EduQate: Generating Adaptive Curricula through RMABs in Education Settings'
   date: 2024-06
-  url: https://arxiv.org/abs/2406.14122v1
+  url: https://arxiv.org/abs/2406.14122
   category: bandits
   subcategory: method
   authors:
@@ -320234,7 +320219,7 @@ papers:
     from both synthetic and real-world data.
 - title: Transfer in Sequential Multi-armed Bandits via Reward Samples
   date: 2024-03
-  url: https://arxiv.org/abs/2403.12428v1
+  url: https://arxiv.org/abs/2403.12428
   category: bandits
   subcategory: method
   authors:
@@ -320253,7 +320238,7 @@ papers:
 - title: Top Feasible-Arm Subset Identification in Constrained Multi-Armed Bandit
     with Limited Budget
   date: 2024-01
-  url: https://arxiv.org/abs/2401.08845v2
+  url: https://arxiv.org/abs/2401.08845
   category: bandits
   subcategory: method
   authors:
@@ -320270,7 +320255,7 @@ papers:
     sampling-budget.
 - title: Multi-Armed Bandit Learning for Content Provisioning in Network of UAVs
   date: 2023-12
-  url: https://arxiv.org/abs/2312.14967v1
+  url: https://arxiv.org/abs/2312.14967
   category: bandits
   subcategory: method
   authors:
@@ -320301,7 +320286,7 @@ papers:
     distribution, and content popularity.
 - title: Adversarial Attacks on Combinatorial Multi-Armed Bandits
   date: 2023-10
-  url: https://arxiv.org/abs/2310.05308v2
+  url: https://arxiv.org/abs/2310.05308
   category: bandits
   subcategory: method
   authors:
@@ -320330,7 +320315,7 @@ papers:
     shortest path.
 - title: Adversarial Attacks on Cooperative Multi-agent Bandits
   date: 2023-11
-  url: https://arxiv.org/abs/2311.01698v1
+  url: https://arxiv.org/abs/2311.01698
   category: bandits
   subcategory: method
   authors:
@@ -320349,16 +320334,16 @@ papers:
     we study adversarial attacks on CMA2B in both homogeneous settings, where agents
     operate with the same arm set, and heterogeneous settings, where agents have distinct
     arm sets. In the homogeneous setting, we propose attack strategies that, by targeting
-    just one agent, convince all agents to select a particular target arm $T-o(T)$
-    times while incurring $o(T)$ attack costs in $T$ rounds. In the heterogeneous
-    setting, we prove that a target arm attack requires linear attack costs and propose
-    attack strategies that can force a maximum number of agents to suffer linear regrets
+    just one agent, convince all agents to select a particular target arm T-o(T) times
+    while incurring o(T) attack costs in T rounds. In the heterogeneous setting, we
+    prove that a target arm attack requires linear attack costs and propose attack
+    strategies that can force a maximum number of agents to suffer linear regrets
     while incurring sublinear costs and only manipulating the observations of a few
     target agents. Numerical experiments validate the effectiveness of our proposed
     attack strategies.
 - title: Fairness of Exposure in Online Restless Multi-armed Bandits
   date: 2024-02
-  url: https://arxiv.org/abs/2402.06348v1
+  url: https://arxiv.org/abs/2402.06348
   category: bandits
   subcategory: method
   authors:
@@ -320378,13 +320363,13 @@ papers:
     is largely unknown. In the online scenario, we propose the first fair RMAB framework,
     where each arm receives pulls in proportion to its merit. We define the merit
     of an arm as a function of its stationary reward distribution. We prove that our
-    algorithm achieves sublinear fairness regret in the single pull case $O(\sqrt{T\ln
-    T})$, with $T$ being the total number of episodes. Empirically, we show that our
+    algorithm achieves sublinear fairness regret in the single pull case O(\sqrt{T\ln
+    T}), with T being the total number of episodes. Empirically, we show that our
     algorithm performs well in the multi-pull scenario as well.
 - title: Decentralized Task Offloading and Load-Balancing for Mobile Edge Computing
     in Dense Networks
   date: 2024-06
-  url: https://arxiv.org/abs/2407.00080v1
+  url: https://arxiv.org/abs/2407.00080
   category: bandits
   subcategory: method
   authors:
@@ -320406,7 +320391,7 @@ papers:
 - title: Is Offline Decision Making Possible with Only Few Samples? Reliable Decisions
     in Data-Starved Bandits via Trust Region Enhancement
   date: 2024-02
-  url: https://arxiv.org/abs/2402.15703v1
+  url: https://arxiv.org/abs/2402.15703
   category: bandits
   subcategory: method
   authors:
@@ -320421,8 +320406,8 @@ papers:
     in this work, we demonstrate that even in such a data-starved setting it may still
     be possible to find a policy competitive with the optimal one. This paves the
     way to reliable decision-making in settings where critical decisions must be made
-    by relying only on a handful of samples. Our analysis reveals that \emph{stochastic
-    policies can be substantially better} than deterministic ones for offline decision-making.
+    by relying only on a handful of samples. Our analysis reveals that stochastic
+    policies can be substantially better than deterministic ones for offline decision-making.
     Focusing on offline multi-armed bandits, we design an algorithm called Trust Region
     of Uncertainty for Stochastic policy enhancemenT (TRUST) which is quite different
     from the predominant value-based lower confidence bound approach. Its design is
@@ -320434,7 +320419,7 @@ papers:
 - title: Asymmetric leader-laggard cluster synchronization for collective decision-making
     with laser network
   date: 2023-12
-  url: https://arxiv.org/abs/2312.02537v1
+  url: https://arxiv.org/abs/2312.02537
   category: bandits
   subcategory: method
   authors:
@@ -320458,7 +320443,7 @@ papers:
     learning built upon chaotic lasers and photonic devices.
 - title: Leveraging heterogeneous spillover in maximizing contextual bandit rewards
   date: 2023-10
-  url: https://arxiv.org/abs/2310.10259v2
+  url: https://arxiv.org/abs/2310.10259
   category: bandits
   subcategory: method
   authors:
@@ -320473,19 +320458,19 @@ papers:
     recommend) for each user and thus maximize the cumulative rewards from user engagement
     with the recommendations. The context that these algorithms typically consider
     are the user and item attributes. However, in the context of social networks where
-    $\textit{the action of one user can influence the actions and rewards of other
-    users,}$ neighbors' actions are also a very important context, as they can have
-    not only predictive power but also can impact future rewards through spillover.
-    Moreover, influence susceptibility can vary for different people based on their
-    preferences and the closeness of ties to other users which leads to heterogeneity
-    in the spillover effects. Here, we present a framework that allows contextual
-    multi-armed bandits to account for such heterogeneous spillovers when choosing
-    the best arm for each user. Our experiments on several semi-synthetic and real-world
-    datasets show that our framework leads to significantly higher rewards than existing
-    state-of-the-art solutions that ignore the network information and potential spillover.
+    the action of one user can influence the actions and rewards of other users, neighbors'
+    actions are also a very important context, as they can have not only predictive
+    power but also can impact future rewards through spillover. Moreover, influence
+    susceptibility can vary for different people based on their preferences and the
+    closeness of ties to other users which leads to heterogeneity in the spillover
+    effects. Here, we present a framework that allows contextual multi-armed bandits
+    to account for such heterogeneous spillovers when choosing the best arm for each
+    user. Our experiments on several semi-synthetic and real-world datasets show that
+    our framework leads to significantly higher rewards than existing state-of-the-art
+    solutions that ignore the network information and potential spillover.
 - title: Tabular and Deep Reinforcement Learning for Gittins Index
   date: 2024-05
-  url: https://arxiv.org/abs/2405.01157v4
+  url: https://arxiv.org/abs/2405.01157
   category: bandits
   subcategory: method
   authors:
@@ -320513,7 +320498,7 @@ papers:
     and have an unknown service time distribution.
 - title: Decentralized Blockchain-based Robust Multi-agent Multi-armed Bandit
   date: 2024-02
-  url: https://arxiv.org/abs/2402.04417v2
+  url: https://arxiv.org/abs/2402.04417
   category: bandits
   subcategory: method
   authors:
@@ -320542,13 +320527,13 @@ papers:
     theoretical regret of the proposed algorithm and claim its optimality. Unlike
     existing work that integrates blockchains with learning problems such as federated
     learning which mainly focuses on optimality via computational experiments, we
-    demonstrate that the regret of honest participants is upper bounded by $\log{T}$
+    demonstrate that the regret of honest participants is upper bounded by \log{T}
     under certain assumptions. The regret bound is consistent with the multi-agent
     multi-armed bandit problem, both without malicious participants and with purely
     Byzantine attacks which do not affect the entire system.
 - title: Scale-free Adversarial Reinforcement Learning
   date: 2024-03
-  url: https://arxiv.org/abs/2403.00930v1
+  url: https://arxiv.org/abs/2403.00930
   category: bandits
   subcategory: method
   authors:
@@ -320565,12 +320550,12 @@ papers:
     framework, we achieve the first minimax optimal expected regret bound and the
     first high-probability regret bound in scale-free adversarial MABs, resolving
     an open problem raised in \cite{hadiji2023adaptation}. On adversarial MDPs, our
-    framework also give birth to the first scale-free RL algorithm with a $\tilde{\mathcal{O}}(\sqrt{T})$
+    framework also give birth to the first scale-free RL algorithm with a \tilde{\mathcal{O}}(\sqrt{T})
     high-probability regret guarantee.
 - title: Convergence of a L2 regularized Policy Gradient Algorithm for the Multi Armed
     Bandit
   date: 2024-02
-  url: https://arxiv.org/abs/2402.06388v4
+  url: https://arxiv.org/abs/2402.06388
   category: bandits
   subcategory: method
   authors:
@@ -320583,7 +320568,7 @@ papers:
     approach on the other hand are among the most used frameworks of Reinforcement
     Learning, the theoretical properties of the policy gradient algorithm used for
     MAB have not been given enough attention. We investigate in this work the convergence
-    of such a procedure for the situation when a $L2$ regularization term is present
+    of such a procedure for the situation when a L2 regularization term is present
     jointly with the 'softmax' parametrization. We prove convergence under appropriate
     technical hypotheses and test numerically the procedure including situations beyond
     the theoretical setting. The tests show that a time dependent regularized procedure
@@ -320592,7 +320577,7 @@ papers:
 - title: 'Stochastic contextual bandits with graph feedback: from independence number
     to MAS number'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.18591v2
+  url: https://arxiv.org/abs/2402.18591
   category: bandits
   subcategory: method
   authors:
@@ -320608,22 +320593,21 @@ papers:
     graph under all contexts. Unlike the multi-armed bandits setting where a growing
     literature has painted a near-complete understanding of graph feedback, much remains
     unexplored in the contextual bandits counterpart. In this paper, we make inroads
-    into this inquiry by establishing a regret lower bound $Ω(\sqrt{β_M(G) T})$, where
-    $M$ is the number of contexts, $G$ is the feedback graph, and $β_M(G)$ is our
-    proposed graph-theoretic quantity that characterizes the fundamental learning
-    limit for this class of problems. Interestingly, $β_M(G)$ interpolates between
-    $α(G)$ (the independence number of the graph) and $\mathsf{m}(G)$ (the maximum
-    acyclic subgraph (MAS) number of the graph) as the number of contexts $M$ varies.
-    We also provide algorithms that achieve near-optimal regret for important classes
-    of context sequences and/or feedback graphs, such as transitively closed graphs
-    that find applications in auctions and inventory control. In particular, with
-    many contexts, our results show that the MAS number essentially characterizes
-    the statistical complexity for contextual bandits, as opposed to the independence
-    number in multi-armed bandits.
+    into this inquiry by establishing a regret lower bound Ω(\sqrt{β_M(G) T}), where
+    M is the number of contexts, G is the feedback graph, and β_M(G) is our proposed
+    graph-theoretic quantity that characterizes the fundamental learning limit for
+    this class of problems. Interestingly, β_M(G) interpolates between α(G) (the independence
+    number of the graph) and \mathsf{m}(G) (the maximum acyclic subgraph (MAS) number
+    of the graph) as the number of contexts M varies. We also provide algorithms that
+    achieve near-optimal regret for important classes of context sequences and/or
+    feedback graphs, such as transitively closed graphs that find applications in
+    auctions and inventory control. In particular, with many contexts, our results
+    show that the MAS number essentially characterizes the statistical complexity
+    for contextual bandits, as opposed to the independence number in multi-armed bandits.
 - title: The Gittins index is optimal for dynamic allocation with conditionally independent
     filtrations
   date: 2023-12
-  url: https://arxiv.org/abs/2312.09350v2
+  url: https://arxiv.org/abs/2312.09350
   category: bandits
   subcategory: method
   authors:
@@ -320644,7 +320628,7 @@ papers:
 - title: 'Online Bandits with (Biased) Offline Data: Adaptive Learning under Distribution
     Mismatch'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.02594v2
+  url: https://arxiv.org/abs/2405.02594
   category: bandits
   subcategory: method
   authors:
@@ -320674,7 +320658,7 @@ papers:
     findings.
 - title: The Public Algorithms Survey in Allegheny County
   date: 2023-12
-  url: https://arxiv.org/abs/2312.11497v1
+  url: https://arxiv.org/abs/2312.11497
   category: survey
   subcategory: survey
   authors:
@@ -320700,7 +320684,7 @@ papers:
     understanding and approach in policy and implementation.
 - title: 'Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.05526v3
+  url: https://arxiv.org/abs/2405.05526
   category: survey
   subcategory: survey
   authors:
@@ -320733,7 +320717,7 @@ papers:
     interact seamlessly in complex environments.
 - title: Quantifying Divergence for Human-AI Collaboration and Cognitive Trust
   date: 2023-12
-  url: https://arxiv.org/abs/2312.08722v2
+  url: https://arxiv.org/abs/2312.08722
   category: survey
   subcategory: survey
   authors:
@@ -320761,7 +320745,7 @@ papers:
     the user study (e.g., design, outputs), models, and metrics at our repo.
 - title: 'Foundation Models in Robotics: Applications, Challenges, and the Future'
   date: 2023-12
-  url: https://arxiv.org/abs/2312.07843v1
+  url: https://arxiv.org/abs/2312.07843
   category: survey
   subcategory: survey
   authors:
@@ -320795,7 +320779,7 @@ papers:
     can be found here: https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models'
 - title: 'Algorithmic Fairness: A Tolerance Perspective'
   date: 2024-04
-  url: https://arxiv.org/abs/2405.09543v1
+  url: https://arxiv.org/abs/2405.09543
   category: survey
   subcategory: survey
   authors:
@@ -320825,7 +320809,7 @@ papers:
     Do-It-Yourself Model Kit for Modelling Optical Illusions and Opinion Formation
     in Social Networks'
   date: 2024-04
-  url: https://arxiv.org/abs/2404.10554v1
+  url: https://arxiv.org/abs/2404.10554
   category: survey
   subcategory: survey
   authors:
@@ -320849,7 +320833,7 @@ papers:
     and social groups.
 - title: 'STEER: Assessing the Economic Rationality of Large Language Models'
   date: 2024-02
-  url: https://arxiv.org/abs/2402.09552v2
+  url: https://arxiv.org/abs/2402.09552
   category: survey
   subcategory: survey
   authors:
@@ -320877,7 +320861,7 @@ papers:
     to exhibit rational behavior.'
 - title: Public Perceptions of Fairness Metrics Across Borders
   date: 2024-03
-  url: https://arxiv.org/abs/2403.16101v3
+  url: https://arxiv.org/abs/2403.16101
   category: survey
   subcategory: survey
   authors:
@@ -320904,7 +320888,7 @@ papers:
     influence of national context on these preferences.
 - title: 'Towards Rationality in Language and Multimodal Agents: A Survey'
   date: 2024-06
-  url: https://arxiv.org/abs/2406.00252v6
+  url: https://arxiv.org/abs/2406.00252
   category: survey
   subcategory: survey
   authors:
@@ -320932,7 +320916,7 @@ papers:
     repository at https://github.com/bowen-upenn/Agent_Rationality.
 - title: 'Combining Federated Learning and Control: A Survey'
   date: 2024-07
-  url: https://arxiv.org/abs/2407.11069v2
+  url: https://arxiv.org/abs/2407.11069
   category: survey
   subcategory: survey
   authors:
@@ -320959,7 +320943,7 @@ papers:
 - title: 'Data-integration with pseudoweights and survey-calibration: application
     to developing US-representative lung cancer risk models for use in screening'
   date: 2023-10
-  url: https://arxiv.org/abs/2310.16650v1
+  url: https://arxiv.org/abs/2310.16650
   category: survey
   subcategory: survey
   authors:
@@ -320990,7 +320974,7 @@ papers:
 - title: Is Sora a World Simulator? A Comprehensive Survey on General World Models
     and Beyond
   date: 2024-05
-  url: https://arxiv.org/abs/2405.03520v2
+  url: https://arxiv.org/abs/2405.03520
   category: survey
   subcategory: survey
   authors:
@@ -321022,7 +321006,7 @@ papers:
 - title: 'Serving economic prosperity: economic impact assessments (EIA) on Earth
     observation-based services and tools by SERVIR'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.15672v1
+  url: https://arxiv.org/abs/2405.15672
   category: survey
   subcategory: survey
   authors:
@@ -321045,7 +321029,7 @@ papers:
     and communicates the impact of its services.
 - title: Leveraging Large Language Models for Collective Decision-Making
   date: 2023-11
-  url: https://arxiv.org/abs/2311.04928v3
+  url: https://arxiv.org/abs/2311.04928
   category: survey
   subcategory: survey
   authors:
@@ -321074,7 +321058,7 @@ papers:
     system exhibits strong performance in both dimensions.
 - title: 'Intelligent Cross-Organizational Process Mining: A Survey and New Perspectives'
   date: 2024-07
-  url: https://arxiv.org/abs/2407.11280v1
+  url: https://arxiv.org/abs/2407.11280
   category: survey
   subcategory: survey
   authors:
@@ -321107,7 +321091,7 @@ papers:
     business environments.
 - title: 'Conformal Prediction for Natural Language Processing: A Survey'
   date: 2024-05
-  url: https://arxiv.org/abs/2405.01976v1
+  url: https://arxiv.org/abs/2405.01976
   category: survey
   subcategory: survey
   authors:
@@ -321387,15 +321371,15 @@ papers:
     tractable computation across hundreds of scenarios. A realistic six-period, 500-scenario
     industrial case study demonstrates that the stochastic model reduces expected
     total cost by 9.1% compared to a deterministic benchmark. The Value of Stochastic
-    Solution (VSS) is $4,150, quantifying the financial benefit of accounting for
-    uncertainty. The Expected Value of Perfect Information (EVPI) stands at $1,870,
-    representing the maximum value of acquiring perfect demand forecasts. Compared
-    to robust optimization, the stochastic approach yields higher worst-case costs
-    but substantially better average performance across demand scenarios. Sensitivity
-    analysis further confirms that cost advantages over deterministic planning grow
-    as demand variability increases. This framework offers manufacturers in volatile
-    markets a practical, scalable tool for smarter production decisions turning demand
-    uncertainty from a liability into a manageable, cost-optimized planning input.
+    Solution (VSS) is 4,150, quantifying the financial benefit of accounting for uncertainty.
+    The Expected Value of Perfect Information (EVPI) stands at 1,870, representing
+    the maximum value of acquiring perfect demand forecasts. Compared to robust optimization,
+    the stochastic approach yields higher worst-case costs but substantially better
+    average performance across demand scenarios. Sensitivity analysis further confirms
+    that cost advantages over deterministic planning grow as demand variability increases.
+    This framework offers manufacturers in volatile markets a practical, scalable
+    tool for smarter production decisions turning demand uncertainty from a liability
+    into a manageable, cost-optimized planning input.
   venue: Journal of Production Operations Management and Economics
 - title: Context-Aware Artificial Intelligence Systems for Long-Horizon Decision Making
   date: 2025-11
@@ -321419,11 +321403,10 @@ papers:
     learning, supported by an adaptive memory module that selectively retains relevant
     historical information. Experimental evaluation on benchmark tasks including MuJoCo
     continuous control and multi-agent coordination scenarios demonstrates that CA-LHDM
-    achieves$\mathbf{4 7 {\%}}$improvement in cumulative reward and$\mathbf{3 5 {\%}}$reduction
-    in planning time compared to state-of-the-art baselines. Our ablation studies
-    reveal the critical role of context encoding in achieving superior performance,
-    with the attention-based context module contributing 28% of the overall performance
-    gain.
+    achieves4 7 {\%}improvement in cumulative reward and3 5 {\%}reduction in planning
+    time compared to state-of-the-art baselines. Our ablation studies reveal the critical
+    role of context encoding in achieving superior performance, with the attention-based
+    context module contributing 28% of the overall performance gain.
   venue: ''
 - title: 'Transforming IT Operations with Agentic AI: The Evolution from Reactive
     to Autonomous Infrastructure Management'
