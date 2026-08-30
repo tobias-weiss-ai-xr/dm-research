@@ -54160,7 +54160,6 @@ papers:
 - title: 'Human–AI Collaborative Intelligence and Autonomous Scientific Discovery
     Systems: Architecture, Evidence, and Governance for the Emerging Knowledge Economy'
   date: 2026-03
-  url: https://doi.org/10.6084/m9.figshare.31641892
   category: human-ai
   subcategory: method
   authors:
@@ -318995,7 +318994,6 @@ papers:
   - Hongyin Zhang
   - Jinxin Liu
   venue: ''
-  code_url: https://github.com/stevezhangzA/pb_ppo
   project_url: ''
   abstract: 'Proximal Policy Optimization (PPO) has been broadly applied to robotics
     learning, showcasing stable training performance. However, the fixed clipping
@@ -320896,7 +320894,6 @@ papers:
 - title: Conceptual framework for enhancing decision-making in higher education through
     data-driven governance
   date: 2024-10
-  url: https://doi.org/10.58175/gjarr.2024.2.2.0055
   category: decision-making
   subcategory: method
   authors:
