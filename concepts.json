@@ -5,14 +5,14 @@
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 3664,
+      "df": 3782,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 3664,
+      "papers": 3782,
       "top_cells": [
         "multi-agent/method",
         "game-theory/theory",
@@ -24,7 +24,7 @@
       "term": "Reinforcement Learning",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1203,
+      "df": 1238,
       "match": {
         "type": "field",
         "field": "category",
@@ -36,13 +36,13 @@
         "reinforcement-learning/application",
         "reinforcement-learning/systems"
       ],
-      "papers": 1203
+      "papers": 1238
     },
     {
       "term": "Bayesian Optimization",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1120,
+      "df": 1151,
       "match": {
         "type": "field",
         "field": "category",
@@ -54,13 +54,13 @@
         "bayesian-optimization/application",
         "bayesian-optimization/systems"
       ],
-      "papers": 1120
+      "papers": 1151
     },
     {
       "term": "Decision Making",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1089,
+      "df": 1126,
       "match": {
         "type": "field",
         "field": "category",
@@ -72,13 +72,13 @@
         "decision-making/application",
         "decision-making/systems"
       ],
-      "papers": 1089
+      "papers": 1126
     },
     {
       "term": "Decision Theory",
       "kind": "taxonomy",
       "seed": true,
-      "df": 911,
+      "df": 941,
       "match": {
         "type": "field",
         "field": "category",
@@ -90,13 +90,13 @@
         "decision-theory/application",
         "decision-theory/systems"
       ],
-      "papers": 911
+      "papers": 941
     },
     {
       "term": "Multi-Agent & Coordination",
       "kind": "taxonomy",
       "seed": true,
-      "df": 910,
+      "df": 934,
       "match": {
         "type": "field",
         "field": "category",
@@ -108,20 +108,20 @@
         "multi-agent/application",
         "multi-agent/systems"
       ],
-      "papers": 910
+      "papers": 934
     },
     {
       "term": "survey",
       "kind": "curated",
       "seed": true,
-      "df": 893,
+      "df": 924,
       "match": {
         "type": "text",
         "forms": [
           "survey"
         ]
       },
-      "papers": 893,
+      "papers": 924,
       "top_cells": [
         "survey/method",
         "survey/survey",
@@ -133,7 +133,7 @@
       "term": "Human-AI Collaboration",
       "kind": "taxonomy",
       "seed": true,
-      "df": 885,
+      "df": 901,
       "match": {
         "type": "field",
         "field": "category",
@@ -145,13 +145,13 @@
         "human-ai/application",
         "human-ai/systems"
       ],
-      "papers": 885
+      "papers": 901
     },
     {
       "term": "Markov Decision Processes",
       "kind": "taxonomy",
       "seed": true,
-      "df": 856,
+      "df": 888,
       "match": {
         "type": "field",
         "field": "category",
@@ -163,13 +163,13 @@
         "mdp/application",
         "mdp/systems"
       ],
-      "papers": 856
+      "papers": 888
     },
     {
       "term": "Sequential Decision Making",
       "kind": "taxonomy",
       "seed": true,
-      "df": 833,
+      "df": 854,
       "match": {
         "type": "field",
         "field": "category",
@@ -181,13 +181,13 @@
         "sequential/application",
         "sequential/experiment"
       ],
-      "papers": 833
+      "papers": 854
     },
     {
       "term": "Planning Under Uncertainty",
       "kind": "taxonomy",
       "seed": true,
-      "df": 806,
+      "df": 813,
       "match": {
         "type": "field",
         "field": "category",
@@ -199,13 +199,13 @@
         "planning/application",
         "planning/systems"
       ],
-      "papers": 806
+      "papers": 813
     },
     {
       "term": "Surveys & Reviews",
       "kind": "taxonomy",
       "seed": true,
-      "df": 781,
+      "df": 805,
       "match": {
         "type": "field",
         "field": "category",
@@ -217,13 +217,13 @@
         "survey/theory",
         "survey/application"
       ],
-      "papers": 781
+      "papers": 805
     },
     {
       "term": "Game Theory",
       "kind": "taxonomy",
       "seed": true,
-      "df": 762,
+      "df": 790,
       "match": {
         "type": "field",
         "field": "category",
@@ -235,13 +235,13 @@
         "game-theory/systems",
         "game-theory/experiment"
       ],
-      "papers": 762
+      "papers": 790
     },
     {
       "term": "Optimization Under Uncertainty",
       "kind": "taxonomy",
       "seed": true,
-      "df": 751,
+      "df": 764,
       "match": {
         "type": "field",
         "field": "category",
@@ -253,13 +253,13 @@
         "optimization-uncertainty/systems",
         "optimization-uncertainty/application"
       ],
-      "papers": 751
+      "papers": 764
     },
     {
       "term": "Reward & Policy Learning",
       "kind": "taxonomy",
       "seed": true,
-      "df": 731,
+      "df": 756,
       "match": {
         "type": "field",
         "field": "category",
@@ -271,31 +271,13 @@
         "reward/systems",
         "reward/experiment"
       ],
-      "papers": 731
-    },
-    {
-      "term": "Autonomous Decision Making",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 663,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "autonomous"
-      },
-      "top_cells": [
-        "autonomous/method",
-        "autonomous/application",
-        "autonomous/theory",
-        "autonomous/systems"
-      ],
-      "papers": 663
+      "papers": 756
     },
     {
       "term": "Bandits & Exploration",
       "kind": "taxonomy",
       "seed": true,
-      "df": 662,
+      "df": 689,
       "match": {
         "type": "field",
         "field": "category",
@@ -307,20 +289,38 @@
         "bandits/experiment",
         "bandits/systems"
       ],
-      "papers": 662
+      "papers": 689
+    },
+    {
+      "term": "Autonomous Decision Making",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 679,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "autonomous"
+      },
+      "top_cells": [
+        "autonomous/method",
+        "autonomous/application",
+        "autonomous/theory",
+        "autonomous/systems"
+      ],
+      "papers": 679
     },
     {
       "term": "benchmark",
       "kind": "curated",
       "seed": true,
-      "df": 452,
+      "df": 474,
       "match": {
         "type": "text",
         "forms": [
           "benchmark"
         ]
       },
-      "papers": 452,
+      "papers": 474,
       "top_cells": [
         "bayesian-optimization/method",
         "multi-agent/method",
@@ -332,52 +332,52 @@
       "term": "dataset",
       "kind": "curated",
       "seed": true,
-      "df": 406,
+      "df": 419,
       "match": {
         "type": "text",
         "forms": [
           "dataset"
         ]
       },
-      "papers": 406,
+      "papers": 419,
       "top_cells": [
         "bayesian-optimization/method",
         "reinforcement-learning/method",
-        "bandits/theory",
-        "reward/method"
+        "reward/method",
+        "bandits/theory"
       ]
     },
     {
       "term": "case study",
       "kind": "curated",
       "seed": true,
-      "df": 356,
+      "df": 366,
       "match": {
         "type": "text",
         "forms": [
           "case study"
         ]
       },
-      "papers": 356,
+      "papers": 366,
       "top_cells": [
         "planning/method",
         "optimization-uncertainty/method",
-        "bayesian-optimization/method",
-        "decision-theory/theory"
+        "decision-theory/theory",
+        "game-theory/theory"
       ]
     },
     {
       "term": "quantitative",
       "kind": "curated",
       "seed": true,
-      "df": 284,
+      "df": 289,
       "match": {
         "type": "text",
         "forms": [
           "quantitative"
         ]
       },
-      "papers": 284,
+      "papers": 289,
       "top_cells": [
         "survey/method",
         "decision-theory/theory",
@@ -389,14 +389,14 @@
       "term": "literature review",
       "kind": "curated",
       "seed": true,
-      "df": 267,
+      "df": 269,
       "match": {
         "type": "text",
         "forms": [
           "literature review"
         ]
       },
-      "papers": 267,
+      "papers": 269,
       "top_cells": [
         "survey/method",
         "decision-making/method",
@@ -408,18 +408,18 @@
       "term": "qualitative",
       "kind": "curated",
       "seed": true,
-      "df": 230,
+      "df": 234,
       "match": {
         "type": "text",
         "forms": [
           "qualitative"
         ]
       },
-      "papers": 230,
+      "papers": 234,
       "top_cells": [
         "survey/method",
-        "decision-making/method",
         "decision-theory/theory",
+        "decision-making/method",
         "human-ai/method"
       ]
     },
@@ -427,33 +427,33 @@
       "term": "systematic review",
       "kind": "curated",
       "seed": true,
-      "df": 202,
+      "df": 208,
       "match": {
         "type": "text",
         "forms": [
           "systematic review"
         ]
       },
-      "papers": 202,
+      "papers": 208,
       "top_cells": [
         "survey/method",
         "decision-making/method",
         "human-ai/method",
-        "decision-theory/theory"
+        "reinforcement-learning/method"
       ]
     },
     {
       "term": "experiment",
       "kind": "curated",
       "seed": true,
-      "df": 195,
+      "df": 208,
       "match": {
         "type": "text",
         "forms": [
           "experiment"
         ]
       },
-      "papers": 195,
+      "papers": 208,
       "top_cells": [
         "bayesian-optimization/method",
         "decision-theory/theory",
@@ -465,52 +465,52 @@
       "term": "taxonomy",
       "kind": "curated",
       "seed": true,
-      "df": 114,
+      "df": 116,
       "match": {
         "type": "text",
         "forms": [
           "taxonomy"
         ]
       },
-      "papers": 114,
+      "papers": 116,
       "top_cells": [
         "survey/method",
         "survey/survey",
-        "reinforcement-learning/method",
-        "multi-agent/method"
+        "multi-agent/method",
+        "reinforcement-learning/method"
       ]
     },
     {
       "term": "reproducibility",
       "kind": "curated",
       "seed": true,
-      "df": 48,
+      "df": 52,
       "match": {
         "type": "text",
         "forms": [
           "reproducibility"
         ]
       },
-      "papers": 48,
+      "papers": 52,
       "top_cells": [
-        "multi-agent/theory",
         "multi-agent/method",
-        "human-ai/theory",
-        "game-theory/theory"
+        "multi-agent/theory",
+        "bayesian-optimization/method",
+        "human-ai/theory"
       ]
     },
     {
       "term": "interview",
       "kind": "curated",
       "seed": true,
-      "df": 30,
+      "df": 31,
       "match": {
         "type": "text",
         "forms": [
           "interview"
         ]
       },
-      "papers": 30,
+      "papers": 31,
       "top_cells": [
         "decision-theory/theory",
         "human-ai/method",
@@ -579,14 +579,14 @@
       "term": "peer review",
       "kind": "curated",
       "seed": true,
-      "df": 14,
+      "df": 15,
       "match": {
         "type": "text",
         "forms": [
           "peer review"
         ]
       },
-      "papers": 14,
+      "papers": 15,
       "top_cells": [
         "survey/method",
         "game-theory/theory",

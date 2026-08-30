@@ -1,21 +1,21 @@
 # Concept Graph Analysis
 
-**Generated:** 35 nodes, 263 edges, 1 components, 1 communities (modularity -917.08). Edges = co-occurrence.
+**Generated:** 35 nodes, 263 edges, 1 components, 1 communities (modularity -974.336). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.2322, degree 32, df 3664
-- **survey** — PR 0.0748, degree 31, df 893
-- **Surveys & Reviews** — PR 0.0604, degree 17, df 781
-- **benchmark** — PR 0.0399, degree 26, df 452
-- **dataset** — PR 0.0352, degree 24, df 406
-- **quantitative** — PR 0.0352, degree 28, df 284
-- **qualitative** — PR 0.0334, degree 29, df 230
-- **case study** — PR 0.0326, degree 26, df 356
-- **Decision Making** — PR 0.0289, degree 13, df 1089
-- **Multi-Agent & Coordination** — PR 0.0285, degree 12, df 910
-- **literature review** — PR 0.0284, degree 22, df 267
-- **Bayesian Optimization** — PR 0.0283, degree 11, df 1120
+- **framework** — PR 0.2323, degree 32, df 3782
+- **survey** — PR 0.0749, degree 31, df 924
+- **Surveys & Reviews** — PR 0.0604, degree 17, df 805
+- **benchmark** — PR 0.0405, degree 26, df 474
+- **dataset** — PR 0.0352, degree 24, df 419
+- **quantitative** — PR 0.0347, degree 28, df 289
+- **qualitative** — PR 0.0329, degree 29, df 234
+- **case study** — PR 0.0325, degree 26, df 366
+- **Decision Making** — PR 0.0294, degree 13, df 1126
+- **Multi-Agent & Coordination** — PR 0.0285, degree 12, df 934
+- **Bayesian Optimization** — PR 0.0283, degree 11, df 1151
+- **literature review** — PR 0.0279, degree 22, df 269
 
 ## Bridge nodes (high betweenness — connect clusters)
 
@@ -39,8 +39,8 @@
 - framework ↔ research gap (weight 6, EB 8.2571)
 - survey ↔ research gap (weight 2, EB 7.7571)
 - qualitative ↔ triangulation (weight 4, EB 7.5667)
-- framework ↔ Reward & Policy Learning (weight 271, EB 6.9024)
-- framework ↔ peer review (weight 6, EB 6.7143)
+- framework ↔ Reward & Policy Learning (weight 277, EB 6.9024)
+- framework ↔ peer review (weight 7, EB 6.7143)
 - framework ↔ mixed methods (weight 2, EB 6.6857)
 
 ## Communities (clusters of related concepts)
