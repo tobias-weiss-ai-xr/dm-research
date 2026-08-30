@@ -3,23 +3,23 @@
   {
    "id": "autonomous",
    "name": "Autonomous Decision Making",
-   "count": 679,
+   "count": 678,
    "trajectory": {
     "2023": 51,
     "2024": 201,
     "2025": 213,
-    "2026": 214
+    "2026": 213
    },
    "momentum": {
     "id": "autonomous",
     "name": "Autonomous",
-    "total": 679,
-    "recent": 278,
+    "total": 678,
+    "recent": 277,
     "prior": 239,
-    "growth_pct": 16.3,
+    "growth_pct": 15.9,
     "recent_share": 0.409,
-    "papers_per_month": 23.2,
-    "score": 57.2
+    "papers_per_month": 23.1,
+    "score": 56.8
    }
   },
   {
@@ -71,19 +71,19 @@
   {
    "id": "decision-making",
    "name": "Decision Making",
-   "count": 1126,
+   "count": 1125,
    "trajectory": {
     "2021": 14,
     "2022": 72,
     "2023": 202,
-    "2024": 392,
+    "2024": 391,
     "2025": 156,
     "2026": 290
    },
    "momentum": {
     "id": "decision-making",
     "name": "Decision Making",
-    "total": 1126,
+    "total": 1125,
     "recent": 323,
     "prior": 245,
     "growth_pct": 31.8,
@@ -95,119 +95,119 @@
   {
    "id": "decision-theory",
    "name": "Decision Theory",
-   "count": 941,
+   "count": 939,
    "trajectory": {
     "2021": 20,
     "2022": 64,
     "2023": 131,
-    "2024": 279,
-    "2025": 190,
+    "2024": 278,
+    "2025": 189,
     "2026": 257
    },
    "momentum": {
     "id": "decision-theory",
     "name": "Decision Theory",
-    "total": 941,
+    "total": 939,
     "recent": 315,
-    "prior": 244,
-    "growth_pct": 29.1,
+    "prior": 243,
+    "growth_pct": 29.6,
     "recent_share": 0.335,
     "papers_per_month": 26.2,
-    "score": 62.6
+    "score": 63.1
    }
   },
   {
    "id": "game-theory",
    "name": "Game Theory",
-   "count": 790,
+   "count": 789,
    "trajectory": {
     "2023": 88,
     "2024": 293,
-    "2025": 214,
+    "2025": 213,
     "2026": 195
    },
    "momentum": {
     "id": "game-theory",
     "name": "Game Theory",
-    "total": 790,
+    "total": 789,
     "recent": 254,
-    "prior": 267,
-    "growth_pct": -4.9,
+    "prior": 266,
+    "growth_pct": -4.5,
     "recent_share": 0.322,
     "papers_per_month": 21.2,
-    "score": 27.3
+    "score": 27.7
    }
   },
   {
    "id": "human-ai",
    "name": "Human-AI Collaboration",
-   "count": 901,
+   "count": 898,
    "trajectory": {
     "2021": 2,
     "2022": 22,
-    "2023": 58,
+    "2023": 57,
     "2024": 211,
-    "2025": 310,
-    "2026": 298
+    "2025": 309,
+    "2026": 297
    },
    "momentum": {
     "id": "human-ai",
     "name": "Human Ai",
-    "total": 901,
-    "recent": 410,
+    "total": 898,
+    "recent": 408,
     "prior": 282,
-    "growth_pct": 45.4,
-    "recent_share": 0.455,
-    "papers_per_month": 34.2,
-    "score": 90.9
+    "growth_pct": 44.7,
+    "recent_share": 0.454,
+    "papers_per_month": 34.0,
+    "score": 90.1
    }
   },
   {
    "id": "mdp",
    "name": "Markov Decision Processes",
-   "count": 888,
+   "count": 887,
    "trajectory": {
     "2021": 18,
     "2022": 74,
     "2023": 103,
-    "2024": 249,
+    "2024": 248,
     "2025": 202,
     "2026": 242
    },
    "momentum": {
     "id": "mdp",
     "name": "Mdp",
-    "total": 888,
+    "total": 887,
     "recent": 297,
     "prior": 237,
     "growth_pct": 25.3,
-    "recent_share": 0.334,
+    "recent_share": 0.335,
     "papers_per_month": 24.8,
-    "score": 58.7
+    "score": 58.8
    }
   },
   {
    "id": "multi-agent",
    "name": "Multi-Agent & Coordination",
-   "count": 934,
+   "count": 933,
    "trajectory": {
     "2021": 7,
     "2022": 36,
     "2023": 56,
     "2024": 117,
     "2025": 362,
-    "2026": 356
+    "2026": 355
    },
    "momentum": {
     "id": "multi-agent",
     "name": "Multi Agent",
-    "total": 934,
-    "recent": 538,
+    "total": 933,
+    "recent": 537,
     "prior": 230,
-    "growth_pct": 133.9,
+    "growth_pct": 133.5,
     "recent_share": 0.576,
     "papers_per_month": 44.8,
-    "score": 191.5
+    "score": 191.1
    }
   },
   {
@@ -307,33 +307,33 @@
   {
    "id": "sequential",
    "name": "Sequential Decision Making",
-   "count": 854,
+   "count": 853,
    "trajectory": {
     "2021": 33,
     "2022": 64,
     "2023": 103,
     "2024": 203,
     "2025": 161,
-    "2026": 290
+    "2026": 289
    },
    "momentum": {
     "id": "sequential",
     "name": "Sequential",
-    "total": 854,
-    "recent": 343,
+    "total": 853,
+    "recent": 342,
     "prior": 185,
-    "growth_pct": 85.4,
-    "recent_share": 0.402,
-    "papers_per_month": 28.6,
-    "score": 125.6
+    "growth_pct": 84.9,
+    "recent_share": 0.401,
+    "papers_per_month": 28.5,
+    "score": 125.0
    }
   },
   {
    "id": "survey",
    "name": "Surveys & Reviews",
-   "count": 805,
+   "count": 804,
    "trajectory": {
-    "2023": 83,
+    "2023": 82,
     "2024": 240,
     "2025": 218,
     "2026": 264
@@ -341,13 +341,13 @@
    "momentum": {
     "id": "survey",
     "name": "Survey",
-    "total": 805,
+    "total": 804,
     "recent": 339,
     "prior": 232,
     "growth_pct": 46.1,
-    "recent_share": 0.421,
+    "recent_share": 0.422,
     "papers_per_month": 28.2,
-    "score": 88.2
+    "score": 88.3
    }
   }
  ],
@@ -355,7 +355,7 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 721
+   "count": 720
   },
   {
    "id": "development",
@@ -370,7 +370,7 @@
   {
    "id": "method",
    "name": "Method",
-   "count": 6366
+   "count": 6364
   },
   {
    "id": "survey",
@@ -380,12 +380,12 @@
   {
    "id": "systems",
    "name": "Systems",
-   "count": 307
+   "count": 306
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 5522
+   "count": 5514
   }
  ],
  "timeline": [
@@ -4332,11 +4332,6 @@
   [
    "2023-01",
    "human-ai",
-   "application"
-  ],
-  [
-   "2023-01",
-   "human-ai",
    "method"
   ],
   [
@@ -11722,11 +11717,6 @@
   [
    "2023-12",
    "survey",
-   "method"
-  ],
-  [
-   "2023-12",
-   "survey",
    "survey"
   ],
   [
@@ -12603,11 +12593,6 @@
    "2024-01",
    "decision-theory",
    "systems"
-  ],
-  [
-   "2024-01",
-   "decision-theory",
-   "theory"
   ],
   [
    "2024-01",
@@ -13433,11 +13418,6 @@
    "2024-01",
    "mdp",
    "systems"
-  ],
-  [
-   "2024-01",
-   "mdp",
-   "theory"
   ],
   [
    "2024-01",
@@ -19678,11 +19658,6 @@
    "2024-05",
    "decision-making",
    "method"
-  ],
-  [
-   "2024-05",
-   "decision-making",
-   "systems"
   ],
   [
    "2024-05",
@@ -31726,11 +31701,6 @@
   ],
   [
    "2025-01",
-   "game-theory",
-   "theory"
-  ],
-  [
-   "2025-01",
    "human-ai",
    "application"
   ],
@@ -33827,11 +33797,6 @@
   [
    "2025-02",
    "decision-making",
-   "theory"
-  ],
-  [
-   "2025-02",
-   "decision-theory",
    "theory"
   ],
   [
@@ -46451,11 +46416,6 @@
   ],
   [
    "2025-12",
-   "human-ai",
-   "theory"
-  ],
-  [
-   "2025-12",
    "mdp",
    "method"
   ],
@@ -47902,11 +47862,6 @@
   [
    "2026-01",
    "multi-agent",
-   "method"
-  ],
-  [
-   "2026-01",
-   "multi-agent",
    "systems"
   ],
   [
@@ -48383,11 +48338,6 @@
    "2026-01",
    "sequential",
    "method"
-  ],
-  [
-   "2026-01",
-   "sequential",
-   "theory"
   ],
   [
    "2026-01",
@@ -62043,11 +61993,6 @@
    "2026-06",
    "human-ai",
    "systems"
-  ],
-  [
-   "2026-06",
-   "human-ai",
-   "theory"
   ],
   [
    "2026-06",
@@ -63548,11 +63493,6 @@
    "2026-07",
    "autonomous",
    "systems"
-  ],
-  [
-   "2026-07",
-   "autonomous",
-   "theory"
   ],
   [
    "2026-07",
@@ -67103,12 +67043,12 @@
    "recent": 349,
    "total": 640,
    "burst_score": 1.42,
-   "recent_share": 0.0683
+   "recent_share": 0.0684
   },
   {
    "keyword": "multi-agent",
-   "recent": 731,
-   "total": 1354,
+   "recent": 730,
+   "total": 1353,
    "burst_score": 1.41,
    "recent_share": 0.1431
   },
@@ -67117,7 +67057,7 @@
    "recent": 359,
    "total": 775,
    "burst_score": 1.21,
-   "recent_share": 0.0703
+   "recent_share": 0.0704
   },
   {
    "keyword": "planning under uncertainty",
@@ -67128,17 +67068,17 @@
   },
   {
    "keyword": "reinforcement learning",
-   "recent": 1214,
-   "total": 3189,
+   "recent": 1213,
+   "total": 3187,
    "burst_score": 0.99,
    "recent_share": 0.2377
   },
   {
    "keyword": "decision making",
-   "recent": 410,
-   "total": 1227,
+   "recent": 407,
+   "total": 1222,
    "burst_score": 0.87,
-   "recent_share": 0.0803
+   "recent_share": 0.0798
   }
  ]
 }

@@ -4901,16 +4901,6 @@ papers:
     more data or better computational resources-will be more ethical than the humans
     who develop, deploy and use them. As such, we '
   venue: Frontiers in Artificial Intelligence
-- title: Leveraging ChatGPT for Real-Time Decision-Making in Autonomous Systems
-  date: 2023-01
-  category: human-ai
-  subcategory: application
-  authors:
-  - Gurjeet Singh
-  abstract: The advent of autonomous systems has revolutionized industries ranging
-    from transportation to manufacturing. One of the key challenges in autonomous
-    systems is real-time decision-making, which require
-  venue: Eduzone International peer reviewed/refereed academic multidisciplinary journal
 - title: Implications of Regulations on the Use of AI and Generative AI for Human-Centered
     Responsible Artificial Intelligence
   date: 2024-05
@@ -53178,36 +53168,6 @@ papers:
     authorship; copyright; human-in-the-loop; generative AI; transparency; verifiable
     creative processes
   venue: Zenodo (CERN European Organization for Nuclear Research)
-- title: Collaborative Exploration of Healthcare AI Applications and Ethical Human-Machine
-    Alignment
-  date: 2026-06
-  category: human-ai
-  subcategory: theory
-  authors:
-  - Xin Ju
-  - Yuxing Wang
-  abstract: 'The large-scale application of artificial intelligence (AI) in the healthcare
-    field has effectively enhanced diagnostic and therapeutic efficacy, optimized
-    resource allocation, and provided robust support for precision medicine and public
-    health prevention and control. Meanwhile, it has also given rise to a series of
-    novel ethical and safety risks, including algorithmic bias, AI hallucinations,
-    data privacy leakage, decision-making black boxes, and ambiguous responsibility
-    boundaries. The core of medical ethics lies in the dignity of life, whereas AI
-    ethics is targeted at risk controllability. The two are deeply intertwined in
-    medical scenarios, presenting severe challenges to the traditional ethical governance
-    system. This study systematically sorts out the policy evolution and current status
-    of industrial practices related to healthcare AI ethics at home and abroad, analyzes
-    the existing ethical challenges from seven dimensions, including technical robustness,
-    privacy data governance, and fairness, and decomposes the AI-native risks that
-    are difficult to be addressed by the traditional safety system. On this basis,
-    a collaborative construction framework of human-machine alignment is established,
-    which takes "safety, benevolence, trustworthiness, and controllability" as its
-    objectives, covers the entire life cycle of the model, and integrates three layers
-    of paths: technology, application, and norms. Furthermore, prospects are proposed
-    in terms of technological R&D, system construction, talent training, and industrial
-    development, thereby providing theoretical support and practical reference for
-    the compliant application and standardized implementation of healthcare AI.'
-  venue: Journal of Digital Health and Ethics
 - title: How does AI literacy empower decision-making quality? The mediating role
     of employee-AI collaboration and the moderating role of AI trust
   date: 2026-06
@@ -66767,50 +66727,6 @@ papers:
   - Kussum
   abstract: ''
   venue: ''
-- title: Topological data analysis on understanding and explaining decision making
-    for autonomous vehicles
-  date: 2026-07
-  category: autonomous
-  subcategory: theory
-  authors:
-  - Πέτρος Τσαμπαρλής
-  abstract: Στην αυγή της πλήρους αυτοματοποίησης (επίπεδα SAE 4 & 5), η ανάγκη για
-    συστήματα πουμπορούν να λειτουργούν με ασφάλεια σε άγνωστα και δυναμικά περιβάλλοντα
-    είναι επιτακτική. Παράτις σημαντικές εξελίξεις, οι υφιστάμενες μέθοδοι που βασίζονται
-    αποκλειστικά στη βαθιά μηχανικήμάθηση αντιμετωπίζουν κρίσιμους περιορισμούς, όπως
-    η αιτιώδης σύγχυση (causal confusion), η προκατάληψη των δεδομένων εκπαίδευσης
-    και η αδυναμία ερμηνείας των αποφάσεων του «μαύρου κουτιού».Η παρούσα διπλωματική
-    εξετάζει το πως η τοπολογική ανάλυση δεδομένων μπορεί να συνδράμει στη κατανόηση
-    των αποφάσεων που λαμβάνουν τα εξαρτήματα-όργανα ενός αυτόματου αυτοκινήτου. Το
-    κάνει αυτό όχι ορίζοντας τη τοπολογική ανάλυση ως το μοναδικό εργαλείο των αυτόνομων
-    αυτοκινήτων, αλλά θεσπίζοντας ένα πλαίσιο αρμονίας μεταξύ της τοπολογικής ανάλυσης
-    και λοιπώνμηχανισμών όπως η ενισχυτική μάθηση.Τα πρώτα δύο κεφάλαια συστήνουν
-    στον αναγνώστη κρίσιμους ορισμούς στον κόσμο του αυτοματισμού αλλά και της τοπολογίας.
-    Επίσης, εμφανίζουν τους περιορισμούς των σύγχρονων αυτόνομων οχημάτων αλλά και
-    τις δυσκολίες εφαρμογής της τοπολογικής ανάλυσης δεδομένων σε αυτά.Το 3οκεφάλαιο
-    ερευνά πως διάφορες δομές όπως νευρωνικά δίκτυα, μοντέλα Markov αλλά καιη ενισχυτική
-    μάθηση μπορούν να συνδυαστούν με τη τοπολογική ανάλυση δεδομένων για να προσφέρουν
-    πιο εύρωστες και ερμηνεύσιμες προσεγγίσεις.Το 4οκεφάλαιο επικεντρώνεται στην πρακτική
-    εφαρμογή της Τοπολογικής Ανάλυσης Δεδομένων πάνω σε πραγματικά δεδομένα αυτόνομης
-    οδήγησης, αναλύοντας τη διαδικασία προ επεξεργασίας σημάτων και την εξαγωγή κρίσιμων
-    χρονικών καταστάσεων. Μέσα από το πρίσμα της αρχιτεκτονικής"Sense-Plan-Act", εξετάζεται
-    η χρήση της επίμονης ομολογίας και των γράφων Mapper για την ερμηνεία των αποφάσεων
-    του οχήματος, προσφέροντας μια διαφανή αναπαράσταση της λογικής του συστήματος.
-    Επιπλέον, το κεφάλαιο αναλύει τη συνέργεια πολλαπλών αισθητήρων και προτείνει
-    μεθόδους για τον εντοπισμό τοπολογικών ανωμαλιών και ακραίων περιπτώσεων (edge
-    cases), αποδεικνύοντας πώς οι τοπολογικές υπογραφές μπορούν να λειτουργήσουν ως
-    μηχανισμός επικύρωσης που ενισχύει την ανθεκτικότητα του οχήματος σε θορυβώδη
-    περιβάλλοντα.Το 5οκεφάλαιο πραγματεύεται τη στρατηγική βελτιστοποίησης των μηχανισμών
-    λήψης αποφάσεων μέσω της ενσωμάτωσης της TDA σε δυναμικά προσαρμόσιμους αγωγούς
-    (pipelines) αυτόνομης πλοήγησης. Κεντρικό σημείο αποτελεί η ανάπτυξη εφαρμογών
-    συνεργασίας οχημάτων και υποδομών(V2V & V2I). Το κεφάλαιο εισάγει το καινοτόμο
-    πλαίσιο της «Τοπολογικής Μνήμης Απόφασης»(ΤΜΑ), το οποίο συνδυάζει τη μάθηση από
-    δεδομένα με τη σταθερότητα των κανόνων, και αναλύειτις πολιτικές ασφαλούς υποβάθμισης
-    λειτουργίας (Safe Degradation) σε συνθήκες αβεβαιότητας. Τέ-λος, περιγράφεται
-    ένας μηχανισμός συνεχούς ανατροφοδότησης και μάθησης που επιτρέπει στο όχημανα
-    εξελίσσει την τοπολογική του αντίληψη, διασφαλίζοντας τη διατήρηση ενός θετικού
-    ισοζυγίου κινδύνου σε μεταβαλλόμενα οδηγικά περιβάλλοντα.
-  venue: Νημερτής
 - title: A Self-Correcting Agentic AI Framework for Autonomous Reasoning and Decision-Making
   date: 2026-08
   url: https://doi.org/10.66631/ijecs.2026.9.11.5
@@ -117994,13 +117910,6 @@ papers:
     System 1 thinking to make fast intuitive judgements and System 2 to make slower
     more considered judgements.
   venue: ''
-- title: 'Data-Driven Decision Making: Advanced Database Systems for Business Intelligence'
-  date: 2024-05
-  category: decision-making
-  subcategory: systems
-  authors: []
-  abstract: ''
-  venue: Nanotechnology Perceptions
 - title: 'Decision-making under stress: A psychological and neurobiological integrative
     model'
   date: 2024-04
@@ -170442,30 +170351,6 @@ papers:
     nondeterministic LMP and generalize the game characterization of state bisimilarity
     by Clerc et al. for the latter.
   venue: Mathematical Structures in Computer Science
-- title: Markov Decision Process Modeling in Pharmacoeconomics with Application Perspectives
-  date: 2024-01
-  category: mdp
-  subcategory: theory
-  authors:
-  - Yan Xu
-  - Qide Wu
-  abstract: 'Abstract Aiming at the complexity of the problems of risk prediction
-    and drug cost and utility in pharmacoeconomics, this paper proposes the application
-    of the Markov decision model to pharmacoeconomics, and based on this, the solution
-    method of pharmacoeconomic optimization is proposed. After summarizing the advantages
-    and purposes of Markov’s application in pharmacoeconomics, the Markov decision
-    process is established from four aspects: state of the world, action, transfer,
-    and benefit function. The Lagrangian function is constructed with the expectation
-    of the maximum long-term drug benefit. The solution problem is converted into
-    an unconstrained problem, and the objective solution is carried out using reinforcement
-    learning methods. The improved algorithm’s convergence is examined. It is found
-    that the optimized Markov decision-making algorithm obtains a cumulative payoff
-    value of 85, which is 25 higher than that obtained by the Markov decision-making
-    algorithm, and the Markov decision-making model is more effective in evaluating
-    the economics of drugs or treatment measures. Evaluating the long-term benefits
-    of therapeutic measures on cost, survival, and quality of life in sick populations
-    has promising applications as well.'
-  venue: Applied Mathematics and Nonlinear Sciences
 - title: Generation of Counterexamples for Synthesis in Markov Decision Processes
   date: 2024-05
   url: https://orbi.umons.ac.be/handle/20.500.12907/50532
@@ -191099,36 +190984,6 @@ papers:
     overhead, and real-time decision-making constraints, while offering insights intofuture
     advancements in AV coordination.
   venue: World Journal of Future Technologies in Computer Science and Engineering
-- title: 1497 - Multi-agent In-context Coordination via Decentralized Memory Retrieval
-  date: 2026-01
-  category: multi-agent
-  subcategory: method
-  authors:
-  - Association for Artificial Intelligence 2026
-  - Cong Guan
-  - Tao Jiang
-  abstract: Large transformer models, trained on diverse datasets, have demonstrated
-    impressive few-shot performance on previously unseen tasks without requiring parameter
-    updates. This capability has also been explored in Reinforcement Learning (RL),
-    where agents interact with the environment to retrieve context and maximize cumulative
-    rewards, showcasing strong adaptability in complex settings. However, in cooperative
-    Multi-Agent Reinforcement Learning (MARL), where agents must coordinate toward
-    a shared goal, decentralized policy deployment can lead to mismatches in task
-    alignment and reward assignment, limiting the efficiency of policy adaptation.
-    To address this challenge, we introduce Multi-agent In-context Coordination via
-    Decentralized Memory Retrieval (MAICC), a novel approach designed to enhance coordination
-    by fast adaptation. Our method involves training a centralized embedding model
-    to capture fine-grained trajectory representations, followed by decentralized
-    models that approximate the centralized one to obtain team-level task information.
-    Based on the learned embeddings, relevant trajectories are retrieved as context,
-    which, combined with the agents' current sub-trajectories, inform decision-making.
-    During decentralized execution, we introduce a novel memory mechanism that effectively
-    balances test-time online data with offline memory. Based on the constructed memory,
-    we propose a hybrid utility score that incorporates both individual- and team-level
-    returns, ensuring credit assignment across agents. Extensive experiments on cooperative
-    MARL benchmarks, including Level-Based Foraging (LBF) and SMAC (v1/v2), show that
-    MAICC enables faster adaptation to unseen tasks compared to existing methods.
-  venue: Underline Science Inc.
 - title: 'Decision-Making in multi-agent systems : delays, adaptivity, and learning
     in games'
   date: 2023-11
@@ -207171,40 +207026,6 @@ papers:
   - Robert M. Davison
   abstract: ''
   venue: IFIP advances in information and communication technology
-- title: Large Language Models as General Purpose Intelligence Systems for Reasoning,
-    Planning and Decision Making
-  date: 2025-12
-  category: human-ai
-  subcategory: theory
-  authors:
-  - Fengyuan Zhang
-  - Bi Wu
-  abstract: 'The emergence of large language models (LLMs) has fundamentally transformed
-    artificial intelligence (AI) research and applications, positioning these systems
-    as potential candidates for general purpose intelligence. Large language models
-    are deep neural networks trained on massive text corpora that demonstrate remarkable
-    capabilities across diverse cognitive tasks without task-specific fine-tuning.
-    This review examines how LLMs function as general intelligence systems, with particular
-    emphasis on three core cognitive domains: reasoning, planning, and decision making.
-    We analyze the architectural foundations that enable LLMs to perform complex reasoning
-    tasks, including chain-of-thought prompting (CoT), in-context learning (ICL),
-    and emergent abilities that arise from scale. The planning capabilities of LLMs
-    are evaluated through their performance on multi-step problem decomposition, goal-oriented
-    task completion, and strategic action sequencing. Furthermore, we investigate
-    decision-making frameworks where LLMs serve as autonomous agents, policy advisors,
-    and collaborative systems that integrate human expertise with machine intelligence.
-    The review synthesizes recent advances in prompt engineering, retrieval-augmented
-    generation (RAG), and multimodal integration that enhance LLM capabilities for
-    general intelligence tasks. We examine real-world applications spanning healthcare
-    diagnosis, financial analysis, scientific discovery, and autonomous systems management.
-    Critical challenges including hallucination, reasoning consistency, computational
-    efficiency, and ethical considerations are thoroughly discussed. This comprehensive
-    analysis demonstrates that while LLMs exhibit significant progress toward general
-    purpose intelligence, fundamental limitations in causal understanding, long-term
-    planning coherence, and adaptive learning remain open research challenges that
-    require continued innovation in architecture design, training methodologies, and
-    evaluation frameworks.'
-  venue: American Journal of Artificial Intelligence and Neural Networks
 - title: 'Algorithmic Empowerment and Its Impact on Circular Economy Participation:
     An Empirical Study Based on Human–Machine Collaborative Decision-Making Mechanisms'
   date: 2025-12
@@ -226950,31 +226771,6 @@ papers:
     we demonstrate the interpretability of our approach in a Gridworld environment
     with LLM-assisted agents and a sepsis management simulator.'
   venue: arXiv (Cornell University)
-- title: '357 - SkillGen: Learning Domain Skills for In-Context Sequential Decision
-    Making'
-  date: 2026-01
-  category: sequential
-  subcategory: theory
-  authors:
-  - Association for Artificial Intelligence 2026
-  - Wei Cheng
-  - Ruomeng Ding
-  abstract: 'Large language models (LLMs) are increasingly applied to sequential decision-making
-    through in-context learning (ICL), yet their effectiveness is highly sensitive
-    to prompt quality. Effective prompts should meet three principles: focus on decision-critical
-    information, provide step-level granularity, and minimize reliance on expert annotations
-    through label efficiency. However, existing ICL methods often fail to satisfy
-    all three criteria simultaneously. Motivated by these challenges, we introduce
-    SkillGen, a skill-based ICL framework for structured sequential reasoning. It
-    constructs an action-centric, domain-level graph from sampled trajectories, identifies
-    high-utility actions via temporal-difference credit assignment, and retrieves
-    step-wise skills to generate fine-grained, context-aware prompts. We further present
-    a theoretical analysis showing that focusing on high-utility segments supports
-    task identifiability and informs more effective ICL prompt design. Experiments
-    on ALFWorld, BabyAI, and ScienceWorld, using both open-source and proprietary
-    LLMs, show that SkillGen achieves consistent gains, improving progress rate by
-    5.9%–16.5% on average across models.'
-  venue: Underline Science Inc.
 - title: A Sequential Decision-Making Formulation of Dynamic Probabilistic Risk Assessment
   date: 2025-01
   url: https://doi.org/10.13182/xyz-46289
@@ -248809,34 +248605,6 @@ papers:
     learning controllers. Finally, simulations and experiments conducted to validate
     the effectiveness of our solution.'
   venue: IEEE Journal of Oceanic Engineering
-- title: 'THE EMOTIONAL BATTLE OF THE SEXES GAME: PSYCHOLOGICAL GAME THEORY APPLIED
-    TO THE CHOICE OF TOURISM'
-  date: 2025-01
-  category: game-theory
-  subcategory: theory
-  authors:
-  - José Manuel Mas
-  - Anett Erdmann
-  - Kathrin Jaszus
-  abstract: Purpose - Beach or mountain? This study focuses on the complex decision-making
-    process travelers face when choosing a destination, highlighting the significant
-    but understudied role of emotions in destination choice, particularly how emotional
-    expectations influence tourism evaluation. The aim is to derive insights for a
-    strategic choice of image positioning. Methodology, Design, and Approach - Using
-    psychological game theory, the study examines the emotional responses of German
-    tourists in their choice of tourism type on the Balearic Islands, through neuromarketing
-    techniques (EEG, SCR, HVR) and a value assessment survey. This approach models
-    tourists’ decision-making processes in response to visual stimuli, incorporating
-    perceived value and an “emotional care” parameter that accounts for the desire
-    to meet the expectations of travel companions. Results - The study reveals clear
-    differences between equilibria based on purely self-reported value judgments and
-    those incorporating neural responses, highlighting the complexity of emotional
-    influences on travel decisions. Originality - This research contributes to the
-    field of tourism by detailing the interplay between emotional expectations, consideration,
-    and trade-offs in travel decisions. It provides insights for the development of
-    tailored marketing strategies that address emotional needs in order to increase
-    satisfaction in shared travel decisions.
-  venue: Tourism and hospitality management
 - title: Bi-Level Game Strategy for Virtual Power Plants Based on an Improved Reinforcement
     Learning Algorithm
   date: 2025-01
@@ -277410,36 +277178,6 @@ papers:
     and frameworks to facilitate full-cycle implementation strategies for hospital
     CDSSs.'
   venue: Journal of Medical Internet Research
-- title: Research on the realization path of ideological and political education goals
-    in colleges and universities based on Bayesian decision theory
-  date: 2024-01
-  category: decision-theory
-  subcategory: theory
-  authors:
-  - Yuting Liao
-  abstract: Abstract With the continuous development of innovative education and the
-    growth of the demand for personalized learning, this paper explores the evaluation
-    of students’ learning ability and resource recommendation methods in Civic Education
-    under the guidance of OBE (student-centered, outcome-oriented, continuous improvement)
-    educational philosophy to better achieve the educational goals. By constructing
-    a learning ability evaluation model for Civic Education, this paper establishes
-    a learning ability evaluation and Civic Education resource recommendation model
-    based on Bayesian decision making by using Bayesian Decision Theory’s a posteriori
-    probability for uncertainty reasoning and combining the personalized recommendation
-    function of collaborative filtering algorithm. By analyzing the data of a university’s
-    ideological and political education course in the fall of 2020, this paper not
-    only realizes the accurate evaluation of students’ learning ability, but also
-    tests the model’s effectiveness in learning ability evaluation and resource recommendation.
-    The findings show that students perform well in effective communication, collaboration
-    and independent learning ability, whose evaluation mean values are 0.62, 0.58
-    and 0.55, respectively. In addition, some students’ learning ability significantly
-    improves after receiving the recommended test questions, with the increase ranging
-    from 34.36% to 36.67%. These findings demonstrate the model’s excellent learning
-    ability evaluation and resource recommendation performance. The research in this
-    paper provides valuable references for evaluating students’ learning ability and
-    resource recommendation in Civics and Political Science education, which can help
-    further improve students’ learning effectiveness and achieve educational goals.
-  venue: Applied Mathematics and Nonlinear Sciences
 - title: 'A conceptual model of individuals'' decision to engage in global mobility:
     integrating self-determination theory and theory of planned behavior'
   date: 2024-02
@@ -279077,29 +278815,6 @@ papers:
     are applied to effectively combine downhole sensor siting with historical data
     containing unambiguous results.'
   venue: International Journal of Low-Carbon Technologies
-- title: 'A Perspective of Theory of Reasoned Action and Planned Behavior: Purchase
-    Decision'
-  date: 2025-02
-  category: decision-theory
-  subcategory: theory
-  authors:
-  - Roymon Panjaitan
-  - Handy Nur Cahya
-  abstract: This research addresses the inconsistencies in findings related to celebrity
-    endorsers, brand image, and trust level that influence buying interest to drive
-    purchase decisions for the 3Second brand product. The role of buying interest
-    represents a novel aspect of this study, further explored through the Theory of
-    Planned Behavior (TPB) and the Theory of Reasoned Action (TRA). A quantitative
-    approach involved 100 respondents using the 3Second brand products across Central
-    Java, Indonesia. Data analysis was conducted using SEM-PLS software to develop
-    a structural theory by exploring the relationships between constructs based on
-    TRA and TPB theories. The findings indicate that buying interest significantly
-    contributes, directly and indirectly, to leverage consumer behaviour in making
-    purchase decisions influenced by celebrity endorsers, brand image, and trust level.
-    Additionally, the theoretical implications of TRA and TPB highlight that these
-    theories primarily assume individuals are rational in considering their actions
-    and the implications of those actions.
-  venue: Jurnal Manajemen
 - title: Risk Decision for a Port Shore Power Supply System Based on Cumulative Prospect
     Theory and an Improved Gray Target
   date: 2023-09
@@ -308807,32 +308522,6 @@ papers:
     into the evolving role of AI in modern military communications for researchers,
     policymakers, and defense professionals.
   venue: Systems
-- title: Consumer Reviews on TikTok and Their Impact on Millennial Saving Decisions
-  date: 2023-12
-  category: survey
-  subcategory: method
-  authors:
-  - Shagi Aprilia Kurniawan
-  - Tetty Rimenda
-  - Agus Buntoro
-  abstract: The purpose of this study is to investigate customer reviews of banking
-    advertisements onTikTok. The current phenomenon is the emergence of formal banking
-    product advertisements on social media such as in Instagram, Twitter or FB. Another
-    phenomenon that appears is the way customers make decisions has also changed.
-    Before making a decision, customers prefer reviews given by customers uploaded
-    on social media, Data collection was collected by survey method. Questionnaires
-    distributed on Instagram. Respondents were screening only for those who had seen
-    a review of a savings product ad on TikTok which consisted of 171 people. The
-    findings show that positive reviews (P-Reviews) and negative reviews (N-Reviews)
-    influence customers' saving decisions. However, our particular finding is that
-    N-Review has a greater influence on customers' saving decisions than P-Review.
-    The product weakness construct is the biggest determinant in deciding to buy a
-    product. This concludes that customers are very careful about product deficiencies.
-    N-Reviews published on social media make customers more careful when buying products
-    because customers don't want to lose money. On the other hand, for a product that
-    is considered good, the volume of (P-Reviews) must be high in order to create
-    a positive impression on customers.
-  venue: Kontigensi Jurnal Ilmiah Manajemen
 - title: 'Redefining value assessment and healthcare funding priorities for medicines:
     the journey to patient-centric decision making in APAC – a systematic literature
     review'
@@ -313107,8 +312796,8 @@ papers:
     world. Various methods are proposed to address the specific decision-making problems.
     Despite the successes in specific categories, these methods typically evolve independently
     and cannot generalize to other categories. Therefore, a fundamental question for
-    decision-making is: Can we develop \textbf{a single algorithm to tackle ALL categories
-    of decision-making problems?} There are several main challenges to address this
+    decision-making is: Can we develop a single algorithm to tackle ALL categories
+    of decision-making problems? There are several main challenges to address this
     question: i) different decision-making categories involve different numbers of
     agents and different relationships between agents, ii) different categories have
     different solution concepts and evaluation measures, and iii) there lacks a comprehensive
