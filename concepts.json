@@ -5,14 +5,14 @@
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 3782,
+      "df": 3780,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 3782,
+      "papers": 3780,
       "top_cells": [
         "multi-agent/method",
         "game-theory/theory",
@@ -60,7 +60,7 @@
       "term": "Decision Making",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1126,
+      "df": 1125,
       "match": {
         "type": "field",
         "field": "category",
@@ -72,13 +72,13 @@
         "decision-making/application",
         "decision-making/systems"
       ],
-      "papers": 1126
+      "papers": 1125
     },
     {
       "term": "Decision Theory",
       "kind": "taxonomy",
       "seed": true,
-      "df": 941,
+      "df": 939,
       "match": {
         "type": "field",
         "field": "category",
@@ -90,13 +90,13 @@
         "decision-theory/application",
         "decision-theory/systems"
       ],
-      "papers": 941
+      "papers": 939
     },
     {
       "term": "Multi-Agent & Coordination",
       "kind": "taxonomy",
       "seed": true,
-      "df": 934,
+      "df": 933,
       "match": {
         "type": "field",
         "field": "category",
@@ -108,20 +108,20 @@
         "multi-agent/application",
         "multi-agent/systems"
       ],
-      "papers": 934
+      "papers": 933
     },
     {
       "term": "survey",
       "kind": "curated",
       "seed": true,
-      "df": 924,
+      "df": 922,
       "match": {
         "type": "text",
         "forms": [
           "survey"
         ]
       },
-      "papers": 924,
+      "papers": 922,
       "top_cells": [
         "survey/method",
         "survey/survey",
@@ -133,7 +133,7 @@
       "term": "Human-AI Collaboration",
       "kind": "taxonomy",
       "seed": true,
-      "df": 901,
+      "df": 898,
       "match": {
         "type": "field",
         "field": "category",
@@ -145,13 +145,13 @@
         "human-ai/application",
         "human-ai/systems"
       ],
-      "papers": 901
+      "papers": 898
     },
     {
       "term": "Markov Decision Processes",
       "kind": "taxonomy",
       "seed": true,
-      "df": 888,
+      "df": 887,
       "match": {
         "type": "field",
         "field": "category",
@@ -163,13 +163,13 @@
         "mdp/application",
         "mdp/systems"
       ],
-      "papers": 888
+      "papers": 887
     },
     {
       "term": "Sequential Decision Making",
       "kind": "taxonomy",
       "seed": true,
-      "df": 854,
+      "df": 853,
       "match": {
         "type": "field",
         "field": "category",
@@ -181,7 +181,7 @@
         "sequential/application",
         "sequential/experiment"
       ],
-      "papers": 854
+      "papers": 853
     },
     {
       "term": "Planning Under Uncertainty",
@@ -205,7 +205,7 @@
       "term": "Surveys & Reviews",
       "kind": "taxonomy",
       "seed": true,
-      "df": 805,
+      "df": 804,
       "match": {
         "type": "field",
         "field": "category",
@@ -217,13 +217,13 @@
         "survey/theory",
         "survey/application"
       ],
-      "papers": 805
+      "papers": 804
     },
     {
       "term": "Game Theory",
       "kind": "taxonomy",
       "seed": true,
-      "df": 790,
+      "df": 789,
       "match": {
         "type": "field",
         "field": "category",
@@ -235,7 +235,7 @@
         "game-theory/systems",
         "game-theory/experiment"
       ],
-      "papers": 790
+      "papers": 789
     },
     {
       "term": "Optimization Under Uncertainty",
@@ -295,7 +295,7 @@
       "term": "Autonomous Decision Making",
       "kind": "taxonomy",
       "seed": true,
-      "df": 679,
+      "df": 678,
       "match": {
         "type": "field",
         "field": "category",
@@ -307,7 +307,7 @@
         "autonomous/theory",
         "autonomous/systems"
       ],
-      "papers": 679
+      "papers": 678
     },
     {
       "term": "benchmark",
@@ -370,14 +370,14 @@
       "term": "quantitative",
       "kind": "curated",
       "seed": true,
-      "df": 289,
+      "df": 288,
       "match": {
         "type": "text",
         "forms": [
           "quantitative"
         ]
       },
-      "papers": 289,
+      "papers": 288,
       "top_cells": [
         "survey/method",
         "decision-theory/theory",
