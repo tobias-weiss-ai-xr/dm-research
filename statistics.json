@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_papers": 12875,
+    "total_papers": 13329,
     "generated_date": "2026-08",
     "taxonomy": {
       "categories": 15,
@@ -15,85 +15,85 @@
     }
   },
   "by_category": {
-    "autonomous": 660,
-    "bandits": 661,
-    "bayesian-optimization": 1114,
-    "decision-making": 1079,
-    "decision-theory": 910,
-    "game-theory": 759,
-    "human-ai": 867,
-    "mdp": 852,
-    "multi-agent": 899,
-    "optimization-uncertainty": 747,
-    "planning": 801,
-    "reinforcement-learning": 1189,
-    "reward": 730,
-    "sequential": 827,
-    "survey": 780
+    "autonomous": 679,
+    "bandits": 689,
+    "bayesian-optimization": 1151,
+    "decision-making": 1126,
+    "decision-theory": 941,
+    "game-theory": 790,
+    "human-ai": 901,
+    "mdp": 888,
+    "multi-agent": 934,
+    "optimization-uncertainty": 764,
+    "planning": 813,
+    "reinforcement-learning": 1238,
+    "reward": 756,
+    "sequential": 854,
+    "survey": 805
   },
   "by_subcategory": {
-    "application": 686,
+    "application": 721,
     "development": 22,
-    "experiment": 117,
-    "method": 6103,
-    "survey": 254,
-    "systems": 302,
-    "theory": 5391
+    "experiment": 118,
+    "method": 6366,
+    "survey": 273,
+    "systems": 307,
+    "theory": 5522
   },
   "by_year": {
     "2021": 180,
     "2022": 579,
-    "2023": 1412,
-    "2024": 3503,
-    "2025": 3260,
-    "2026": 3941
+    "2023": 1515,
+    "2024": 3754,
+    "2025": 3315,
+    "2026": 3986
   },
   "by_cell": {
-    "decision-theory/theory": 861,
-    "game-theory/theory": 720,
-    "reinforcement-learning/method": 719,
-    "bayesian-optimization/method": 711,
-    "decision-making/method": 625,
-    "multi-agent/method": 520,
-    "reward/method": 505,
-    "mdp/theory": 496,
-    "sequential/method": 457,
-    "survey/method": 422,
-    "planning/method": 416,
-    "reinforcement-learning/theory": 388,
-    "optimization-uncertainty/method": 372,
-    "bayesian-optimization/theory": 352,
-    "bandits/method": 342,
-    "decision-making/theory": 340,
-    "autonomous/method": 331,
-    "mdp/method": 315,
-    "multi-agent/theory": 308,
-    "optimization-uncertainty/theory": 303,
-    "planning/theory": 302,
-    "human-ai/method": 302,
+    "decision-theory/theory": 892,
+    "reinforcement-learning/method": 765,
+    "game-theory/theory": 750,
+    "bayesian-optimization/method": 744,
+    "decision-making/method": 664,
+    "multi-agent/method": 548,
+    "mdp/theory": 531,
+    "reward/method": 526,
+    "sequential/method": 480,
+    "survey/method": 429,
+    "planning/method": 424,
+    "reinforcement-learning/theory": 390,
+    "optimization-uncertainty/method": 385,
+    "bandits/method": 369,
+    "bayesian-optimization/theory": 356,
+    "decision-making/theory": 348,
+    "autonomous/method": 334,
+    "mdp/method": 316,
+    "human-ai/method": 315,
+    "multi-agent/theory": 312,
+    "optimization-uncertainty/theory": 304,
+    "planning/theory": 303,
     "bandits/theory": 299,
-    "human-ai/theory": 293,
-    "sequential/theory": 290,
-    "human-ai/application": 222,
-    "reward/theory": 204,
-    "survey/survey": 183,
-    "autonomous/application": 151,
-    "autonomous/theory": 142,
-    "survey/theory": 93,
+    "human-ai/theory": 297,
+    "sequential/theory": 294,
+    "human-ai/application": 239,
+    "reward/theory": 209,
+    "survey/survey": 200,
+    "autonomous/application": 166,
+    "autonomous/theory": 143,
+    "survey/theory": 94,
     "decision-making/application": 53,
     "survey/application": 41,
-    "planning/application": 36,
+    "optimization-uncertainty/systems": 38,
+    "planning/application": 37,
     "decision-theory/method": 36,
-    "optimization-uncertainty/systems": 36,
-    "planning/systems": 34,
-    "multi-agent/application": 33,
+    "planning/systems": 35,
+    "multi-agent/application": 34,
     "survey/systems": 33,
     "reinforcement-learning/application": 32,
+    "reinforcement-learning/systems": 32,
     "sequential/application": 31,
-    "reinforcement-learning/systems": 31,
-    "multi-agent/systems": 30,
-    "game-theory/method": 30,
-    "optimization-uncertainty/application": 26,
+    "multi-agent/systems": 31,
+    "game-theory/method": 31,
+    "optimization-uncertainty/application": 27,
     "human-ai/systems": 26,
     "decision-making/systems": 25,
     "autonomous/systems": 25,
@@ -110,7 +110,7 @@
     "reward/systems": 11,
     "human-ai/survey": 10,
     "planning/experiment": 10,
-    "bandits/experiment": 9,
+    "bandits/experiment": 10,
     "mdp/systems": 9,
     "human-ai/experiment": 8,
     "optimization-uncertainty/experiment": 7,
@@ -124,23 +124,23 @@
     "bandits/application": 5,
     "game-theory/systems": 5,
     "reward/application": 5,
+    "planning/survey": 4,
     "bayesian-optimization/survey": 4,
     "survey/experiment": 4,
     "survey/development": 4,
-    "planning/survey": 3,
     "optimization-uncertainty/survey": 3,
     "reinforcement-learning/experiment": 3,
     "autonomous/development": 3,
     "autonomous/survey": 3,
     "decision-theory/systems": 3,
     "decision-theory/experiment": 2,
+    "multi-agent/survey": 2,
     "decision-making/development": 2,
     "game-theory/experiment": 2,
     "mdp/development": 2,
     "sequential/development": 2,
     "game-theory/application": 2,
     "decision-theory/survey": 2,
-    "multi-agent/survey": 1,
     "reinforcement-learning/development": 1,
     "bayesian-optimization/development": 1,
     "mdp/survey": 1,
@@ -149,389 +149,389 @@
   "emerging_themes_12m": [
     {
       "keyword": "policy optimization",
-      "papers": 345
+      "papers": 349
     },
     {
       "keyword": "multi-agent",
-      "papers": 719
+      "papers": 731
     },
     {
       "keyword": "bandit",
-      "papers": 356
-    },
-    {
-      "keyword": "reinforcement learning",
-      "papers": 1197
+      "papers": 359
     },
     {
       "keyword": "planning under uncertainty",
-      "papers": 86
+      "papers": 87
+    },
+    {
+      "keyword": "reinforcement learning",
+      "papers": 1214
     },
     {
       "keyword": "decision making",
-      "papers": 402
+      "papers": 410
     }
   ],
   "momentum": [
     {
       "id": "multi-agent",
       "name": "Multi Agent",
-      "total": 899,
-      "recent": 523,
-      "prior": 226,
-      "growth_pct": 131.4,
-      "recent_share": 0.582,
-      "papers_per_month": 43.6,
-      "score": 189.6
+      "total": 934,
+      "recent": 538,
+      "prior": 230,
+      "growth_pct": 133.9,
+      "recent_share": 0.576,
+      "papers_per_month": 44.8,
+      "score": 191.5
     },
     {
       "id": "sequential",
       "name": "Sequential",
-      "total": 827,
-      "recent": 337,
-      "prior": 183,
-      "growth_pct": 84.2,
-      "recent_share": 0.407,
-      "papers_per_month": 28.1,
-      "score": 124.9
+      "total": 854,
+      "recent": 343,
+      "prior": 185,
+      "growth_pct": 85.4,
+      "recent_share": 0.402,
+      "papers_per_month": 28.6,
+      "score": 125.6
     },
     {
       "id": "reinforcement-learning",
       "name": "Reinforcement Learning",
-      "total": 1189,
-      "recent": 400,
-      "prior": 246,
-      "growth_pct": 62.6,
-      "recent_share": 0.336,
-      "papers_per_month": 33.3,
-      "score": 96.2
+      "total": 1238,
+      "recent": 404,
+      "prior": 252,
+      "growth_pct": 60.3,
+      "recent_share": 0.326,
+      "papers_per_month": 33.7,
+      "score": 92.9
     },
     {
       "id": "human-ai",
       "name": "Human Ai",
-      "total": 867,
-      "recent": 398,
-      "prior": 275,
-      "growth_pct": 44.7,
-      "recent_share": 0.459,
-      "papers_per_month": 33.2,
-      "score": 90.6
-    },
-    {
-      "id": "bayesian-optimization",
-      "name": "Bayesian Optimization",
-      "total": 1114,
-      "recent": 442,
-      "prior": 295,
-      "growth_pct": 49.8,
-      "recent_share": 0.397,
-      "papers_per_month": 36.8,
-      "score": 89.5
+      "total": 901,
+      "recent": 410,
+      "prior": 282,
+      "growth_pct": 45.4,
+      "recent_share": 0.455,
+      "papers_per_month": 34.2,
+      "score": 90.9
     },
     {
       "id": "survey",
       "name": "Survey",
-      "total": 780,
-      "recent": 334,
-      "prior": 230,
-      "growth_pct": 45.2,
-      "recent_share": 0.428,
-      "papers_per_month": 27.8,
-      "score": 88.0
+      "total": 805,
+      "recent": 339,
+      "prior": 232,
+      "growth_pct": 46.1,
+      "recent_share": 0.421,
+      "papers_per_month": 28.2,
+      "score": 88.2
+    },
+    {
+      "id": "bayesian-optimization",
+      "name": "Bayesian Optimization",
+      "total": 1151,
+      "recent": 446,
+      "prior": 299,
+      "growth_pct": 49.2,
+      "recent_share": 0.387,
+      "papers_per_month": 37.2,
+      "score": 87.9
     },
     {
       "id": "bandits",
       "name": "Bandits",
-      "total": 661,
-      "recent": 313,
-      "prior": 225,
-      "growth_pct": 39.1,
-      "recent_share": 0.474,
-      "papers_per_month": 26.1,
-      "score": 86.5
+      "total": 689,
+      "recent": 316,
+      "prior": 226,
+      "growth_pct": 39.8,
+      "recent_share": 0.459,
+      "papers_per_month": 26.3,
+      "score": 85.7
     },
     {
       "id": "optimization-uncertainty",
       "name": "Optimization Uncertainty",
-      "total": 747,
-      "recent": 271,
-      "prior": 181,
-      "growth_pct": 49.7,
-      "recent_share": 0.363,
-      "papers_per_month": 22.6,
-      "score": 86.0
+      "total": 764,
+      "recent": 276,
+      "prior": 185,
+      "growth_pct": 49.2,
+      "recent_share": 0.361,
+      "papers_per_month": 23.0,
+      "score": 85.3
     },
     {
       "id": "reward",
       "name": "Reward",
-      "total": 730,
-      "recent": 302,
-      "prior": 223,
-      "growth_pct": 35.4,
-      "recent_share": 0.414,
-      "papers_per_month": 25.2,
-      "score": 76.8
-    },
-    {
-      "id": "decision-making",
-      "name": "Decision Making",
-      "total": 1079,
-      "recent": 322,
-      "prior": 233,
-      "growth_pct": 38.2,
-      "recent_share": 0.298,
-      "papers_per_month": 26.8,
-      "score": 68.0
+      "total": 756,
+      "recent": 305,
+      "prior": 228,
+      "growth_pct": 33.8,
+      "recent_share": 0.403,
+      "papers_per_month": 25.4,
+      "score": 74.1
     },
     {
       "id": "decision-theory",
       "name": "Decision Theory",
-      "total": 910,
-      "recent": 311,
-      "prior": 242,
-      "growth_pct": 28.5,
-      "recent_share": 0.342,
-      "papers_per_month": 25.9,
-      "score": 62.7
+      "total": 941,
+      "recent": 315,
+      "prior": 244,
+      "growth_pct": 29.1,
+      "recent_share": 0.335,
+      "papers_per_month": 26.2,
+      "score": 62.6
+    },
+    {
+      "id": "decision-making",
+      "name": "Decision Making",
+      "total": 1126,
+      "recent": 323,
+      "prior": 245,
+      "growth_pct": 31.8,
+      "recent_share": 0.287,
+      "papers_per_month": 26.9,
+      "score": 60.5
     },
     {
       "id": "mdp",
       "name": "Mdp",
-      "total": 852,
-      "recent": 296,
-      "prior": 233,
-      "growth_pct": 27.0,
-      "recent_share": 0.347,
-      "papers_per_month": 24.7,
-      "score": 61.7
+      "total": 888,
+      "recent": 297,
+      "prior": 237,
+      "growth_pct": 25.3,
+      "recent_share": 0.334,
+      "papers_per_month": 24.8,
+      "score": 58.7
     },
     {
       "id": "autonomous",
       "name": "Autonomous",
-      "total": 660,
+      "total": 679,
       "recent": 278,
-      "prior": 236,
-      "growth_pct": 17.8,
-      "recent_share": 0.421,
+      "prior": 239,
+      "growth_pct": 16.3,
+      "recent_share": 0.409,
       "papers_per_month": 23.2,
-      "score": 59.9
+      "score": 57.2
     },
     {
       "id": "planning",
       "name": "Planning",
-      "total": 801,
-      "recent": 261,
-      "prior": 229,
-      "growth_pct": 14.0,
-      "recent_share": 0.326,
-      "papers_per_month": 21.8,
-      "score": 46.6
+      "total": 813,
+      "recent": 264,
+      "prior": 231,
+      "growth_pct": 14.3,
+      "recent_share": 0.325,
+      "papers_per_month": 22.0,
+      "score": 46.8
     },
     {
       "id": "game-theory",
       "name": "Game Theory",
-      "total": 759,
-      "recent": 253,
-      "prior": 263,
-      "growth_pct": -3.8,
-      "recent_share": 0.333,
-      "papers_per_month": 21.1,
-      "score": 29.5
+      "total": 790,
+      "recent": 254,
+      "prior": 267,
+      "growth_pct": -4.9,
+      "recent_share": 0.322,
+      "papers_per_month": 21.2,
+      "score": 27.3
     }
   ],
   "category_trajectory": {
     "autonomous": {
-      "2023": 47,
-      "2024": 186,
+      "2023": 51,
+      "2024": 201,
       "2025": 213,
       "2026": 214
     },
     "bandits": {
-      "2023": 29,
-      "2024": 168,
-      "2025": 242,
-      "2026": 222
+      "2023": 38,
+      "2024": 184,
+      "2025": 243,
+      "2026": 224
     },
     "bayesian-optimization": {
       "2021": 33,
       "2022": 64,
-      "2023": 109,
-      "2024": 286,
-      "2025": 272,
-      "2026": 350
+      "2023": 116,
+      "2024": 311,
+      "2025": 275,
+      "2026": 352
     },
     "decision-making": {
       "2021": 14,
       "2022": 72,
-      "2023": 190,
-      "2024": 363,
-      "2025": 151,
-      "2026": 289
+      "2023": 202,
+      "2024": 392,
+      "2025": 156,
+      "2026": 290
     },
     "decision-theory": {
       "2021": 20,
       "2022": 64,
-      "2023": 121,
-      "2024": 262,
-      "2025": 189,
-      "2026": 254
+      "2023": 131,
+      "2024": 279,
+      "2025": 190,
+      "2026": 257
     },
     "game-theory": {
-      "2023": 80,
-      "2024": 272,
-      "2025": 212,
+      "2023": 88,
+      "2024": 293,
+      "2025": 214,
       "2026": 195
     },
     "human-ai": {
       "2021": 2,
       "2022": 22,
-      "2023": 53,
-      "2024": 200,
-      "2025": 301,
-      "2026": 289
+      "2023": 58,
+      "2024": 211,
+      "2025": 310,
+      "2026": 298
     },
     "mdp": {
       "2021": 18,
       "2022": 74,
-      "2023": 93,
-      "2024": 227,
-      "2025": 198,
+      "2023": 103,
+      "2024": 249,
+      "2025": 202,
       "2026": 242
     },
     "multi-agent": {
       "2021": 7,
       "2022": 36,
-      "2023": 50,
-      "2024": 106,
-      "2025": 353,
-      "2026": 347
+      "2023": 56,
+      "2024": 117,
+      "2025": 362,
+      "2026": 356
     },
     "optimization-uncertainty": {
       "2021": 16,
       "2022": 77,
-      "2023": 93,
-      "2024": 172,
-      "2025": 202,
-      "2026": 187
+      "2023": 95,
+      "2024": 180,
+      "2025": 205,
+      "2026": 191
     },
     "planning": {
       "2021": 26,
       "2022": 47,
       "2023": 100,
-      "2024": 241,
-      "2025": 181,
-      "2026": 206
+      "2024": 248,
+      "2025": 184,
+      "2026": 208
     },
     "reinforcement-learning": {
       "2021": 11,
       "2022": 59,
-      "2023": 206,
-      "2024": 386,
-      "2025": 175,
-      "2026": 352
+      "2023": 220,
+      "2024": 415,
+      "2025": 177,
+      "2026": 356
     },
     "reward": {
-      "2023": 65,
-      "2024": 219,
-      "2025": 198,
-      "2026": 248
+      "2023": 71,
+      "2024": 231,
+      "2025": 205,
+      "2026": 249
     },
     "sequential": {
       "2021": 33,
       "2022": 64,
-      "2023": 98,
-      "2024": 188,
-      "2025": 159,
-      "2026": 285
+      "2023": 103,
+      "2024": 203,
+      "2025": 161,
+      "2026": 290
     },
     "survey": {
-      "2023": 78,
-      "2024": 227,
-      "2025": 214,
-      "2026": 261
+      "2023": 83,
+      "2024": 240,
+      "2025": 218,
+      "2026": 264
     }
   },
   "keyword_bursts": [
     {
       "keyword": "policy optimization",
-      "recent": 345,
-      "total": 616,
-      "burst_score": 1.43,
-      "recent_share": 0.0684
+      "recent": 349,
+      "total": 640,
+      "burst_score": 1.42,
+      "recent_share": 0.0683
     },
     {
       "keyword": "multi-agent",
-      "recent": 719,
-      "total": 1300,
+      "recent": 731,
+      "total": 1354,
       "burst_score": 1.41,
-      "recent_share": 0.1426
+      "recent_share": 0.1431
     },
     {
       "keyword": "bandit",
-      "recent": 356,
-      "total": 741,
-      "burst_score": 1.23,
-      "recent_share": 0.0706
-    },
-    {
-      "keyword": "reinforcement learning",
-      "recent": 1197,
-      "total": 3059,
-      "burst_score": 1.0,
-      "recent_share": 0.2375
+      "recent": 359,
+      "total": 775,
+      "burst_score": 1.21,
+      "recent_share": 0.0703
     },
     {
       "keyword": "planning under uncertainty",
-      "recent": 86,
-      "total": 220,
+      "recent": 87,
+      "total": 227,
       "burst_score": 1.0,
-      "recent_share": 0.0171
+      "recent_share": 0.017
+    },
+    {
+      "keyword": "reinforcement learning",
+      "recent": 1214,
+      "total": 3189,
+      "burst_score": 0.99,
+      "recent_share": 0.2377
     },
     {
       "keyword": "decision making",
-      "recent": 402,
-      "total": 1179,
+      "recent": 410,
+      "total": 1227,
       "burst_score": 0.87,
-      "recent_share": 0.0797
+      "recent_share": 0.0803
     }
   ],
   "source_breakdown": {
-    "arxiv": 2787,
-    "doi": 9910,
-    "other": 178
+    "arxiv": 3118,
+    "doi": 10031,
+    "other": 180
   },
   "venues": [
     {
       "name": "arXiv (Cornell University)",
-      "papers": 627
+      "papers": 628
     },
     {
       "name": "Zenodo (CERN European Organization for Nuclear Research)",
-      "papers": 184
+      "papers": 187
     },
     {
       "name": "Expert Systems with Applications",
-      "papers": 138
+      "papers": 139
     },
     {
       "name": "Scientific Reports",
-      "papers": 128
+      "papers": 129
     },
     {
       "name": "Applied Energy",
-      "papers": 112
+      "papers": 116
     },
     {
       "name": "IEEE Access",
-      "papers": 109
-    },
-    {
-      "name": "IEEE Transactions on Intelligent Transportation Systems",
-      "papers": 101
+      "papers": 110
     },
     {
       "name": "SSRN Electronic Journal",
-      "papers": 100
+      "papers": 103
+    },
+    {
+      "name": "IEEE Transactions on Intelligent Transportation Systems",
+      "papers": 102
     },
     {
       "name": "Proceedings of the AAAI Conference on Artificial Intelligence",
@@ -539,19 +539,19 @@
     },
     {
       "name": "Energy",
-      "papers": 79
+      "papers": 81
+    },
+    {
+      "name": "Engineering Applications of Artificial Intelligence",
+      "papers": 78
     },
     {
       "name": "Applied Sciences",
       "papers": 77
     },
     {
-      "name": "Engineering Applications of Artificial Intelligence",
-      "papers": 77
-    },
-    {
       "name": "Lecture notes in computer science",
-      "papers": 74
+      "papers": 75
     },
     {
       "name": "Sustainability",
@@ -564,10 +564,6 @@
   ],
   "gaps": {
     "thinnest_cells": [
-      {
-        "cell": "multi-agent/survey",
-        "papers": 1
-      },
       {
         "cell": "reinforcement-learning/development",
         "papers": 1
@@ -586,6 +582,10 @@
       },
       {
         "cell": "decision-theory/experiment",
+        "papers": 2
+      },
+      {
+        "cell": "multi-agent/survey",
         "papers": 2
       },
       {
@@ -661,9 +661,9 @@
         "recent_share": 0.5
       },
       {
-        "cell": "human-ai/experiment",
-        "total": 8,
-        "recent": 4,
+        "cell": "bandits/experiment",
+        "total": 10,
+        "recent": 5,
         "recent_share": 0.5
       }
     ]
@@ -683,10 +683,14 @@
     },
     {
       "name": "Yang Li",
-      "papers": 13
+      "papers": 14
     },
     {
       "name": "Wei Guan",
+      "papers": 13
+    },
+    {
+      "name": "Hao Wang",
       "papers": 13
     },
     {
@@ -698,11 +702,11 @@
       "papers": 13
     },
     {
-      "name": "Hao Wang",
+      "name": "Zeshui Xu",
       "papers": 12
     },
     {
-      "name": "Zeshui Xu",
+      "name": "Jiaqi Liu",
       "papers": 12
     },
     {
@@ -714,20 +718,16 @@
       "papers": 11
     },
     {
+      "name": "Bo Yang",
+      "papers": 11
+    },
+    {
       "name": "Yishay Mansour",
       "papers": 11
     },
     {
-      "name": "Jiaqi Liu",
+      "name": "Xin Wang",
       "papers": 11
-    },
-    {
-      "name": "Peng Chen",
-      "papers": 10
-    },
-    {
-      "name": "Yang Liu",
-      "papers": 10
     }
   ]
 }
