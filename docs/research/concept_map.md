@@ -1,17 +1,17 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 35 concepts, 263 relationships from 13317 papers. Edges = co-occurrence (shared papers).
+**Generated:** 35 concepts, 263 relationships from 13318 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
 | Concept | Kind | Papers |
 |----------|------|--------|
-| framework | curated | 3780 |
+| framework | curated | 3781 |
 | Reinforcement Learning | taxonomy | 1238 |
 | Bayesian Optimization | taxonomy | 1151 |
 | Decision Making | taxonomy | 1125 |
 | Decision Theory | taxonomy | 939 |
-| Multi-Agent & Coordination | taxonomy | 933 |
+| Multi-Agent & Coordination | taxonomy | 934 |
 | survey | curated | 922 |
 | Human-AI Collaboration | taxonomy | 898 |
 | Markov Decision Processes | taxonomy | 887 |
@@ -46,7 +46,7 @@
 
 ### framework
 
-- Multi-Agent & Coordination — 405 shared paper(s)
+- Multi-Agent & Coordination — 406 shared paper(s)
 - Bayesian Optimization — 320 shared paper(s)
 - Reinforcement Learning — 312 shared paper(s)
 - Reward & Policy Learning — 277 shared paper(s)
@@ -101,7 +101,7 @@
 
 ### Multi-Agent & Coordination
 
-- framework — 405 shared paper(s)
+- framework — 406 shared paper(s)
 - benchmark — 54 shared paper(s)
 - survey — 36 shared paper(s)
 - dataset — 24 shared paper(s)

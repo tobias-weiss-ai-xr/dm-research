@@ -5,14 +5,14 @@
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 3780,
+      "df": 3781,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 3780,
+      "papers": 3781,
       "top_cells": [
         "multi-agent/method",
         "game-theory/theory",
@@ -96,7 +96,7 @@
       "term": "Multi-Agent & Coordination",
       "kind": "taxonomy",
       "seed": true,
-      "df": 933,
+      "df": 934,
       "match": {
         "type": "field",
         "field": "category",
@@ -108,7 +108,7 @@
         "multi-agent/application",
         "multi-agent/systems"
       ],
-      "papers": 933
+      "papers": 934
     },
     {
       "term": "survey",

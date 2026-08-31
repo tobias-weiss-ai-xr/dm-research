@@ -4,7 +4,7 @@
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 3780
+      "df": 3781
     },
     {
       "id": 1,
@@ -34,7 +34,7 @@
       "id": 5,
       "term": "Multi-Agent & Coordination",
       "kind": "taxonomy",
-      "df": 933
+      "df": 934
     },
     {
       "id": 6,
@@ -215,7 +215,7 @@
     {
       "source": 0,
       "target": 5,
-      "weight": 405
+      "weight": 406
     },
     {
       "source": 0,
@@ -1531,6 +1531,6 @@
   "stats": {
     "concepts": 35,
     "edges": 263,
-    "papers": 13317
+    "papers": 13318
   }
 }
