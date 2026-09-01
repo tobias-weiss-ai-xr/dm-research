@@ -4,7 +4,7 @@
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 3781
+      "df": 3784
     },
     {
       "id": 1,
@@ -28,13 +28,13 @@
       "id": 4,
       "term": "Decision Theory",
       "kind": "taxonomy",
-      "df": 939
+      "df": 940
     },
     {
       "id": 5,
       "term": "Multi-Agent & Coordination",
       "kind": "taxonomy",
-      "df": 934
+      "df": 935
     },
     {
       "id": 6,
@@ -76,7 +76,7 @@
       "id": 12,
       "term": "Game Theory",
       "kind": "taxonomy",
-      "df": 789
+      "df": 790
     },
     {
       "id": 13,
@@ -100,7 +100,7 @@
       "id": 16,
       "term": "Autonomous Decision Making",
       "kind": "taxonomy",
-      "df": 678
+      "df": 679
     },
     {
       "id": 17,
@@ -215,7 +215,7 @@
     {
       "source": 0,
       "target": 5,
-      "weight": 406
+      "weight": 407
     },
     {
       "source": 0,
@@ -735,7 +735,7 @@
     {
       "source": 0,
       "target": 12,
-      "weight": 272
+      "weight": 273
     },
     {
       "source": 12,
@@ -795,7 +795,7 @@
     {
       "source": 0,
       "target": 16,
-      "weight": 261
+      "weight": 262
     },
     {
       "source": 16,
@@ -1531,6 +1531,6 @@
   "stats": {
     "concepts": 35,
     "edges": 263,
-    "papers": 13318
+    "papers": 13322
   }
 }

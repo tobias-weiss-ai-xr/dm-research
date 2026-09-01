@@ -5,14 +5,14 @@
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 3781,
+      "df": 3784,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 3781,
+      "papers": 3784,
       "top_cells": [
         "multi-agent/method",
         "game-theory/theory",
@@ -78,7 +78,7 @@
       "term": "Decision Theory",
       "kind": "taxonomy",
       "seed": true,
-      "df": 939,
+      "df": 940,
       "match": {
         "type": "field",
         "field": "category",
@@ -90,13 +90,13 @@
         "decision-theory/application",
         "decision-theory/systems"
       ],
-      "papers": 939
+      "papers": 940
     },
     {
       "term": "Multi-Agent & Coordination",
       "kind": "taxonomy",
       "seed": true,
-      "df": 934,
+      "df": 935,
       "match": {
         "type": "field",
         "field": "category",
@@ -108,7 +108,7 @@
         "multi-agent/application",
         "multi-agent/systems"
       ],
-      "papers": 934
+      "papers": 935
     },
     {
       "term": "survey",
@@ -223,7 +223,7 @@
       "term": "Game Theory",
       "kind": "taxonomy",
       "seed": true,
-      "df": 789,
+      "df": 790,
       "match": {
         "type": "field",
         "field": "category",
@@ -235,7 +235,7 @@
         "game-theory/systems",
         "game-theory/experiment"
       ],
-      "papers": 789
+      "papers": 790
     },
     {
       "term": "Optimization Under Uncertainty",
@@ -295,7 +295,7 @@
       "term": "Autonomous Decision Making",
       "kind": "taxonomy",
       "seed": true,
-      "df": 678,
+      "df": 679,
       "match": {
         "type": "field",
         "field": "category",
@@ -307,7 +307,7 @@
         "autonomous/theory",
         "autonomous/systems"
       ],
-      "papers": 678
+      "papers": 679
     },
     {
       "term": "benchmark",
