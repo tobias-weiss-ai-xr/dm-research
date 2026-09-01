@@ -3926,6 +3926,77 @@
   "venue": "VTechWorks (Virginia Tech)"
  },
  {
+  "title": "Finding Where the Buck Stops: An Automated Failure Attribution-Based Reflection Framework for Multi-Agent Collaboration",
+  "date": "2026-08",
+  "url": "https://arxiv.org/abs/2608.28264v1",
+  "category": "multi-agent",
+  "subcategory": "method",
+  "authors": [
+   "Xiaoqing Wang",
+   "Keman Huang",
+   "Bin Liang",
+   "Hongyu Li",
+   "Xiaoyong Du"
+  ],
+  "abstract": "Multi-agent systems (MAS) powered by large language models have shown promise for complex tasks but suffer from high failure rates. Current self-reflection methods for MAS require all agents to reflect upon failure, overlooking a critical reality: failures typically stem from a specific agent leading the task astray, namely the decisive error agent, while others merely fulfill their regular duties. Forcing regular-behaving agents to reflect contaminates their memory with wrong insights. Hence, we propose DoCtOR (Diagnose-then-Correct PPO-enhanced Reflection), a novel reflection framework that enhances multi-agent collaboration. DoCtOR first identifies the decisive error step and decisive error agent through automated failure attribution, then employs counterfactual reasoning to generate a corrected decisive error step, and finally engages only the decisive error agent to produce targeted reflections. Experimental results show DoCtOR achieves 22%, 26%, and 27% improvements over initial success rates on HotPotQA, ChartQAPro, and Mind2Web datasets, outperforming Reflexion, Retroformer, and COPPER. We further establish the generalizability of our diagnose-then-correct paradigm and demonstrate that in low-resource settings, focusing reflection on reasoning steps after the decisive error step achieves comparable quality to reflecting on the complete failure trajectory.",
+  "venue": ""
+ },
+ {
+  "title": "Evidence, Logic, and Compliance: Multi-Agent Structured Graph Reasoning with Expert Arbitration for Medical Referral",
+  "date": "2026-08",
+  "url": "https://arxiv.org/abs/2608.30938v1",
+  "category": "multi-agent",
+  "subcategory": "method",
+  "authors": [
+   "Qi Peng",
+   "Yi Cai",
+   "Jialin Cui",
+   "Tong Zhu",
+   "Yujuan Ding"
+  ],
+  "abstract": "Medical referral (directing patients to the appropriate hospital department) is a complex decision-making process requiring the synthesis of multimodal data, including patient narratives, laboratory indicators, and radiology imaging. While Large Language Models (LLMs) have advanced medical dialogue systems, they struggle with real-world referral tasks due to two primary limitations: (1) Information Overload, where models fixate on high-frequency disease terms while overlooking subtle but critical urgency indicators; and (2) Unstructured Collaboration, where existing multi-agent frameworks rely on loose dialogue that leads to semantic drift and confirmation bias. To address these challenges, we introduce MASGR (Multi-Agent Structured Graph Reasoning), a framework that treats referral not as a classification task but as a structured graph construction problem. MASGR deploys specialized agents to extract evidence from distinct modalities and coordinates them through a clinical reasoning graph. This graph forces agents to establish explicit logical connections between conflicting evidence. Furthermore, we integrate a knowledge-guided arbitration mechanism that prioritizes patient safety rules over standard diagnostic classification. Extensive experiments on real-world medical records demonstrate that MASGR significantly outperforms state-of-the-art LLMs and existing multi-agent systems, particularly in complex cases requiring the balancing of chronic disease management and emergency intervention. The AI contribution lies in the Multi-Agent Structured Graph Reasoning framework that transforms unstructured multi-agent dialogue into a verifiable logical graph construction. The engineering application is demonstrated through its deployment in a complex healthcare decision-making system to optimize the precision of complex medical referrals.",
+  "venue": ""
+ },
+ {
+  "title": "Emergence of Strategic Equilibria from Transverse Field Ising Hamiltonian Dynamics",
+  "date": "2026-08",
+  "url": "https://arxiv.org/abs/2608.29926v1",
+  "category": "game-theory",
+  "subcategory": "theory",
+  "authors": [
+   "Teena Thomas",
+   "S. Balakrishnan"
+  ],
+  "abstract": "Game theory studies strategic decision-making among rational agents, and many classical games can be mapped onto interaction models such as the Ising model. Quantum game theory extends this framework by allowing players to exploit quantum superposition and entanglement. In this work, we study quantum games using an operator-based formulation derived from the transverse-field quantum Ising model. We show that the Hamiltonian-driven dynamics naturally generate entangling operator which resolve the dilemma in the game settings. This leads to a clear quantum advantage over classical outcomes. Unlike standard quantization schemes based on fixed entangling gates, the present approach enables tunable entanglement, controlled directly by physical Hamiltonian parameters, providing a hardware-relevant perspective on quantum game design.",
+  "venue": ""
+ },
+ {
+  "title": "ORDDAR: Observation-Driven Reasoning for Distortion-Resilient Decision, Action, and Cognitive Recovery",
+  "date": "2026-08",
+  "url": "https://arxiv.org/abs/2608.28704v1",
+  "category": "autonomous",
+  "subcategory": "application",
+  "authors": [
+   "Deblina Kar",
+   "Anant Nawalgaria",
+   "Shyamal Kumar Das Mandal"
+  ],
+  "abstract": "AI agents increasingly perform long-term reasoning, planning, tool use, memory integration, and autonomous decision making, yet erroneous intermediate states can propagate and cause inconsistent decisions and unreliable outputs. Existing reasoning approaches mainly rely on iterative planning, self-reflection, augmented memory, or verification, but rarely localize and selectively repair faulty reasoning. We present ORDDAR (Observation-Driven Reasoning for Distortion-Resilient Decision, Action, and Cognitive Recovery), a reasoning framework that models reasoning as cognitive state transitions, detects localized distortions, retrieves related reasoning from prior experiences, and repairs only the affected states. ORDDAR therefore performs recovery at the local reasoning-transition level rather than regenerating the complete trajectory. Experiments across mathematical, commonsense, multi-hop, and clinical reasoning benchmarks demonstrate improved reasoning quality, recovery ability, and interpretability over multiple evaluated reasoning baselines.",
+  "venue": ""
+ },
+ {
+  "title": "When to take one box, when to take two: A concrete analysis of Newcomb's problem",
+  "date": "2026-08",
+  "url": "https://arxiv.org/abs/2608.28825v1",
+  "category": "decision-theory",
+  "subcategory": "theory",
+  "authors": [
+   "Radford M. Neal"
+  ],
+  "abstract": "Fifty-seven years of debate have not led to a consensus on Newcomb's problem. I argue that this failure comes from not viewing the problem in concrete terms, for which common-sense intuitions are clearly applicable. If near-perfect predictions are not required - only predictions good enough that Evidential Decision Theory (EDT) recommends taking only one box - Newcomb scenarios without any fantastic elements are actually feasible. I give a detailed account of such concrete scenarios, in which the decision-maker has varying amounts of information about the prediction process. I argue that in these scenarios it is rational to take both boxes, as Causal Decision Theory (CDT) recommends. To make this more convincing, I introduce a simpler impersonal Newcomb problem, also with a concrete realization, to help bridge causal intuitions from everyday decisions to the standard Newcomb scenario. I also argue that Newcomb's problem with nearly perfect predictions can only be realized by a (currently fantastic) process in which the Predictor accurately simulates the thoughts of a Participant. In a functionalist view of consciousness, this simulation will be a conscious entity, whose experience will not be distinguishable from that of a ``real'' person. In this scenario, CDT recommends taking one box. I conclude that when Newcomb's problem is properly analysed in concrete terms, CDT gives the correct answer in all scenarios.",
+  "venue": ""
+ },
+ {
   "title": "Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making",
   "date": "2026-07",
   "url": "https://arxiv.org/abs/2607.03025",
@@ -41215,7 +41286,7 @@
  {
   "title": "Human\u2013AI Collaborative Intelligence and Autonomous Scientific Discovery Systems: Architecture, Evidence, and Governance for the Emerging Knowledge Economy",
   "date": "2026-03",
-  "url": "https://doi.org/10.6084/m9.figshare.31641892",
+  "url": "",
   "category": "human-ai",
   "subcategory": "method",
   "authors": [
@@ -112469,7 +112540,7 @@
  {
   "title": "Conceptual framework for enhancing decision-making in higher education through data-driven governance",
   "date": "2024-10",
-  "url": "https://doi.org/10.58175/gjarr.2024.2.2.0055",
+  "url": "",
   "category": "decision-making",
   "subcategory": "method",
   "authors": [

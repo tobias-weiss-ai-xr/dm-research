@@ -3,23 +3,23 @@
   {
    "id": "autonomous",
    "name": "Autonomous Decision Making",
-   "count": 678,
+   "count": 679,
    "trajectory": {
     "2023": 51,
     "2024": 201,
     "2025": 213,
-    "2026": 213
+    "2026": 214
    },
    "momentum": {
     "id": "autonomous",
     "name": "Autonomous",
-    "total": 678,
-    "recent": 277,
-    "prior": 239,
-    "growth_pct": 15.9,
-    "recent_share": 0.409,
-    "papers_per_month": 23.1,
-    "score": 56.8
+    "total": 679,
+    "recent": 270,
+    "prior": 228,
+    "growth_pct": 18.4,
+    "recent_share": 0.398,
+    "papers_per_month": 22.5,
+    "score": 58.2
    }
   },
   {
@@ -36,12 +36,12 @@
     "id": "bandits",
     "name": "Bandits",
     "total": 689,
-    "recent": 316,
-    "prior": 226,
-    "growth_pct": 39.8,
-    "recent_share": 0.459,
-    "papers_per_month": 26.3,
-    "score": 85.7
+    "recent": 301,
+    "prior": 229,
+    "growth_pct": 31.4,
+    "recent_share": 0.437,
+    "papers_per_month": 25.1,
+    "score": 75.1
    }
   },
   {
@@ -60,12 +60,12 @@
     "id": "bayesian-optimization",
     "name": "Bayesian Optimization",
     "total": 1151,
-    "recent": 446,
-    "prior": 299,
-    "growth_pct": 49.2,
-    "recent_share": 0.387,
-    "papers_per_month": 37.2,
-    "score": 87.9
+    "recent": 421,
+    "prior": 302,
+    "growth_pct": 39.4,
+    "recent_share": 0.366,
+    "papers_per_month": 35.1,
+    "score": 76.0
    }
   },
   {
@@ -84,58 +84,58 @@
     "id": "decision-making",
     "name": "Decision Making",
     "total": 1125,
-    "recent": 323,
-    "prior": 245,
-    "growth_pct": 31.8,
-    "recent_share": 0.287,
-    "papers_per_month": 26.9,
-    "score": 60.5
+    "recent": 313,
+    "prior": 230,
+    "growth_pct": 36.1,
+    "recent_share": 0.278,
+    "papers_per_month": 26.1,
+    "score": 63.9
    }
   },
   {
    "id": "decision-theory",
    "name": "Decision Theory",
-   "count": 939,
+   "count": 940,
    "trajectory": {
     "2021": 20,
     "2022": 64,
     "2023": 131,
     "2024": 278,
     "2025": 189,
-    "2026": 257
+    "2026": 258
    },
    "momentum": {
     "id": "decision-theory",
     "name": "Decision Theory",
-    "total": 939,
-    "recent": 315,
-    "prior": 243,
-    "growth_pct": 29.6,
-    "recent_share": 0.335,
-    "papers_per_month": 26.2,
-    "score": 63.1
+    "total": 940,
+    "recent": 303,
+    "prior": 237,
+    "growth_pct": 27.8,
+    "recent_share": 0.322,
+    "papers_per_month": 25.2,
+    "score": 60.0
    }
   },
   {
    "id": "game-theory",
    "name": "Game Theory",
-   "count": 789,
+   "count": 790,
    "trajectory": {
     "2023": 88,
     "2024": 293,
     "2025": 213,
-    "2026": 195
+    "2026": 196
    },
    "momentum": {
     "id": "game-theory",
     "name": "Game Theory",
-    "total": 789,
-    "recent": 254,
-    "prior": 266,
-    "growth_pct": -4.5,
-    "recent_share": 0.322,
-    "papers_per_month": 21.2,
-    "score": 27.7
+    "total": 790,
+    "recent": 241,
+    "prior": 259,
+    "growth_pct": -6.9,
+    "recent_share": 0.305,
+    "papers_per_month": 20.1,
+    "score": 23.6
    }
   },
   {
@@ -154,12 +154,12 @@
     "id": "human-ai",
     "name": "Human Ai",
     "total": 898,
-    "recent": 408,
-    "prior": 282,
-    "growth_pct": 44.7,
-    "recent_share": 0.454,
-    "papers_per_month": 34.0,
-    "score": 90.1
+    "recent": 391,
+    "prior": 292,
+    "growth_pct": 33.9,
+    "recent_share": 0.435,
+    "papers_per_month": 32.6,
+    "score": 77.4
    }
   },
   {
@@ -178,36 +178,36 @@
     "id": "mdp",
     "name": "Mdp",
     "total": 887,
-    "recent": 297,
-    "prior": 237,
-    "growth_pct": 25.3,
-    "recent_share": 0.335,
-    "papers_per_month": 24.8,
-    "score": 58.8
+    "recent": 287,
+    "prior": 236,
+    "growth_pct": 21.6,
+    "recent_share": 0.324,
+    "papers_per_month": 23.9,
+    "score": 54.0
    }
   },
   {
    "id": "multi-agent",
    "name": "Multi-Agent & Coordination",
-   "count": 933,
+   "count": 935,
    "trajectory": {
     "2021": 7,
     "2022": 36,
     "2023": 56,
     "2024": 117,
     "2025": 362,
-    "2026": 355
+    "2026": 357
    },
    "momentum": {
     "id": "multi-agent",
     "name": "Multi Agent",
-    "total": 933,
-    "recent": 537,
-    "prior": 230,
-    "growth_pct": 133.5,
-    "recent_share": 0.576,
-    "papers_per_month": 44.8,
-    "score": 191.1
+    "total": 935,
+    "recent": 503,
+    "prior": 256,
+    "growth_pct": 96.5,
+    "recent_share": 0.538,
+    "papers_per_month": 41.9,
+    "score": 150.3
    }
   },
   {
@@ -226,12 +226,12 @@
     "id": "optimization-uncertainty",
     "name": "Optimization Uncertainty",
     "total": 764,
-    "recent": 276,
-    "prior": 185,
-    "growth_pct": 49.2,
-    "recent_share": 0.361,
-    "papers_per_month": 23.0,
-    "score": 85.3
+    "recent": 260,
+    "prior": 187,
+    "growth_pct": 39.0,
+    "recent_share": 0.34,
+    "papers_per_month": 21.7,
+    "score": 73.0
    }
   },
   {
@@ -250,12 +250,12 @@
     "id": "planning",
     "name": "Planning",
     "total": 813,
-    "recent": 264,
-    "prior": 231,
-    "growth_pct": 14.3,
-    "recent_share": 0.325,
-    "papers_per_month": 22.0,
-    "score": 46.8
+    "recent": 254,
+    "prior": 220,
+    "growth_pct": 15.5,
+    "recent_share": 0.312,
+    "papers_per_month": 21.2,
+    "score": 46.7
    }
   },
   {
@@ -274,12 +274,12 @@
     "id": "reinforcement-learning",
     "name": "Reinforcement Learning",
     "total": 1238,
-    "recent": 404,
-    "prior": 252,
-    "growth_pct": 60.3,
-    "recent_share": 0.326,
-    "papers_per_month": 33.7,
-    "score": 92.9
+    "recent": 395,
+    "prior": 232,
+    "growth_pct": 70.3,
+    "recent_share": 0.319,
+    "papers_per_month": 32.9,
+    "score": 102.2
    }
   },
   {
@@ -296,12 +296,12 @@
     "id": "reward",
     "name": "Reward",
     "total": 756,
-    "recent": 305,
-    "prior": 228,
-    "growth_pct": 33.8,
-    "recent_share": 0.403,
-    "papers_per_month": 25.4,
-    "score": 74.1
+    "recent": 295,
+    "prior": 219,
+    "growth_pct": 34.7,
+    "recent_share": 0.39,
+    "papers_per_month": 24.6,
+    "score": 73.7
    }
   },
   {
@@ -320,12 +320,12 @@
     "id": "sequential",
     "name": "Sequential",
     "total": 853,
-    "recent": 342,
-    "prior": 185,
-    "growth_pct": 84.9,
-    "recent_share": 0.401,
-    "papers_per_month": 28.5,
-    "score": 125.0
+    "recent": 336,
+    "prior": 179,
+    "growth_pct": 87.7,
+    "recent_share": 0.394,
+    "papers_per_month": 28.0,
+    "score": 127.1
    }
   },
   {
@@ -342,12 +342,12 @@
     "id": "survey",
     "name": "Survey",
     "total": 804,
-    "recent": 339,
-    "prior": 232,
-    "growth_pct": 46.1,
-    "recent_share": 0.422,
-    "papers_per_month": 28.2,
-    "score": 88.3
+    "recent": 320,
+    "prior": 237,
+    "growth_pct": 35.0,
+    "recent_share": 0.398,
+    "papers_per_month": 26.7,
+    "score": 74.8
    }
   }
  ],
@@ -355,7 +355,7 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 720
+   "count": 721
   },
   {
    "id": "development",
@@ -370,7 +370,7 @@
   {
    "id": "method",
    "name": "Method",
-   "count": 6364
+   "count": 6366
   },
   {
    "id": "survey",
@@ -385,7 +385,7 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 5514
+   "count": 5516
   }
  ],
  "timeline": [
@@ -65587,6 +65587,11 @@
   [
    "2026-08",
    "autonomous",
+   "application"
+  ],
+  [
+   "2026-08",
+   "autonomous",
    "development"
   ],
   [
@@ -66031,6 +66036,16 @@
   ],
   [
    "2026-08",
+   "decision-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "game-theory",
+   "theory"
+  ],
+  [
+   "2026-08",
    "game-theory",
    "theory"
   ],
@@ -66323,6 +66338,16 @@
    "2026-08",
    "mdp",
    "theory"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "method"
+  ],
+  [
+   "2026-08",
+   "multi-agent",
+   "method"
   ],
   [
    "2026-08",
@@ -67040,45 +67065,45 @@
  "keyword_bursts": [
   {
    "keyword": "policy optimization",
-   "recent": 349,
+   "recent": 338,
    "total": 640,
-   "burst_score": 1.42,
-   "recent_share": 0.0684
+   "burst_score": 1.44,
+   "recent_share": 0.0691
   },
   {
    "keyword": "multi-agent",
-   "recent": 730,
-   "total": 1353,
-   "burst_score": 1.41,
-   "recent_share": 0.1431
+   "recent": 688,
+   "total": 1355,
+   "burst_score": 1.38,
+   "recent_share": 0.1407
   },
   {
    "keyword": "bandit",
-   "recent": 359,
+   "recent": 343,
    "total": 775,
    "burst_score": 1.21,
-   "recent_share": 0.0704
+   "recent_share": 0.0701
   },
   {
    "keyword": "planning under uncertainty",
-   "recent": 87,
+   "recent": 86,
    "total": 227,
-   "burst_score": 1.0,
-   "recent_share": 0.017
+   "burst_score": 1.03,
+   "recent_share": 0.0176
   },
   {
    "keyword": "reinforcement learning",
-   "recent": 1213,
+   "recent": 1160,
    "total": 3187,
    "burst_score": 0.99,
-   "recent_share": 0.2377
+   "recent_share": 0.2372
   },
   {
    "keyword": "decision making",
-   "recent": 407,
-   "total": 1222,
+   "recent": 391,
+   "total": 1223,
    "burst_score": 0.87,
-   "recent_share": 0.0798
+   "recent_share": 0.08
   }
  ]
 }

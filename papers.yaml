@@ -322224,3 +322224,119 @@ papers:
     the generalizability of our diagnose-then-correct paradigm and demonstrate that
     in low-resource settings, focusing reflection on reasoning steps after the decisive
     error step achieves comparable quality to reflecting on the complete failure trajectory.'
+- title: 'Evidence, Logic, and Compliance: Multi-Agent Structured Graph Reasoning
+    with Expert Arbitration for Medical Referral'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.30938v1
+  category: multi-agent
+  subcategory: method
+  authors:
+  - Qi Peng
+  - Yi Cai
+  - Jialin Cui
+  - Tong Zhu
+  - Yujuan Ding
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Medical referral (directing patients to the appropriate hospital department)
+    is a complex decision-making process requiring the synthesis of multimodal data,
+    including patient narratives, laboratory indicators, and radiology imaging. While
+    Large Language Models (LLMs) have advanced medical dialogue systems, they struggle
+    with real-world referral tasks due to two primary limitations: (1) Information
+    Overload, where models fixate on high-frequency disease terms while overlooking
+    subtle but critical urgency indicators; and (2) Unstructured Collaboration, where
+    existing multi-agent frameworks rely on loose dialogue that leads to semantic
+    drift and confirmation bias. To address these challenges, we introduce MASGR (Multi-Agent
+    Structured Graph Reasoning), a framework that treats referral not as a classification
+    task but as a structured graph construction problem. MASGR deploys specialized
+    agents to extract evidence from distinct modalities and coordinates them through
+    a clinical reasoning graph. This graph forces agents to establish explicit logical
+    connections between conflicting evidence. Furthermore, we integrate a knowledge-guided
+    arbitration mechanism that prioritizes patient safety rules over standard diagnostic
+    classification. Extensive experiments on real-world medical records demonstrate
+    that MASGR significantly outperforms state-of-the-art LLMs and existing multi-agent
+    systems, particularly in complex cases requiring the balancing of chronic disease
+    management and emergency intervention. The AI contribution lies in the Multi-Agent
+    Structured Graph Reasoning framework that transforms unstructured multi-agent
+    dialogue into a verifiable logical graph construction. The engineering application
+    is demonstrated through its deployment in a complex healthcare decision-making
+    system to optimize the precision of complex medical referrals.'
+- title: Emergence of Strategic Equilibria from Transverse Field Ising Hamiltonian
+    Dynamics
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.29926v1
+  category: game-theory
+  subcategory: theory
+  authors:
+  - Teena Thomas
+  - S. Balakrishnan
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Game theory studies strategic decision-making among rational agents, and
+    many classical games can be mapped onto interaction models such as the Ising model.
+    Quantum game theory extends this framework by allowing players to exploit quantum
+    superposition and entanglement. In this work, we study quantum games using an
+    operator-based formulation derived from the transverse-field quantum Ising model.
+    We show that the Hamiltonian-driven dynamics naturally generate entangling operator
+    which resolve the dilemma in the game settings. This leads to a clear quantum
+    advantage over classical outcomes. Unlike standard quantization schemes based
+    on fixed entangling gates, the present approach enables tunable entanglement,
+    controlled directly by physical Hamiltonian parameters, providing a hardware-relevant
+    perspective on quantum game design.
+- title: 'ORDDAR: Observation-Driven Reasoning for Distortion-Resilient Decision,
+    Action, and Cognitive Recovery'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.28704v1
+  category: autonomous
+  subcategory: application
+  authors:
+  - Deblina Kar
+  - Anant Nawalgaria
+  - Shyamal Kumar Das Mandal
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: AI agents increasingly perform long-term reasoning, planning, tool use,
+    memory integration, and autonomous decision making, yet erroneous intermediate
+    states can propagate and cause inconsistent decisions and unreliable outputs.
+    Existing reasoning approaches mainly rely on iterative planning, self-reflection,
+    augmented memory, or verification, but rarely localize and selectively repair
+    faulty reasoning. We present ORDDAR (Observation-Driven Reasoning for Distortion-Resilient
+    Decision, Action, and Cognitive Recovery), a reasoning framework that models reasoning
+    as cognitive state transitions, detects localized distortions, retrieves related
+    reasoning from prior experiences, and repairs only the affected states. ORDDAR
+    therefore performs recovery at the local reasoning-transition level rather than
+    regenerating the complete trajectory. Experiments across mathematical, commonsense,
+    multi-hop, and clinical reasoning benchmarks demonstrate improved reasoning quality,
+    recovery ability, and interpretability over multiple evaluated reasoning baselines.
+- title: 'When to take one box, when to take two: A concrete analysis of Newcomb''s
+    problem'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.28825v1
+  category: decision-theory
+  subcategory: theory
+  authors:
+  - Radford M. Neal
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Fifty-seven years of debate have not led to a consensus on Newcomb's problem.
+    I argue that this failure comes from not viewing the problem in concrete terms,
+    for which common-sense intuitions are clearly applicable. If near-perfect predictions
+    are not required - only predictions good enough that Evidential Decision Theory
+    (EDT) recommends taking only one box - Newcomb scenarios without any fantastic
+    elements are actually feasible. I give a detailed account of such concrete scenarios,
+    in which the decision-maker has varying amounts of information about the prediction
+    process. I argue that in these scenarios it is rational to take both boxes, as
+    Causal Decision Theory (CDT) recommends. To make this more convincing, I introduce
+    a simpler impersonal Newcomb problem, also with a concrete realization, to help
+    bridge causal intuitions from everyday decisions to the standard Newcomb scenario.
+    I also argue that Newcomb's problem with nearly perfect predictions can only be
+    realized by a (currently fantastic) process in which the Predictor accurately
+    simulates the thoughts of a Participant. In a functionalist view of consciousness,
+    this simulation will be a conscious entity, whose experience will not be distinguishable
+    from that of a ``real'' person. In this scenario, CDT recommends taking one box.
+    I conclude that when Newcomb's problem is properly analysed in concrete terms,
+    CDT gives the correct answer in all scenarios.
