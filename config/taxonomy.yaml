@@ -3,7 +3,7 @@ topic:
   short: dm
   description: Reinforcement learning, planning, optimization under uncertainty, and
     human–AI decision processes.
-  openalex_mailto: research@tobias-weiss-ai-xr.de
+  openalex_mailto: tobias@tobias-weiss.org
 taxonomy:
   categories:
   - id: decision-making
